@@ -765,6 +765,24 @@ body {
   }
 }
 
+/* Sugar Mills Section */
+.sugar-mills-section {
+  padding: 100px 0;
+  background: var(--bg);
+}
+
+.sugar-mills-section .cards-grid {
+  margin-bottom: 20px;
+}
+
+.sugar-mills-section .access-card {
+  border-left: 4px solid var(--primary);
+}
+
+.sugar-mills-section .access-card:hover {
+  border-left-color: var(--accent);
+}
+
 /* AdSense Friendly */
 .adsense-placeholder {
   background: var(--bg-alt);
