@@ -9,7 +9,7 @@ ShowToc: true
 
 ## Bajaj Hindusthan Sugar Mill, Gola Gokaran Nath — लखीमपुर खीरी
 
-{{< figure src="/images/sugar-mills/bajaj-gola.jpg" alt="Bajaj Hindusthan Sugar Mill Gola Gokaran Nath" >}}
+
 
 ### मिल की जानकारी
 
