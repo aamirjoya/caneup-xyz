@@ -105,6 +105,18 @@ buildExpired = false
     url = "/about/"
     weight = 8
 
+  [[menu.main]]
+    identifier = "contact"
+    name = "📞 संपर्क"
+    url = "/contact/"
+    weight = 9
+
+  [[menu.main]]
+    identifier = "privacy"
+    name = "🔒 प्राइवेसी"
+    url = "/privacy-policy/"
+    weight = 10
+
 [taxonomies]
   category = "categories"
   tag = "tags"
