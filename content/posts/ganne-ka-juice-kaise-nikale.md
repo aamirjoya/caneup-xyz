@@ -73,12 +73,12 @@ image: /images/blog/ganne-ka-juice-kaise-nikale.jpg
 - बाजार का जूस पीने से पहले मशीन की सफाई जरूर देखें
 
 ## यह भी पढ़ें
-
-- [गन्ने का रस निकालने की मशीन — रेट और जानकारी](/posts/ganne-ka-ras-machine/)
-- [गुड़ कैसे बनाएं — गन्ने से गुड़ बनाने का तरीका](/posts/gud-banane-ka-tarika/)
-- [गन्ने की जैविक खेती कैसे करें](/posts/ganne-ki-jaivik-kheti/)
-- [गन्ने से एथेनॉल कैसे बनाएं](/posts/ganne-se-ethanol-kaise-banaye/)
-- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
+- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
+- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
+- [गुड़ कैसे बनाएं](/posts/gud-banane-ka-tarika/)
+- [गन्ने का जूस कैसे निकालें](/posts/ganne-ka-juice-kaise-nikale/)
+- [रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

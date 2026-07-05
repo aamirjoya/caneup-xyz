@@ -73,12 +73,12 @@ image: /images/blog/gud-banane-ka-tarika.jpg
 गुड़ बनाना किसानों के लिए एक अच्छा आमदनी का जरिया हो सकता है। एक क्विंटल गन्ने से लगभग 10-12 किलो गुड़ बनता है। अगर आप गुड़ को ऑर्गेनिक तरीके से बनाएं, तो मार्केट में इसकी कीमत ₹60-80 प्रति किलो तक मिल सकती है। बड़े पैमाने पर गुड़ बनाने के लिए [गन्ने की खेती](/posts/ganne-ki-kheti-guide/) अच्छी तरह करनी होगी।
 
 ## यह भी पढ़ें
-
-- [गन्ने का जूस कैसे निकालें — घर पर](/posts/ganne-ka-juice-kaise-nikale/)
-- [गन्ने की जैविक खेती कैसे करें](/posts/ganne-ki-jaivik-kheti/)
-- [गन्ने का रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
-- [गन्ने से एथेनॉल कैसे बनाएं](/posts/ganne-se-ethanol-kaise-banaye/)
-- [गन्ने की उन्नत किस्में 2026](/posts/ganne-ki-unnat-kismen-2026/)
+- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
+- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
+- [गुड़ कैसे बनाएं](/posts/gud-banane-ka-tarika/)
+- [गन्ने का जूस कैसे निकालें](/posts/ganne-ka-juice-kaise-nikale/)
+- [रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

@@ -69,12 +69,12 @@ MSP यानी **न्यूनतम समर्थन मूल्य**।
 - **मिल के पास खेती करें:** भाड़ा कम कटता है
 
 ## यह भी पढ़ें
-
-- [गन्ने की तुलाई कैसे होती है](/posts/ganne-ki-tulai-kaise-hoti-hai/)
-- [गन्ने की पर्ची कब आएगी](/posts/ganne-ki-parchi-kab-aayegi/)
-- [गन्ने की उन्नत किस्में 2026](/posts/ganne-ki-unnat-kismen-2026/)
-- [गन्ने की पैदावार प्रति एकड़](/posts/ganne-ki-paidwar-per-acre/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
+- [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
+- [गन्ना FRP रेट 2026](/posts/ganna-frp-rate-2026/)
+- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

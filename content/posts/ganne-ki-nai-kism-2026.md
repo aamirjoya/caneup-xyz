@@ -126,11 +126,12 @@ ShowToc: true
 - **बीज प्रमाणपत्र** ज़रूर लें
 
 ## यह भी पढ़ें
-
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
-- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
+- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
+- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
+- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
 - [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
-- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

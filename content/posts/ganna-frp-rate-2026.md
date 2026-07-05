@@ -91,11 +91,12 @@ FRP का मतलब है **Fair and Remunerative Price** (उचित औ
 4. भुगतान की पूरी डिटेल दिख जाएगी
 
 ## यह भी पढ़ें
-
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
+- [गन्ना FRP रेट 2026](/posts/ganna-frp-rate-2026/)
+- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
 - [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
-- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
-- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
+- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

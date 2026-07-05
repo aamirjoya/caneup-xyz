@@ -68,12 +68,11 @@ image: /images/blog/ganne-ki-tulai-kaise-hoti-hai.jpg
 - **भुगतान का तरीका:** सीधा बैंक अकाउंट में
 
 ## यह भी पढ़ें
-
-- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
-- [गन्ने की पर्ची कब आएगी](/posts/ganne-ki-parchi-kab-aayegi/)
-- [गन्ने की कटाई मशीन](/posts/ganne-ki-katai-machine/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
-- [गन्ने की पैदावार प्रति एकड़](/posts/ganne-ki-paidwar-per-acre/)
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
+- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

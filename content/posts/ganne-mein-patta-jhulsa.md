@@ -63,12 +63,12 @@ image: /images/blog/ganne-mein-patta-jhulsa.jpg
 - नीम तेल का छिड़काव करें
 
 ## यह भी पढ़ें
-
-- [गन्ने की फसल में बीमारियां](/posts/ganne-ki-fasal-mein-bimari/)
-- [गन्ने में लाल सड़न का इलाज](/posts/ganne-mein-lal-saran/)
-- [गन्ने में धब्बा रोग](/posts/ganne-mein-dhabba-rog/)
-- [गन्ने में कीटनाशक दवा](/posts/ganne-mein-keetnashak-dawa/)
-- [गन्ने की उन्नत किस्में 2026](/posts/ganne-ki-unnat-kismen-2026/)
+- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
+- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
+- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
+- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

@@ -60,10 +60,11 @@ CaneUp.in (जिसे लोग "cane up in" भी लिखते हैं)
 | **अतिरिक्त जानकारी** | नहीं | खेती टिप्स, MSP, योजनाएं |
 
 ## यह भी पढ़ें
-
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
-- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
-- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [गन्ना पर्ची कैलेंडर 2025-26](/posts/ganna-parchi-calendar-2025-26/)
+- [CaneUp.in पर्ची कैलेंडर](/posts/caneup-in-parchi-calendar/)
+- [eGanna App डाउनलोड](/posts/eganna-app-download/)
+- [गन्ने की पर्ची कब आएगी](/posts/ganne-ki-parchi-kab-aayegi/)
+- [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
 - [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल

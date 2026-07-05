@@ -80,12 +80,12 @@ image: /images/blog/ganne-ki-katai-machine.jpg
 - बड़े खेतों के लिए बहुत फायदेमंद
 
 ## यह भी पढ़ें
-
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
-- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
-- [गन्ने की तुलाई कैसे होती है](/posts/ganne-ki-tulai-kaise-hoti-hai/)
-- [गन्ने का रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
-- [गन्ने की पैदावार प्रति एकड़](/posts/ganne-ki-paidwar-per-acre/)
+- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
+- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
+- [गुड़ कैसे बनाएं](/posts/gud-banane-ka-tarika/)
+- [गन्ने का जूस कैसे निकालें](/posts/ganne-ka-juice-kaise-nikale/)
+- [रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

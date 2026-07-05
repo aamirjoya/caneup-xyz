@@ -75,12 +75,12 @@ ShowToc: true
 मैंने खुद एक बार CDO से मिलकर अपनी पर्ची का मसला सुलझाया था। वे मदद करते हैं।
 
 ## यह भी पढ़ें
-
-- [CaneUp.in पर्ची कैलेंडर कैसे देखें](/posts/caneup-in-parchi-calendar/)
-- [eGanna App डाउनलोड करें](/posts/eganna-app-download/)
+- [गन्ना पर्ची कैलेंडर 2025-26](/posts/ganna-parchi-calendar-2025-26/)
+- [CaneUp.in पर्ची कैलेंडर](/posts/caneup-in-parchi-calendar/)
+- [eGanna App डाउनलोड](/posts/eganna-app-download/)
+- [गन्ने की पर्ची कब आएगी](/posts/ganne-ki-parchi-kab-aayegi/)
 - [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
-- [UP की सभी शुगर मिल्स](/posts/up-sugar-mill-list-complete/)
-- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

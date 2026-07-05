@@ -67,11 +67,11 @@ BHSL की कुल 14 शुगर प्लांट्स में से 
 *यह पेज CaneUp.xyz द्वारा उत्तर प्रदेश के शुगर मिल्स की जानकारी प्रदान करने के लिए बनाया गया है।*
 
 ## यह भी पढ़ें
-
 - [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
 - [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
 - [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 - [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
+- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

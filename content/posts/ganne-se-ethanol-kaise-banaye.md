@@ -68,12 +68,12 @@ image: /images/blog/ganne-se-ethanol-kaise-banaye.jpg
 - **लाइसेंस:** राज्य सरकार से जरूरी
 
 ## यह भी पढ़ें
-
-- [गन्ने से बायोगैस](/posts/ganne-se-biogas/)
-- [गुड़ कैसे बनाएं — गन्ने से](/posts/gud-banane-ka-tarika/)
+- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
+- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
+- [गुड़ कैसे बनाएं](/posts/gud-banane-ka-tarika/)
 - [गन्ने का जूस कैसे निकालें](/posts/ganne-ka-juice-kaise-nikale/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
-- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
+- [रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

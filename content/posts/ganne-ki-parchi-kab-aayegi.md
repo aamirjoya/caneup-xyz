@@ -76,12 +76,12 @@ image: /images/blog/ganne-ki-parchi-kab-aayegi.jpg
 4. समय पर पहुंचें — देरी से पर्ची रद्द हो सकती है
 
 ## यह भी पढ़ें
-
-- [गन्ने का भाव कैसे चेक करें](/posts/ganne-ka-bhav-kaise-check-kare/)
-- [गन्ने की तुलाई कैसे होती है](/posts/ganne-ki-tulai-kaise-hoti-hai/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
-- [गन्ने की उन्नत किस्में 2026](/posts/ganne-ki-unnat-kismen-2026/)
-- [गन्ने की पैदावार प्रति एकड़](/posts/ganne-ki-paidwar-per-acre/)
+- [गन्ना पर्ची कैलेंडर 2025-26](/posts/ganna-parchi-calendar-2025-26/)
+- [CaneUp.in पर्ची कैलेंडर](/posts/caneup-in-parchi-calendar/)
+- [eGanna App डाउनलोड](/posts/eganna-app-download/)
+- [गन्ने की पर्ची कब आएगी](/posts/ganne-ki-parchi-kab-aayegi/)
+- [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

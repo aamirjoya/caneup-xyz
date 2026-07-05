@@ -63,12 +63,12 @@ image: /images/blog/ganne-se-biogas.jpg
 - **अधिकतम सब्सिडी:** ₹15,000-20,000
 
 ## यह भी पढ़ें
-
-- [गन्ने से एथेनॉल कैसे बनाएं](/posts/ganne-se-ethanol-kaise-banaye/)
-- [गन्ने की जैविक खेती कैसे करें](/posts/ganne-ki-jaivik-kheti/)
-- [गन्ने में जैविक खाद](/posts/ganne-mein-jaivik-khaad/)
-- [गुड़ कैसे बनाएं — गन्ने से](/posts/gud-banane-ka-tarika/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
+- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
+- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
+- [गुड़ कैसे बनाएं](/posts/gud-banane-ka-tarika/)
+- [गन्ने का जूस कैसे निकालें](/posts/ganne-ka-juice-kaise-nikale/)
+- [रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

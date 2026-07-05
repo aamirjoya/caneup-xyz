@@ -92,12 +92,12 @@ image: /images/blog/ganna-kheti-loan-sbi.jpg
 - सब्सिडी का पूरा फायदा उठाएं
 
 ## यह भी पढ़ें
-
-- [गन्ने की फसल बीमा कैसे करें](/posts/ganna-fasal-bima/)
-- [PM-KISAN और गन्ना किसान](/posts/pm-kisan-ganna-kisan/)
-- [किसान क्रेडिट कार्ड और गन्ना](/posts/kisan-credit-card-ganna/)
-- [गन्ना सब्सिडी योजना 2026](/posts/ganna-subsidy-yojana-2026/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
+- [PM किसान योजना](/posts/pm-kisan-ganna-kisan/)
+- [KCC किसान क्रेडिट कार्ड](/posts/kisan-credit-card-ganna/)
+- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
+- [गन्ना किसान लोन](/posts/ganna-kisan-loan/)
+- [फसल बीमा](/posts/ganna-fasal-bima/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

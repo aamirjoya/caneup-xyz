@@ -73,12 +73,12 @@ image: /images/blog/ganne-ki-nursery-kaise-banaye.jpg
 - उत्पादन बढ़ता है
 
 ## यह भी पढ़ें
-
-- [गन्ने की उन्नत किस्में 2026](/posts/ganne-ki-unnat-kismen-2026/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
-- [गन्ने में यूरिया कब डालें](/posts/ganne-mein-urea-kab-dale/)
-- [गन्ने की सिंचाई कब करें](/posts/ganne-ki-sinchai-schedule/)
-- [गन्ने में DAP कब डालें](/posts/ganne-mein-dap-kab-dale/)
+- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
+- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
+- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
+- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

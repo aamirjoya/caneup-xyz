@@ -82,12 +82,12 @@ ShowToc: true
 5. **मिट्टी चढ़ाओ** — 60-70 दिन पर मिट्टी ज़रूर चढ़ाओ
 
 ## यह भी पढ़ें
-
-- [गन्ने की पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
-- [गन्ने में रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
-- [गन्ने में खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
-- [गन्ने की नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
-- [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
+- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
+- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
+- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
+- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

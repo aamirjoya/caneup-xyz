@@ -85,12 +85,12 @@ image: /images/blog/ganne-ki-sinchai-schedule.jpg
 - बरसात में सिंचाई कम करें
 
 ## यह भी पढ़ें
-
-- [गन्ने की ड्रिप सिंचाई — फायदे और तरीका](/posts/ganne-ki-drip-sinchai/)
-- [गन्ने में यूरिया कब डालें](/posts/ganne-mein-urea-kab-dale/)
-- [गन्ने की खेती कैसे करें — पूरी गाइड](/posts/ganne-ki-kheti-guide/)
-- [गन्ने में मल्चिंग कैसे करें](/posts/ganne-mein-mulching/)
-- [गन्ने की पैदावार प्रति एकड़](/posts/ganne-ki-paidwar-per-acre/)
+- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
+- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
+- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
+- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

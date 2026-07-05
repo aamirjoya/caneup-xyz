@@ -125,11 +125,12 @@ ShowToc: true
 ---
 
 ## यह भी पढ़ें
-
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [PM किसान योजना](/posts/pm-kisan-ganna-kisan/)
+- [KCC किसान क्रेडिट कार्ड](/posts/kisan-credit-card-ganna/)
+- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
+- [गन्ना किसान लोन](/posts/ganna-kisan-loan/)
+- [फसल बीमा](/posts/ganna-fasal-bima/)
 - [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
-- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
-- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

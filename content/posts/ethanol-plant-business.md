@@ -88,11 +88,12 @@ ShowToc: true
 - **प्रदूषण** कम होगा
 
 ## यह भी पढ़ें
-
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
-- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
+- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
+- [गुड़ कैसे बनाएं](/posts/gud-banane-ka-tarika/)
+- [गन्ने का जूस कैसे निकालें](/posts/ganne-ka-juice-kaise-nikale/)
+- [रस निकालने की मशीन](/posts/ganne-ka-ras-machine/)
 - [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
-- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

@@ -85,12 +85,12 @@ image: /images/blog/ganne-mein-keetnashak-dawa.jpg
 - दवा का सही डोज डालें — ज्यादा डालने से फसल को नुकसान हो सकता है
 
 ## यह भी पढ़ें
-
-- [गन्ने में तना छेदक का इलाज](/posts/ganne-mein-tana-chhedak/)
-- [गन्ने में सफेद मक्खी का इलाज](/posts/ganne-mein-safed-makkhi/)
-- [गन्ने की फसल में बीमारियां](/posts/ganne-ki-fasal-mein-bimari/)
-- [गन्ने में यूरिया कब डालें](/posts/ganne-mein-urea-kab-dale/)
-- [गन्ने की जैविक खेती कैसे करें](/posts/ganne-ki-jaivik-kheti/)
+- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
+- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
+- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
+- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
 
 ## अक्सर पूछे जाने वाले सवाल
 
