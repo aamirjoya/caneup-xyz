@@ -7,6 +7,7 @@ images:
 image: /images/blog/bareilly-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["bareilly", "sugar mill", "UP", "dwarikesh", "kesar"]
+keywords: ["bareilly-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

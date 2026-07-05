@@ -7,12 +7,13 @@ images:
 image: /images/blog/ganna-subsidy-yojana-2026.jpg
 categories: ["Sarkari Yojana"]
 tags: ["sarkari yojana", "subsidy", "PM Kisan", "loan", "kisan credit card"]
+keywords: ["ganna-subsidy-yojana-2026", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
 ## गन्ना किसानों के लिए सरकारी योजनाएं 2026
 
-सरकार गन्ना किसानों के लिए कई योजनाएं चला रही है। इन योजनाओं का फ़ायदा उठाकर आप अपनी खेती का खर्च कम कर सकते हैं और ज़्यादा कमा सकते हैं।
+सरकार गन्ना किसानों के लिए कई योजनाएं चला रही है। इन योजनाओं का फ़ायदा उठाकर आप अपनी खेती का खर्च कम कर सकते हो और ज़्यादा कमा सकते हैं।
 
 ## 1. PM किसान सम्मान निधि
 

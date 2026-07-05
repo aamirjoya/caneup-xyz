@@ -7,6 +7,7 @@ images:
 image: /images/blog/lakhimpur-kheri-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["lakhimpur kheri", "sugar mill", "UP", "gola", "palia"]
+keywords: ["lakhimpur-kheri-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

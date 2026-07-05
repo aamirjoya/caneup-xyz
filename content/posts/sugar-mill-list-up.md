@@ -7,6 +7,7 @@ images:
 image: /images/blog/sugar-mill-list-up.jpg
 categories: ["Sugar Mill"]
 tags: ["sugar mill", "UP", "list", "shugar mill"]
+keywords: ["sugar-mill-list-up", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -104,6 +105,13 @@ ShowToc: true
 - **टोल फ्री नंबर:** 1800-121-3203
 - **जिला गन्ना अधिकारी** के कार्यालय में
 - **गन्ना आयुक्त** कार्यालय, लखनऊ
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

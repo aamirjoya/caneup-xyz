@@ -7,6 +7,7 @@ images:
 image: /images/blog/gorakhpur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["gorakhpur", "sugar mill", "UP", "bansgaon"]
+keywords: ["gorakhpur-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

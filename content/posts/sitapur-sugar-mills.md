@@ -7,6 +7,7 @@ images:
 image: /images/blog/sitapur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["sitapur", "sugar mill", "UP", "biswan"]
+keywords: ["sitapur-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

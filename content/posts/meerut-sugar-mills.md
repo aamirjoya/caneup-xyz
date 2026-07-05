@@ -7,6 +7,7 @@ images:
 image: /images/blog/meerut-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["meerut", "sugar mill", "UP", "modipuram", "sardhana"]
+keywords: ["meerut-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

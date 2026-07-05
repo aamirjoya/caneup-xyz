@@ -7,6 +7,7 @@ images:
 image: /images/blog/kisan-credit-card-ganna.jpg
 categories: ["Sarkari Yojana"]
 tags: ["KCC", "kisan credit card", "loan", "ganna kisan"]
+keywords: ["kisan-credit-card-ganna", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -97,6 +98,13 @@ ShowToc: true
 - **हर साल रिन्यू** करवाना होता है
 - **ब्याज** समय पर चुकाएं
 - **दोबारा लोन** ले सकते हैं
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

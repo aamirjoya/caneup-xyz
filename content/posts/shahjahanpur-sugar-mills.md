@@ -7,6 +7,7 @@ images:
 image: /images/blog/shahjahanpur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["shahjahanpur", "sugar mill", "UP", "tilhar"]
+keywords: ["shahjahanpur-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

@@ -7,6 +7,7 @@ images:
 image: /images/blog/rana-sugar-barabanki.jpg
 categories: ["Sugar Mill"]
 tags: ["rana sugar", "barabanki", "sugar mill", "UP"]
+keywords: ["rana-sugar-barabanki", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

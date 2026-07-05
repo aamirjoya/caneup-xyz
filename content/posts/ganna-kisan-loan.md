@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganna-kisan-loan.jpg
 categories: ["Sarkari Yojana"]
 tags: ["loan", "KCC", "kisan credit card", "PM Kisan"]
+keywords: ["ganna-kisan-loan", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -61,7 +62,7 @@ ShowToc: true
 ### कैसे आवेदन करें?
 1. **maandhan.in** पर जाएं
 2. आधार कार्ड और बैंक खाता दें
-3. **CSC (कॉमन सर्विस सेंटर)** पर भी आवेदन कर सकते हैं
+3. **CSC (कॉमन सर्विस सेंटर)** पर भी आवेदन कर सकते हो
 
 ---
 
@@ -122,6 +123,13 @@ ShowToc: true
 - **दोबारा लोन** लेने में आसानी
 
 ---
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

@@ -7,6 +7,7 @@ images:
 image: /images/blog/muzaffarnagar-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["muzaffarnagar", "sugar mill", "UP", "titavi", "khatoli"]
+keywords: ["muzaffarnagar-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

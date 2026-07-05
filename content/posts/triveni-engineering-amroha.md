@@ -7,6 +7,7 @@ images:
 image: /images/blog/triveni-engineering-amroha.jpg
 categories: ["Sugar Mill"]
 tags: ["triveni", "amroha", "sugar mill", "UP", "chandanpur"]
+keywords: ["triveni-engineering-amroha", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

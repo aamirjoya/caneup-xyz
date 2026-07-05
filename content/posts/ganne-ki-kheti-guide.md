@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganne-ki-kheti-guide.jpg
 categories: ["Ganna Kheti"]
 tags: ["ganna kheti", "sugarcane farming", "tips", "hindi"]
+keywords: ["ganne-ki-kheti-guide", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

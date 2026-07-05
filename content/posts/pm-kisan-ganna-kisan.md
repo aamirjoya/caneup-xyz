@@ -7,6 +7,7 @@ images:
 image: /images/blog/pm-kisan-ganna-kisan.jpg
 categories: ["Sarkari Yojana"]
 tags: ["PM Kisan", "sarkari yojana", "6000", "kisan"]
+keywords: ["pm-kisan-ganna-kisan", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -95,6 +96,13 @@ ShowToc: true
 किसी भी समस्या के लिए:
 - **टोल फ्री:** 1800-118-001
 - **हेल्पलाइन:** 011-23381092
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

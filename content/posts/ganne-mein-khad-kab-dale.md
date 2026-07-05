@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganne-mein-khad-kab-dale.jpg
 categories: ["Ganna Kheti"]
 tags: ["khad", "fertilizer", "NPK", "ganna kheti"]
+keywords: ["ganne-mein-khad-kab-dale", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -95,6 +96,13 @@ ShowToc: true
 - **सूखी मिट्टी** में खाद न डालें
 - **बारिश में** यूरिया न डालें (बह जाता है)
 - **एक साथ** सारी खाद न डालें
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

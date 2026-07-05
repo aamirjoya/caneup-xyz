@@ -7,6 +7,7 @@ images:
 image: /images/blog/dhampur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["dhampur sugar", "bijnor", "sugar mill", "UP", "dhampur"]
+keywords: ["dhampur-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

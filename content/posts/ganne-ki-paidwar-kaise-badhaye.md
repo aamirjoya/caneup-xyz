@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganne-ki-paidwar-kaise-badhaye.jpg
 categories: ["Ganna Kheti"]
 tags: ["paidwar", "yield", "tips", "farming", "ganna kheti"]
+keywords: ["ganne-ki-paidwar-kaise-badhaye", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -198,6 +199,13 @@ ShowToc: true
 | कीट नियंत्रण | 10-20% |
 | खरपतवार नियंत्रण | 10-15% |
 | **कुल** | **50-100% तक** |
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

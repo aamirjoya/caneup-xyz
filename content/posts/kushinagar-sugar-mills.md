@@ -7,6 +7,7 @@ images:
 image: /images/blog/kushinagar-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["kushinagar", "sugar mill", "UP", "padrauna"]
+keywords: ["kushinagar-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

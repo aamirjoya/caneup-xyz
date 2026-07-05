@@ -7,6 +7,7 @@ images:
 image: /images/blog/pilibhit-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["pilibhit", "sugar mill", "UP", "bilai"]
+keywords: ["pilibhit-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

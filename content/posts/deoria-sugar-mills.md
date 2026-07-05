@@ -7,6 +7,7 @@ images:
 image: /images/blog/deoria-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["deoria", "sugar mill", "UP"]
+keywords: ["deoria-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

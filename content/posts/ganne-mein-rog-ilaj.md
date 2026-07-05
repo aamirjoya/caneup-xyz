@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganne-mein-rog-ilaj.jpg
 categories: ["Ganna Kheti"]
 tags: ["rog", "ilaj", "disease", "sugarcane", "farming"]
+keywords: ["ganne-mein-rog-ilaj", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
@@ -44,7 +45,7 @@ ShowToc: true
 
 ### इलाज:
 - **Mancozeb** (0.25%) का स्प्रे करें
-- **Carbendazim** (0.1%) का भी स्प्रे कर सकते हैं
+- **Carbendazim** (0.1%) का भी स्प्रे कर सकते हो
 - **7-10 दिन** के अंतर पर 2-3 बार स्प्रे करें
 
 ### रोकथाम:
@@ -103,7 +104,7 @@ ShowToc: true
 ### इलाज:
 - **Neem Oil** (0.5%) का स्प्रे करें
 - **Imidacloprid** (0.3ml/लीटर) का स्प्रे करें
-- **Dimethoate** (0.1%) का भी स्प्रे कर सकते हैं
+- **Dimethoate** (0.1%) का भी स्प्रे कर सकते हो
 
 ### रोकथाम:
 - **लेडीबर्ड बीटल** (लाल कीड़ा) छोड़ें (जैविक नियंत्रण)
@@ -140,6 +141,13 @@ ShowToc: true
 | तना छेदक | तने में छेद | Carbofuran |
 | एफिड्स | छोटे कीड़े | Neem Oil |
 | सफ़ेद गंभीर | जड़ें खाए | Chlorpyriphos |
+
+## यह भी पढ़ें
+
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
 
 ## अक्सर पूछे जाने वाले सवाल
 

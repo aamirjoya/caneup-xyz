@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganna-parchi-calendar-2025-26.jpg
 categories: ["Parchi Calendar"]
 tags: ["ganna parchi", "sugar mill", "UP", "caneup"]
+keywords: ["ganna-parchi-calendar-2025-26", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

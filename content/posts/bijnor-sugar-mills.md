@@ -7,6 +7,7 @@ images:
 image: /images/blog/bijnor-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["bijnor", "sugar mill", "UP", "dhampur", "simbhaoli"]
+keywords: ["bijnor-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

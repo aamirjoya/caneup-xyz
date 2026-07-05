@@ -7,6 +7,7 @@ images:
 image: /images/blog/ganna-msp-rate-2026.jpg
 categories: ["MSP Rate"]
 tags: ["MSP", "FRP", "ganna rate", "sugarcane price"]
+keywords: ["ganna-msp-rate-2026", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

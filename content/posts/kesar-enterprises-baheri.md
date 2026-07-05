@@ -7,6 +7,7 @@ images:
 image: /images/blog/kesar-enterprises-baheri.jpg
 categories: ["Sugar Mill"]
 tags: ["kesar enterprises", "baheri", "bareilly", "sugar mill", "UP"]
+keywords: ["kesar-enterprises-baheri", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 

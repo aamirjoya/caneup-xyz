@@ -7,6 +7,7 @@ images:
 image: /images/blog/saharanpur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["saharanpur", "sugar mill", "UP", "deoband", "nanauta"]
+keywords: ["saharanpur-sugar-mills", "ganna kisan", "sugar mill", "UP"]
 ShowToc: true
 ---
 
