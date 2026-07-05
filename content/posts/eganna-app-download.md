@@ -2,6 +2,7 @@
 title: "eGanna App Download - गन्ना पर्ची मोबाइल पर कैसे देखें"
 date: 2026-06-20T11:30:00+05:30
 description: "eGanna CANE UP App डाउनलोड करें और अपना गन्ना पर्ची कैलेंडर, सप्लाई टिकट और भुगतान स्टेटस मोबाइल पर चेक करें।"
+image: /images/blog/eganna-app-download.jpg
 categories: ["Parchi Calendar"]
 tags: ["eganna app", "mobile app", "parchi", "caneup"]
 keywords: ["eganna-app-download", "ganna kisan", "sugar mill", "UP"]

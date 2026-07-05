@@ -2,6 +2,7 @@
 title: "गन्ना MSP रेट 2026 - सभी राज्यों का ताज़ा भाव"
 date: 2026-06-17T10:30:00+05:30
 description: "गन्ना MSP रेट 2026 - UP, Maharashtra, Karnataka, Bihar, Punjab, Haryana में गन्ने का न्यूनतम समर्थन मूल्य। FRP और SAP रेट की पूरी जानकारी।"
+image: /images/blog/ganna-msp-rate-2026.jpg
 categories: ["MSP Rate"]
 tags: ["MSP", "FRP", "ganna rate", "sugarcane price"]
 keywords: ["ganna-msp-rate-2026", "ganna kisan", "sugar mill", "UP"]

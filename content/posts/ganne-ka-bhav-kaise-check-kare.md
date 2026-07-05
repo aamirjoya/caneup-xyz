@@ -2,6 +2,7 @@
 title: "गन्ने का भाव कैसे चेक करें — FRP, MSP और मंडी रेट 2026"
 date: 2026-07-06T08:07:00+05:30
 description: "गन्ने का भाव कैसे चेक करें। FRP, MSP, मंडी रेट, और ऑनलाइन भाव देखने का तरीका। 2025-26 के ताजा रेट।"
+image: /images/blog/ganne-ka-bhav-kaise-check-kare.jpg
 categories: ["गन्ना मार्केट"]
 tags: ["गन्ने का भाव", "FRP रेट", "MSP", "मंडी रेट", "गन्ना मूल्य"]
 ShowToc: true
