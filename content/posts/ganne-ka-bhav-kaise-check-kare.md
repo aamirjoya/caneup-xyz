@@ -6,9 +6,6 @@ categories: ["गन्ना मार्केट"]
 tags: ["गन्ने का भाव", "FRP रेट", "MSP", "मंडी रेट", "गन्ना मूल्य"]
 ShowToc: true
 keywords: ["गन्ने का भाव कैसे चेक करें", "ganne ka bhav", "गन्ने का रेट 2026", "FRP sugarcane", "गन्ना मंडी भाव"]
-images:
-  - /images/blog/ganne-ka-bhav-kaise-check-kare.jpg
-image: /images/blog/ganne-ka-bhav-kaise-check-kare.jpg
 ---
 
 ## गन्ने का भाव कैसे चेक करें — FRP, MSP और मंडी रेट 2026

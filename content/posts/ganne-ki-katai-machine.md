@@ -6,9 +6,6 @@ categories: ["गन्ना मशीनरी"]
 tags: ["गन्ना हार्वेस्टर", "कटाई मशीन", "farm mechanization", "गन्ना काटने की मशीन", "agriculture machine"]
 ShowToc: true
 keywords: ["गन्ने की कटाई मशीन", "ganne ki katai machine", "गन्ना हार्वेस्टर रेट", "sugarcane harvester price", "गन्ना काटने की मशीन"]
-images:
-  - /images/blog/ganne-ki-katai-machine.jpg
-image: /images/blog/ganne-ki-katai-machine.jpg
 ---
 
 ## गन्ने की कटाई मशीन — रेट, प्रकार और खरीदने की पूरी जानकारी

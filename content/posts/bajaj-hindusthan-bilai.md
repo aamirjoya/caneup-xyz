@@ -2,9 +2,6 @@
 title: "Bajaj Hindusthan Sugar Mill - Bilai | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-02T10:15:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Bilai, Bijnor की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/bajaj-hindusthan-bilai.jpg
-image: /images/blog/bajaj-hindusthan-bilai.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "bilai", "bijnor", "sugar mill", "UP"]
 keywords: ["bajaj-hindusthan-bilai", "ganna kisan", "sugar mill", "UP"]

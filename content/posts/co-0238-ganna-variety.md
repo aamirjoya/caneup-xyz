@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["Co-0238", "गन्ना किस्म", "नई किस्म", "गन्ना बीज", "उन्नत किस्म"]
 ShowToc: true
 keywords: ["Co-0238 गन्ना किस्म", "Co-0238 ganna variety", "गन्ने की किस्म Co-0238", "Co-0238 विशेषताएं", "Co-0238 sugarcane"]
-images:
-  - /images/blog/co-0238-ganna-variety.jpg
-image: /images/blog/co-0238-ganna-variety.jpg
 ---
 
 ## गन्ने की नई किस्म Co-0238 — विशेषताएं, उत्पादन और खेती का तरीका

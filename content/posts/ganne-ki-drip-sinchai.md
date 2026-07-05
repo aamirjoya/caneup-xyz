@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["ड्रिप सिंचाई", "drip irrigation", "पानी बचत", "micro irrigation", "गन्ना"]
 ShowToc: true
 keywords: ["गन्ने की ड्रिप सिंचाई", "ganne ki drip sinchai", "drip irrigation sugarcane", "ड्रिप सिस्टम गन्ना", "micro irrigation sugarcane"]
-images:
-  - /images/blog/ganne-ki-drip-sinchai.jpg
-image: /images/blog/ganne-ki-drip-sinchai.jpg
 ---
 
 ## गन्ने की ड्रिप सिंचाई — पानी बचाएं, उत्पादन बढ़ाएं

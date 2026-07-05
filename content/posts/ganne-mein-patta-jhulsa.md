@@ -6,9 +6,6 @@ categories: ["गन्ना रोग"]
 tags: ["पत्ता झुलसा", "Leaf Blight", "गन्ना रोग", "पत्ती रोग", "फफूंद रोग"]
 ShowToc: true
 keywords: ["गन्ने में पत्ता झुलसा", "ganne mein patta jhulsa", "Leaf Blight sugarcane", "पत्ता झुलसा इलाज", "गन्ने की पत्ती का रोग"]
-images:
-  - /images/blog/ganne-mein-patta-jhulsa.jpg
-image: /images/blog/ganne-mein-patta-jhulsa.jpg
 ---
 
 ## गन्ने में पत्ता झुलसा — पहचान, इलाज और बचाव

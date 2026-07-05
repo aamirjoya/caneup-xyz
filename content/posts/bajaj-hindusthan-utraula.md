@@ -2,9 +2,6 @@
 title: "Bajaj Hindusthan Sugar Mill - Utraula | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-04T15:30:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Utraula, Balrampur की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/bajaj-hindusthan-utraula.jpg
-image: /images/blog/bajaj-hindusthan-utraula.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "utraula", "balrampur", "sugar mill", "UP"]
 keywords: ["bajaj-hindusthan-utraula", "ganna kisan", "sugar mill", "UP"]

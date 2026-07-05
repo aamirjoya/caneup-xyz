@@ -6,9 +6,6 @@ categories: ["गन्ना उत्पादन"]
 tags: ["गन्ने का जूस", "गन्ने का रस", "sugarcane juice", "जूस बिजनेस", "गन्ना किसान"]
 ShowToc: true
 keywords: ["गन्ने का जूस कैसे निकालें", "ganne ka juice kaise nikale", "घर पर गन्ने का रस", "गन्ने का जूस बिजनेस", "sugarcane juice at home"]
-images:
-  - /images/blog/ganne-ka-juice-kaise-nikale.jpg
-image: /images/blog/ganne-ka-juice-kaise-nikale.jpg
 ---
 
 ## गन्ने का जूस कैसे निकालें — घर पर और बिजनेस के लिए पूरी जानकारी

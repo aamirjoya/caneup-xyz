@@ -2,9 +2,6 @@
 title: "Balrampur Chini Mills - Haidergarh | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-05T09:30:00+05:30
 description: "Balrampur Chini Mills Haidergarh Unit, Barabanki की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/balrampur-chini-haidergarh.jpg
-image: /images/blog/balrampur-chini-haidergarh.jpg
 categories: ["Sugar Mill"]
 tags: ["balrampur chini", "haidergarh", "barabanki", "sugar mill", "UP"]
 keywords: ["balrampur-chini-haidergarh", "ganna kisan", "sugar mill", "UP"]

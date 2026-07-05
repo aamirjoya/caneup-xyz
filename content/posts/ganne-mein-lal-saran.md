@@ -6,9 +6,6 @@ categories: ["गन्ना रोग"]
 tags: ["लाल सड़न", "Red Rot", "गन्ना रोग", "फफूंद रोग", "गन्ना बीमारी"]
 ShowToc: true
 keywords: ["गन्ने में लाल सड़न", "ganne mein lal saran", "Red Rot sugarcane", "लाल सड़न का इलाज", "गन्ने का लाल सड़न रोग"]
-images:
-  - /images/blog/ganne-mein-lal-saran.jpg
-image: /images/blog/ganne-mein-lal-saran.jpg
 ---
 
 ## गन्ने में लाल सड़न — पहचान, इलाज और बचाव के उपाय

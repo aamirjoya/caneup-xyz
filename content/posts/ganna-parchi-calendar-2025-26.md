@@ -2,9 +2,6 @@
 title: "गन्ना पर्ची कैलेंडर 2025-26 कैसे देखें - पूरी जानकारी"
 date: 2026-06-16T08:15:00+05:30
 description: "UP, Maharashtra, Karnataka में गन्ना पर्ची कैलेंडर 2025-26 ऑनलाइन कैसे चेक करें। eGanna app और caneup.in पर पर्ची देखने का पूरा तरीका।"
-images:
-  - /images/blog/ganna-parchi-calendar-2025-26.jpg
-image: /images/blog/ganna-parchi-calendar-2025-26.jpg
 categories: ["Parchi Calendar"]
 tags: ["ganna parchi", "sugar mill", "UP", "caneup"]
 keywords: ["ganna-parchi-calendar-2025-26", "ganna kisan", "sugar mill", "UP"]

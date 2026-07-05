@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["जैविक खाद", "गोबर की खाद", "वर्मी कम्पोस्ट", "जीवामृत", "organic fertilizer"]
 ShowToc: true
 keywords: ["गन्ने में जैविक खाद", "ganne mein jaivik khaad", "गोबर की खाद गन्ना", "वर्मी कम्पोस्ट गन्ना", "जीवामृत गन्ना"]
-images:
-  - /images/blog/ganne-mein-jaivik-khaad.jpg
-image: /images/blog/ganne-mein-jaivik-khaad.jpg
 ---
 
 ## गन्ने में जैविक खाद — गोबर, वर्मी कम्पोस्ट, और जीवामृत

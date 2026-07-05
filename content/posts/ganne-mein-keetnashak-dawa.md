@@ -6,9 +6,6 @@ categories: ["गन्ना कीट प्रबंधन"]
 tags: ["कीटनाशक", "गन्ने की दवा", "pest management", "तना छेदक", "मिलीबग"]
 ShowToc: true
 keywords: ["गन्ने में कीटनाशक दवा", "ganne mein keetnashak dawa", "गन्ने की दवा", "सफेद मक्खी की दवा", "तना छेदक की दवा"]
-images:
-  - /images/blog/ganne-mein-keetnashak-dawa.jpg
-image: /images/blog/ganne-mein-keetnashak-dawa.jpg
 ---
 
 ## गन्ने में कीटनाशक दवा — कौन सी डालें, कब डालें, और कैसे डालें

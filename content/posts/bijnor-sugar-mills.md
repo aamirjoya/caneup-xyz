@@ -2,9 +2,6 @@
 title: "बिजनौर की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
 date: 2026-07-03T08:30:00+05:30
 description: "बिजनौर जिले की सभी शुगर मिल्स की पूरी लिस्ट। धामपुर, सिम्भावली, चांदपुर, नगीना समेत 8+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
-images:
-  - /images/blog/bijnor-sugar-mills.jpg
-image: /images/blog/bijnor-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["bijnor", "sugar mill", "UP", "dhampur", "simbhaoli"]
 keywords: ["bijnor-sugar-mills", "ganna kisan", "sugar mill", "UP"]

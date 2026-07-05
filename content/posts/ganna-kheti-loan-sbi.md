@@ -6,9 +6,6 @@ categories: ["गन्ना किसान योजनाएं"]
 tags: ["कृषि लोन", "SBI कृषि ऋण", "गन्ना किसान लोन", "PNB कृषि लोन", "किसान क्रेडिट कार्ड"]
 ShowToc: true
 keywords: ["गन्ने की खेती में लोन", "SBI कृषि लोन", "PNB कृषि ऋण", "गन्ना किसान लोन", "kheti ka loan kaise lein"]
-images:
-  - /images/blog/ganna-kheti-loan-sbi.jpg
-image: /images/blog/ganna-kheti-loan-sbi.jpg
 ---
 
 ## गन्ने की खेती में लोन कैसे लें — SBI, PNB और अन्य बैंकों से कृषि ऋण

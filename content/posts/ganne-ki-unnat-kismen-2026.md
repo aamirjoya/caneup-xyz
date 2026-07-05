@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["गन्ना किस्में", "Co-0238", "Co-0118", "उन्नत किस्म", "गन्ना बीज"]
 ShowToc: true
 keywords: ["गन्ने की उन्नत किस्में 2026", "ganne ki unnat kismen", "Co-0238 गन्ना", "गन्ने की अच्छी किस्म", "best sugarcane varieties India"]
-images:
-  - /images/blog/ganne-ki-unnat-kismen-2026.jpg
-image: /images/blog/ganne-ki-unnat-kismen-2026.jpg
 ---
 
 ## गन्ने की उन्नत किस्में 2026 — सबसे अच्छी और ज्यादा उत्पादन देने वाली किस्में

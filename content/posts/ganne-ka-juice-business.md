@@ -2,9 +2,6 @@
 title: "गन्ने का जूस बिजनेस कैसे शुरू करें - कम लागत में ज़्यादा कमाई"
 date: 2026-06-21T16:00:00+05:30
 description: "गन्ने का जूस बिजनेस शुरू करने की पूरी जानकारी - मशीन, लागत, कमाई, लाइसेंस और मार्केटिंग टिप्स।"
-images:
-  - /images/blog/ganne-ka-juice-business.jpg
-image: /images/blog/ganne-ka-juice-business.jpg
 categories: ["Business"]
 tags: ["ganne ka juice", "business", "earning", "hindi"]
 keywords: ["ganne-ka-juice-business", "ganna kisan", "sugar mill", "UP"]

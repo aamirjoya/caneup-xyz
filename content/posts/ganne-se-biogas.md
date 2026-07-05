@@ -6,9 +6,6 @@ categories: ["गन्ना उत्पादन"]
 tags: ["बायोगैस", "biogas", "गन्ना अपशिष्ट", "renewable energy", "ग्रीन एनर्जी"]
 ShowToc: true
 keywords: ["गन्ने से बायोगैस", "ganne se biogas", "biogas from sugarcane", "गन्ने की भूसी से गैस", "sugarcane biogas"]
-images:
-  - /images/blog/ganne-se-biogas.jpg
-image: /images/blog/ganne-se-biogas.jpg
 ---
 
 ## गन्ने से बायोगैस — कैसे बनाएं, फायदे और उपयोग

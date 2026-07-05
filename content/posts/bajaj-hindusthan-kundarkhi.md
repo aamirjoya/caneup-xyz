@@ -2,9 +2,6 @@
 title: "Bajaj Hindusthan Sugar Mill - Kundarkhi | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-04T11:45:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Kundarkhi, Gonda की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/bajaj-hindusthan-kundarkhi.jpg
-image: /images/blog/bajaj-hindusthan-kundarkhi.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "kundarkhi", "gonda", "sugar mill", "UP"]
 keywords: ["bajaj-hindusthan-kundarkhi", "ganna kisan", "sugar mill", "UP"]

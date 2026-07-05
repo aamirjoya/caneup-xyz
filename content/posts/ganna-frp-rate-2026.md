@@ -2,9 +2,6 @@
 title: "गन्ना FRP रेट 2025-26 - केंद्र सरकार ने ₹10 बढ़ाया"
 date: 2026-06-27T17:00:00+05:30
 description: "गन्ना FRP (Fair and Remunerative Price) 2025-26 - ₹355 प्रति क्विंटल तय। रिकवरी के आधार पर रेट में बदलाव। सभी राज्यों का FRP रेट।"
-images:
-  - /images/blog/ganna-frp-rate-2026.jpg
-image: /images/blog/ganna-frp-rate-2026.jpg
 categories: ["MSP Rate"]
 tags: ["FRP", "ganna rate", "sugarcane price", "MSP"]
 keywords: ["ganna-frp-rate-2026", "ganna kisan", "sugar mill", "UP"]

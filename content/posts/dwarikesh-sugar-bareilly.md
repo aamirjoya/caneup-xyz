@@ -2,9 +2,6 @@
 title: "द्वारिकेश शुगर इंडस्ट्रीज - बरेली | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-02T15:30:00+05:30
 description: "द्वारिकेश शुगर इंडस्ट्रीज बरेली की पूरी जानकारी। 21,500 TCD क्षमता, 80,000+ किसान, 1994 से संचालन। पर्ची कैलेंडर और भुगतान स्टेटस।"
-images:
-  - /images/blog/dwarikesh-sugar-bareilly.jpg
-image: /images/blog/dwarikesh-sugar-bareilly.jpg
 categories: ["Sugar Mill"]
 tags: ["dwarikesh", "bareilly", "sugar mill", "UP", "bijnor"]
 keywords: ["dwarikesh-sugar-bareilly", "ganna kisan", "sugar mill", "UP"]

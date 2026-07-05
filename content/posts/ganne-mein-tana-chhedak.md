@@ -6,9 +6,6 @@ categories: ["गन्ना कीट प्रबंधन"]
 tags: ["तना छेदक", "Stem Borer", "गन्ना कीट", "कीटनाशक", "कीट प्रबंधन"]
 ShowToc: true
 keywords: ["गन्ने में तना छेदक", "ganne mein tana chhedak", "Stem Borer sugarcane", "तना छेदक का इलाज", "गन्ने का तना छेदक कीट"]
-images:
-  - /images/blog/ganne-mein-tana-chhedak.jpg
-image: /images/blog/ganne-mein-tana-chhedak.jpg
 ---
 
 ## गन्ने में तना छेदक — पहचान, इलाज और बचाव के उपाय

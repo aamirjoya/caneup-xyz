@@ -6,9 +6,6 @@ categories: ["गन्ना रोग"]
 tags: ["धब्बा रोग", "Smut", "गन्ना रोग", "काली छड़ी", "फफूंद रोग"]
 ShowToc: true
 keywords: ["गन्ने में धब्बा रोग", "ganne mein dhabba rog", "Smut sugarcane", "धब्बा रोग इलाज", "गन्ने का स्मट रोग"]
-images:
-  - /images/blog/ganne-mein-dhabba-rog.jpg
-image: /images/blog/ganne-mein-dhabba-rog.jpg
 ---
 
 ## गन्ने में धब्बा रोग — पहचान, इलाज और बचाव

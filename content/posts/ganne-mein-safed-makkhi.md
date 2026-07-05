@@ -6,9 +6,6 @@ categories: ["गन्ना कीट प्रबंधन"]
 tags: ["सफेद मक्खी", "White Fly", "गन्ना कीट", "कीटनाशक", "पीला चिपचिपा जाल"]
 ShowToc: true
 keywords: ["गन्ने में सफेद मक्खी", "ganne mein safed makkhi", "White Fly sugarcane", "सफेद मक्खी का इलाज", "गन्ने की सफेद मक्खी"]
-images:
-  - /images/blog/ganne-mein-safed-makkhi.jpg
-image: /images/blog/ganne-mein-safed-makkhi.jpg
 ---
 
 ## गन्ने में सफेद मक्खी — पहचान, इलाज और बचाव

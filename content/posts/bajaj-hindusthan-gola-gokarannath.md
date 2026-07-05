@@ -2,9 +2,6 @@
 title: "Bajaj Hindusthan Sugar Mill - Gola Gokaran Nath | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-02T09:30:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Gola Gokaran Nath, Lakhimpur Kheri की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/bajaj-hindusthan-gola-gokarannath.jpg
-image: /images/blog/bajaj-hindusthan-gola-gokarannath.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "gola gokarannath", "lakhimpur kheri", "sugar mill", "UP"]
 keywords: ["bajaj-hindusthan-gola-gokarannath", "ganna kisan", "sugar mill", "UP"]

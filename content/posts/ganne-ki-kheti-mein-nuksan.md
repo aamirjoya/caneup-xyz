@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["नुकसान", "जोखिम", "गन्ना खेती", "फसल बीमा", "कीट"]
 ShowToc: true
 keywords: ["गन्ने की खेती में नुकसान", "ganne ki kheti mein nuksan", "गन्ने का नुकसान", "sugarcane farming losses", "गन्ने में जोखिम"]
-images:
-  - /images/blog/ganne-ki-kheti-mein-nuksan.jpg
-image: /images/blog/ganne-ki-kheti-mein-nuksan.jpg
 ---
 
 ## गन्ने की खेती में नुकसान — कैसे बचें, क्या करें

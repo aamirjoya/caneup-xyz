@@ -2,9 +2,6 @@
 title: "शाहजहाँपुर की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
 date: 2026-07-03T13:45:00+05:30
 description: "शाहजहाँपुर जिले की सभी शुगर मिल्स की पूरी लिस्ट। शाहजहाँपुर, तिलहर, पुवायां, जलालाबाद समेत 4+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
-images:
-  - /images/blog/shahjahanpur-sugar-mills.jpg
-image: /images/blog/shahjahanpur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["shahjahanpur", "sugar mill", "UP", "tilhar"]
 keywords: ["shahjahanpur-sugar-mills", "ganna kisan", "sugar mill", "UP"]

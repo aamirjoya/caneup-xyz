@@ -6,9 +6,6 @@ categories: ["गन्ना किसान योजनाएं"]
 tags: ["फसल बीमा", "PMFBY", "गन्ना बीमा", "किसान योजना", "मुआवजा"]
 ShowToc: true
 keywords: ["गन्ने की फसल बीमा", "PMFBY गन्ना", "गन्ने का बीमा कैसे करें", "फसल बीमा योजना", "crop insurance sugarcane"]
-images:
-  - /images/blog/ganna-fasal-bima.jpg
-image: /images/blog/ganna-fasal-bima.jpg
 ---
 
 ## गन्ने की फसल बीमा कैसे करें — PMFBY की पूरी जानकारी

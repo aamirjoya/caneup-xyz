@@ -6,9 +6,6 @@ categories: ["गन्ना मार्केट"]
 tags: ["गन्ने की पर्ची", "CaneUP", "पर्ची कैलेंडर", "गन्ना सप्लाई", "चीनी मिल"]
 ShowToc: true
 keywords: ["गन्ने की पर्ची कब आएगी", "ganne ki parchi", "CaneUP पर्ची", "गन्ना पर्ची कैलेंडर", "caneup.in parchi"]
-images:
-  - /images/blog/ganne-ki-parchi-kab-aayegi.jpg
-image: /images/blog/ganne-ki-parchi-kab-aayegi.jpg
 ---
 
 ## गन्ने की पर्ची कब आएगी — CaneUP पर्ची कैलेंडर 2025-26

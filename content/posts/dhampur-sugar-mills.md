@@ -2,9 +2,6 @@
 title: "धामपुर शुगर मिल्स - बिजनौर | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-02T14:00:00+05:30
 description: "धामपुर शुगर मिल्स बिजनौर की पूरी जानकारी। 15,000 TCD क्षमता, 50,000+ किसान, 1933 से संचालन। पर्ची कैलेंडर और भुगतान स्टेटस।"
-images:
-  - /images/blog/dhampur-sugar-mills.jpg
-image: /images/blog/dhampur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["dhampur sugar", "bijnor", "sugar mill", "UP", "dhampur"]
 keywords: ["dhampur-sugar-mills", "ganna kisan", "sugar mill", "UP"]

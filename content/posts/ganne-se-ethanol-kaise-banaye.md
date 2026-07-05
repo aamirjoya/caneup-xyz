@@ -6,9 +6,6 @@ categories: ["गन्ना उत्पादन"]
 tags: ["एथेनॉल", "ethanol", "गन्ना", "बायोफ्यूल", "E20"]
 ShowToc: true
 keywords: ["गन्ने से एथेनॉल", "ganne se ethanol", "ethanol from sugarcane", "एथेनॉल कैसे बनाएं", "गन्ने से बायोफ्यूल"]
-images:
-  - /images/blog/ganne-se-ethanol-kaise-banaye.jpg
-image: /images/blog/ganne-se-ethanol-kaise-banaye.jpg
 ---
 
 ## गन्ने से एथेनॉल कैसे बनाएं — प्रक्रिया, उपयोग और बिजनेस

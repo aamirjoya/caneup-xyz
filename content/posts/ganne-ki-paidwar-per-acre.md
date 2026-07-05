@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["पैदावार", "उत्पादन", "गन्ना yield", "प्रति एकड़", "गन्ना खेती"]
 ShowToc: true
 keywords: ["गन्ने की पैदावार प्रति एकड़", "ganne ki paidwar per acre", "गन्ने का उत्पादन", "sugarcane yield per acre", "गन्ने की पैदावार कैसे बढ़ाएं"]
-images:
-  - /images/blog/ganne-ki-paidwar-per-acre.jpg
-image: /images/blog/ganne-ki-paidwar-per-acre.jpg
 ---
 
 ## गन्ने की पैदावार प्रति एकड़ — कैसे बढ़ाएं, औसत उत्पादन

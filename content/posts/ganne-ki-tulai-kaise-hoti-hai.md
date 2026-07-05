@@ -6,9 +6,6 @@ categories: ["गन्ना मार्केट"]
 tags: ["गन्ने की तुलाई", "वेजब्रिज", "weighbridge", "गन्ना वजन", "चीनी मिल"]
 ShowToc: true
 keywords: ["गन्ने की तुलाई कैसे होती है", "ganne ki tulai", "वेजब्रिज", "गन्ना वजन", "sugarcane weighing"]
-images:
-  - /images/blog/ganne-ki-tulai-kaise-hoti-hai.jpg
-image: /images/blog/ganne-ki-tulai-kaise-hoti-hai.jpg
 ---
 
 ## गन्ने की तुलाई कैसे होती है — वेजब्रिज, प्रक्रिया और भुगतान

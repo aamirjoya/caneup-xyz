@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["यूरिया", "खाद", "गन्ना उर्वरक", "fertilizer", "NPK"]
 ShowToc: true
 keywords: ["गन्ने में यूरिया कब डालें", "ganne mein urea kab dale", "गन्ने में खाद", "urea in sugarcane", "गन्ने में यूरिया की मात्रा"]
-images:
-  - /images/blog/ganne-mein-urea-kab-dale.jpg
-image: /images/blog/ganne-mein-urea-kab-dale.jpg
 ---
 
 ## गन्ने में यूरिया कब डालें — सही समय, मात्रा और तरीका

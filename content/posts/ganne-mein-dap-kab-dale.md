@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["DAP", "खाद", "गन्ना उर्वरक", "फास्फोरस", "NPK"]
 ShowToc: true
 keywords: ["गन्ने में DAP कब डालें", "ganne mein DAP kab dale", "DAP in sugarcane", "गन्ने में DAP की मात्रा", "DAP खाद गन्ना"]
-images:
-  - /images/blog/ganne-mein-dap-kab-dale.jpg
-image: /images/blog/ganne-mein-dap-kab-dale.jpg
 ---
 
 ## गन्ने में DAP कब डालें — सही समय, मात्रा और फायदे

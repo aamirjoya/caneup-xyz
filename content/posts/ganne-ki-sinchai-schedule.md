@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["सिंचाई", "गन्ने की सिंचाई", "irrigation schedule", "पानी प्रबंधन", "गन्ना किसान"]
 ShowToc: true
 keywords: ["गन्ने की सिंचाई कब करें", "ganne ki sinchai schedule", "गन्ने में पानी कब दें", "sugarcane irrigation", "गन्ने की सिंचाई का शेड्यूल"]
-images:
-  - /images/blog/ganne-ki-sinchai-schedule.jpg
-image: /images/blog/ganne-ki-sinchai-schedule.jpg
 ---
 
 ## गन्ने की सिंचाई कब करें — पूरा शेड्यूल और सही समय

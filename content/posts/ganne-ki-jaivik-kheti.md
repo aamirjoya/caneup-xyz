@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["जैविक खेती", "organic farming", "गन्ना", "प्राकृतिक खेती", "केमिकल फ्री"]
 ShowToc: true
 keywords: ["गन्ने की जैविक खेती", "ganne ki jaivik kheti", "organic sugarcane", "बिना केमिकल गन्ना", "जैविक गन्ना खेती"]
-images:
-  - /images/blog/ganne-ki-jaivik-kheti.jpg
-image: /images/blog/ganne-ki-jaivik-kheti.jpg
 ---
 
 ## गन्ने की जैविक खेती कैसे करें — बिना केमिकल के अच्छी पैदावार

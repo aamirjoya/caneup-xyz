@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["नर्सरी", "गन्ना पौध", "nursery", "गन्ना बीज", "पौध तैयार करना"]
 ShowToc: true
 keywords: ["गन्ने की नर्सरी कैसे बनाएं", "ganne ki nursery", "गन्ना पौध", "sugarcane nursery", "गन्ने की नर्सरी"]
-images:
-  - /images/blog/ganne-ki-nursery-kaise-banaye.jpg
-image: /images/blog/ganne-ki-nursery-kaise-banaye.jpg
 ---
 
 ## गन्ने की नर्सरी कैसे बनाएं — पौध तैयार करने का पूरा तरीका

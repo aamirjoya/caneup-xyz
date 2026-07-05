@@ -6,9 +6,6 @@ categories: ["गन्ना रोग"]
 tags: ["बीमारी", "गन्ना रोग", "लाल सड़न", "पत्ता झुलसा", "धब्बा रोग"]
 ShowToc: true
 keywords: ["गन्ने की फसल में बीमारियां", "ganne ki fasal mein bimari", "गन्ने के रोग", "sugarcane diseases", "गन्ने में बीमारी"]
-images:
-  - /images/blog/ganne-ki-fasal-mein-bimari.jpg
-image: /images/blog/ganne-ki-fasal-mein-bimari.jpg
 ---
 
 ## गन्ने की फसल में बीमारियां — पहचान, इलाज और बचाव

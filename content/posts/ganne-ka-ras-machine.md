@@ -6,9 +6,6 @@ categories: ["गन्ना मशीनरी"]
 tags: ["गन्ना जूसर मशीन", "रस निकालने की मशीन", "sugarcane juicer", "गन्ना मशीन", "जूस बिजनेस"]
 ShowToc: true
 keywords: ["गन्ने का रस निकालने की मशीन", "ganne ka ras machine", "sugarcane juicer machine", "गन्ना जूसर मशीन रेट", "गन्ने का जूस मशीन"]
-images:
-  - /images/blog/ganne-ka-ras-machine.jpg
-image: /images/blog/ganne-ka-ras-machine.jpg
 ---
 
 ## गन्ने का रस निकालने की मशीन — रेट, प्रकार और खरीदने की जानकारी

@@ -6,9 +6,6 @@ categories: ["गन्ना उत्पादन"]
 tags: ["गुड़ बनाना", "गन्ने का रस", "गुड़ की विधि", "गन्ना किसान", "जैविक गुड़"]
 ShowToc: true
 keywords: ["गुड़ कैसे बनाएं", "गन्ने से गुड़ बनाने का तरीका", "gur banane ka tarika", "गन्ने के रस से गुड़", "गांव में गुड़ बनाना"]
-images:
-  - /images/blog/gud-banane-ka-tarika.jpg
-image: /images/blog/gud-banane-ka-tarika.jpg
 ---
 
 ## गुड़ कैसे बनाएं — गन्ने से गुड़ बनाने का पूरा तरीका

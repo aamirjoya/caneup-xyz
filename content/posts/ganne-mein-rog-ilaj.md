@@ -2,9 +2,6 @@
 title: "गन्ने में रोग और इलाज - सभी बीमारियों की पहचान और उपचार"
 date: 2026-06-24T15:30:00+05:30
 description: "गन्ने की फसल में लगने वाले सभी रोगों की पहचान, लक्षण और इलाज। लाल सड़न, पत्ता झुलसा, धब्बा रोग, तना छेदक से बचाव के उपाय।"
-images:
-  - /images/blog/ganne-mein-rog-ilaj.jpg
-image: /images/blog/ganne-mein-rog-ilaj.jpg
 categories: ["Ganna Kheti"]
 tags: ["rog", "ilaj", "disease", "sugarcane", "farming"]
 keywords: ["ganne-mein-rog-ilaj", "ganna kisan", "sugar mill", "UP"]

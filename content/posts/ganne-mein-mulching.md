@@ -6,9 +6,6 @@ categories: ["गन्ना खेती"]
 tags: ["मल्चिंग", "mulching", "गन्ना", "पानी बचत", "खरपतवार नियंत्रण"]
 ShowToc: true
 keywords: ["गन्ने में मल्चिंग", "ganne mein mulching", "mulching in sugarcane", "गन्ने में पुआल", "मल्चिंग के फायदे"]
-images:
-  - /images/blog/ganne-mein-mulching.jpg
-image: /images/blog/ganne-mein-mulching.jpg
 ---
 
 ## गन्ने में मल्चिंग कैसे करें — फायदे, तरीका और सामग्री

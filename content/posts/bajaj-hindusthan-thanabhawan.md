@@ -2,9 +2,6 @@
 title: "Bajaj Hindusthan Sugar Mill - Thanabhawan | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-04T14:45:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Thanabhawan, Muzaffarnagar की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/bajaj-hindusthan-thanabhawan.jpg
-image: /images/blog/bajaj-hindusthan-thanabhawan.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "thanabhawan", "muzaffarnagar", "sugar mill", "UP"]
 keywords: ["bajaj-hindusthan-thanabhawan", "ganna kisan", "sugar mill", "UP"]

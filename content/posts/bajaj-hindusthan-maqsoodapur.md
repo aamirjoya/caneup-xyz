@@ -2,9 +2,6 @@
 title: "Bajaj Hindusthan Sugar Mill - Maqsoodapur | जानकारी, क्षमता, किसान, इतिहास"
 date: 2026-07-04T12:30:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Maqsoodapur, Shahjahanpur की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
-images:
-  - /images/blog/bajaj-hindusthan-maqsoodapur.jpg
-image: /images/blog/bajaj-hindusthan-maqsoodapur.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "maqsoodapur", "shahjahanpur", "sugar mill", "UP"]
 keywords: ["bajaj-hindusthan-maqsoodapur", "ganna kisan", "sugar mill", "UP"]
