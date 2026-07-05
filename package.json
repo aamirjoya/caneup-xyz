@@ -1,0 +1,9 @@
+{
+  "name": "caneup-xyz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify",
+    "dev": "hugo server"
+  }
+}
