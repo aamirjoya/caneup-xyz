@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CaneUp Image Generator - FREE AI Images</title>
+    <script src="https://js.puter.com/v2/"></script>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; background: #f0f4f0; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { color: #1a5632; text-align: center; margin-bottom: 10px; }
+        .subtitle { text-align: center; color: #666; margin-bottom: 30px; }
+        .controls { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px; }
+        button { background: #1a5632; color: white; border: none; padding: 12px 24px; border-radius: 8px; cursor: pointer; font-size: 14px; font-weight: 600; transition: all 0.3s; }
+        button:hover { background: #2d7a45; transform: translateY(-2px); }
+        button:disabled { background: #ccc; cursor: not-allowed; transform: none; }
+        .btn-secondary { background: #f59e0b; }
+        .btn-secondary:hover { background: #d97706; }
+        .btn-danger { background: #ef4444; }
+        .btn-danger:hover { background: #dc2626; }
+        select { padding: 12px; border-radius: 8px; border: 2px solid #1a5632; font-size: 14px; }
+        .status { text-align: center; padding: 15px; background: #e8f5e9; border-radius: 8px; margin-bottom: 20px; font-weight: 600; }
+        .status.error { background: #fee2e2; color: #dc2626; }
+        .status.success { background: #d1fae5; color: #059669; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1); transition: transform 0.3s; }
+        .card:hover { transform: translateY(-5px); }
+        .card img { width: 100%; height: 250px; object-fit: cover; }
+        .card-body { padding: 15px; }
+        .card-title { font-weight: 600; color: #1a5632; margin-bottom: 5px; }
+        .card-prompt { font-size: 12px; color: #666; margin-bottom: 10px; line-height: 1.4; }
+        .card-actions { display: flex; gap: 10px; }
+        .card-actions button { flex: 1; padding: 8px; font-size: 12px; }
+        .progress { width: 100%; height: 6px; background: #e5e7eb; border-radius: 3px; margin: 20px 0; overflow: hidden; }
+        .progress-bar { height: 100%; background: #1a5632; width: 0%; transition: width 0.3s; }
+        .counter { text-align: center; color: #666; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌾 CaneUp Image Generator</h1>
+        <p class="subtitle">FREE AI Images for CaneUp.xyz - Powered by Puter.js</p>
+        
+        <div class="controls">
+            <select id="model">
+                <option value="gpt-image-2">GPT Image 2 (Best Quality)</option>
+                <option value="gpt-image-1-mini">GPT Image 1 Mini (Fast)</option>
+            </select>
+            <select id="quality">
+                <option value="high">High Quality</option>
+                <option value="medium">Medium</option>
+                <option value="low">Low (Fast)</option>
+            </select>
+            <button onclick="generateAll()" id="btnGenerate">🚀 Generate All Images</button>
+            <button onclick="generateNext()" id="btnNext" class="btn-secondary">⏭️ Generate Next</button>
+            <button onclick="downloadAll()" id="btnDownload" class="btn-secondary">📥 Download All</button>
+            <button onclick="clearAll()" class="btn-danger">🗑️ Clear All</button>
+        </div>
+        
+        <div class="progress">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+        
+        <div class="counter">
+            <span id="counterText">0 / 0 images generated</span>
+        </div>
+        
+        <div class="status" id="status">Ready to generate images...</div>
+        
+        <div class="grid" id="imageGrid"></div>
+    </div>
+
+    <script>
+        const imageList = [
+            { name: "hero-farmer-mobile", prompt: "Indian sugarcane farmer wearing traditional white dhoti kurta, standing in lush green sugarcane field, holding modern smartphone, bright sunny day, realistic photography, rural India", category: "Hero" },
+            { name: "hero-sugarcane-field", prompt: "Beautiful panoramic view of green sugarcane farm India, golden sunlight, village background, landscape photography", category: "Hero" },
+            { name: "ganna-parchi-calendar", prompt: "Indian farmer checking mobile phone calendar app, sugarcane field background, realistic photo", category: "Blog" },
+            { name: "ganna-msp-rate", prompt: "Indian sugarcane farmer checking price board at sugar mill, Hindi text, realistic photography", category: "Blog" },
+            { name: "ganne-ki-kheti", prompt: "Indian farmer plowing sugarcane field with oxen, green plants, rural India photography", category: "Blog" },
+            { name: "ganne-ki-sinchai", prompt: "Irrigation of sugarcane field India, water channels, farmer monitoring, agricultural photo", category: "Blog" },
+            { name: "ganne-mein-khad", prompt: "Indian farmer applying fertilizer to sugarcane crop, green field, farming photography", category: "Blog" },
+            { name: "sugar-mill", prompt: "Large Indian sugar mill factory, trucks waiting, industrial photography, UP India", category: "Blog" },
+            { name: "ganne-ka-juice", prompt: "Indian street vendor making fresh sugarcane juice, traditional machine, market scene", category: "Blog" },
+            { name: "gud-banana", prompt: "Traditional Indian jaggery making, iron pan with boiling sugarcane juice, rural India", category: "Blog" },
+            { name: "pm-kisan", prompt: "Indian farmer receiving money on mobile phone, happy expression, rural background", category: "Blog" },
+            { name: "kisan-credit-card", prompt: "Indian farmer at bank counter with Kisan Credit Card, bank officer helping", category: "Blog" },
+            { name: "ganne-ka-rog", prompt: "Sugarcane plant disease red rot, close up damaged tissue, agricultural research", category: "Blog" },
+            { name: "ganne-ki-katai", prompt: "Sugarcane harvesting India, workers cutting cane, truck loading, agricultural photo", category: "Blog" },
+            { name: "ethanol-plant", prompt: "Modern ethanol production plant India, distillation columns, industrial facility", category: "Blog" },
+            { name: "ganne-ki-drip", prompt: "Drip irrigation system in sugarcane field, modern agriculture technology India", category: "Blog" },
+            { name: "ganne-ki-jaivik", prompt: "Organic farming sugarcane India, natural fertilizer, green field, agriculture", category: "Blog" },
+            { name: "ganne-ki-nursery", prompt: "Sugarcane nursery India, young plants growing in rows, farmer care", category: "Blog" },
+            { name: "eganna-app", prompt: "Smartphone showing eGanna app interface, green theme, Indian farming app mockup", category: "Blog" },
+            { name: "kisan-mobile", prompt: "Young Indian farmer in sugarcane field using smartphone, modern agriculture", category: "Blog" },
+            { name: "ganne-ki-tulai", prompt: "Sugarcane weighing at sugar mill, electronic scale, truck loaded, India", category: "Blog" },
+            { name: "ganne-ke-beej", prompt: "Different sugarcane varieties displayed, agricultural exhibition, India", category: "Blog" },
+            { name: "ganne-ka-bhav", prompt: "Indian farmer checking sugarcane price on phone, sugar mill background", category: "Blog" },
+        ];
+
+        let generatedImages = [];
+        let currentIndex = 0;
+        let isGenerating = false;
+
+        function updateStatus(text, type = '') {
+            const status = document.getElementById('status');
+            status.textContent = text;
+            status.className = 'status ' + type;
+        }
+
+        function updateProgress() {
+            const bar = document.getElementById('progressBar');
+            const counter = document.getElementById('counterText');
+            const percent = (generatedImages.length / imageList.length) * 100;
+            bar.style.width = percent + '%';
+            counter.textContent = `${generatedImages.length} / ${imageList.length} images generated`;
+        }
+
+        async function generateImage(img) {
+            try {
+                updateStatus(`⏳ Generating: ${img.name}...`);
+                
+                const model = document.getElementById('model').value;
+                const quality = document.getElementById('quality').value;
+                
+                const result = await puter.ai.txt2img(img.prompt, {
+                    model: model,
+                    quality: quality
+                });
+                
+                // Create card
+                const grid = document.getElementById('imageGrid');
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <img src="${result.src}" alt="${img.name}">
+                    <div class="card-body">
+                        <div class="card-title">${img.name} (${img.category})</div>
+                        <div class="card-prompt">${img.prompt.substring(0, 100)}...</div>
+                        <div class="card-actions">
+                            <button onclick="downloadImage('${result.src}', '${img.name}')">📥 Download</button>
+                            <button onclick="copyPrompt('${img.prompt.replace(/'/g, "\\'")}')" class="btn-secondary">📋 Copy Prompt</button>
+                        </div>
+                    </div>
+                `;
+                grid.prepend(card);
+                
+                generatedImages.push({ ...img, src: result.src });
+                updateProgress();
+                updateStatus(`✅ Generated: ${img.name}`, 'success');
+                
+                return result;
+            } catch (error) {
+                updateStatus(`❌ Error: ${img.name} - ${error.message}`, 'error');
+                return null;
+            }
+        }
+
+        async function generateAll() {
+            if (isGenerating) return;
+            isGenerating = true;
+            
+            const btn = document.getElementById('btnGenerate');
+            btn.disabled = true;
+            btn.textContent = '⏳ Generating...';
+            
+            for (let i = currentIndex; i < imageList.length; i++) {
+                currentIndex = i;
+                await generateImage(imageList[i]);
+                await new Promise(r => setTimeout(r, 2000));
+            }
+            
+            isGenerating = false;
+            btn.disabled = false;
+            btn.textContent = '🚀 Generate All Images';
+            updateStatus(`🎉 All ${imageList.length} images generated!`, 'success');
+        }
+
+        async function generateNext() {
+            if (isGenerating || currentIndex >= imageList.length) return;
+            await generateImage(imageList[currentIndex]);
+            currentIndex++;
+        }
+
+        function downloadImage(src, name) {
+            const a = document.createElement('a');
+            a.href = src;
+            a.download = name + '.jpg';
+            a.click();
+        }
+
+        function downloadAll() {
+            generatedImages.forEach((img, i) => {
+                setTimeout(() => downloadImage(img.src, img.name), i * 500);
+            });
+        }
+
+        function copyPrompt(prompt) {
+            navigator.clipboard.writeText(prompt);
+            updateStatus('📋 Prompt copied!', 'success');
+        }
+
+        function clearAll() {
+            document.getElementById('imageGrid').innerHTML = '';
+            generatedImages = [];
+            currentIndex = 0;
+            updateProgress();
+            updateStatus('🗑️ All cleared!');
+        }
+    </script>
+</body>
+</html>
