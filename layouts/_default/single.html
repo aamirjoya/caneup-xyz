@@ -13,6 +13,46 @@
   
   {{ .Content }}
   
+  <!-- Internal Links Section -->
+  <div style="margin-top: 40px; padding: 24px; background: #f8faf9; border-radius: 12px; border: 1px solid #e2e8f0;">
+    <h3 style="margin-bottom: 16px; color: #1a5632;">📌 यह भी पढ़ें</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px;">
+      {{ if in .Params.tags "ganna parchi" }}
+      <a href="/posts/ganna-parchi-calendar-2025-26/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">📋 गन्ना पर्ची कैलेंडर 2025-26</a>
+      <a href="/posts/caneup-in-parchi-calendar/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">📋 CaneUp.in पर्ची कैलेंडर</a>
+      <a href="/posts/eganna-app-download/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">📱 eGanna App डाउनलोड</a>
+      {{ end }}
+      {{ if in .Params.tags "sugar mill" }}
+      <a href="/posts/up-sugar-mill-list-complete/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🏭 UP की सभी शुगर मिल्स</a>
+      <a href="/posts/sugar-mill-list-up/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🏭 शुगर मिल लिस्ट UP</a>
+      {{ end }}
+      {{ if in .Params.tags "MSP" }}
+      <a href="/posts/ganna-msp-rate-2026/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💰 MSP रेट 2026</a>
+      <a href="/posts/ganna-frp-rate-2026/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💰 FRP रेट 2026</a>
+      {{ end }}
+      {{ if in .Params.tags "loan" }}
+      <a href="/posts/ganna-kisan-loan/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💳 गन्ना किसान लोन</a>
+      <a href="/posts/kisan-credit-card-ganna/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💳 KCC किसान क्रेडिट कार्ड</a>
+      {{ end }}
+      {{ if in .Params.tags "kheti" }}
+      <a href="/posts/ganne-ki-kheti-guide/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🌾 गन्ने की खेती गाइड</a>
+      <a href="/posts/ganne-ki-paidwar-kaise-badhaye/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🌾 पैदावार कैसे बढ़ाएं</a>
+      <a href="/posts/ganne-mein-rog-ilaj/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🌾 रोग और इलाज</a>
+      {{ end }}
+      {{ if in .Params.tags "business" }}
+      <a href="/posts/ganne-ka-juice-business/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💼 गन्ने का जूस बिजनेस</a>
+      <a href="/posts/ethanol-plant-business/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💼 एथेनॉल प्लांट बिजनेस</a>
+      {{ end }}
+      {{ if in .Params.tags "yojana" }}
+      <a href="/posts/ganna-subsidy-yojana-2026/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🏛️ सब्सिडी योजनाएं</a>
+      <a href="/posts/pm-kisan-ganna-kisan/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🏛️ PM किसान योजना</a>
+      {{ end }}
+      <!-- Always show these -->
+      <a href="/posts/caneup-keywords-target/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🌾 CaneUp पूरी जानकारी</a>
+      <a href="/tools/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🔧 किसान टूल्स</a>
+    </div>
+  </div>
+
   <!-- Share Buttons -->
   <div style="margin-top: 40px; padding-top: 24px; border-top: 2px solid #e2e8f0;">
     <h3 style="margin-bottom: 16px;">📢 यह जानकारी शेयर करें</h3>

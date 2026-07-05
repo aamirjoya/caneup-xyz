@@ -129,6 +129,14 @@ ShowToc: true
 | ड्रिप सिंचाई | 55-80% सब्सिडी | pmksy.gov.in |
 | मृदा कार्ड | फ्री मिट्टी टेस्ट | ब्लॉक कार्यालय |
 
+## यह भी पढ़ें
+
+- [PM किसान योजना](/posts/pm-kisan-ganna-kisan/)
+- [KCC किसान क्रेडिट कार्ड](/posts/kisan-credit-card-ganna/)
+- [गन्ना किसान लोन](/posts/ganna-kisan-loan/)
+- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
+- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
+
 ## अक्सर पूछे जाने वाले सवाल
 
 **Q: PM किसान की किश्त कब आएगी?**
