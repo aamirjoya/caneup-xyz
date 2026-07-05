@@ -1,0 +1,121 @@
+baseURL = "https://caneup.xyz/"
+languageCode = "hi-in"
+defaultContentLanguage = "hi"
+title = "CaneUp - गन्ना किसानों का सम्पूर्ण गाइड"
+theme = "PaperMod"
+pagination.pagerSize = 20
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "CaneUp - गन्ना किसानों का सम्पूर्ण गाइड"
+  description = "गन्ना किसानों के लिए सम्पूर्ण जानकारी - पर्ची कैलेंडर, MSP रेट, खेती के टिप्स, सरकारी योजनाएं, और बहुत कुछ"
+  keywords = ["गन्ना किसान", "ganna parchi calendar", "sugarcane farming", "caneup", "गन्ना MSP रेट", "शुगर मिल", "गन्ना पर्ची"]
+  author = "CaneUp Team"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+
+  [params.homeInfoParams]
+    Title = "🌾 CaneUp - गन्ना किसानों का भरोसेमंद साथी"
+    Content = "गन्ना पर्ची कैलेंडर, MSP रेट, खेती के नुस्खे, सरकारी योजनाएं - सब एक जगह। उत्तर प्रदेश, महाराष्ट्र, कर्नाटक और पूरे भारत के गन्ना किसानों के लिए।"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@caneup"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/caneupxyz"
+
+  [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/caneup"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "🏠 होम"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "parchi"
+    name = "📋 पर्ची कैलेंडर"
+    url = "/categories/parchi-calendar/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "kheti"
+    name = "🌾 गन्ना खेती"
+    url = "/categories/ganna-kheti/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "yojana"
+    name = "🏛️ सरकारी योजनाएं"
+    url = "/categories/sarkari-yojana/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "msp"
+    name = "💰 MSP रेट"
+    url = "/categories/msp-rate/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "business-cat"
+    name = "💼 बिजनेस"
+    url = "/categories/business/"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "tools"
+    name = "🔧 टूल्स"
+    url = "/tools/"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "about"
+    name = "ℹ️ हमारे बारे में"
+    url = "/about/"
+    weight = 8
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableSVG = false

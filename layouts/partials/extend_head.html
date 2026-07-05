@@ -1,0 +1,81 @@
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/custom.css">
+
+<!-- Schema Markup for Articles -->
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "CaneUp"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaneUp",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://caneup.xyz/logo.png"
+    }
+  }
+}
+</script>
+{{ end }}
+
+<!-- Schema Markup for Website -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CaneUp",
+  "url": "https://caneup.xyz",
+  "description": "गन्ना किसानों का सम्पूर्ण गाइड - पर्ची कैलेंडर, MSP रेट, खेती के टिप्स, सरकारी योजनाएं",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://caneup.xyz/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}
+
+<!-- FAQ Schema -->
+{{ if .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $q := .Params.faq }}
+    {{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $q.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $q.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
