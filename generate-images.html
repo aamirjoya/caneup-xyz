@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CaneUp Image Generator</title>
+    <script src="https://js.puter.com/v2/"></script>
+    <style>
+        body { font-family: Arial; padding: 20px; background: #f5f5f5; }
+        .image-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .image-card { background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .image-card img { width: 100%; height: 200px; object-fit: cover; border-radius: 8px; }
+        .image-card h3 { margin: 10px 0 5px; font-size: 14px; }
+        .image-card p { color: #666; font-size: 12px; }
+        button { background: #2d5016; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin: 5px; }
+        button:hover { background: #4a7c23; }
+        #status { margin: 20px 0; padding: 10px; background: #e8f5e9; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>🌾 CaneUp Image Generator</h1>
+    <p>Generate images for CaneUp.xyz using Puter.js FREE API</p>
+    
+    <div>
+        <button onclick="generateAllImages()">Generate All Images</button>
+        <button onclick="generateHeroImage()">Generate Hero Image</button>
+        <button onclick="generateSugarMillImages()">Generate Sugar Mill Images</button>
+        <button onclick="generateFarmingImages()">Generate Farming Images</button>
+    </div>
+    
+    <div id="status">Ready to generate images...</div>
+    <div id="images" class="image-grid"></div>
+
+    <script>
+        const imagePrompts = [
+            // Hero Images
+            { name: "hero-farmer-mobile", prompt: "Indian sugarcane farmer wearing white dhoti and kurta, standing in green sugarcane field, holding smartphone showing farming app, bright sunny day, realistic photography, rural India background", category: "hero" },
+            { name: "hero-sugarcane-field", prompt: "Beautiful panoramic view of lush green sugarcane farm in Uttar Pradesh India, golden sunlight, traditional Indian village in background, realistic landscape photography", category: "hero" },
+            
+            // Parchi Calendar
+            { name: "parchi-calendar", prompt: "Indian farmer checking mobile phone for sugarcane delivery schedule, sitting near sugarcane field, Hindi text on screen showing calendar, realistic photo", category: "blog" },
+            { name: "eganna-app", prompt: "Smartphone screen showing eGanna app interface with sugarcane farmer silhouette, green theme, Indian farming app, realistic mockup", category: "blog" },
+            
+            // MSP Rate
+            { name: "msp-rate", prompt: "Indian sugarcane farmer checking price list at sugar mill gate, Hindi text board showing rates, realistic rural India photography", category: "blog" },
+            { name: "ganna-bhav", prompt: "Weighing of sugarcane at sugar mill, Indian farmer watching, digital weighing scale showing weight, realistic industrial photography", category: "blog" },
+            
+            // Farming Tips
+            { name: "ganne-ki-kheti", prompt: "Indian farmer plowing sugarcane field with traditional wooden plow and oxen, green sugarcane plants, rural India, realistic photography", category: "blog" },
+            { name: "ganne-ki-sinchai", prompt: "Irrigation of sugarcane field in India, water channels between sugarcane rows, farmer monitoring water flow, realistic agricultural photo", category: "blog" },
+            { name: "ganne-mein-khaad", prompt: "Indian farmer applying fertilizer to sugarcane crop, white fertilizer bags nearby, green sugarcane field, realistic farming photography", category: "blog" },
+            { name: "ganne-ki-katai", prompt: "Sugarcane harvesting in India, workers cutting sugarcane with traditional tools, loaded truck in background, realistic agricultural photography", category: "blog" },
+            
+            // Diseases
+            { name: "ganne-ka-rog", prompt: "Close-up of sugarcane plant showing red rot disease, damaged cane tissue, Indian agricultural research station, realistic macro photography", category: "blog" },
+            { name: "ganne-mein-keet", prompt: "Sugarcane stem borer damage on Indian sugarcane plant, holes in stem, pest infestation, realistic agricultural photography", category: "blog" },
+            
+            // Sugar Mill
+            { name: "sugar-mill", prompt: "Large Indian sugar mill factory with chimney smoke, sugarcane trucks waiting in queue, industrial photography, Uttar Pradesh India", category: "mill" },
+            { name: "sugar-mill-gate", prompt: "Indian sugarcane farmers waiting at sugar mill gate with loaded bullock carts, morning scene, realistic rural India photography", category: "mill" },
+            
+            // Business
+            { name: "ganne-ka-juice", prompt: "Indian street vendor making fresh sugarcane juice with traditional manual machine, green sugarcane stalks, busy street market, realistic photography", category: "business" },
+            { name: "gud-banana", prompt: "Traditional Indian jaggery (gud) making process, large iron pan with boiling sugarcane juice, smoke rising, rural India, realistic photography", category: "business" },
+            { name: "ethanol-plant", prompt: "Modern ethanol production plant in India, distillation columns, sugarcane processing facility, industrial photography", category: "business" },
+            
+            // Government Schemes
+            { name: "pm-kisan", prompt: "Indian farmer receiving money through PM Kisan scheme on mobile phone, happy expression, rural India background, realistic photography", category: "blog" },
+            { name: "kisan-credit-card", prompt: "Indian farmer holding Kisan Credit Card (KCC) at bank counter, bank officer helping, realistic Indian banking photography", category: "blog" },
+            
+            // Tools
+            { name: "msp-calculator", prompt: "Smartphone screen showing sugarcane MSP calculator app, Indian farmer using it, green sugarcane background, realistic photo", category: "tools" },
+            
+            // Generic Farming
+            { name: "kisan-mobile", prompt: "Young Indian farmer in sugarcane field using smartphone for farming information, modern agriculture, realistic photography", category: "hero" },
+            { name: "sugarcane-closeup", prompt: "Close-up of healthy green sugarcane stalks in Indian farm, morning dew drops, macro photography, vibrant green colors", category: "blog" },
+            { name: "farmer-happy", prompt: "Happy Indian sugarcane farmer with good harvest, holding sugarcane bundle, smiling face, rural India, realistic portrait photography", category: "hero" },
+        ];
+
+        async function generateImage(prompt, filename) {
+            try {
+                const statusDiv = document.getElementById('status');
+                statusDiv.innerHTML = `⏳ Generating: ${filename}...`;
+                
+                const imageElement = await puter.ai.txt2img(prompt, {
+                    model: 'flux-pro',
+                    quality: 'high'
+                });
+                
+                // Add to grid
+                const grid = document.getElementById('images');
+                const card = document.createElement('div');
+                card.className = 'image-card';
+                card.innerHTML = `
+                    <img src="${imageElement.src}" alt="${filename}">
+                    <h3>${filename}</h3>
+                    <p>${prompt.substring(0, 80)}...</p>
+                    <button onclick="downloadImage('${imageElement.src}', '${filename}')">Download</button>
+                `;
+                grid.appendChild(card);
+                
+                statusDiv.innerHTML = `✅ Generated: ${filename}`;
+                return imageElement;
+            } catch (error) {
+                console.error(`Error generating ${filename}:`, error);
+                document.getElementById('status').innerHTML = `❌ Error: ${filename} - ${error.message}`;
+                return null;
+            }
+        }
+
+        async function generateAllImages() {
+            document.getElementById('images').innerHTML = '';
+            document.getElementById('status').innerHTML = '🚀 Generating all images...';
+            
+            for (const img of imagePrompts) {
+                await generateImage(img.prompt, img.name);
+                await new Promise(resolve => setTimeout(resolve, 1000)); // Delay between generations
+            }
+            
+            document.getElementById('status').innerHTML = `✅ All ${imagePrompts.length} images generated!`;
+        }
+
+        async function generateHeroImage() {
+            document.getElementById('images').innerHTML = '';
+            const heroImages = imagePrompts.filter(img => img.category === 'hero');
+            for (const img of heroImages) {
+                await generateImage(img.prompt, img.name);
+            }
+        }
+
+        async function generateSugarMillImages() {
+            document.getElementById('images').innerHTML = '';
+            const millImages = imagePrompts.filter(img => img.category === 'mill');
+            for (const img of millImages) {
+                await generateImage(img.prompt, img.name);
+            }
+        }
+
+        async function generateFarmingImages() {
+            document.getElementById('images').innerHTML = '';
+            const farmImages = imagePrompts.filter(img => img.category === 'blog');
+            for (const img of farmImages) {
+                await generateImage(img.prompt, img.name);
+            }
+        }
+
+        function downloadImage(src, filename) {
+            const link = document.createElement('a');
+            link.href = src;
+            link.download = `${filename}.jpg`;
+            link.click();
+        }
+    </script>
+</body>
+</html>
