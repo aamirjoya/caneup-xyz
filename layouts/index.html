@@ -1,0 +1,193 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <span class="hero-badge">🌾 भारत का #1 गन्ना किसान पोर्टल</span>
+      <h1>गन्ना किसानों का<br><span class="highlight">सम्पूर्ण गाइड</span></h1>
+      <p>पर्ची कैलेंडर, MSP रेट, खेती के टिप्स, सरकारी योजनाएं — सब एक जगह। उत्तर प्रदेश, महाराष्ट्र, कर्नाटक और पूरे भारत के गन्ना किसानों के लिए।</p>
+      <div class="hero-buttons">
+        <a href="/posts/ganna-parchi-calendar-2025-26/" class="btn btn-primary">📋 पर्ची कैलेंडर देखें</a>
+        <a href="/posts/ganna-msp-rate-2026/" class="btn btn-secondary">💰 MSP रेट चेक करें</a>
+      </div>
+    </div>
+    <div class="hero-stats">
+      <div class="stat-card">
+        <span class="stat-number">50L+</span>
+        <span class="stat-label">गन्ना किसान</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">100+</span>
+        <span class="stat-label">शुगर मिल्स</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">₹355</span>
+        <span class="stat-label">FRP रेट/क्विंटल</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">16+</span>
+        <span class="stat-label">गाइड्स</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Quick Access Section -->
+<section class="quick-access">
+  <div class="container">
+    <h2 class="section-title">तुरंत एक्सेस करें</h2>
+    <p class="section-subtitle">गन्ना किसानों के लिए सबसे ज़रूरी जानकारी</p>
+    <div class="cards-grid">
+      <a href="/posts/ganna-parchi-calendar-2025-26/" class="access-card">
+        <div class="card-icon">📋</div>
+        <h3>पर्ची कैलेंडर</h3>
+        <p>शुगर मिल की गन्ना पर्ची ऑनलाइन चेक करें</p>
+        <span class="card-link">अभी देखें →</span>
+      </a>
+      <a href="/posts/ganna-msp-rate-2026/" class="access-card">
+        <div class="card-icon">💰</div>
+        <h3>MSP रेट 2026</h3>
+        <p>गन्ने का ताज़ा भाव और FRP रेट</p>
+        <span class="card-link">रेट देखें →</span>
+      </a>
+      <a href="/posts/ganne-ki-kheti-guide/" class="access-card">
+        <div class="card-icon">🌾</div>
+        <h3>खेती गाइड</h3>
+        <p>गन्ने की खेती की पूरी जानकारी</p>
+        <span class="card-link">पढ़ें →</span>
+      </a>
+      <a href="/posts/ganna-subsidy-yojana-2026/" class="access-card">
+        <div class="card-icon">🏛️</div>
+        <h3>सरकारी योजनाएं</h3>
+        <p>PM किसान, KCC, सब्सिडी और लोन</p>
+        <span class="card-link">योजनाएं देखें →</span>
+      </a>
+      <a href="/posts/eganna-app-download/" class="access-card">
+        <div class="card-icon">📱</div>
+        <h3>eGanna App</h3>
+        <p>मोबाइल पर पर्ची कैलेंडर देखें</p>
+        <span class="card-link">डाउनलोड करें →</span>
+      </a>
+      <a href="/tools/" class="access-card">
+        <div class="card-icon">🔧</div>
+        <h3>किसान टूल्स</h3>
+        <p>MSP कैलकुलेटर, EMI कैलकुलेटर</p>
+        <span class="card-link">टूल्स इस्तेमाल करें →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Latest Articles Section -->
+<section class="latest-articles">
+  <div class="container">
+    <h2 class="section-title">ताज़ा लेख</h2>
+    <p class="section-subtitle">गन्ना किसानों के लिए नई जानकारी</p>
+    <div class="articles-grid">
+      {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
+      <article class="article-card">
+        <div class="article-meta">
+          <span class="article-date">{{ .Date.Format "02 Jan 2006" }}</span>
+          <span class="article-category">{{ with .Params.categories }}{{ index . 0 }}{{ end }}</span>
+        </div>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Description | truncate 120 }}</p>
+        <a href="{{ .Permalink }}" class="read-more">पूरा पढ़ें →</a>
+      </article>
+      {{ end }}
+    </div>
+    <div class="view-all">
+      <a href="/posts/" class="btn btn-outline">सभी लेख देखें →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Impact Section -->
+<section class="impact-section">
+  <div class="container">
+    <h2 class="section-title">हमारा प्रभाव</h2>
+    <p class="section-subtitle">भारत के गन्ना किसानों तक पहुँच बनाना</p>
+    <div class="impact-grid">
+      <div class="impact-card">
+        <div class="impact-icon">🌾</div>
+        <h3>गन्ना खेती</h3>
+        <p>आधुनिक तकनीकों से पैदावार बढ़ाने के उपाय</p>
+      </div>
+      <div class="impact-card">
+        <div class="impact-icon">🏭</div>
+        <h3>शुगर मिल</h3>
+        <p>पर्ची कैलेंडर और भुगतान की पूरी जानकारी</p>
+      </div>
+      <div class="impact-card">
+        <div class="impact-icon">💳</div>
+        <h3>वित्तीय सेवाएं</h3>
+        <p>लोन, बीमा और सब्सिडी की जानकारी</p>
+      </div>
+      <div class="impact-card">
+        <div class="impact-icon">📊</div>
+        <h3>बाज़ार भाव</h3>
+        <p>MSP, FRP और गन्ने के ताज़ा रेट</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Categories Section -->
+<section class="categories-section">
+  <div class="container">
+    <h2 class="section-title">श्रेणियां</h2>
+    <div class="categories-grid">
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}/" class="category-chip">
+        {{ $name }} ({{ len $taxonomy }})
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- FAQ Section -->
+<section class="faq-section">
+  <div class="container">
+    <h2 class="section-title">अक्सर पूछे जाने वाले सवाल</h2>
+    <div class="faq-list">
+      <details class="faq-item">
+        <summary>गन्ना पर्ची कैलेंडर कैसे देखें?</summary>
+        <p>enquiry.caneup.in वेबसाइट पर जाएं, अपना जिला और शुगर मिल चुनें, किसान कोड डालें। पर्ची कैलेंडर स्क्रीन पर आ जाएगा।</p>
+      </details>
+      <details class="faq-item">
+        <summary>गन्ने का MSP रेट 2026 में कितना है?</summary>
+        <p>केंद्र सरकार ने 2025-26 के लिए FRP ₹355 प्रति क्विंटल तय किया है। UP में SAP ₹350-₹365 है।</p>
+      </details>
+      <details class="faq-item">
+        <summary>PM किसान योजना में कितना पैसा मिलता है?</summary>
+        <p>हर किसान को सालाना ₹6,000 मिलते हैं — ₹2,000 की 3 किश्तों में।</p>
+      </details>
+      <details class="faq-item">
+        <summary>किसान क्रेडिट कार्ड (KCC) कैसे बनवाएं?</summary>
+        <p>अपने बैंक में जाएं, KCC फॉर्म भरें, आधार कार्ड और ज़मीन के कागज़ात दें। 7-15 दिन में कार्ड बन जाएगा।</p>
+      </details>
+      <details class="faq-item">
+        <summary>गन्ने की पैदावार कैसे बढ़ाएं?</summary>
+        <p>सही किस्म (Co-0238) चुनें, खाद का सही इस्तेमाल करें, समय पर सिंचाई करें, और कीट से बचाव करें।</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <h2>गन्ना किसानों की मदद करें</h2>
+      <p>यह जानकारी अपने गाँव और किसान भाइयों तक शेयर करें</p>
+      <div class="cta-buttons">
+        <a href="https://wa.me/?text=CaneUp - गन्ना किसानों का सम्पूर्ण गाइड https://caneup.xyz" class="btn btn-primary">📱 WhatsApp पर शेयर करें</a>
+        <a href="https://t.me/share/url?url=https://caneup.xyz&text=CaneUp - गन्ना किसानों का सम्पूर्ण गाइड" class="btn btn-secondary">✈️ Telegram पर शेयर करें</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

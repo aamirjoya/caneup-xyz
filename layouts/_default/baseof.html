@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}CaneUp - गन्ना किसानों का सम्पूर्ण गाइड{{ else }}{{ .Title }} | CaneUp{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}गन्ना किसानों के लिए सम्पूर्ण जानकारी - पर्ची कैलेंडर, MSP रेट, खेती के टिप्स, सरकारी योजनाएं{{ end }}">
+  <meta name="keywords" content="गन्ना किसान, ganna parchi calendar, sugarcane farming, caneup, MSP रेट, शुगर मिल">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/custom.css">
+  
+  <!-- Schema Markup -->
+  {{ if .IsPage }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "author": {"@type": "Organization", "name": "CaneUp"},
+    "publisher": {"@type": "Organization", "name": "CaneUp"}
+  }
+  </script>
+  {{ end }}
+  
+  {{ if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "CaneUp",
+    "url": "https://caneup.xyz",
+    "description": "गन्ना किसानों का सम्पूर्ण गाइड"
+  }
+  </script>
+  {{ end }}
+</head>
+<body>
+  {{ partial "header.html" . }}
+  
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  
+  {{ partial "footer.html" . }}
+</body>
+</html>

@@ -1,0 +1,42 @@
+{{ define "main" }}
+<article class="post-content">
+  <div class="article-meta" style="margin-bottom: 20px;">
+    <span class="article-date">{{ .Date.Format "02 Jan 2006" }}</span>
+    {{ with .Params.categories }}
+    <span class="article-category">{{ index . 0 }}</span>
+    {{ end }}
+  </div>
+  
+  <h1>{{ .Title }}</h1>
+  
+  <p style="color: #64748b; font-size: 1.05rem; margin-bottom: 32px;">{{ .Description }}</p>
+  
+  {{ .Content }}
+  
+  <!-- Share Buttons -->
+  <div style="margin-top: 40px; padding-top: 24px; border-top: 2px solid #e2e8f0;">
+    <h3 style="margin-bottom: 16px;">📢 यह जानकारी शेयर करें</h3>
+    <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+      <a href="https://wa.me/?text={{ .Title }} {{ .Permalink }}" class="btn btn-primary" style="font-size: 0.85rem;">📱 WhatsApp</a>
+      <a href="https://t.me/share/url?url={{ .Permalink }}&text={{ .Title }}" class="btn btn-secondary" style="font-size: 0.85rem; background: #0088cc; border-color: #0088cc;">✈️ Telegram</a>
+      <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" class="btn btn-outline" style="font-size: 0.85rem;">🐦 Twitter</a>
+    </div>
+  </div>
+  
+  <!-- Related Posts -->
+  {{ $related := .Site.RegularPages.Related . | first 3 }}
+  {{ with $related }}
+  <div style="margin-top: 40px;">
+    <h3 style="margin-bottom: 20px;">📖 संबंधित लेख</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
+      {{ range . }}
+      <a href="{{ .Permalink }}" style="background: #f8faf9; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; text-decoration: none; color: #1a1a2e; transition: all 0.3s ease;">
+        <h4 style="font-size: 1rem; margin-bottom: 8px;">{{ .Title }}</h4>
+        <p style="font-size: 0.85rem; color: #64748b;">{{ .Description | truncate 80 }}</p>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</article>
+{{ end }}
