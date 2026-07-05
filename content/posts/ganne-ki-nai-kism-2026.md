@@ -2,7 +2,7 @@
 title: "गन्ने की नई किस्म 2026 - सबसे अच्छी और ज़्यादा पैदावार देने वाली किस्में"
 date: 2026-06-28T08:00:00+05:30
 description: "गन्ने की नई किस्में 2026 - Co-0238, Co-0118, Co-86032, Co-0157। कौन सी किस्म कहाँ लगाएं, कितनी पैदावार मिलेगी।"
-image: /images/blog/ganne-ki-nai-kism-2026.jpg
+image: /images/blog/ganne-ki-nai-kism-2026.avif
 categories: ["Ganna Kheti"]
 tags: ["variety", "kism", "Co-0238", "seed", "ganna"]
 keywords: ["ganne-ki-nai-kism-2026", "ganna kisan", "sugar mill", "UP"]

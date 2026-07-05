@@ -2,7 +2,7 @@
 title: "गन्ने की कटाई मशीन — रेट, प्रकार और खरीदने की पूरी जानकारी"
 date: 2026-07-06T08:06:00+05:30
 description: "गन्ने की कटाई मशीन (हार्वेस्टर) की पूरी जानकारी। रेट, प्रकार, कंपनियां, और कौन सी मशीन सबसे अच्छी है।"
-image: /images/blog/ganne-ki-katai-machine.jpg
+image: /images/blog/ganne-ki-katai-machine.avif
 categories: ["गन्ना मशीनरी"]
 tags: ["गन्ना हार्वेस्टर", "कटाई मशीन", "farm mechanization", "गन्ना काटने की मशीन", "agriculture machine"]
 ShowToc: true

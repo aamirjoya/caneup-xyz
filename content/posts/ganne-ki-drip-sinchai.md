@@ -2,7 +2,7 @@
 title: "गन्ने की ड्रिप सिंचाई — पानी बचाएं, उत्पादन बढ़ाएं"
 date: 2026-07-06T08:15:00+05:30
 description: "गन्ने में ड्रिप सिंचाई का पूरा तरीका। ड्रिप सिस्टम कैसे लगाएं, कितना पानी बचता है, और सब्सिडी कैसे मिलती है।"
-image: /images/blog/ganne-ki-drip-sinchai.jpg
+image: /images/blog/ganne-ki-drip-sinchai.avif
 categories: ["गन्ना खेती"]
 tags: ["ड्रिप सिंचाई", "drip irrigation", "पानी बचत", "micro irrigation", "गन्ना"]
 ShowToc: true

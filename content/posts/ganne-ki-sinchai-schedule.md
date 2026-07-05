@@ -2,7 +2,7 @@
 title: "गन्ने की सिंचाई कब करें — पूरा शेड्यूल और सही समय"
 date: 2026-07-06T08:05:00+05:30
 description: "गन्ने की सिंचाई का पूरा शेड्यूल। बुवाई से कटाई तक कब-कब पानी दें, कितने दिन के अंतर से, और कितना पानी चाहिए।"
-image: /images/blog/ganne-ki-sinchai-schedule.jpg
+image: /images/blog/ganne-ki-sinchai-schedule.avif
 categories: ["गन्ना खेती"]
 tags: ["सिंचाई", "गन्ने की सिंचाई", "irrigation schedule", "पानी प्रबंधन", "गन्ना किसान"]
 ShowToc: true

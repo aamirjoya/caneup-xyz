@@ -2,7 +2,7 @@
 title: "गन्ने की तुलाई कैसे होती है — वेजब्रिज, प्रक्रिया और भुगतान"
 date: 2026-07-06T08:08:00+05:30
 description: "गन्ने की तुलाई की पूरी प्रक्रिया। वेजब्रिज कैसे काम करता है, वजन कैसे तय होता है, और भुगतान कब मिलता है।"
-image: /images/blog/ganne-ki-tulai-kaise-hoti-hai.jpg
+image: /images/blog/ganne-ki-tulai-kaise-hoti-hai.avif
 categories: ["गन्ना मार्केट"]
 tags: ["गन्ने की तुलाई", "वेजब्रिज", "weighbridge", "गन्ना वजन", "चीनी मिल"]
 ShowToc: true

@@ -2,7 +2,7 @@
 title: "गन्ने में खाद कब डालें - पूरा शेड्यूल और मात्रा"
 date: 2026-07-01T09:30:00+05:30
 description: "गन्ने में खाद डालने का सही समय और मात्रा। NPK, गोबर की खाद, नीम की खली, और जैविक खाद का इस्तेमाल। पैदावार बढ़ाने के लिए खाद का शेड्यूल।"
-image: /images/blog/ganne-mein-khad-kab-dale.jpg
+image: /images/blog/ganne-mein-khad-kab-dale.avif
 categories: ["Ganna Kheti"]
 tags: ["khad", "fertilizer", "NPK", "ganna kheti"]
 keywords: ["ganne-mein-khad-kab-dale", "ganna kisan", "sugar mill", "UP"]

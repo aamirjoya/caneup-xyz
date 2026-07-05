@@ -2,7 +2,7 @@
 title: "गन्ने की जैविक खेती कैसे करें — बिना केमिकल के अच्छी पैदावार"
 date: 2026-07-06T08:10:00+05:30
 description: "गन्ने की जैविक खेती का पूरा तरीका। बिना केमिकल खाद और दवा के गन्ने की अच्छी पैदावार कैसे लें।"
-image: /images/blog/ganne-ki-jaivik-kheti.jpg
+image: /images/blog/ganne-ki-jaivik-kheti.avif
 categories: ["गन्ना खेती"]
 tags: ["जैविक खेती", "organic farming", "गन्ना", "प्राकृतिक खेती", "केमिकल फ्री"]
 ShowToc: true
