@@ -1,7 +1,10 @@
 ---
 title: "राणा शुगर - बाराबंकी | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-05T15:15:00+05:30
 description: "राणा शुगर बाराबंकी की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर।"
+images:
+  - /images/blog/rana-sugar-barabanki.jpg
+image: /images/blog/rana-sugar-barabanki.jpg
 categories: ["Sugar Mill"]
 tags: ["rana sugar", "barabanki", "sugar mill", "UP"]
 ShowToc: true

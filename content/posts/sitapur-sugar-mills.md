@@ -1,7 +1,10 @@
 ---
 title: "सीतापुर की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
-date: 2026-07-06
+date: 2026-07-05T18:00:00+05:30
 description: "सीतापुर जिले की सभी शुगर मिल्स की पूरी लिस्ट। सीतापुर, बिसवां, महमूदाबाद, लहरपुर समेत 4+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/sitapur-sugar-mills.jpg
+image: /images/blog/sitapur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["sitapur", "sugar mill", "UP", "biswan"]
 ShowToc: true

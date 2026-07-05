@@ -1,7 +1,10 @@
 ---
 title: "एथेनॉल प्लांट बिजनेस - गन्ने से एथेनॉल बनाकर कमाएं लाखों"
-date: 2026-01-18
+date: 2026-06-30T08:30:00+05:30
 description: "एथेनॉल प्लांट बिजनेस की पूरी जानकारी - सरकारी योजना, लागत, मुनाफ़ा, आवेदन प्रक्रिया। E20 ब्लेंडिंग पॉलिसी से किसानों को फ़ायदा।"
+images:
+  - /images/blog/ethanol-plant-business.jpg
+image: /images/blog/ethanol-plant-business.jpg
 categories: ["Business"]
 tags: ["ethanol", "business", "ganna", "biofuel"]
 ShowToc: true

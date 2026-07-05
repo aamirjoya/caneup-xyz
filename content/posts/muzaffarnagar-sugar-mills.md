@@ -1,7 +1,10 @@
 ---
 title: "मुजफ्फरनगर की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
-date: 2026-07-06
+date: 2026-07-05T09:15:00+05:30
 description: "मुजफ्फरनगर जिले की सभी शुगर मिल्स की पूरी लिस्ट। तितावी, खतौली, बुढ़ाना, जानसठ समेत 8+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/muzaffarnagar-sugar-mills.jpg
+image: /images/blog/muzaffarnagar-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["muzaffarnagar", "sugar mill", "UP", "titavi", "khatoli"]
 ShowToc: true

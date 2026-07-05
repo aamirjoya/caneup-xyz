@@ -1,7 +1,10 @@
 ---
 title: "सहारनपुर की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
-date: 2026-07-06
+date: 2026-07-05T10:45:00+05:30
 description: "सहारनपुर जिले की सभी शुगर मिल्स की पूरी लिस्ट। देवबंद, नकुड़, गंगोह, रामपुर मनिहारन समेत 6+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/saharanpur-sugar-mills.jpg
+image: /images/blog/saharanpur-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["saharanpur", "sugar mill", "UP", "deoband", "nanauta"]
 ShowToc: true

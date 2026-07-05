@@ -1,7 +1,10 @@
 ---
 title: "किसान क्रेडिट कार्ड (KCC) - गन्ना किसानों के लिए सस्ता लोन"
-date: 2026-02-18
+date: 2026-07-02T14:30:00+05:30
 description: "किसान क्रेडिट कार्ड (KCC) - गन्ना किसानों को 4% ब्याज पर ₹3 लाख तक का लोन। KCC कैसे बनवाएं, दस्तावेज़, और ब्याज दर।"
+images:
+  - /images/blog/kisan-credit-card-ganna.jpg
+image: /images/blog/kisan-credit-card-ganna.jpg
 categories: ["Sarkari Yojana"]
 tags: ["KCC", "kisan credit card", "loan", "ganna kisan"]
 ShowToc: true

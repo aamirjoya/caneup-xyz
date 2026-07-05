@@ -1,7 +1,10 @@
 ---
 title: "पीलीभीत की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
-date: 2026-07-06
+date: 2026-07-05T17:30:00+05:30
 description: "पीलीभीत जिले की सभी शुगर मिल्स की पूरी लिस्ट। बिलाई, पीलीभीत, पूरनपुर, बीसलपुर समेत 4+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/pilibhit-sugar-mills.jpg
+image: /images/blog/pilibhit-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["pilibhit", "sugar mill", "UP", "bilai"]
 ShowToc: true

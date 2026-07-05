@@ -1,7 +1,10 @@
 ---
 title: "Bajaj Hindusthan Sugar Mill - Gangnauli | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-05T09:30:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Gangnauli, Saharanpur की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/bajaj-hindusthan-gangnauli.jpg
+image: /images/blog/bajaj-hindusthan-gangnauli.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "gangnauli", "saharanpur", "sugar mill", "UP"]
 ShowToc: true

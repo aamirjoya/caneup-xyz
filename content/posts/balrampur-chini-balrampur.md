@@ -1,7 +1,10 @@
 ---
 title: "Balrampur Chini Mills - Balrampur | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-04T12:30:00+05:30
 description: "Balrampur Chini Mills Balrampur Unit की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/balrampur-chini-balrampur.jpg
+image: /images/blog/balrampur-chini-balrampur.jpg
 categories: ["Sugar Mill"]
 tags: ["balrampur chini", "balrampur", "sugar mill", "UP"]
 ShowToc: true

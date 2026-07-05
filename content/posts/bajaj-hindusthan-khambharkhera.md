@@ -1,7 +1,10 @@
 ---
 title: "Bajaj Hindusthan Sugar Mill - Khambharkhera | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-05T10:15:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Khambharkhera, Lakhimpur Kheri की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/bajaj-hindusthan-khambharkhera.jpg
+image: /images/blog/bajaj-hindusthan-khambharkhera.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "khambharkhera", "lakhimpur kheri", "sugar mill", "UP"]
 ShowToc: true

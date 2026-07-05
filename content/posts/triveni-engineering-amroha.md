@@ -1,7 +1,10 @@
 ---
 title: "त्रिवेणी इंजीनियरिंग - अमरोहा | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-04T16:15:00+05:30
 description: "त्रिवेणी इंजीनियरिंग चंदनपुर शुगर मिल अमरोहा की पूरी जानकारी। 40,000+ TCD क्षमता, 1,00,000+ किसान। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/triveni-engineering-amroha.jpg
+image: /images/blog/triveni-engineering-amroha.jpg
 categories: ["Sugar Mill"]
 tags: ["triveni", "amroha", "sugar mill", "UP", "chandanpur"]
 ShowToc: true

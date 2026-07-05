@@ -1,7 +1,10 @@
 ---
 title: "Balrampur Chini Mills - Babhnan | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-05T17:00:00+05:30
 description: "Balrampur Chini Mills Babhnan Unit, Basti की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/balrampur-chini-babhnan.jpg
+image: /images/blog/balrampur-chini-babhnan.jpg
 categories: ["Sugar Mill"]
 tags: ["balrampur chini", "babhnan", "basti", "sugar mill", "UP"]
 ShowToc: true

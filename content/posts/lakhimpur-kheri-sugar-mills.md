@@ -1,7 +1,10 @@
 ---
 title: "लखीमपुर खीरी की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
-date: 2026-07-06
+date: 2026-07-05T12:15:00+05:30
 description: "लखीमपुर खीरी जिले की सभी शुगर मिल्स की पूरी लिस्ट। गोला, पलिया, मोहम्मदी, निघासन समेत 6+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/lakhimpur-kheri-sugar-mills.jpg
+image: /images/blog/lakhimpur-kheri-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["lakhimpur kheri", "sugar mill", "UP", "gola", "palia"]
 ShowToc: true

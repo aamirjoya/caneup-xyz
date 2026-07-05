@@ -1,7 +1,10 @@
 ---
 title: "गन्ना किसान लोन कैसे लें - KCC, PM Kisan, और अन्य लोन योजनाएं"
-date: 2026-01-28
+date: 2026-07-01T09:15:00+05:30
 description: "गन्ना किसानों के लिए लोन योजनाएं - किसान क्रेडिट कार्ड, PM किसान, SBI, PNB से लोन कैसे लें। ब्याज दर, दस्तावेज़ और आवेदन प्रक्रिया।"
+images:
+  - /images/blog/ganna-kisan-loan.jpg
+image: /images/blog/ganna-kisan-loan.jpg
 categories: ["Sarkari Yojana"]
 tags: ["loan", "KCC", "kisan credit card", "PM Kisan"]
 ShowToc: true

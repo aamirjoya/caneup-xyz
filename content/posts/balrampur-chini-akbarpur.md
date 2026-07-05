@@ -1,7 +1,10 @@
 ---
 title: "Balrampur Chini Mills - Akbarpur | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-05T16:15:00+05:30
 description: "Balrampur Chini Mills Akbarpur Unit, Ambedkar Nagar की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/balrampur-chini-akbarpur.jpg
+image: /images/blog/balrampur-chini-akbarpur.jpg
 categories: ["Sugar Mill"]
 tags: ["balrampur chini", "akbarpur", "ambedkar nagar", "sugar mill", "UP"]
 ShowToc: true

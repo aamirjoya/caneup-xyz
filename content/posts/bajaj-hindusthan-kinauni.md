@@ -1,7 +1,10 @@
 ---
 title: "Bajaj Hindusthan Sugar Mill - Kinauni | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-05T11:00:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Kinauni, Meerut की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/bajaj-hindusthan-kinauni.jpg
+image: /images/blog/bajaj-hindusthan-kinauni.jpg
 categories: ["Sugar Mill"]
 tags: ["bajaj hindusthan", "kinauni", "meerut", "sugar mill", "UP"]
 ShowToc: true

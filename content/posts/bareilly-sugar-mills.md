@@ -1,7 +1,10 @@
 ---
 title: "बरेली की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp"
-date: 2026-07-06
+date: 2026-07-05T11:30:00+05:30
 description: "बरेली जिले की सभी शुगर मिल्स की पूरी लिस्ट। द्वारिकेश, केसर, मीरगंज, देओरनियां समेत 8+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।"
+images:
+  - /images/blog/bareilly-sugar-mills.jpg
+image: /images/blog/bareilly-sugar-mills.jpg
 categories: ["Sugar Mill"]
 tags: ["bareilly", "sugar mill", "UP", "dwarikesh", "kesar"]
 ShowToc: true

@@ -1,7 +1,10 @@
 ---
 title: "Balrampur Chini Mills - Tulsipur | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-06
+date: 2026-07-04T13:15:00+05:30
 description: "Balrampur Chini Mills Tulsipur Unit, Balrampur की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
+images:
+  - /images/blog/balrampur-chini-tulsipur.jpg
+image: /images/blog/balrampur-chini-tulsipur.jpg
 categories: ["Sugar Mill"]
 tags: ["balrampur chini", "tulsipur", "balrampur", "sugar mill", "UP"]
 ShowToc: true

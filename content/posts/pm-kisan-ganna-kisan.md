@@ -1,7 +1,10 @@
 ---
 title: "PM किसान योजना - गन्ना किसानों को ₹6,000 कैसे मिलेंगे"
-date: 2026-02-15
+date: 2026-07-02T11:45:00+05:30
 description: "PM किसान सम्मान निधि योजना - गन्ना किसानों को सालाना ₹6,000। ऑनलाइन आवेदन, स्टेटस चेक, और किश्त कब आएगी।"
+images:
+  - /images/blog/pm-kisan-ganna-kisan.jpg
+image: /images/blog/pm-kisan-ganna-kisan.jpg
 categories: ["Sarkari Yojana"]
 tags: ["PM Kisan", "sarkari yojana", "6000", "kisan"]
 ShowToc: true

@@ -1,7 +1,10 @@
 ---
 title: "गन्ने की पैदावार कैसे बढ़ाएं - 10 आसान और असरदार उपाय"
-date: 2026-02-01
+date: 2026-07-01T13:00:00+05:30
 description: "गन्ने की पैदावार बढ़ाने के 10 आसान उपाय - सही किस्म, खाद, सिंचाई, कीट नियंत्रण और आधुनिक तकनीक। एक एकड़ से 500 क्विंटल तक गन्ना लें।"
+images:
+  - /images/blog/ganne-ki-paidwar-kaise-badhaye.jpg
+image: /images/blog/ganne-ki-paidwar-kaise-badhaye.jpg
 categories: ["Ganna Kheti"]
 tags: ["paidwar", "yield", "tips", "farming", "ganna kheti"]
 ShowToc: true

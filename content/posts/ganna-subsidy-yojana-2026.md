@@ -1,7 +1,10 @@
 ---
 title: "गन्ना किसान सब्सिडी योजना 2026 - सभी सरकारी योजनाओं की जानकारी"
-date: 2026-01-08
+date: 2026-06-29T09:00:00+05:30
 description: "गन्ना किसानों के लिए सरकारी योजनाएं - PM किसान, किसान क्रेडिट कार्ड, गन्ना सब्सिडी, फसल बीमा। ऑनलाइन आवेदन का पूरा तरीका।"
+images:
+  - /images/blog/ganna-subsidy-yojana-2026.jpg
+image: /images/blog/ganna-subsidy-yojana-2026.jpg
 categories: ["Sarkari Yojana"]
 tags: ["sarkari yojana", "subsidy", "PM Kisan", "loan", "kisan credit card"]
 ShowToc: true
