@@ -1,6 +1,6 @@
 ---
 title: "Balrampur Chini Mills - Babhnan | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-05T17:00:00+05:30
+date: 2026-07-05T08:45:00+05:30
 description: "Balrampur Chini Mills Babhnan Unit, Basti की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
 images:
   - /images/blog/balrampur-chini-babhnan.jpg

@@ -1,6 +1,6 @@
 ---
 title: "CaneUp.in पर्ची कैलेंडर 2025-26 — ऑनलाइन कैसे देखें"
-date: 2026-07-03T16:45:00+05:30
+date: 2026-07-01T16:45:00+05:30
 description: "CaneUp.in (cane up in) पर गन्ना पर्ची कैलेंडर 2025-26 ऑनलाइन कैसे देखें। Step by step पूरी जानकारी। UP, Bihar, Maharashtra के किसानों के लिए।"
 images:
   - /images/blog/caneup-in-parchi-calendar.jpg

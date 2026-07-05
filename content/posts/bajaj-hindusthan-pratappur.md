@@ -1,6 +1,6 @@
 ---
 title: "Bajaj Hindusthan Sugar Mill - Pratappur | जानकारी, क्षमता, किसान, इतिहास"
-date: 2026-07-05T13:15:00+05:30
+date: 2026-07-04T13:15:00+05:30
 description: "Bajaj Hindusthan Sugar Mill Pratappur, Deoria की पूरी जानकारी। क्षमता, जुड़े किसान, इतिहास, पर्ची कैलेंडर, भुगतान स्टेटस।"
 images:
   - /images/blog/bajaj-hindusthan-pratappur.jpg

@@ -1,6 +1,6 @@
 ---
 title: "CaneUp - गन्ना पर्ची कैलेंडर, शुगर मिल एन्क्वायरी | caneup.xyz"
-date: 2026-07-03T12:15:00+05:30
+date: 2026-07-01T12:15:00+05:30
 description: "CaneUp (cane up) पर गन्ना पर्ची कैलेंडर, शुगर मिल एन्क्वायरी, भुगतान स्टेटस, MSP रेट — सब कुछ एक जगह। UP, Bihar, Maharashtra के किसानों के लिए।"
 images:
   - /images/blog/caneup-keywords-target.jpg
