@@ -1,7 +1,7 @@
 baseURL = "https://caneup.xyz/"
 languageCode = "hi-in"
 defaultContentLanguage = "hi"
-title = "CaneUp - गन्ना किसानों का सम्पूर्ण गाइड"
+title = "CaneUp - गन्ना पर्ची कैलेंडर 2026 | eGanna App | गन्ना MSP रेट | गन्ना किसान गाइड"
 theme = "PaperMod"
 pagination.pagerSize = 20
 enableRobotsTXT = true
@@ -11,9 +11,41 @@ buildExpired = false
 
 [params]
   env = "production"
-  title = "CaneUp - गन्ना किसानों का सम्पूर्ण गाइड"
-  description = "गन्ना किसानों के लिए सम्पूर्ण जानकारी - पर्ची कैलेंडर, MSP रेट, खेती के टिप्स, सरकारी योजनाएं, और बहुत कुछ"
-  keywords = ["गन्ना किसान", "ganna parchi calendar", "sugarcane farming", "caneup", "गन्ना MSP रेट", "शुगर मिल", "गन्ना पर्ची"]
+  title = "CaneUp - गन्ना पर्ची कैलेंडर 2026 | eGanna App Download | गन्ना MSP रेट"
+  description = "CaneUp - गन्ना किसानों का सम्पूर्ण पोर्टल। गन्ना पर्ची कैलेंडर 2026 कैसे देखें, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, शुगर मिल लिस्ट, CaneUp Enquiry। UP, महाराष्ट्र, कर्नाटक के गन्ना किसानों के लिए।"
+  keywords = [
+    "caneup",
+    "caneup.xyz",
+    "caneup.in",
+    "caneup enquiry",
+    "e ganna app",
+    "eganna app",
+    "eGANNA CANE UP",
+    "eganna app download",
+    "गन्ना पर्ची कैलेंडर",
+    "ganna parchi calendar",
+    "गन्ना पर्ची कैलेंडर कैसे देखें",
+    "ganna parchi calendar 2026",
+    "गन्ना पर्ची कैलेंडर 2025-26",
+    "गन्ना भुगतान स्थिति",
+    "ganna payment status",
+    "सप्लाई टिकट",
+    "supply ticket",
+    "गन्ना MSP रेट 2026",
+    "ganna MSP rate",
+    "FRP रेट",
+    "गन्ना किसान",
+    "sugarcane farmer",
+    "शुगर मिल लिस्ट",
+    "UP sugar mill",
+    "upcane.gov.in",
+    "sugarcane farming India",
+    "गन्ना खेती",
+    "गन्ना सब्सिडी",
+    "PM किसान योजना",
+    "किसान क्रेडिट कार्ड",
+    "गन्ना लोन"
+  ]
   author = "CaneUp Team"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -31,8 +63,8 @@ buildExpired = false
   showtoc = true
 
   [params.homeInfoParams]
-    Title = "🌾 CaneUp - गन्ना किसानों का भरोसेमंद साथी"
-    Content = "गन्ना पर्ची कैलेंडर, MSP रेट, खेती के नुस्खे, सरकारी योजनाएं - सब एक जगह। उत्तर प्रदेश, महाराष्ट्र, कर्नाटक और पूरे भारत के गन्ना किसानों के लिए।"
+    Title = "🌾 CaneUp - गन्ना पर्ची कैलेंडर 2026 | eGanna App | गन्ना किसानों का भरोसेमंद साथी"
+    Content = "गन्ना पर्ची कैलेंडर 2026 कैसे देखें, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। CaneUp Enquiry से गन्ना तौल और भुगतान चेक करें। उत्तर प्रदेश, महाराष्ट्र, कर्नाटक और पूरे भारत के गन्ना किसानों के लिए।"
 
   [[params.socialIcons]]
     name = "youtube"
