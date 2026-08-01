@@ -1,61 +1,462 @@
-{{ define "main" }}
-<article class="post-content">
-  <div class="article-meta" style="margin-bottom: 20px;">
-    <span class="article-date">{{ .Date.Format "02 Jan 2006" }}</span>
-    {{ with .Params.categories }}
-    <span class="article-category">{{ index . 0 }}</span>
-    {{ end }}
-  </div>
-  
-  <h1>{{ .Title }}</h1>
-  
-  {{ with .Params.image }}
-  <div style="margin-bottom: 24px;">
-    <img src="{{ . }}" alt="{{ $.Title }}" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  </div>
-  {{ end }}
-  
-  <p style="color: #64748b; font-size: 1.05rem; margin-bottom: 32px;">{{ .Description }}</p>
-  
-  {{ .Content }}
-  
-  <!-- Internal Links Section -->
-  <div style="margin-top: 40px; padding: 24px; background: #f8faf9; border-radius: 12px; border: 1px solid #e2e8f0;">
-    <h3 style="margin-bottom: 16px; color: #1a5632;">📌 यह भी पढ़ें</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px;">
-      <a href="/posts/caneup-keywords-target/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🌾 CaneUp पूरी जानकारी</a>
-      <a href="/posts/ganna-parchi-calendar-2025-26/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">📋 गन्ना पर्ची कैलेंडर</a>
-      <a href="/posts/ganna-msp-rate-2026/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">💰 MSP रेट 2026</a>
-      <a href="/posts/up-sugar-mill-list-complete/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🏭 UP शुगर मिल लिस्ट</a>
-      <a href="/posts/ganne-ki-kheti-guide/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🌾 गन्ने की खेती गाइड</a>
-      <a href="/tools/" style="padding: 12px; background: white; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; color: #1a1a2e; font-size: 0.9rem;">🔧 किसान टूल्स</a>
-    </div>
-  </div>
+{{ define "head" }}
+<style>
+    /* ===== SINGLE ARTICLE ===== */
+    .article-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem;
+    }
 
-  <!-- Share Buttons -->
-  <div style="margin-top: 40px; padding-top: 24px; border-top: 2px solid #e2e8f0;">
-    <h3 style="margin-bottom: 16px;">📢 यह जानकारी शेयर करें</h3>
-    <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-      <a href="https://wa.me/?text={{ .Title }} {{ .Permalink }}" class="btn btn-primary" style="font-size: 0.85rem;">📱 WhatsApp</a>
-      <a href="https://t.me/share/url?url={{ .Permalink }}&text={{ .Title }}" class="btn btn-secondary" style="font-size: 0.85rem; background: #0088cc; border-color: #0088cc;">✈️ Telegram</a>
-      <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" class="btn btn-outline" style="font-size: 0.85rem;">🐦 Twitter</a>
+    /* Breadcrumbs */
+    .breadcrumbs {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 0.85rem;
+        color: #757575;
+        margin-bottom: 1.5rem;
+        flex-wrap: wrap;
+    }
+    .breadcrumbs a {
+        color: #2E7D32;
+        font-weight: 500;
+    }
+    .breadcrumbs a:hover { text-decoration: underline; }
+    .breadcrumbs .sep { color: #BDBDBD; }
+
+    /* Article Header */
+    .article-header { margin-bottom: 2rem; }
+    .article-header h1 {
+        font-size: clamp(1.5rem, 4vw, 2rem);
+        font-weight: 700;
+        color: #1B5E20;
+        line-height: 1.35;
+        margin-bottom: 1rem;
+    }
+    .article-meta {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        flex-wrap: wrap;
+        font-size: 0.85rem;
+        color: #757575;
+    }
+    .article-meta-item {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    .article-category-badge {
+        background: #E8F5E9;
+        color: #2E7D32;
+        padding: 0.2rem 0.7rem;
+        border-radius: 50px;
+        font-weight: 600;
+        font-size: 0.8rem;
+    }
+
+    /* Table of Contents */
+    .toc-container {
+        background: #F1F8E9;
+        border: 1px solid #C8E6C9;
+        border-radius: 12px;
+        margin-bottom: 2rem;
+        overflow: hidden;
+    }
+    .toc-toggle {
+        width: 100%;
+        background: none;
+        border: none;
+        padding: 1rem 1.25rem;
+        font-size: 1rem;
+        font-weight: 700;
+        color: #1B5E20;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family: inherit;
+    }
+    .toc-toggle:hover { background: #E8F5E9; }
+    .toc-toggle::after { content: '▼'; font-size: 0.7rem; transition: transform 0.3s; }
+    .toc-toggle.active::after { transform: rotate(180deg); }
+    .toc-content {
+        padding: 0 1.25rem 1rem;
+        display: none;
+    }
+    .toc-content.open { display: block; }
+    .toc-content ul {
+        list-style: none;
+        padding: 0;
+    }
+    .toc-content li {
+        padding: 0.35rem 0;
+        border-bottom: 1px solid #E8F5E9;
+    }
+    .toc-content li:last-child { border-bottom: none; }
+    .toc-content a {
+        color: #424242;
+        font-size: 0.9rem;
+        transition: color 0.2s;
+    }
+    .toc-content a:hover { color: #2E7D32; }
+    .toc-content ul ul { padding-left: 1.2rem; }
+
+    /* Article Content */
+    .article-content {
+        font-size: 1.05rem;
+        line-height: 1.8;
+        color: #212121;
+    }
+    .article-content h2 {
+        font-size: 1.4rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin: 2rem 0 0.75rem;
+        padding-bottom: 0.4rem;
+        border-bottom: 2px solid #E8F5E9;
+    }
+    .article-content h3 {
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: #2E7D32;
+        margin: 1.5rem 0 0.5rem;
+    }
+    .article-content p { margin-bottom: 1rem; }
+    .article-content ul, .article-content ol {
+        margin-bottom: 1rem;
+        padding-left: 1.5rem;
+    }
+    .article-content ul { list-style: disc; }
+    .article-content ol { list-style: decimal; }
+    .article-content li { margin-bottom: 0.4rem; }
+    .article-content blockquote {
+        border-left: 4px solid #4CAF50;
+        background: #F1F8E9;
+        padding: 1rem 1.25rem;
+        margin: 1.5rem 0;
+        border-radius: 0 8px 8px 0;
+        font-style: italic;
+        color: #424242;
+    }
+    .article-content code {
+        background: #E8F5E9;
+        padding: 0.15rem 0.4rem;
+        border-radius: 4px;
+        font-size: 0.9em;
+        color: #1B5E20;
+    }
+    .article-content pre {
+        background: #1B5E20;
+        color: #E8F5E9;
+        padding: 1.25rem;
+        border-radius: 10px;
+        overflow-x: auto;
+        margin: 1.5rem 0;
+        font-size: 0.9rem;
+        line-height: 1.5;
+    }
+    .article-content pre code {
+        background: none;
+        padding: 0;
+        color: inherit;
+    }
+    .article-content img {
+        border-radius: 10px;
+        margin: 1.5rem 0;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .article-content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        font-size: 0.9rem;
+    }
+    .article-content th {
+        background: #2E7D32;
+        color: #FFFFFF;
+        padding: 0.75rem 1rem;
+        text-align: left;
+        font-weight: 600;
+    }
+    .article-content td {
+        padding: 0.75rem 1rem;
+        border-bottom: 1px solid #E8F5E9;
+    }
+    .article-content tr:nth-child(even) { background: #F1F8E9; }
+    .article-content a {
+        color: #2E7D32;
+        font-weight: 600;
+        text-decoration: underline;
+        text-decoration-color: #C8E6C9;
+        text-underline-offset: 3px;
+    }
+    .article-content a:hover {
+        color: #1B5E20;
+        text-decoration-color: #2E7D32;
+    }
+
+    /* Author Box */
+    .author-box {
+        background: #F1F8E9;
+        border: 1px solid #C8E6C9;
+        border-radius: 14px;
+        padding: 1.5rem;
+        display: flex;
+        gap: 1.25rem;
+        align-items: flex-start;
+        margin: 2.5rem 0;
+    }
+    .author-avatar {
+        width: 64px;
+        height: 64px;
+        background: linear-gradient(135deg, #2E7D32, #4CAF50);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        color: #FFFFFF;
+        font-weight: 700;
+        flex-shrink: 0;
+    }
+    .author-info h4 {
+        font-size: 1rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin-bottom: 0.25rem;
+    }
+    .author-info p {
+        font-size: 0.85rem;
+        color: #616161;
+        line-height: 1.5;
+    }
+
+    /* Share Buttons */
+    .share-section {
+        margin: 2rem 0;
+        padding: 1.5rem;
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 14px;
+        text-align: center;
+    }
+    .share-section h3 {
+        font-size: 1rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin-bottom: 1rem;
+    }
+    .share-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+    }
+    .share-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        padding: 0.65rem 1.2rem;
+        border-radius: 50px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.2s;
+    }
+    .share-btn:hover { transform: translateY(-2px); }
+    .share-btn-wa { background: #25D366; color: #FFF; }
+    .share-btn-tg { background: #0088CC; color: #FFF; }
+    .share-btn-tw { background: #1DA1F2; color: #FFF; }
+
+    /* Related Articles */
+    .related-section { margin: 2.5rem 0; }
+    .related-section h3 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin-bottom: 1rem;
+    }
+    .related-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1rem;
+    }
+    .related-card {
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 12px;
+        padding: 1.25rem;
+        text-decoration: none;
+        color: #212121;
+        transition: all 0.25s;
+        display: block;
+    }
+    .related-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 18px rgba(46,125,50,0.1);
+        color: #212121;
+    }
+    .related-card h4 {
+        font-size: 0.95rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin-bottom: 0.4rem;
+        line-height: 1.4;
+    }
+    .related-card p {
+        font-size: 0.8rem;
+        color: #757575;
+    }
+
+    /* Prev/Next Navigation */
+    .post-nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+        margin: 2rem 0;
+    }
+    .post-nav a {
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 12px;
+        padding: 1rem 1.25rem;
+        text-decoration: none;
+        color: #212121;
+        transition: all 0.2s;
+    }
+    .post-nav a:hover {
+        border-color: #4CAF50;
+        box-shadow: 0 4px 12px rgba(46,125,50,0.1);
+        color: #212121;
+    }
+    .post-nav-label {
+        font-size: 0.75rem;
+        color: #9E9E9E;
+        margin-bottom: 0.25rem;
+    }
+    .post-nav-title {
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: #2E7D32;
+    }
+    .post-nav .next { text-align: right; }
+
+    @media (max-width: 768px) {
+        .author-box { flex-direction: column; align-items: center; text-align: center; }
+        .post-nav { grid-template-columns: 1fr; }
+    }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<article class="article-container">
+    <!-- Breadcrumbs -->
+    <nav class="breadcrumbs">
+        <a href="{{ .Site.BaseURL }}">🏠 होम</a>
+        <span class="sep">›</span>
+        {{ with .Section }}
+        <a href="/{{ . }}/">{{ . }}</a>
+        <span class="sep">›</span>
+        {{ end }}
+        <span>{{ .Title }}</span>
+    </nav>
+
+    <!-- Article Header -->
+    <header class="article-header">
+        <h1>{{ .Title }}</h1>
+        <div class="article-meta">
+            {{ with .Params.categories }}
+            <a href="/categories/{{ index . 0 | urlize }}/" class="article-category-badge">{{ index . 0 }}</a>
+            {{ end }}
+            <span class="article-meta-item">📅 {{ .Date.Format "2 जनवरी 2006" }}</span>
+            {{ with .Params.author }}
+            <span class="article-meta-item">✍️ {{ . }}</span>
+            {{ else }}
+            <span class="article-meta-item">✍️ {{ .Site.Params.author }}</span>
+            {{ end }}
+            <span class="article-meta-item">📖 {{ .ReadingTime }} मिनट पढ़ें</span>
+        </div>
+    </header>
+
+    <!-- Table of Contents -->
+    {{ with .TableOfContents }}
+    {{ if and (ne . "") (gt (len .) 50) }}
+    <div class="toc-container">
+        <button class="toc-toggle" onclick="this.classList.toggle('active');this.nextElementSibling.classList.toggle('open')">
+            📑 विषय सूची
+        </button>
+        <div class="toc-content">
+            {{ . }}
+        </div>
     </div>
-  </div>
-  
-  <!-- Related Posts -->
-  {{ $related := .Site.RegularPages.Related . | first 3 }}
-  {{ with $related }}
-  <div style="margin-top: 40px;">
-    <h3 style="margin-bottom: 20px;">📖 संबंधित लेख</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
-      {{ range . }}
-      <a href="{{ .Permalink }}" style="background: #f8faf9; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; text-decoration: none; color: #1a1a2e; transition: all 0.3s ease;">
-        <h4 style="font-size: 1rem; margin-bottom: 8px;">{{ .Title }}</h4>
-        <p style="font-size: 0.85rem; color: #64748b;">{{ .Description | truncate 80 }}</p>
-      </a>
-      {{ end }}
+    {{ end }}
+    {{ end }}
+
+    <!-- Article Content -->
+    <div class="article-content">
+        {{ .Content }}
     </div>
-  </div>
-  {{ end }}
+
+    <!-- Author Box -->
+    <div class="author-box">
+        <div class="author-avatar">
+            {{ with .Params.author }}{{ substr . 0 1 }}{{ else }}{{ substr .Site.Params.author 0 1 }}{{ end }}
+        </div>
+        <div class="author-info">
+            <h4>{{ .Params.author | default .Site.Params.author }}</h4>
+            <p>गन्ना कृषि विशेषज्ञ और CaneUp टीम के सदस्य। भारतीय गन्ना किसानों को सटीक और उपयोगी जानकारी प्रदान करने के लिए प्रतिबद्ध।</p>
+        </div>
+    </div>
+
+    <!-- Share Buttons -->
+    <div class="share-section">
+        <h3>📤 इस लेख को शेयर करें</h3>
+        <div class="share-buttons">
+            <a href="https://wa.me/?text={{ .Title }}%20{{ .Permalink }}" class="share-btn share-btn-wa" target="_blank" rel="noopener">
+                💬 WhatsApp
+            </a>
+            <a href="https://t.me/share/url?url={{ .Permalink }}&text={{ .Title }}" class="share-btn share-btn-tg" target="_blank" rel="noopener">
+                ✈️ Telegram
+            </a>
+            <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" class="share-btn share-btn-tw" target="_blank" rel="noopener">
+                🐦 Twitter
+            </a>
+        </div>
+    </div>
+
+    <!-- Related Articles -->
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+    <div class="related-section">
+        <h3>📚 संबंधित लेख</h3>
+        <div class="related-grid">
+            {{ range . }}
+            <a href="{{ .Permalink }}" class="related-card">
+                <h4>{{ .Title }}</h4>
+                <p>{{ .Summary | truncate 80 }}</p>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+
+    <!-- Prev/Next Navigation -->
+    <nav class="post-nav">
+        {{ with .PrevInSection }}
+        <a href="{{ .Permalink }}">
+            <div class="post-nav-label">← पिछला लेख</div>
+            <div class="post-nav-title">{{ .Title }}</div>
+        </a>
+        {{ else }}
+        <div></div>
+        {{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .Permalink }}" class="next">
+            <div class="post-nav-label">अगला लेख →</div>
+            <div class="post-nav-title">{{ .Title }}</div>
+        </a>
+        {{ end }}
+    </nav>
 </article>
 {{ end }}

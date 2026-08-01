@@ -182,8 +182,6 @@
     <div class="cu-footer__col">
       <h3>श्रेणियां</h3>
       <ul>
-        {{ range first 8 (where .Site.RegularPages "Section" "blog" | groupBy "Section") }}
-        {{ end }}
         {{/* Static category links - update as site grows */}}
         <li><a href="{{ .Site.BaseURL }}categories/%E0%A4%96%E0%A5%87%E0%A4%A4%E0%A5%80-%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95/">खेती तकनीक</a></li>
         <li><a href="{{ .Site.BaseURL }}categories/%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE%E0%A4%B0-%E0%A4%AD%E0%A4%BE%E0%A4%B5/">बाजार भाव</a></li>
