@@ -138,10 +138,10 @@
 
     {{ if .Pages }}
     <div class="blog-grid">
-      {{ $pages := .Pages.ByDate.Reverse }}
+      {{ $paginator := .Paginate .Pages.ByDate.Reverse 20 }}
       {{ $imgClasses := slice "blog-card-img-1" "blog-card-img-2" "blog-card-img-3" "blog-card-img-4" "blog-card-img-5" "blog-card-img-6" "blog-card-img-7" "blog-card-img-8" }}
       {{ $emojis := slice "🌾" "📋" "💰" "🏛️" "📱" "💼" "🏭" "🏦" }}
-      {{ range $index, $page := $pages }}
+      {{ range $index, $page := $paginator.Pages }}
       {{ $imgClass := index $imgClasses (mod $index (len $imgClasses)) }}
       {{ $emoji := index $emojis (mod $index (len $emojis)) }}
       <div class="blog-card">
@@ -161,6 +161,27 @@
       </div>
       {{ end }}
     </div>
+
+    <!-- Pagination -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <div style="display:flex;align-items:center;justify-content:center;gap:8px;margin-top:30px;flex-wrap:wrap;">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" style="padding:10px 16px;background:#fff;border:1px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#374151;font-size:14px;font-weight:500;">← पिछला</a>
+      {{ end }}
+      {{ range $paginator.Pagers }}
+        {{ if eq . $paginator }}
+        <span style="padding:10px 16px;background:#15803d;color:#fff;border-radius:8px;font-size:14px;font-weight:600;">{{ .PageNumber }}</span>
+        {{ else }}
+        <a href="{{ .URL }}" style="padding:10px 16px;background:#fff;border:1px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#374151;font-size:14px;font-weight:500;">{{ .PageNumber }}</a>
+        {{ end }}
+      {{ end }}
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" style="padding:10px 16px;background:#fff;border:1px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#374151;font-size:14px;font-weight:500;">अगला →</a>
+      {{ end }}
+    </div>
+    <p style="text-align:center;font-size:13px;color:#9ca3af;margin-top:10px;">पेज {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }} — कुल {{ len .Pages }} आर्टिकल्स</p>
+    {{ end }}
+
     {{ else }}
     <div style="text-align:center;padding:60px 20px;color:#6b7280;">
       <div style="font-size:48px;margin-bottom:16px;">📝</div>
