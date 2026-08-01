@@ -2,7 +2,6 @@
 title: मेरठ की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp
 date: 2026-07-03 10:00:00+05:30
 description: मेरठ जिले की सभी शुगर मिल्स की पूरी लिस्ट। मोदीपुरम, सरधना, मवाना, हस्तिनापुर
-  समेत 7+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।
 categories:
 - Sugar Mill
 tags:
@@ -20,50 +19,23 @@ ShowToc: true
 featured_image: /images/blog/meerut-sugar-mills.webp
 image: /images/blog/meerut-sugar-mills.webp
 ---
-
-## मेरठ जिले की सभी शुगर मिल्स
-
-मेरठ और आसपास के इलाके में कई बड़ी शुगर मिलें हैं। यह क्षेत्र गन्ना उत्पादन में महत्वपूर्ण भूमिका निभाता है।
-
-### मेरठ की शुगर मिल्स की लिस्ट
-
-| मिल का नाम | कंपनी | क्षमता (TCD) | जुड़े किसान |
-|---|---|---|---|
-| मोदीपुरम शुगर मिल | सहकारी | 6,000 | 20,000+ |
-| सरधना शुगर मिल | सहकारी | 4,500 | 12,000+ |
-| मवाना शुगर मिल | सहकारी | 4,000 | 10,000+ |
-| हस्तिनापुर शुगर मिल | निजी | 3,500 | 8,000+ |
-| सिवालखास शुगर मिल | निजी | 3,000 | 7,000+ |
-| बागपत शुगर मिल | सहकारी | 4,000 | 10,000+ |
-| बड़ौत शुगर मिल | निजी | 3,500 | 8,000+ |
-
-### पर्ची कैलेंडर कैसे देखें?
-
-1. **enquiry.caneup.in** पर जाएं
-2. **मेरठ** जिला चुनें
-3. अपनी **शुगर मिल** चुनें
-4. **किसान कोड** डालें
-
-### यह भी पढ़ें
-
-- [UP की सभी शुगर मिल्स](/posts/up-sugar-mill-list-complete/)
-- [बिजनौर की शुगर मिल्स](/posts/bijnor-sugar-mills/)
-- [मुजफ्फरनगर की शुगर मिल्स](/posts/muzaffarnagar-sugar-mills/)
-- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
-
-## यह भी पढ़ें
-- [UP की सभी शुगर मिल्स](/posts/up-sugar-mill-list-complete/)
-- [शुगर मिल लिस्ट UP](/posts/sugar-mill-list-up/)
-- [गन्ना पर्ची कैलेंडर](/posts/ganna-parchi-calendar-2025-26/)
-- [गन्ना MSP रेट](/posts/ganna-msp-rate-2026/)
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
-- [गन्ना सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
-
-## अक्सर पूछे जाने वाले सवाल
-
-**Q: मेरठ में कुल कितनी शुगर मिलें हैं?**
-A: 7 से ज़्यादा शुगर मिलें हैं।
-
-**Q: मेरठ की सबसे बड़ी मिल कौन सी है?**
-A: मोदीपुरम शुगर मिल — 6,000 TCD क्षमता।
+title: मेरठ की सभी शुगर मिल्स - जिलेवार लिस्ट | CaneUp
+date: 2026-07-03 10:00:00+05:30
+description: मेरठ जिले की सभी शुगर मिल्स की पूरी लिस्ट। मोदीपुरम, सरधना, मवाना, हस्तिनापुर
+  समेत 7+ मिलें। पर्ची कैलेंडर और भुगतान स्टेटस।
+categories:
+- Sugar Mill
+tags:
+- meerut
+- sugar mill
+- UP
+- modipuram
+- sardhana
+keywords:
+- meerut-sugar-mills
+- ganna kisan
+- sugar mill
+- UP
+ShowToc: true
+featured_image: /images/blog/meerut-sugar-mills.webp
+image: /images/blog/meerut-sugar-mills.webp

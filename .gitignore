@@ -17,3 +17,8 @@ Thumbs.db
 hugo
 hugo.tar.gz
 skills/
+
+# Node.js
+node_modules/
+package-lock.json
+.openclaw/

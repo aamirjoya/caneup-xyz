@@ -26,18 +26,17 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.11'
+          node-version: '20'
 
       - name: Install dependencies
-        run: pip install Pillow requests pyyaml
+        run: npm install canvas
 
       - name: Generate featured images
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          PEXELS_API_KEY: *** secrets.PEXELS_API_KEY }}
         run: |
           ARGS=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
@@ -47,7 +46,7 @@ jobs:
           if [ "$LIMIT" != "0" ] && [ "$LIMIT" != "" ]; then
             ARGS="$ARGS --limit=$LIMIT"
           fi
-          python3 generate_featured_images.py $ARGS
+          node generate_images.mjs $ARGS
 
       - name: Commit and push
         run: |
