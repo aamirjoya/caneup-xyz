@@ -77,12 +77,57 @@
     .menu-btn.open span:nth-child(2){opacity:0}
     .menu-btn.open span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
 
+    /* Newsletter */
+    .newsletter{background:linear-gradient(135deg,#052e16,#15803d);color:#fff;text-align:center;padding:50px 20px}
+    .newsletter h2{font-size:24px;font-weight:700;margin-bottom:10px}
+    .newsletter p{font-size:15px;opacity:.9;margin-bottom:20px}
+    .newsletter form{display:flex;max-width:420px;margin:0 auto;gap:8px}
+    .newsletter input{flex:1;padding:12px;border:none;border-radius:8px;font-size:14px}
+    .newsletter button{background:#f59e0b;color:#111;border:none;padding:12px 20px;border-radius:8px;font-weight:700;cursor:pointer;white-space:nowrap}
+
+    /* Footer */
+    .ftr{background:#052e16;color:#fff;padding:50px 20px 24px}
+    .ftr-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr;gap:40px}
+    .ftr-brand p{font-size:13px;opacity:.7;line-height:1.7;margin-bottom:12px}
+    .ftr h4{font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px}
+    .ftr ul{list-style:none}
+    .ftr li{margin-bottom:8px}
+    .ftr a{color:#fff;opacity:.7;text-decoration:none;font-size:13px;transition:opacity .2s}
+    .ftr a:hover{opacity:1}
+    .ftr-bottom{max-width:1200px;margin:30px auto 0;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
+    .ftr-social{display:flex;gap:12px}
+    .ftr-social a{width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;transition:background .2s}
+    .ftr-social a:hover{background:rgba(255,255,255,.2)}
+
     @media(max-width:768px){
         .menu-btn{display:flex}
         .nav{display:none;position:fixed;top:56px;left:0;right:0;background:#fff;flex-direction:column;padding:16px;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:999;gap:0}
         .nav.open{display:flex}
         .nav a{padding:12px 0;border-bottom:1px solid #f3f4f6;font-size:15px;width:100%}
         .nav .btn-cta{margin-top:8px;text-align:center;display:block}
+    }
+
+    @media(max-width:900px){
+        .ftr-grid{grid-template-columns:1fr 1fr;gap:30px}
+        .ftr-grid>div:first-child{grid-column:1/-1}
+        .ftr-bottom{flex-direction:column;text-align:center}
+        .ftr-bottom>div:first-child,.ftr-bottom>div:last-child{justify-content:center}
+    }
+
+    @media(max-width:480px){
+        .ftr{padding:36px 16px 20px}
+        .ftr-grid{grid-template-columns:1fr;gap:24px}
+        .ftr-grid>div:first-child{grid-column:auto}
+        .ftr h4{font-size:15px;margin-bottom:12px}
+        .ftr li{margin-bottom:10px}
+        .ftr a{font-size:14px}
+        .ftr-bottom{gap:12px;margin-top:24px}
+        .ftr-bottom>div:nth-child(2){font-size:11px}
+        .ftr-social a{width:40px;height:40px;font-size:18px}
+        .newsletter h2{font-size:20px}
+        .newsletter p{font-size:13px}
+        .newsletter form{flex-direction:column}
+        .newsletter input,.newsletter button{width:100%}
     }
   </style>
   {{ partial "extend_head.html" . }}
@@ -111,78 +156,78 @@
   {{ block "main" . }}{{ end }}
 
   <!-- Newsletter -->
-  <section class="newsletter" style="background:linear-gradient(135deg,#052e16,#15803d);color:#fff;text-align:center;padding:50px 20px;">
-    <h2 style="font-size:24px;font-weight:700;margin-bottom:10px;">📬 गन्ना अपडेट पाएं</h2>
-    <p style="font-size:15px;opacity:.9;margin-bottom:20px;">MSP रेट, पर्ची कैलेंडर, सरकारी योजनाएं — सीधे आपके इनबॉक्स में</p>
-    <form style="display:flex;max-width:420px;margin:0 auto;gap:8px;" onsubmit="return false;">
-      <input type="email" placeholder="ईमेल दर्ज करें" style="flex:1;padding:12px;border:none;border-radius:8px;font-size:14px;" required>
-      <button type="submit" style="background:#f59e0b;color:#111;border:none;padding:12px 20px;border-radius:8px;font-weight:700;cursor:pointer;">सब्सक्राइब →</button>
+  <section class="newsletter">
+    <h2>📬 गन्ना अपडेट पाएं</h2>
+    <p>MSP रेट, पर्ची कैलेंडर, सरकारी योजनाएं — सीधे आपके इनबॉक्स में</p>
+    <form onsubmit="return false;">
+      <input type="email" placeholder="ईमेल दर्ज करें" required>
+      <button type="submit">सब्सक्राइब →</button>
     </form>
   </section>
 
   <!-- Footer -->
-  <footer style="background:#052e16;color:#fff;padding:50px 20px 24px;">
-    <div style="max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr;gap:40px;">
+  <footer class="ftr">
+    <div class="ftr-grid">
 
       <!-- Brand -->
-      <div>
+      <div class="ftr-brand">
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
           <span style="font-size:24px;">🌾</span>
           <span style="font-size:18px;font-weight:700;">CaneUp</span>
         </div>
-        <p style="font-size:13px;opacity:.7;line-height:1.7;margin-bottom:12px;">CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
-        <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#f59e0b;text-decoration:none;">CaneUp.xyz</a></p>
+        <p>CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
+        <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#f59e0b;">CaneUp.xyz</a></p>
       </div>
 
       <!-- Popular -->
       <div>
-        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">लोकप्रिय</h4>
-        <ul style="list-style:none;">
-          <li style="margin-bottom:8px;"><a href="/categories/parchi-calendar/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📋 पर्ची कैलेंडर</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/msp-rate/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">💰 MSP रेट</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/ganna-kheti/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🌾 गन्ना खेती</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/sarkari-yojana/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🏛️ सरकारी योजनाएं</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/business/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">💼 बिज़नेस</a></li>
+        <h4>लोकप्रिय</h4>
+        <ul>
+          <li><a href="/categories/parchi-calendar/">📋 पर्ची कैलेंडर</a></li>
+          <li><a href="/categories/msp-rate/">💰 MSP रेट</a></li>
+          <li><a href="/categories/ganna-kheti/">🌾 गन्ना खेती</a></li>
+          <li><a href="/categories/sarkari-yojana/">🏛️ सरकारी योजनाएं</a></li>
+          <li><a href="/categories/business/">💼 बिज़नेस</a></li>
         </ul>
       </div>
 
       <!-- Tools -->
       <div>
-        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">टूल्स</h4>
-        <ul style="list-style:none;">
-          <li style="margin-bottom:8px;"><a href="/tools/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🔧 CaneUp टूल्स</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/eganna-app/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📱 eGanna App</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/sugar-mill/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🏭 शुगर मिल</a></li>
-          <li style="margin-bottom:8px;"><a href="/categories/kcc-loan/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🏦 KCC लोन</a></li>
+        <h4>टूल्स</h4>
+        <ul>
+          <li><a href="/tools/">🔧 CaneUp टूल्स</a></li>
+          <li><a href="/categories/eganna-app/">📱 eGanna App</a></li>
+          <li><a href="/categories/sugar-mill/">🏭 शुगर मिल</a></li>
+          <li><a href="/categories/kcc-loan/">🏦 KCC लोन</a></li>
         </ul>
       </div>
 
       <!-- Quick Links -->
       <div>
-        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">क्विक लिंक</h4>
-        <ul style="list-style:none;">
-          <li style="margin-bottom:8px;"><a href="/about/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">ℹ️ हमारे बारे में</a></li>
-          <li style="margin-bottom:8px;"><a href="/contact/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📞 संपर्क</a></li>
-          <li style="margin-bottom:8px;"><a href="/privacy-policy/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🔒 प्राइवेसी</a></li>
-          <li style="margin-bottom:8px;"><a href="/disclaimer/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">⚠️ डिस्क्लेमर</a></li>
-          <li style="margin-bottom:8px;"><a href="/llms.txt" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🤖 AI Agents</a></li>
+        <h4>क्विक लिंक</h4>
+        <ul>
+          <li><a href="/about/">ℹ️ हमारे बारे में</a></li>
+          <li><a href="/contact/">📞 संपर्क</a></li>
+          <li><a href="/privacy-policy/">🔒 प्राइवेसी</a></li>
+          <li><a href="/disclaimer/">⚠️ डिस्क्लेमर</a></li>
+          <li><a href="/llms.txt">🤖 AI Agents</a></li>
         </ul>
       </div>
 
       <!-- Contact -->
       <div>
-        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">संपर्क</h4>
-        <ul style="list-style:none;">
-          <li style="margin-bottom:8px;"><a href="mailto:info@caneup.xyz" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📧 info@caneup.xyz</a></li>
-          <li style="margin-bottom:8px;"><a href="https://youtube.com/@caneup" target="_blank" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">▶️ YouTube</a></li>
-          <li style="margin-bottom:8px;"><a href="https://twitter.com/caneupxyz" target="_blank" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🐦 Twitter</a></li>
-          <li style="margin-bottom:8px;"><a href="https://t.me/caneup" target="_blank" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">✈️ Telegram</a></li>
+        <h4>संपर्क</h4>
+        <ul>
+          <li><a href="mailto:info@caneup.xyz">📧 info@caneup.xyz</a></li>
+          <li><a href="https://youtube.com/@caneup" target="_blank">▶️ YouTube</a></li>
+          <li><a href="https://twitter.com/caneupxyz" target="_blank">🐦 Twitter</a></li>
+          <li><a href="https://t.me/caneup" target="_blank">✈️ Telegram</a></li>
         </ul>
       </div>
     </div>
 
     <!-- Footer Bottom -->
-    <div style="max-width:1200px;margin:30px auto 0;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;">
+    <div class="ftr-bottom">
       <div style="display:flex;align-items:center;gap:8px;">
         <span style="font-size:18px;">🌾</span>
         <span style="font-size:14px;font-weight:700;">CaneUp</span>
@@ -197,10 +242,10 @@
           <a href="/disclaimer/" style="color:rgba(255,255,255,.5);">Disclaimer</a>
         </small>
       </div>
-      <div style="display:flex;gap:12px;">
-        <a href="https://youtube.com/@caneup" aria-label="YouTube" target="_blank" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;">▶️</a>
-        <a href="https://twitter.com/caneupxyz" aria-label="Twitter" target="_blank" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;">🐦</a>
-        <a href="https://t.me/caneup" aria-label="Telegram" target="_blank" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;">✈️</a>
+      <div class="ftr-social">
+        <a href="https://youtube.com/@caneup" aria-label="YouTube" target="_blank">▶️</a>
+        <a href="https://twitter.com/caneupxyz" aria-label="Twitter" target="_blank">🐦</a>
+        <a href="https://t.me/caneup" aria-label="Telegram" target="_blank">✈️</a>
       </div>
     </div>
   </footer>
