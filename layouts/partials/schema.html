@@ -1,0 +1,163 @@
+{{/* JSON-LD Structured Data for CaneUp - Hindi Devanagari Sugarcane Farming Site */}}
+
+{{/* WebSite Schema - Homepage */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CaneUp - गन्ना किसानों का डिजिटल साथी",
+  "alternateName": "CaneUp",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "inLanguage": ["hi-IN", "en"],
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaneUp",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.png",
+      "width": 250,
+      "height": 60
+    }
+  }
+  {{ if .Site.Params.social.twitter }},
+  "sameAs": [
+    "{{ .Site.Params.social.youtube }}",
+    "{{ .Site.Params.social.twitter }}",
+    "{{ .Site.Params.social.telegram }}"
+  ]
+  {{ end }}
+}
+</script>
+{{ end }}
+
+{{/* Organization Schema - All Pages */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CaneUp",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo.png",
+  "description": "गन्ना किसानों के लिए भारत का प्रमुख डिजिटल प्लेटफॉर्म — खेती तकनीक, बाजार भाव, सरकारी योजनाएं और अधिक।"
+  {{ if .Site.Params.social }},
+  "sameAs": [
+    {{ if .Site.Params.social.youtube }}"{{ .Site.Params.social.youtube }}"{{ end }}{{ if .Site.Params.social.twitter }},{{ end }}
+    {{ if .Site.Params.social.twitter }}"{{ .Site.Params.social.twitter }}"{{ end }}{{ if .Site.Params.social.telegram }},{{ end }}
+    {{ if .Site.Params.social.telegram }}"{{ .Site.Params.social.telegram }}"{{ end }}
+  ]
+  {{ end }},
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": ["Hindi", "English"]
+  }
+}
+</script>
+
+{{/* Article Schema - Blog Posts */}}
+{{ if .IsPage }}
+  {{ if or (eq .Section "blog") (eq .Section "posts") (eq .Section "articles") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary | plainify | truncate 160 }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05+05:30" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05+05:30" }}"
+  {{- if .Params.image }},
+  "image": [
+    "{{ with .Params.image }}{{ if eq (printf "%T" .) "string" }}{{ . }}{{ else }}{{ .src }}{{ end }}{{ end }}"
+  ]
+  {{- else if .Params.images }},
+  "image": [
+    {{ range $i, $img := .Params.images }}{{ if $i }},{{ end }}"{{ $img }}"{{ end }}
+  ]
+  {{- end }},
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default .Site.Params.author | default "CaneUp टीम" }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaneUp",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.png",
+      "width": 250,
+      "height": 60
+    }
+  },
+  "wordCount": {{ .WordCount }},
+  "articleSection": "{{ .Section }}"
+  {{- if .Params.tags }},
+  "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }},{{ end }}"{{ $tag }}"{{ end }}]
+  {{- end }}
+}
+</script>
+
+{{/* FAQPage Schema - If FAQ section exists in frontmatter */}}
+  {{ if .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $item.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $item.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+  {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* BreadcrumbList Schema - All non-homepage pages */}}
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "होम",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{- $currentPage := . -}}
+    {{- $scratch := newScratch -}}
+    {{- $scratch.Set "position" 2 -}}
+    {{- $pathParts := split (strings.TrimPrefix "/" (strings.TrimSuffix "/" .RelPermalink)) "/" -}}
+    {{- $currentPath := "" -}}
+    {{- range $i, $part := $pathParts -}}
+      {{- $currentPath = printf "%s/%s" $currentPath $part -}}
+      {{- if gt (len $part) 0 }},
+    {
+      "@type": "ListItem",
+      "position": {{ $scratch.Get "position" }},
+      "name": "{{ if eq $i 0 }}{{ with $.Site.GetPage $currentPath }}{{ .Title }}{{ else }}{{ humanize $part }}{{ end }}{{ else }}{{ $currentPage.Title }}{{ end }}",
+      "item": "{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" $currentPath }}/"
+    }
+      {{- $scratch.Set "position" (add ($scratch.Get "position") 1) -}}
+      {{- end -}}
+    {{- end }}
+  ]
+}
+</script>
+{{ end }}

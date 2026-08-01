@@ -1,354 +1,732 @@
+{{ define "head" }}
+<style>
+    /* ===== HERO SECTION ===== */
+    .hero {
+        background: linear-gradient(135deg, #1B5E20 0%, #2E7D32 40%, #388E3C 70%, #43A047 100%);
+        color: #FFFFFF;
+        padding: 3rem 1rem 4rem;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .hero::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle at 30% 70%, rgba(255,255,255,0.05) 0%, transparent 50%),
+                    radial-gradient(circle at 70% 30%, rgba(255,255,255,0.08) 0%, transparent 40%);
+        pointer-events: none;
+    }
+    .hero-inner {
+        max-width: 800px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+    }
+    .hero-badge {
+        display: inline-block;
+        background: rgba(255,255,255,0.15);
+        border: 1px solid rgba(255,255,255,0.25);
+        border-radius: 50px;
+        padding: 0.4rem 1.2rem;
+        font-size: 0.85rem;
+        font-weight: 600;
+        margin-bottom: 1.2rem;
+        backdrop-filter: blur(10px);
+    }
+    .hero h1 {
+        font-size: clamp(1.8rem, 5vw, 2.8rem);
+        font-weight: 700;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+    }
+    .hero-subtitle {
+        font-size: 1.1rem;
+        opacity: 0.9;
+        margin-bottom: 2rem;
+        line-height: 1.6;
+    }
+    .hero-stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+        gap: 1rem;
+        max-width: 600px;
+        margin: 0 auto 2rem;
+    }
+    .stat-item {
+        background: rgba(255,255,255,0.12);
+        border: 1px solid rgba(255,255,255,0.18);
+        border-radius: 12px;
+        padding: 1rem 0.75rem;
+        backdrop-filter: blur(10px);
+    }
+    .stat-number {
+        font-size: 1.5rem;
+        font-weight: 700;
+        display: block;
+    }
+    .stat-label {
+        font-size: 0.8rem;
+        opacity: 0.85;
+        margin-top: 0.2rem;
+    }
+    .hero-cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: #FF9800;
+        color: #FFF;
+        font-size: 1rem;
+        font-weight: 700;
+        padding: 0.85rem 2rem;
+        border-radius: 50px;
+        box-shadow: 0 4px 15px rgba(255,152,0,0.4);
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .hero-cta:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(255,152,0,0.5);
+        color: #FFF;
+    }
+
+    /* ===== SECTION COMMON ===== */
+    .section {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 3rem 1rem;
+    }
+    .section-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin-bottom: 0.5rem;
+    }
+    .section-subtitle {
+        color: #616161;
+        font-size: 0.95rem;
+        margin-bottom: 2rem;
+    }
+
+    /* ===== QUICK ACCESS GRID ===== */
+    .quick-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 1rem;
+    }
+    .quick-card {
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 14px;
+        padding: 1.5rem 1rem;
+        text-align: center;
+        transition: all 0.25s;
+        text-decoration: none;
+        color: #212121;
+        display: block;
+    }
+    .quick-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 25px rgba(46,125,50,0.12);
+        border-color: #4CAF50;
+        color: #212121;
+    }
+    .quick-card-icon {
+        font-size: 2.2rem;
+        display: block;
+        margin-bottom: 0.6rem;
+    }
+    .quick-card-title {
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: #2E7D32;
+    }
+    .quick-card-desc {
+        font-size: 0.75rem;
+        color: #757575;
+        margin-top: 0.25rem;
+    }
+
+    /* ===== SUGAR MILLS ===== */
+    .mills-section {
+        background: linear-gradient(180deg, #F1F8E9 0%, #FAFAFA 100%);
+        padding: 3rem 0;
+    }
+    .mills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1.2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1rem;
+    }
+    .mill-card {
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 14px;
+        padding: 1.5rem;
+        transition: all 0.25s;
+        text-decoration: none;
+        color: #212121;
+        display: block;
+    }
+    .mill-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(46,125,50,0.1);
+        border-color: #4CAF50;
+        color: #212121;
+    }
+    .mill-card-header {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        margin-bottom: 0.75rem;
+    }
+    .mill-emoji {
+        font-size: 2rem;
+        width: 48px;
+        height: 48px;
+        background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .mill-name {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: #1B5E20;
+    }
+    .mill-type {
+        font-size: 0.75rem;
+        color: #757575;
+    }
+    .mill-card p {
+        font-size: 0.85rem;
+        color: #616161;
+        line-height: 1.5;
+    }
+    .district-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-top: 2rem;
+    }
+    .district-tag {
+        background: #FFFFFF;
+        border: 1px solid #C8E6C9;
+        border-radius: 50px;
+        padding: 0.5rem 1rem;
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: #2E7D32;
+        text-decoration: none;
+        transition: all 0.2s;
+    }
+    .district-tag:hover {
+        background: #2E7D32;
+        color: #FFFFFF;
+        border-color: #2E7D32;
+    }
+
+    /* ===== LATEST ARTICLES ===== */
+    .articles-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 1.5rem;
+    }
+    .article-card {
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 14px;
+        overflow: hidden;
+        transition: all 0.25s;
+        text-decoration: none;
+        color: #212121;
+        display: flex;
+        flex-direction: column;
+    }
+    .article-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 25px rgba(46,125,50,0.1);
+        color: #212121;
+    }
+    .article-card-gradient {
+        height: 6px;
+        background: linear-gradient(90deg, #2E7D32, #4CAF50, #81C784);
+    }
+    .article-card-body {
+        padding: 1.25rem;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+    .article-card-meta {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        font-size: 0.8rem;
+        color: #757575;
+        margin-bottom: 0.75rem;
+    }
+    .article-card-category {
+        background: #E8F5E9;
+        color: #2E7D32;
+        padding: 0.15rem 0.6rem;
+        border-radius: 50px;
+        font-weight: 600;
+        font-size: 0.75rem;
+    }
+    .article-card h3 {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: #1B5E20;
+        margin-bottom: 0.5rem;
+        line-height: 1.4;
+    }
+    .article-card p {
+        font-size: 0.85rem;
+        color: #616161;
+        line-height: 1.5;
+        flex: 1;
+    }
+    .article-card-footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 1rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid #F1F8E9;
+        font-size: 0.8rem;
+        color: #9E9E9E;
+    }
+    .read-more-link {
+        color: #2E7D32;
+        font-weight: 600;
+        font-size: 0.85rem;
+    }
+
+    /* ===== CATEGORIES ===== */
+    .categories-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 1rem;
+    }
+    .category-card {
+        background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+        border-radius: 14px;
+        padding: 1.5rem;
+        text-align: center;
+        text-decoration: none;
+        color: #1B5E20;
+        transition: all 0.25s;
+        display: block;
+    }
+    .category-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 18px rgba(46,125,50,0.15);
+        color: #1B5E20;
+    }
+    .category-card span {
+        font-size: 2rem;
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+    .category-card strong {
+        font-size: 0.95rem;
+        display: block;
+    }
+    .category-card small {
+        font-size: 0.75rem;
+        color: #4CAF50;
+        margin-top: 0.25rem;
+        display: block;
+    }
+
+    /* ===== FAQ ===== */
+    .faq-list {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .faq-item {
+        background: #FFFFFF;
+        border: 1px solid #E8F5E9;
+        border-radius: 12px;
+        margin-bottom: 0.75rem;
+        overflow: hidden;
+    }
+    .faq-item summary {
+        padding: 1rem 1.25rem;
+        font-weight: 600;
+        font-size: 0.95rem;
+        color: #1B5E20;
+        cursor: pointer;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        transition: background 0.2s;
+    }
+    .faq-item summary::-webkit-details-marker { display: none; }
+    .faq-item summary::before {
+        content: '➕';
+        font-size: 0.8rem;
+        flex-shrink: 0;
+    }
+    .faq-item[open] summary::before { content: '➖'; }
+    .faq-item summary:hover { background: #F1F8E9; }
+    .faq-answer {
+        padding: 0 1.25rem 1rem;
+        font-size: 0.9rem;
+        color: #424242;
+        line-height: 1.7;
+        border-top: 1px solid #F1F8E9;
+    }
+    .faq-answer a { color: #2E7D32; font-weight: 600; }
+
+    /* ===== CTA SECTION ===== */
+    .cta-section {
+        background: linear-gradient(135deg, #2E7D32, #1B5E20);
+        color: #FFFFFF;
+        text-align: center;
+        padding: 3rem 1rem;
+    }
+    .cta-section h2 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin-bottom: 0.75rem;
+    }
+    .cta-section p {
+        font-size: 1rem;
+        opacity: 0.9;
+        margin-bottom: 1.5rem;
+    }
+    .cta-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+    .cta-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.85rem 1.8rem;
+        border-radius: 50px;
+        font-size: 1rem;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all 0.2s;
+    }
+    .cta-btn:hover { transform: translateY(-2px); }
+    .cta-btn-wa {
+        background: #25D366;
+        color: #FFF;
+        box-shadow: 0 4px 15px rgba(37,211,102,0.4);
+    }
+    .cta-btn-wa:hover { box-shadow: 0 6px 20px rgba(37,211,102,0.5); color: #FFF; }
+    .cta-btn-tg {
+        background: #0088CC;
+        color: #FFF;
+        box-shadow: 0 4px 15px rgba(0,136,204,0.4);
+    }
+    .cta-btn-tg:hover { box-shadow: 0 6px 20px rgba(0,136,204,0.5); color: #FFF; }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+        .hero { padding: 2rem 1rem 2.5rem; }
+        .hero-stats { grid-template-columns: repeat(2, 1fr); }
+        .quick-grid { grid-template-columns: repeat(2, 1fr); }
+        .mills-grid { grid-template-columns: 1fr; }
+        .articles-grid { grid-template-columns: 1fr; }
+        .categories-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+</style>
+{{ end }}
+
 {{ define "main" }}
 
-<!-- Hero Section -->
+<!-- HERO -->
 <section class="hero">
-  <div class="container">
-    <div class="hero-grid">
-      <div class="hero-content">
-        <span class="hero-badge">🌾 गन्ना किसानों का #1 पोर्टल — 63+ गाइड्स</span>
-        <h1>गन्ना पर्ची कैलेंडर 2026<br><span class="highlight">eGanna App | गन्ना भुगतान स्थिति | MSP रेट</span></h1>
-        <p>गन्ना पर्ची कैलेंडर कैसे देखें, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट, गन्ना खेती गाइड, सरकारी योजनाएं — सब एक जगह।</p>
-        <div class="hero-buttons">
-          <a href="/posts/ganna-parchi-calendar-2025-26/" class="btn btn-primary">📋 पर्ची कैलेंडर देखें</a>
-          <a href="/posts/ganna-msp-rate-2026/" class="btn btn-secondary">💰 MSP रेट चेक करें</a>
+    <div class="hero-inner">
+        <div class="hero-badge">🗓️ गन्ना मौसम 2025-26 चालू है</div>
+        <h1>गन्ना पर्ची कैलेंडर 2026</h1>
+        <p class="hero-subtitle">
+            भारत के गन्ना किसानों के लिए एकमात्र प्लेटफ़ॉर्म — पर्ची शेड्यूल, MSP दरें, चीनी मिल जानकारी, eGanna पोर्टल और 63+ उपयोगी गाइड्स।
+        </p>
+        <div class="hero-stats">
+            <div class="stat-item">
+                <span class="stat-number">50L+</span>
+                <span class="stat-label">किसान सदस्य</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">120+</span>
+                <span class="stat-label">चीनी मिल्स</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">₹355</span>
+                <span class="stat-label">FRP प्रति क्विंटल</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">63+</span>
+                <span class="stat-label">गाइड्स</span>
+            </div>
         </div>
-      </div>
-      <div class="hero-image">
-        <div class="hero-image-grid">
-          <img src="/images/hero/hero-sugarcane-field.avif" alt="गन्ने का खेत — CaneUp गन्ना पर्ची कैलेंडर 2026" class="hero-img-main" width="400" height="400" loading="eager">
-          <img src="/images/hero/ganne-ki-kheti-guide-hero.avif" alt="गन्ने की खेती — CaneUp eGanna App" class="hero-img-small" width="200" height="200" loading="eager">
-          <img src="/images/hero/ganna-parchi-calendar-2025-26-hero.avif" alt="गन्ना पर्ची कैलेंडर — CaneUp गन्ना भुगतान स्थिति" class="hero-img-small" width="200" height="200" loading="eager">
+        <a href="/ganna-parchi/" class="hero-cta">📋 अपनी पर्ची देखें →</a>
+    </div>
+</section>
+
+<!-- QUICK ACCESS -->
+<section class="section">
+    <h2 class="section-title">⚡ त्वरित पहुँच</h2>
+    <p class="section-subtitle">सबसे ज़रूरी जानकारी एक क्लिक में</p>
+    <div class="quick-grid">
+        <a href="/ganna-parchi/" class="quick-card">
+            <span class="quick-card-icon">📋</span>
+            <span class="quick-card-title">गन्ना पर्ची</span>
+            <span class="quick-card-desc">पर्ची कैलेंडर 2026</span>
+        </a>
+        <a href="/eganna/" class="quick-card">
+            <span class="quick-card-icon">📱</span>
+            <span class="quick-card-title">eGanna पोर्टल</span>
+            <span class="quick-card-desc">ऑनलाइन पर्ची ट्रैक</span>
+        </a>
+        <a href="/msp/" class="quick-card">
+            <span class="quick-card-icon">💰</span>
+            <span class="quick-card-title">MSP दरें</span>
+            <span class="quick-card-desc">न्यूनतम समर्थन मूल्य</span>
+        </a>
+        <a href="/farming/" class="quick-card">
+            <span class="quick-card-icon">🌾</span>
+            <span class="quick-card-title">खेती गाइड</span>
+            <span class="quick-card-desc">गन्ना उगाने के टिप्स</span>
+        </a>
+        <a href="/schemes/" class="quick-card">
+            <span class="quick-card-icon">🏛️</span>
+            <span class="quick-card-title">योजनाएं</span>
+            <span class="quick-card-desc">सरकारी योजनाएं</span>
+        </a>
+        <a href="/mills/" class="quick-card">
+            <span class="quick-card-icon">🏭</span>
+            <span class="quick-card-title">चीनी मिल्स</span>
+            <span class="quick-card-desc">मिल सूची व विवरण</span>
+        </a>
+        <a href="/tools/" class="quick-card">
+            <span class="quick-card-icon">🔧</span>
+            <span class="quick-card-title">किसान टूल्स</span>
+            <span class="quick-card-desc">कैलकुलेटर व उपकरण</span>
+        </a>
+        <a href="/about/" class="quick-card">
+            <span class="quick-card-icon">ℹ️</span>
+            <span class="quick-card-title">CaneUp के बारे में</span>
+            <span class="quick-card-desc">हमारा मिशन</span>
+        </a>
+    </div>
+</section>
+
+<!-- SUGAR MILLS -->
+<section class="mills-section">
+    <div class="section" style="padding-bottom:0">
+        <h2 class="section-title">🏭 प्रमुख चीनी कंपनियाँ</h2>
+        <p class="section-subtitle">उत्तर प्रदेश की अग्रणी चीनी मिल कंपनियाँ और ज़िले</p>
+    </div>
+    <div class="mills-grid">
+        <a href="/mills/bajaj-hindusthan/" class="mill-card">
+            <div class="mill-card-header">
+                <div class="mill-emoji">🏭</div>
+                <div>
+                    <div class="mill-name">बजाज हिंदुस्तान</div>
+                    <div class="mill-type">14 मिल्स • उत्तर प्रदेश</div>
+                </div>
+            </div>
+            <p>भारत की सबसे बड़ी चीनी उत्पादक कंपनियों में से एक। लखीमपुर, पीलीभीत, शाहजहाँपुर में प्रमुख इकाइयाँ।</p>
+        </a>
+        <a href="/mills/balrampur-chini/" class="mill-card">
+            <div class="mill-card-header">
+                <div class="mill-emoji">🏭</div>
+                <div>
+                    <div class="mill-name">बलरामपुर चीनी</div>
+                    <div class="mill-type">10 मिल्स • उत्तर प्रदेश</div>
+                </div>
+            </div>
+            <p>गोंडा, बलरामपुर, श्रावस्ती में स्थित। इथेनॉल उत्पादन में अग्रणी। उन्नत तकनीक से लैस।</p>
+        </a>
+        <a href="/mills/dhampur-sugar/" class="mill-card">
+            <div class="mill-card-header">
+                <div class="mill-emoji">🏭</div>
+                <div>
+                    <div class="mill-name">धामपुर शुगर</div>
+                    <div class="mill-type">5 मिल्स • उत्तर प्रदेश</div>
+                </div>
+            </div>
+            <p>बिजनौर, मुरादाबाद क्षेत्र में स्थित। ऑर्गेनिक शुगर उत्पादन में विशेषज्ञ। किसानों के बीच लोकप्रिय।</p>
+        </a>
+        <a href="/mills/dwarikesh-sugar/" class="mill-card">
+            <div class="mill-card-header">
+                <div class="mill-emoji">🏭</div>
+                <div>
+                    <div class="mill-name">द्वारिकेश शुगर</div>
+                    <div class="mill-type">6 मिल्स • उत्तर प्रदेश</div>
+                </div>
+            </div>
+            <p>बिजनौर, मुज़फ्फरनगर, बरेली में इकाइयाँ। इथेनॉल और पावर जेनरेशन में विविधीकरण।</p>
+        </a>
+    </div>
+    <div class="section" style="padding-top:1.5rem">
+        <p style="font-weight:600;color:#2E7D32;margin-bottom:0.75rem">📍 प्रमुख गन्ना ज़िले:</p>
+        <div class="district-tags">
+            <a href="/districts/bijnor/" class="district-tag">📍 बिजनौर</a>
+            <a href="/districts/bareilly/" class="district-tag">📍 बरेली</a>
+            <a href="/districts/muzaffarnagar/" class="district-tag">📍 मुज़फ्फरनगर</a>
+            <a href="/districts/lakhimpur/" class="district-tag">📍 लखीमपुर खीरी</a>
+            <a href="/districts/shahjahanpur/" class="district-tag">📍 शाहजहाँपुर</a>
+            <a href="/districts/pilibhit/" class="district-tag">📍 पीलीभीत</a>
+            <a href="/districts/gonda/" class="district-tag">📍 गोंडा</a>
+            <a href="/districts/meerut/" class="district-tag">📍 मेरठ</a>
+            <a href="/districts/saharanpur/" class="district-tag">📍 सहारनपुर</a>
+            <a href="/districts/balrampur/" class="district-tag">📍 बलरामपुर</a>
         </div>
-      </div>
     </div>
-    <div class="hero-stats">
-      <div class="stat-card">
-        <span class="stat-number">50L+</span>
-        <span class="stat-label">गन्ना किसान</span>
-      </div>
-      <div class="stat-card">
-        <span class="stat-number">120+</span>
-        <span class="stat-label">शुगर मिल्स</span>
-      </div>
-      <div class="stat-card">
-        <span class="stat-number">₹355</span>
-        <span class="stat-label">FRP रेट/क्विंटल</span>
-      </div>
-      <div class="stat-card">
-        <span class="stat-number">63+</span>
-        <span class="stat-label">गाइड्स</span>
-      </div>
-    </div>
-  </div>
 </section>
 
-<!-- Quick Access Section -->
-<section class="quick-access">
-  <div class="container">
-    <h2 class="section-title">तुरंत एक्सेस करें — गन्ना किसानों के लिए</h2>
-    <p class="section-subtitle">गन्ना पर्ची कैलेंडर, eGanna App, गन्ना भुगतान स्थिति, CaneUp Enquiry — सब कुछ</p>
-    <div class="cards-grid">
-      <a href="/posts/ganna-parchi-calendar-kaise-dekhe/" class="access-card">
-        <div class="card-icon">📋</div>
-        <h3>गन्ना पर्ची कैलेंडर कैसे देखें?</h3>
-        <p>eGanna App, CaneUp Enquiry से पर्ची कैलेंडर देखने का तरीका</p>
-        <span class="card-link">अभी देखें →</span>
-      </a>
-      <a href="/posts/eganna-app-download/" class="access-card">
-        <div class="card-icon">📱</div>
-        <h3>eGanna App Download</h3>
-        <p>eGANNA CANE UP App — गन्ना पर्ची, सप्लाई टिकट, भुगतान स्थिति</p>
-        <span class="card-link">डाउनलोड करें →</span>
-      </a>
-      <a href="/posts/ganna-parchi-calendar-2025-26/" class="access-card">
-        <div class="card-icon">📅</div>
-        <h3>पर्ची कैलेंडर 2025-26</h3>
-        <p>गन्ना पर्ची कैलेंडर, सप्लाई टिकट — पूरी जानकारी</p>
-        <span class="card-link">देखें →</span>
-      </a>
-      <a href="/posts/ganna-msp-rate-2026/" class="access-card">
-        <div class="card-icon">💰</div>
-        <h3>MSP/FRP रेट 2026</h3>
-        <p>गन्ने का ताज़ा भाव — UP, महाराष्ट्र, कर्नाटक</p>
-        <span class="card-link">रेट देखें →</span>
-      </a>
-      <a href="/posts/ganne-ki-kheti-guide/" class="access-card">
-        <div class="card-icon">🌾</div>
-        <h3>गन्ना खेती गाइड</h3>
-        <p>गन्ने की खेती, पैदावार बढ़ाने के उपाय</p>
-        <span class="card-link">पढ़ें →</span>
-      </a>
-      <a href="/posts/ganna-subsidy-yojana-2026/" class="access-card">
-        <div class="card-icon">🏛️</div>
-        <h3>सरकारी योजनाएं</h3>
-        <p>PM किसान, KCC, सब्सिडी और लोन</p>
-        <span class="card-link">योजनाएं देखें →</span>
-      </a>
-      <a href="/posts/co-0238-ganna-variety/" class="access-card">
-        <div class="card-icon">🌱</div>
-        <h3>गन्ने की नई किस्में</h3>
-        <p>Co-0238, Co-0118 — सबसे अच्छी किस्में</p>
-        <span class="card-link">किस्में देखें →</span>
-      </a>
-      <a href="/posts/ethanol-plant-business/" class="access-card">
-        <div class="card-icon">⛽</div>
-        <h3>इथेनॉल बिज़नेस</h3>
-        <p>गन्ने से इथेनॉल — लागत, मुनाफ़ा, नीति</p>
-        <span class="card-link">जानें →</span>
-      </a>
-      <a href="/tools/" class="access-card">
-        <div class="card-icon">🔧</div>
-        <h3>किसान टूल्स</h3>
-        <p>MSP कैलकुलेटर, EMI कैलकुलेटर</p>
-        <span class="card-link">टूल्स इस्तेमाल करें →</span>
-      </a>
-      <a href="/posts/caneup-keywords-target/" class="access-card">
-        <div class="card-icon">ℹ️</div>
-        <h3>CaneUp क्या है?</h3>
-        <p>CaneUp — गन्ना किसानों का #1 पोर्टल</p>
-        <span class="card-link">जानें →</span>
-      </a>
-    </div>
-  </div>
-</section>
-
-<!-- Sugar Mills Section -->
-<section class="sugar-mills-section">
-  <div class="container">
-    <h2 class="section-title">🏭 शुगर मिल्स — जिलेवार लिस्ट | UP Sugar Mill</h2>
-    <p class="section-subtitle">उत्तर प्रदेश की 120+ शुगर मिल्स की पूरी जानकारी — CaneUp Enquiry</p>
-    
-    <!-- Major Companies -->
-    <h3 style="text-align:center; margin: 40px 0 20px; color: var(--primary);">प्रमुख शुगर कंपनियां</h3>
-    <div class="cards-grid">
-      <a href="/posts/bajaj-hindusthan-gola-gokarannath/" class="access-card">
-        <div class="card-icon">🏭</div>
-        <h3>बजाज हिंदुस्तान</h3>
-        <p>14 प्लांट, 1,36,000 TCD क्षमता, 3,50,000+ किसान</p>
-        <span class="card-link">14 मिलें देखें →</span>
-      </a>
-      <a href="/posts/balrampur-chini-balrampur/" class="access-card">
-        <div class="card-icon">🏭</div>
-        <h3>बलरामपुर चीनी मिल्स</h3>
-        <p>10+ प्लांट, 76,000 TCD क्षमता, 2,50,000+ किसान</p>
-        <span class="card-link">5 मिलें देखें →</span>
-      </a>
-      <a href="/posts/dhampur-sugar-mills/" class="access-card">
-        <div class="card-icon">🏭</div>
-        <h3>धामपुर शुगर मिल्स</h3>
-        <p>3 प्लांट, 15,000+ TCD क्षमता, 50,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/dwarikesh-sugar-bareilly/" class="access-card">
-        <div class="card-icon">🏭</div>
-        <h3>द्वारिकेश शुगर</h3>
-        <p>3 प्लांट, 21,500 TCD क्षमता, 80,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/triveni-engineering-amroha/" class="access-card">
-        <div class="card-icon">🏭</div>
-        <h3>त्रिवेणी इंजीनियरिंग</h3>
-        <p>4 प्लांट, 40,000+ TCD क्षमता, 1,00,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/simbhaoli-sugar-mills/" class="access-card">
-        <div class="card-icon">🏭</div>
-        <h3>सिम्भावली शुगर</h3>
-        <p>1 प्लांट, 12,000 TCD क्षमता, 40,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-    </div>
-
-    <!-- District-wise -->
-    <h3 style="text-align:center; margin: 60px 0 20px; color: var(--primary);">जिलेवार शुगर मिल्स</h3>
-    <div class="cards-grid">
-      <a href="/posts/bijnor-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>बिजनौर</h3>
-        <p>8+ शुगर मिलें, 1,50,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/muzaffarnagar-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>मुजफ्फरनगर</h3>
-        <p>8+ शुगर मिलें, 1,00,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/meerut-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>मेरठ</h3>
-        <p>7+ शुगर मिलें, 80,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/saharanpur-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>सहारनपुर</h3>
-        <p>6+ शुगर मिलें, 60,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/bareilly-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>बरेली</h3>
-        <p>8+ शुगर मिलें, 1,00,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/lakhimpur-kheri-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>लखीमपुर खीरी</h3>
-        <p>6+ शुगर मिलें, 1,00,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/gorakhpur-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>गोरखपुर</h3>
-        <p>4+ शुगर मिलें, 40,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/shahjahanpur-sugar-mills/" class="access-card">
-        <div class="card-icon">📍</div>
-        <h3>शाहजहाँपुर</h3>
-        <p>4+ शुगर मिलें, 40,000+ किसान</p>
-        <span class="card-link">मिलें देखें →</span>
-      </a>
-      <a href="/posts/up-sugar-mill-list-complete/" class="access-card" style="border-color: var(--accent);">
-        <div class="card-icon">📋</div>
-        <h3>सभी 45 जिलों की लिस्ट</h3>
-        <p>120+ शुगर मिल्स की पूरी जानकारी</p>
-        <span class="card-link">पूरी लिस्ट देखें →</span>
-      </a>
-    </div>
-  </div>
-</section>
-
-<!-- Latest Articles Section -->
-<section class="latest-articles">
-  <div class="container">
-    <h2 class="section-title">ताज़ा लेख — गन्ना किसानों के लिए</h2>
-    <p class="section-subtitle">गन्ना पर्ची कैलेंडर, eGanna App, गन्ना भुगतान स्थिति, MSP रेट — नई जानकारी</p>
+<!-- LATEST ARTICLES -->
+<section class="section">
+    <h2 class="section-title">📰 ताज़ा लेख</h2>
+    <p class="section-subtitle">गन्ना किसानों के लिए नवीनतम जानकारी और समाचार</p>
     <div class="articles-grid">
-      {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
-      <article class="article-card">
-        <div class="article-meta">
-          <span class="article-date">{{ .Date.Format "02 Jan 2006" }}</span>
-          <span class="article-category">{{ with .Params.categories }}{{ index . 0 }}{{ end }}</span>
+        {{ $posts := where .Site.RegularPages "Section" "posts" }}
+        {{ range first 6 $posts }}
+        <a href="{{ .Permalink }}" class="article-card">
+            <div class="article-card-gradient"></div>
+            <div class="article-card-body">
+                <div class="article-card-meta">
+                    {{ with .Params.categories }}
+                    <span class="article-card-category">{{ index . 0 }}</span>
+                    {{ end }}
+                    <span>{{ .Date.Format "2 जनवरी 2006" }}</span>
+                </div>
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Summary | truncate 120 }}</p>
+                <div class="article-card-footer">
+                    <span>📖 {{ .ReadingTime }} मिनट पढ़ें</span>
+                    <span class="read-more-link">पढ़ें →</span>
+                </div>
+            </div>
+        </a>
+        {{ end }}
+    </div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="section" style="background:#F1F8E9;margin:0;max-width:100%;padding:3rem 1rem">
+    <div style="max-width:1200px;margin:0 auto">
+        <h2 class="section-title">📂 श्रेणियाँ</h2>
+        <p class="section-subtitle">अपनी ज़रूरत के अनुसार जानकारी खोजें</p>
+        <div class="categories-grid">
+            <a href="/categories/mills/" class="category-card">
+                <span>🏭</span>
+                <strong>चीनी मिल्स</strong>
+                <small>120+ मिल्स</small>
+            </a>
+            <a href="/categories/news/" class="category-card">
+                <span>📰</span>
+                <strong>ताज़ा समाचार</strong>
+                <small>दैनिक अपडेट</small>
+            </a>
+            <a href="/categories/guides/" class="category-card">
+                <span>📖</span>
+                <strong>खेती गाइड</strong>
+                <small>63+ गाइड्स</small>
+            </a>
+            <a href="/categories/schemes/" class="category-card">
+                <span>🏛️</span>
+                <strong>सरकारी योजनाएं</strong>
+                <small>सभी योजनाएं</small>
+            </a>
+            <a href="/categories/tools/" class="category-card">
+                <span>🔧</span>
+                <strong>किसान टूल्स</strong>
+                <small>कैलकुलेटर</small>
+            </a>
+            <a href="/categories/technology/" class="category-card">
+                <span>📱</span>
+                <strong>तकनीक</strong>
+                <small>eGanna व अन्य</small>
+            </a>
         </div>
-        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <p>{{ .Description | truncate 120 }}</p>
-        <a href="{{ .Permalink }}" class="read-more">पूरा पढ़ें →</a>
-      </article>
-      {{ end }}
     </div>
-    <div class="view-all">
-      <a href="/posts/" class="btn btn-outline">सभी लेख देखें →</a>
-    </div>
-  </div>
 </section>
 
-<!-- Impact Section -->
-<section class="impact-section">
-  <div class="container">
-    <h2 class="section-title">हमारा प्रभाव — CaneUp</h2>
-    <p class="section-subtitle">भारत के गन्ना किसानों तक पहुँच बनाना</p>
-    <div class="impact-grid">
-      <div class="impact-card">
-        <div class="impact-icon">🌾</div>
-        <h3>गन्ना खेती</h3>
-        <p>आधुनिक तकनीकों से पैदावार बढ़ाने के उपाय</p>
-      </div>
-      <div class="impact-card">
-        <div class="impact-icon">🏭</div>
-        <h3>शुगर मिल</h3>
-        <p>120+ मिल्स की पर्ची कैलेंडर और भुगतान जानकारी</p>
-      </div>
-      <div class="impact-card">
-        <div class="impact-icon">💳</div>
-        <h3>वित्तीय सेवाएं</h3>
-        <p>लोन, बीमा और सब्सिडी की जानकारी</p>
-      </div>
-      <div class="impact-card">
-        <div class="impact-icon">📊</div>
-        <h3>बाज़ार भाव</h3>
-        <p>MSP, FRP और गन्ने के ताज़ा रेट</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Categories Section -->
-<section class="categories-section">
-  <div class="container">
-    <h2 class="section-title">श्रेणियां — गन्ना किसान जानकारी</h2>
-    <div class="categories-grid">
-      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-      <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}/" class="category-chip">
-        {{ $name }} ({{ len $taxonomy }})
-      </a>
-      {{ end }}
-    </div>
-  </div>
-</section>
-
-<!-- FAQ Section - Enhanced with Keywords -->
-<section class="faq-section">
-  <div class="container">
-    <h2 class="section-title">अक्सर पूछे जाने वाले सवाल — गन्ना किसानों के लिए</h2>
+<!-- FAQ -->
+<section class="section">
+    <h2 class="section-title">❓ अक्सर पूछे जाने वाले सवाल</h2>
+    <p class="section-subtitle">गन्ना किसानों की सामान्य शंकाओं के उत्तर</p>
     <div class="faq-list">
-      <details class="faq-item">
-        <summary>गन्ना पर्ची कैलेंडर कैसे देखें?</summary>
-        <p><strong>गन्ना पर्ची कैलेंडर</strong> देखने के 3 तरीके हैं: (1) <strong>eGanna App</strong> Download करें और Calendar सेक्शन में जाएं, (2) <strong>CaneUp Enquiry</strong> (enquiry.caneup.in) पर जाएं, जिला, मिल, किसान कोड डालें, (3) <strong>CaneUp.xyz</strong> पर अपनी मिल का पेज देखें।</p>
-      </details>
-      <details class="faq-item">
-        <summary>eGanna App Download कैसे करें?</summary>
-        <p>Google Play Store पर <strong>"eGANNA CANE UP"</strong> सर्च करें और Install करें। यह <strong>उत्तर प्रदेश सरकार</strong> की आधिकारिक ऐप है। इससे <strong>गन्ना पर्ची कैलेंडर</strong>, <strong>सप्लाई टिकट</strong>, <strong>गन्ना भुगतान स्थिति</strong> देख सकते हैं।</p>
-      </details>
-      <details class="faq-item">
-        <summary>गन्ना भुगतान स्थिति कैसे चेक करें?</summary>
-        <p><strong>eGanna App</strong> या <strong>CaneUp Enquiry</strong> (enquiry.caneup.in) पर "Payments" सेक्शन में जाएं। अपना किसान कोड डालें — <strong>भुगतान की तारीख</strong>, <strong>राशि</strong>, <strong>बकाया</strong> सब दिख जाएगा।</p>
-      </details>
-      <details class="faq-item">
-        <summary>CaneUp Enquiry क्या है?</summary>
-        <p><strong>CaneUp Enquiry</strong> (enquiry.caneup.in) एक वेबसाइट है जहाँ <strong>गन्ना पर्ची कैलेंडर</strong>, <strong>सप्लाई टिकट</strong>, <strong>गन्ना तौल</strong>, <strong>भुगतान स्थिति</strong> चेक कर सकते हैं। बिना App के भी इस्तेमाल कर सकते हैं।</p>
-      </details>
-      <details class="faq-item">
-        <summary>गन्ने का MSP रेट 2026 में कितना है?</summary>
-        <p>केंद्र सरकार ने 2025-26 के लिए <strong>FRP ₹355</strong> प्रति क्विंटल तय किया है। UP में <strong>SAP ₹350-₹365</strong> है। महाराष्ट्र में FRP ₹355, कर्नाटक में ₹335-₹350।</p>
-      </details>
-      <details class="faq-item">
-        <summary>UP में कुल कितनी शुगर मिलें हैं?</summary>
-        <p>उत्तर प्रदेश में <strong>120 से ज़्यादा सक्रिय शुगर मिलें</strong> हैं, जो 45 जिलों में फैली हुई हैं। <strong>CaneUp</strong> पर सभी मिल्स की जानकारी मिलती है।</p>
-      </details>
-      <details class="faq-item">
-        <summary>PM किसान योजना में कितना पैसा मिलता है?</summary>
-        <p>हर किसान को सालाना <strong>₹6,000</strong> मिलते हैं — <strong>₹2,000 की 3 किश्तों</strong> में। pmkisan.gov.in पर स्टेटस चेक करें।</p>
-      </details>
-      <details class="faq-item">
-        <summary>किसान क्रेडिट कार्ड (KCC) कैसे बनवाएं?</summary>
-        <p>अपने बैंक में जाएं, <strong>KCC फॉर्म</strong> भरें, <strong>आधार कार्ड</strong> और <strong>ज़मीन के कागज़ात</strong> दें। 7-15 दिन में कार्ड बन जाएगा। ₹3 लाख तक <strong>4% ब्याज</strong> पर लोन मिलता है।</p>
-      </details>
-      <details class="faq-item">
-        <summary>सप्लाई टिकट क्या है?</summary>
-        <p><strong>सप्लाई टिकट</strong> (Supply Ticket) में लिखा होता है कि किस दिन गन्ना मिल में भेजना है, कितना भेजना है। <strong>eGanna App</strong> या <strong>CaneUp Enquiry</strong> से चेक कर सकते हैं।</p>
-      </details>
-      <details class="faq-item">
-        <summary>CaneUp.xyz क्या है?</summary>
-        <p><strong>CaneUp</strong> (caneup.xyz) भारत के <strong>गन्ना किसानों</strong> के लिए #1 वेबसाइट है। यहाँ <strong>गन्ना पर्ची कैलेंडर</strong>, <strong>eGanna App</strong>, <strong>भुगतान स्थिति</strong>, <strong>MSP रेट</strong>, <strong>शुगर मिल लिस्ट</strong> — सब मिलता है।</p>
-      </details>
+        <details class="faq-item">
+            <summary>गन्ना पर्ची कैसे चेक करें?</summary>
+            <div class="faq-answer">
+                <p>आप <a href="/eganna/">eGanna पोर्टल</a> पर जाकर अपना रजिस्ट्रेशन नंबर डालकर पर्ची की स्थिति देख सकते हैं। इसके अलावा, अपनी चीनी मिल के किसान हेल्पलाइन नंबर पर भी कॉल कर सकते हैं।</p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>गन्ने का MSP (न्यूनतम समर्थन मूल्य) क्या है?</summary>
+            <div class="faq-answer">
+                <p>2025-26 मौसम के लिए गन्ने का FRP (Fair & Remunerative Price) ₹355 प्रति क्विंटल निर्धारित है। यह केंद्र सरकार द्वारा तय किया जाता है। राज्य सरकारें SAP (State Advised Price) भी घोषित करती हैं जो FRP से अधिक हो सकता है।</p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>eGanna पोर्टल पर रजिस्ट्रेशन कैसे करें?</summary>
+            <div class="faq-answer">
+                <p>eGanna पोर्टल पर रजिस्ट्रेशन के लिए आपको आधार कार्ड, बैंक पासबुक, और खसरा/खतौनी की ज़रूरत होगी। <a href="/eganna/">हमारी विस्तृत गाइड</a> पढ़ें।</p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>गन्ने की पर्ची में देरी हो तो क्या करें?</summary>
+            <div class="faq-answer">
+                <p>पर्ची में देरी होने पर आप अपनी चीनी मिल के GM (गन्ना) से संपर्क करें। ज़िला गन्ना अधिकारी (DCO) को शिकायत दर्ज करा सकते हैं। eGanna पोर्टल पर भी शिकायत दर्ज की जा सकती है।</p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>गन्ने की खेती के लिए सबसे अच्छा समय क्या है?</summary>
+            <div class="faq-answer">
+                <p>उत्तर भारत में गन्ने की बुवाई का सबसे अच्छा समय फरवरी-मार्च (वसंत ऋतु) और सितंबर-अक्टूबर (शरद ऋतु) है। अधिक जानकारी के लिए <a href="/farming/">खेती गाइड</a> देखें।</p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>गन्ने का भुगतान कब तक मिलना चाहिए?</summary>
+            <div class="faq-answer">
+                <p>कानून के अनुसार, चीनी मिलों को गन्ने की डिलीवरी के 14 दिनों के भीतर भुगतान करना अनिवार्य है। देरी होने पर ब्याज सहित भुगतान मिलना चाहिए। शिकायत के लिए ज़िला गन्ना अधिकारी से संपर्क करें।</p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>गन्ने में कौन सी खाद डालें?</summary>
+            <div class="faq-answer">
+                <p>गन्ने में नाइट्रोजन (N), फॉस्फोरस (P), और पोटाश (K) का संतुलित उपयोग ज़रूरी है। प्रति एकड़ 120 किलो N, 60 किलो P, और 60 किलो K की सलाह दी जाती है। मिट्टी जाँच के आधार पर खाद की मात्रा तय करें। <a href="/farming/">विस्तृत गाइड पढ़ें।</a></p>
+            </div>
+        </details>
+        <details class="faq-item">
+            <summary>CaneUp वेबसाइट पर क्या-क्या मिलता है?</summary>
+            <div class="faq-answer">
+                <p>CaneUp पर आपको गन्ना पर्ची कैलेंडर, eGanna पोर्टल गाइड, MSP/FRP दरें, चीनी मिल जानकारी, खेती के टिप्स, सरकारी योजनाएं, और किसान टूल्स मिलते हैं। हमारा लक्ष्य गन्ना किसानों को सभी ज़रूरी जानकारी एक जगह उपलब्ध कराना है।</p>
+            </div>
+        </details>
     </div>
-  </div>
 </section>
 
-<!-- CTA Section -->
+<!-- CTA -->
 <section class="cta-section">
-  <div class="container">
-    <div class="cta-content">
-      <h2>गन्ना किसानों की मदद करें</h2>
-      <p>यह जानकारी अपने गाँव और किसान भाइयों तक शेयर करें — CaneUp, eGanna App, गन्ना पर्ची कैलेंडर</p>
-      <div class="cta-buttons">
-        <a href="https://wa.me/?text=CaneUp - गन्ना पर्ची कैलेंडर 2026 | eGanna App | गन्ना भुगतान स्थिति https://caneup.xyz" class="btn btn-primary">📱 WhatsApp पर शेयर करें</a>
-        <a href="https://t.me/share/url?url=https://caneup.xyz&text=CaneUp - गन्ना पर्ची कैलेंडर 2026 | eGanna App | गन्ना भुगतान स्थिति" class="btn btn-secondary">✈️ Telegram पर शेयर करें</a>
-      </div>
+    <h2>📲 CaneUp से जुड़ें</h2>
+    <p>गन्ना किसानों की सबसे बड़ी कम्युनिटी — WhatsApp और Telegram पर जुड़ें</p>
+    <div class="cta-buttons">
+        <a href="https://wa.me/?text=गन्ना%20पर्ची%20कैलेंडर%202026%20देखें%20-%20https://caneup.xyz" class="cta-btn cta-btn-wa" target="_blank" rel="noopener">
+            💬 WhatsApp पर शेयर करें
+        </a>
+        <a href="https://t.me/share/url?url=https://caneup.xyz&text=गन्ना%20पर्ची%20कैलेंडर%202026" class="cta-btn cta-btn-tg" target="_blank" rel="noopener">
+            ✈️ Telegram पर शेयर करें
+        </a>
     </div>
-  </div>
 </section>
 
 {{ end }}

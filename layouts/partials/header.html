@@ -1,36 +1,188 @@
-<header class="header">
-  <div class="container">
-    <nav class="nav">
-      <a href="/" class="logo">
-        <span class="logo-icon">🌾</span>
-        <span>CaneUp</span>
-      </a>
-      <button class="hamburger" onclick="toggleMenu()" aria-label="Menu">
-        <span></span><span></span><span></span>
-      </button>
-      <ul class="nav-links" id="navLinks">
-        <li><a href="/">🏠 होम</a></li>
-        <li><a href="/posts/ganna-parchi-calendar-2025-26/">📋 पर्ची कैलेंडर</a></li>
-        <li><a href="/posts/ganna-msp-rate-2026/">💰 MSP रेट</a></li>
-        <li><a href="/posts/ganne-ki-kheti-guide/">🌾 खेती गाइड</a></li>
-        <li><a href="/posts/ganna-subsidy-yojana-2026/">🏛️ योजनाएं</a></li>
-        <li><a href="/tools/">🔧 टूल्स</a></li>
-        <li><a href="/about/">ℹ️ About</a></li>
-      </ul>
+{{/* Header Partial for CaneUp */}}
+<style>
+  .cu-header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    font-family: 'Noto Sans Devanagari', system-ui, -apple-system, sans-serif;
+  }
+  .cu-header__inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+  .cu-header__logo {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    text-decoration: none;
+    color: #1a5e1a;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+  .cu-header__logo img {
+    height: 40px;
+    width: auto;
+  }
+  .cu-header__logo span {
+    color: #2d8a2e;
+  }
+  .cu-header__nav {
+    display: flex;
+    align-items: center;
+    gap: .25rem;
+  }
+  .cu-header__nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: .95rem;
+    font-weight: 500;
+    padding: .5rem .75rem;
+    border-radius: 6px;
+    transition: background .2s, color .2s;
+    white-space: nowrap;
+  }
+  .cu-header__nav a:hover,
+  .cu-header__nav a.active {
+    background: #e8f5e9;
+    color: #1a5e1a;
+  }
+  .cu-header__actions {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+  }
+  .cu-header__search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #555;
+    transition: background .2s;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  .cu-header__search:hover {
+    background: #e8f5e9;
+    color: #1a5e1a;
+  }
+  .cu-header__hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+    border-radius: 6px;
+    transition: background .2s;
+  }
+  .cu-header__hamburger:hover {
+    background: #e8f5e9;
+  }
+  .cu-header__hamburger span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: #333;
+    margin: 3px 0;
+    border-radius: 2px;
+    transition: transform .3s, opacity .3s;
+  }
+  .cu-header__hamburger.open span:nth-child(1) {
+    transform: rotate(45deg) translate(3px, 3px);
+  }
+  .cu-header__hamburger.open span:nth-child(2) {
+    opacity: 0;
+  }
+  .cu-header__hamburger.open span:nth-child(3) {
+    transform: rotate(-45deg) translate(4px, -4px);
+  }
+  .cu-mobile-menu {
+    display: none;
+    position: fixed;
+    top: 64px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 0 4px 16px rgba(0,0,0,.12);
+    padding: .5rem 1rem 1rem;
+    z-index: 999;
+  }
+  .cu-mobile-menu.open {
+    display: block;
+  }
+  .cu-mobile-menu a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: .75rem 1rem;
+    border-radius: 6px;
+    transition: background .2s;
+  }
+  .cu-mobile-menu a:hover,
+  .cu-mobile-menu a.active {
+    background: #e8f5e9;
+    color: #1a5e1a;
+  }
+  @media (max-width: 768px) {
+    .cu-header__nav {
+      display: none;
+    }
+    .cu-header__hamburger {
+      display: flex;
+    }
+  }
+</style>
+
+<header class="cu-header" role="banner">
+  <div class="cu-header__inner">
+    <a href="{{ .Site.BaseURL }}" class="cu-header__logo" aria-label="CaneUp होम">
+      {{ if fileExists "static/images/logo.png" }}
+        <img src="{{ .Site.BaseURL }}images/logo.png" alt="CaneUp Logo" width="40" height="40" loading="eager" />
+      {{ end }}
+      <span>CaneUp</span>
+    </a>
+
+    <nav class="cu-header__nav" aria-label="मुख्य नेविगेशन">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
+      {{ end }}
     </nav>
+
+    <div class="cu-header__actions">
+      <a href="{{ .Site.BaseURL }}search/" class="cu-header__search" aria-label="खोजें" title="खोजें">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </a>
+      <button class="cu-header__hamburger" aria-label="मेनू खोलें" aria-expanded="false" onclick="this.classList.toggle('open');this.setAttribute('aria-expanded',this.classList.contains('open'));document.querySelector('.cu-mobile-menu').classList.toggle('open')">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
   </div>
 </header>
 
-<script>
-function toggleMenu() {
-  document.getElementById('navLinks').classList.toggle('active');
-  document.querySelector('.hamburger').classList.toggle('active');
-}
-// Close menu on link click
-document.querySelectorAll('.nav-links a').forEach(function(link) {
-  link.addEventListener('click', function() {
-    document.getElementById('navLinks').classList.remove('active');
-    document.querySelector('.hamburger').classList.remove('active');
-  });
-});
-</script>
+<div class="cu-mobile-menu" role="navigation" aria-label="मोबाइल मेनू">
+  {{ range .Site.Menus.main }}
+    <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
+  {{ end }}
+  <a href="{{ .Site.BaseURL }}search/">🔍 खोजें</a>
+</div>

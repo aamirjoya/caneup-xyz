@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section style="max-width:960px;margin:0 auto;padding:2rem 1rem;">
+  <h1 style="font-size:1.75rem;font-weight:700;margin-bottom:1.5rem;text-align:center;">{{ .Title }}</h1>
+  {{ $terms := .Data.Terms.Alphabetical }}
+  {{ if $terms }}
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1rem;">
+    {{ range $terms }}
+    <a href="{{ .Page.RelPermalink }}" style="display:flex;align-items:center;gap:.75rem;padding:1rem 1.25rem;border:1px solid #e2e8f0;border-radius:12px;text-decoration:none;color:#1e293b;background:#fff;transition:box-shadow .2s,transform .15s;" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,.08)';this.style.transform='translateY(-2px)'" onmouseout="this.style.boxShadow='none';this.style.transform='none'">
+      <span style="font-size:1.5rem;">
+        {{ if eq .Page.Section "categories" }}📁{{ else }}🏷️{{ end }}
+      </span>
+      <span style="flex:1;">
+        <span style="font-weight:600;font-size:1rem;display:block;">{{ .Page.Title }}</span>
+        <span style="font-size:.8rem;color:#64748b;">{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}</span>
+      </span>
+      <span style="color:#94a3b8;font-size:1.2rem;">→</span>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <p style="text-align:center;color:#64748b;">No {{ .Title | lower }} found yet.</p>
+  {{ end }}
+</section>
+{{ end }}
