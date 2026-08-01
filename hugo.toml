@@ -12,7 +12,7 @@ buildExpired = false
 [params]
   env = "production"
   title = "गन्ना पर्ची कैलेंडर 2026 | eGanna App | गन्ना भुगतान स्थिति | CaneUp"
-  description = "गन्ना पर्ची कैलेंडर 2026 कैसे देखें, eGanna App Download, गन्ना भुगतान स्थिति, CaneUp Enquiry, MSP/FRP रेट, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। CaneUp गन्ना किसानों का #1 पोर्टल।"
+  description = "CaneUp — गन्ना किसानों का #1 पोर्टल। गन्ना पर्ची कैलेंडर 2026, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट, गन्ना खेती गाइड, सरकारी योजनाएं, KCC लोन — सब एक जगह।"
   keywords = [
     "caneup",
     "caneup.xyz",
@@ -64,7 +64,7 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "🌾 गन्ना पर्ची कैलेंडर 2026 | eGanna App | गन्ना भुगतान स्थिति | CaneUp"
-    Content = "गन्ना पर्ची कैलेंडर 2026 कैसे देखें, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। CaneUp Enquiry से गन्ना तौल और भुगतान चेक करें। उत्तर प्रदेश, महाराष्ट्र, कर्नाटक और पूरे भारत के गन्ना किसानों के लिए।"
+    Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 63+ आर्टिकल्स।"
 
   [[params.socialIcons]]
     name = "youtube"
