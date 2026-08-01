@@ -1,11 +1,19 @@
 ---
-title: "Bajaj Hindusthan Sugar Mill Barkhera 2026 — पीलीभीत | जानकारी, क्षमता, पर्ची कैलेंडर"
+title: Bajaj Hindusthan Sugar Mill Barkhera 2026 — पीलीभीत | जानकारी, क्षमता, पर्ची
+  कैलेंडर
 date: 2026-08-01
-description: "Bajaj Hindusthan Sugar Mill Barkhera, Pilibhit — 8,000 TCD क्षमता, 25,000+ किसान। पर्ची कैलेंडर और भुगतान स्थिति।"
-categories: ["Sugar Mill"]
-tags: ["bajaj hindusthan", "barkhera", "pilibhit"]
-slug: "bajaj-hindusthan-barkhera"
+description: Bajaj Hindusthan Sugar Mill Barkhera, Pilibhit — 8,000 TCD क्षमता, 25,000+
+  किसान। पर्ची कैलेंडर और भुगतान स्थिति।
+categories:
+- Sugar Mill
+tags:
+- bajaj hindusthan
+- barkhera
+- pilibhit
+slug: bajaj-hindusthan-barkhera
 ShowToc: true
+featured_image: /images/blog/bajaj-hindusthan-barkhera.webp
+image: /images/blog/bajaj-hindusthan-barkhera.webp
 ---
 
 # Bajaj Hindusthan Sugar Mill Barkhera 2026 — पीलीभीत

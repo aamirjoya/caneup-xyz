@@ -1,13 +1,32 @@
 ---
-title: "eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी"
-date: 2026-08-01T10:00:00+05:30
-description: "eGanna App Download 2026 कैसे करें? eGANNA CANE UP App से गन्ना पर्ची कैलेंडर, सप्लाई टिकट, गन्ना भुगतान स्थिति, टॉल डिटेल — सब कुछ एक जगह। पूरी जानकारी हिंदी में।"
+title: eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट
+  — पूरी जानकारी
+date: 2026-08-01 10:00:00+05:30
+description: eGanna App Download 2026 कैसे करें? eGANNA CANE UP App से गन्ना पर्ची
+  कैलेंडर, सप्लाई टिकट, गन्ना भुगतान स्थिति, टॉल डिटेल — सब कुछ एक जगह। पूरी जानकारी
+  हिंदी में।
 image: /images/blog/eganna-app-download.avif
-categories: ["caneup"]
-tags: ["eganna app", "eGanna", "गन्ना पर्ची कैलेंडर", "गन्ना भुगतान", "eGANNA CANE UP", "supply ticket"]
-keywords: ["eganna app download", "e ganna app download", "eGANNA CANE UP app", "गन्ना पर्ची कैलेंडर app", "गन्ना भुगतान स्थिति app", "eganna app kaise download kare", "eganna app login", "eganna app 2026"]
+categories:
+- caneup
+tags:
+- eganna app
+- eGanna
+- गन्ना पर्ची कैलेंडर
+- गन्ना भुगतान
+- eGANNA CANE UP
+- supply ticket
+keywords:
+- eganna app download
+- e ganna app download
+- eGANNA CANE UP app
+- गन्ना पर्ची कैलेंडर app
+- गन्ना भुगतान स्थिति app
+- eganna app kaise download kare
+- eganna app login
+- eganna app 2026
 ShowToc: true
-author: "आमिर जोया (Aamir Joya)"
+author: आमिर जोया (Aamir Joya)
+featured_image: /images/blog/eganna-app-download.webp
 ---
 
 > **📝 लेखक:** आमिर जोया (Aamir Joya) — CaneUp.xyz के सह-संस्थापक। मैं खुद एक गन्ना किसान हूँ और पिछले 8 साल से गन्ना उद्योग से जुड़ा हूँ। CaneUp पर हम किसानों को तकनीक से जोड़ने का काम कर रहे हैं। इस लेख में जो भी जानकारी दी गई है वह मेरे निजी अनुभव और आधिकारिक स्रोतों पर आधारित है।
