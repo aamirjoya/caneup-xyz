@@ -3,7 +3,7 @@ title: गन्ने में ड्रिप सिंचाई 2026 — क
 date: 2026-08-01 10:00:00+05:30
 description: गन्ने में ड्रिप सिंचाई की सम्पूर्ण जानकारी 2026। कैसे लगाएं, कितना खर्च
   आएगा, PMKSY सब्सिडी कैसे मिलेगी, ROI एनालिसिस, और बेस्ट ब्रांड्स — सब कुछ एक जगह।
-image: /images/blog/ganne-ki-drip-sinchai.avif
+image: /images/blog/ganne-ki-drip-sinchai.webp
 categories:
 - गन्ना खेती
 tags:

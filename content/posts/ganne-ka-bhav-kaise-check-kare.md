@@ -4,7 +4,7 @@ date: 2026-08-01 08:00:00+05:30
 description: गन्ने का भाव कैसे चेक करें 2026 — MSP, FRP, SAP रेट ऑनलाइन देखें। राज्यवार
   गन्ना भाव, eGanna App से भाव चेक करने का तरीका, CaneUp Enquiry, प्राइस कैलकुलेटर,
   मिल कम भाव दे तो क्या करें, शिकायत प्रक्रिया।
-image: /images/blog/ganne-ka-bhav-kaise-check-kare.avif
+image: /images/blog/ganne-ka-bhav-kaise-check-kare.webp
 categories:
 - गन्ना मार्केट
 tags:

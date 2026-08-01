@@ -1,0 +1,62 @@
+name: Generate Featured Images
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regenerate all images'
+        required: false
+        default: 'false'
+        type: boolean
+      limit:
+        description: 'Limit posts (0 = all)'
+        required: false
+        default: '0'
+        type: number
+
+jobs:
+  generate-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install Pillow requests pyyaml
+
+      - name: Generate featured images
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          LIMIT="${{ github.event.inputs.limit }}"
+          if [ "$LIMIT" != "0" ] && [ "$LIMIT" != "" ]; then
+            ARGS="$ARGS --limit=$LIMIT"
+          fi
+          python3 generate_featured_images.py $ARGS
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/images/blog/ content/posts/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🖼️ Auto-generate featured images [skip ci]"
+            git push
+          fi

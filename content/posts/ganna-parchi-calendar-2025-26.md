@@ -3,7 +3,7 @@ title: गन्ना पर्ची कैलेंडर 2025-26 कैस�
 date: 2026-06-16 08:15:00+05:30
 description: गन्ना पर्ची कैलेंडर 2025-26 ऑनलाइन कैसे देखें। CaneUp, eGanna App और
   फ़ोन से पर्ची चेक करने के 3 आसान तरीके। पूरी जानकारी हिंदी में।
-image: /images/blog/ganna-parchi-calendar-2025-26.avif
+image: /images/blog/ganna-parchi-calendar-2025-26.webp
 categories:
 - Parchi Calendar
 tags:

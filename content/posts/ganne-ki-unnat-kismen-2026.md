@@ -4,7 +4,7 @@ date: 2026-08-01 08:30:00+05:30
 description: गन्ने की उन्नत किस्में 2026 — Co-0238, Co-0118, Co-86032, Co-05011, Co-04016
   की विस्तृत जानकारी। रोग-प्रतिरोधी, ज़्यादा उत्पादन देने वाली, और राज्य-अनुसार सर्वश्रेष्ठ
   किस्में।
-image: /images/blog/ganne-ki-unnat-kismen-2026.avif
+image: /images/blog/ganne-ki-unnat-kismen-2026.webp
 categories:
 - गन्ना खेती
 tags:

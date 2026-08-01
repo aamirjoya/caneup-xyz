@@ -5,7 +5,7 @@ date: 2026-08-01 10:00:00+05:30
 description: eGanna App Download 2026 कैसे करें? eGANNA CANE UP App से गन्ना पर्ची
   कैलेंडर, सप्लाई टिकट, गन्ना भुगतान स्थिति, टॉल डिटेल — सब कुछ एक जगह। पूरी जानकारी
   हिंदी में।
-image: /images/blog/eganna-app-download.avif
+image: /images/blog/eganna-app-download.webp
 categories:
 - caneup
 tags:

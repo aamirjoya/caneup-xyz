@@ -3,7 +3,7 @@ title: गन्ने की नर्सरी कैसे बनाएं �
 date: 2026-07-06 08:13:00+05:30
 description: गन्ने की नर्सरी बनाने का पूरा तरीका — पौध कैसे तैयार करें, कौन सी किस्म
   चुनें, और नर्सरी की देखभाल कैसे करें।
-image: /images/blog/ganne-ki-nursery-kaise-banaye.avif
+image: /images/blog/ganne-ki-nursery-kaise-banaye.webp
 categories:
 - गन्ना खेती
 tags:

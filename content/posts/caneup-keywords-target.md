@@ -5,7 +5,7 @@ date: 2026-08-01 09:00:00+05:30
 description: 'CaneUp (caneup.xyz) — गन्ना किसानों का #1 पोर्टल। गन्ना पर्ची कैलेंडर
   2026, eGanna App Download, गन्ना भुगतान स्थिति, CaneUp Enquiry, MSP/FRP रेट, शुगर
   मिल लिस्ट, किसान टूल्स — सब कुछ एक जगह।'
-image: /images/blog/caneup-portal-2026.avif
+image: /images/blog/caneup-keywords-target.webp
 categories:
 - caneup
 tags:

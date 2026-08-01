@@ -4,7 +4,7 @@ date: 2026-08-01 08:00:00+05:30
 description: गन्ने की नई किस्में 2026 — Co-0238, Co-0118, Co-86032, Co-0157, Co-99004
   की विस्तृत जानकारी। कौन सी किस्म कहाँ लगाएं, कितनी पैदावार मिलेगी, और कैसे चुनें
   अपने जिले के लिए सबसे अच्छी किस्म।
-image: /images/blog/ganne-ki-nai-kism-2026.avif
+image: /images/blog/ganne-ki-nai-kism-2026.webp
 categories:
 - गन्ना खेती
 tags:

@@ -3,7 +3,7 @@ title: गन्ने की सिंचाई का शेड्यूल 20
 date: 2026-08-01 08:00:00+05:30
 description: गन्ने की सिंचाई का पूरा कैलेंडर 2026। जानिए हर महीने, हर सीजन और हर growth
   stage पर कितना पानी दें — महीनेवार शेड्यूल, तरीके, खर्च और बचत के तरीके।
-image: /images/blog/ganne-ki-sinchai-schedule.avif
+image: /images/blog/ganne-ki-sinchai-schedule.webp
 categories:
 - गन्ना खेती
 tags:

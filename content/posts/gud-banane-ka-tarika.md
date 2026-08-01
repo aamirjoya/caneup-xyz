@@ -3,7 +3,7 @@ title: गुड़ कैसे बनाएं — गन्ने से ग�
 date: 2026-07-06 08:00:00+05:30
 description: गन्ने के रस से गुड़ बनाने की पूरी विधि जानें। घर पर और गांव में गुड़
   बनाने का आसान तरीका, सामग्री, और जरूरी टिप्स।
-image: /images/blog/gud-banane-ka-tarika.avif
+image: /images/blog/gud-banane-ka-tarika.webp
 categories:
 - गन्ना उत्पादन
 tags:
