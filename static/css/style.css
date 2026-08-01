@@ -1,0 +1,109 @@
+:root {
+  --primary: #15803d;
+  --primary-dark: #052e16;
+  --primary-light: #166534;
+  --accent: #f59e0b;
+  --text: #333;
+  --text-light: #6b7280;
+  --bg: #fff;
+  --bg-light: #f0fdf4;
+  --success: #15803d;
+  --border: #e5e7eb;
+  --shadow: 0 2px 8px rgba(0,0,0,.08);
+  --radius: 8px;
+}
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text);
+  line-height: 1.6;
+  background: var(--bg);
+}
+img, video, iframe { max-width: 100%; height: auto; }
+img { aspect-ratio: attr(width) / attr(height); }
+
+/* CLS Prevention */
+img{height:auto;max-width:100%;display:block}
+.footer{content-visibility:auto;contain-intrinsic-size:auto 400px}
+.tbl-wrap{min-height:200px}
+.faq-box{min-height:150px}
+.rel-box{min-height:250px}
+.fb-box{min-height:120px}
+.s-bar{min-height:50px}
+
+/* Generic Cards */
+.card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform .2s, box-shadow .2s;
+  contain: layout style paint;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+}
+
+/* Content */
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+.content h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--primary);
+  margin: 32px 0 16px;
+}
+.content h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--primary);
+  margin: 24px 0 12px;
+}
+.content p {
+  font-size: 15px;
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+.content ul, .content ol {
+  margin-bottom: 16px;
+  padding-left: 24px;
+}
+.content li {
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+.content th, .content td {
+  padding: 12px 16px;
+  text-align: left;
+  font-size: 14px;
+  border: 1px solid var(--border);
+}
+.content th {
+  background: var(--bg-light);
+  font-weight: 600;
+}
+.content a {
+  color: var(--primary);
+  text-decoration: none;
+}
+.content a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .section { padding: 40px 16px; }
+  .section-title h2 { font-size: 24px; }
+  .content h2 { font-size: 20px; }
+  .content h3 { font-size: 18px; }
+  .content { padding: 24px 16px; }
+}

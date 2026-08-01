@@ -13,14 +13,18 @@
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="CaneUp — गन्ना किसान पोर्टल">
-  <meta property="og:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
+  <meta property="og:image" content="{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ .Title }}">
   <meta property="og:locale" content="hi_IN">
   {{ if .Params.keywords }}<meta name="news_keywords" content="{{ delimit .Params.keywords ", " }}">{{ end }}
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ .Title }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
-  <meta name="twitter:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
+  <meta name="twitter:image" content="{{ if .Params.featured_image }}{{ replace (.Params.featured_image | absURL) ".webp" ".jpg" }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
+  <meta name="twitter:image:alt" content="{{ .Title }}">
 
   <meta name="robots" content="index, follow, max-image-preview:large">
 
@@ -36,7 +40,9 @@
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#15803d">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -49,7 +55,7 @@
     img{max-width:100%;height:auto;display:block;aspect-ratio:attr(width)/attr(height)}
     body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;color:#333;line-height:1.6;background:#fff}
 
-    /* Header */
+    /* Header - Clean */
     .hdr{background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.1);position:sticky;top:0;z-index:1000;height:56px}
     .hdr-inner{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;align-items:center;justify-content:space-between;height:100%}
     .logo{display:flex;align-items:center;text-decoration:none;gap:8px}
@@ -58,7 +64,7 @@
     .logo-text small{display:block;font-size:10px;font-weight:400;color:#666}
 
     /* Nav */
-    .nav{display:flex;align-items:center;gap:18px}
+    .nav{display:flex;align-items:center;gap:20px}
     .nav a{text-decoration:none;color:#333;font-size:13px;font-weight:500;transition:color .2s}
     .nav a:hover{color:#15803d}
     .nav .btn-cta{background:#15803d;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;font-size:13px}
@@ -72,13 +78,14 @@
     .menu-btn.open span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
 
     @media(max-width:768px){
-      .menu-btn{display:flex}
-      .nav{display:none;position:fixed;top:56px;left:0;right:0;background:#fff;flex-direction:column;padding:16px;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:999;gap:0}
-      .nav.open{display:flex}
-      .nav a{padding:12px 0;border-bottom:1px solid #f3f4f6;font-size:15px;width:100%}
-      .nav .btn-cta{margin-top:8px;text-align:center;display:block}
+        .menu-btn{display:flex}
+        .nav{display:none;position:fixed;top:56px;left:0;right:0;background:#fff;flex-direction:column;padding:16px;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:999;gap:0}
+        .nav.open{display:flex}
+        .nav a{padding:12px 0;border-bottom:1px solid #f3f4f6;font-size:15px;width:100%}
+        .nav .btn-cta{margin-top:8px;text-align:center;display:block}
     }
   </style>
+  {{ partial "extend_head.html" . }}
   <link rel="preload" href="/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="/css/style.css"></noscript>
 </head>
@@ -95,7 +102,7 @@
         <a href="{{ .URL }}"{{ if eq .Identifier "parchi" }} class="btn-cta"{{ end }}>{{ .Name }}</a>
         {{ end }}
       </nav>
-      <button class="menu-btn" id="menuBtn" aria-label="Menu" onclick="toggleMenu()">
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">
         <span></span><span></span><span></span>
       </button>
     </div>
@@ -103,7 +110,8 @@
 
   {{ block "main" . }}{{ end }}
 
-  <section class="newsletter" style="background:linear-gradient(135deg,#15803d,#166534);color:#fff;text-align:center;padding:50px 20px;">
+  <!-- Newsletter -->
+  <section class="newsletter" style="background:linear-gradient(135deg,#052e16,#15803d);color:#fff;text-align:center;padding:50px 20px;">
     <h2 style="font-size:24px;font-weight:700;margin-bottom:10px;">📬 गन्ना अपडेट पाएं</h2>
     <p style="font-size:15px;opacity:.9;margin-bottom:20px;">MSP रेट, पर्ची कैलेंडर, सरकारी योजनाएं — सीधे आपके इनबॉक्स में</p>
     <form style="display:flex;max-width:420px;margin:0 auto;gap:8px;" onsubmit="return false;">
@@ -112,15 +120,21 @@
     </form>
   </section>
 
-  <footer style="background:#052e16;color:#fff;padding:40px 20px 20px;">
-    <div style="max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;">
+  <!-- Footer -->
+  <footer style="background:#052e16;color:#fff;padding:50px 20px 24px;">
+    <div style="max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr;gap:40px;">
+
+      <!-- Brand -->
       <div>
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
           <span style="font-size:24px;">🌾</span>
           <span style="font-size:18px;font-weight:700;">CaneUp</span>
         </div>
-        <p style="font-size:13px;opacity:.7;line-height:1.7;">CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
+        <p style="font-size:13px;opacity:.7;line-height:1.7;margin-bottom:12px;">CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
+        <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#f59e0b;text-decoration:none;">CaneUp.xyz</a></p>
       </div>
+
+      <!-- Popular -->
       <div>
         <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">लोकप्रिय</h4>
         <ul style="list-style:none;">
@@ -128,49 +142,127 @@
           <li style="margin-bottom:8px;"><a href="/categories/msp-rate/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">💰 MSP रेट</a></li>
           <li style="margin-bottom:8px;"><a href="/categories/ganna-kheti/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🌾 गन्ना खेती</a></li>
           <li style="margin-bottom:8px;"><a href="/categories/sarkari-yojana/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🏛️ सरकारी योजनाएं</a></li>
+          <li style="margin-bottom:8px;"><a href="/categories/business/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">💼 बिज़नेस</a></li>
         </ul>
       </div>
+
+      <!-- Tools -->
       <div>
         <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">टूल्स</h4>
         <ul style="list-style:none;">
           <li style="margin-bottom:8px;"><a href="/tools/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🔧 CaneUp टूल्स</a></li>
+          <li style="margin-bottom:8px;"><a href="/categories/eganna-app/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📱 eGanna App</a></li>
+          <li style="margin-bottom:8px;"><a href="/categories/sugar-mill/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🏭 शुगर मिल</a></li>
+          <li style="margin-bottom:8px;"><a href="/categories/kcc-loan/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🏦 KCC लोन</a></li>
+        </ul>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">क्विक लिंक</h4>
+        <ul style="list-style:none;">
           <li style="margin-bottom:8px;"><a href="/about/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">ℹ️ हमारे बारे में</a></li>
           <li style="margin-bottom:8px;"><a href="/contact/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📞 संपर्क</a></li>
           <li style="margin-bottom:8px;"><a href="/privacy-policy/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🔒 प्राइवेसी</a></li>
+          <li style="margin-bottom:8px;"><a href="/disclaimer/" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">⚠️ डिस्क्लेमर</a></li>
+          <li style="margin-bottom:8px;"><a href="/llms.txt" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🤖 AI Agents</a></li>
         </ul>
       </div>
+
+      <!-- Contact -->
       <div>
-        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">सोशल</h4>
-        <div style="display:flex;gap:10px;">
-          <a href="https://youtube.com/@caneup" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;" aria-label="YouTube">▶️</a>
-          <a href="https://twitter.com/caneupxyz" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;" aria-label="Twitter">🐦</a>
-          <a href="https://t.me/caneup" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;" aria-label="Telegram">✈️</a>
-        </div>
+        <h4 style="font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px;">संपर्क</h4>
+        <ul style="list-style:none;">
+          <li style="margin-bottom:8px;"><a href="mailto:info@caneup.xyz" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">📧 info@caneup.xyz</a></li>
+          <li style="margin-bottom:8px;"><a href="https://youtube.com/@caneup" target="_blank" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">▶️ YouTube</a></li>
+          <li style="margin-bottom:8px;"><a href="https://twitter.com/caneupxyz" target="_blank" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">🐦 Twitter</a></li>
+          <li style="margin-bottom:8px;"><a href="https://t.me/caneup" target="_blank" style="color:#fff;opacity:.7;text-decoration:none;font-size:13px;">✈️ Telegram</a></li>
+        </ul>
       </div>
     </div>
-    <div style="max-width:1200px;margin:24px auto 0;padding-top:16px;border-top:1px solid rgba(255,255,255,.1);text-align:center;font-size:12px;opacity:.5;">
-      © 2026 CaneUp — गन्ना किसान पोर्टल. All rights reserved.<br>
-      <small>Informational portal, not affiliated with UP Cane Department or any government body.</small><br>
-      <small>
-        <a href="/about/" style="color:rgba(255,255,255,.5);">About</a> ·
-        <a href="/contact/" style="color:rgba(255,255,255,.5);">Contact</a> ·
-        <a href="/privacy-policy/" style="color:rgba(255,255,255,.5);">Privacy</a> ·
-        <a href="/disclaimer/" style="color:rgba(255,255,255,.5);">Disclaimer</a>
-      </small>
+
+    <!-- Footer Bottom -->
+    <div style="max-width:1200px;margin:30px auto 0;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;">
+      <div style="display:flex;align-items:center;gap:8px;">
+        <span style="font-size:18px;">🌾</span>
+        <span style="font-size:14px;font-weight:700;">CaneUp</span>
+      </div>
+      <div style="font-size:12px;opacity:.5;text-align:center;">
+        &copy; 2026 CaneUp — गन्ना किसान पोर्टल. All rights reserved.<br>
+        <small>Informational portal, not affiliated with UP Cane Department or any government body.</small>
+        <br><small>
+          <a href="/about/" style="color:rgba(255,255,255,.5);">About</a> ·
+          <a href="/contact/" style="color:rgba(255,255,255,.5);">Contact</a> ·
+          <a href="/privacy-policy/" style="color:rgba(255,255,255,.5);">Privacy</a> ·
+          <a href="/disclaimer/" style="color:rgba(255,255,255,.5);">Disclaimer</a>
+        </small>
+      </div>
+      <div style="display:flex;gap:12px;">
+        <a href="https://youtube.com/@caneup" aria-label="YouTube" target="_blank" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;">▶️</a>
+        <a href="https://twitter.com/caneupxyz" aria-label="Twitter" target="_blank" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;">🐦</a>
+        <a href="https://t.me/caneup" aria-label="Telegram" target="_blank" style="width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;">✈️</a>
+      </div>
     </div>
   </footer>
 
   <script>
-    function toggleMenu(){
-      document.getElementById('mainNav').classList.toggle('open');
-      document.getElementById('menuBtn').classList.toggle('open');
-    }
-    document.querySelectorAll('.nav a').forEach(function(l){
-      l.addEventListener('click',function(){
+    // Mobile menu toggle
+    document.getElementById('menuBtn').addEventListener('click', function() {
+      var nav = document.getElementById('mainNav');
+      nav.classList.toggle('open');
+      this.classList.toggle('open');
+    });
+
+    // Close menu when clicking a link
+    document.querySelectorAll('.nav a').forEach(function(link) {
+      link.addEventListener('click', function() {
         document.getElementById('mainNav').classList.remove('open');
         document.getElementById('menuBtn').classList.remove('open');
       });
     });
+
+    // Close menu when clicking outside
+    document.addEventListener('click', function(e) {
+      var nav = document.getElementById('mainNav');
+      var btn = document.getElementById('menuBtn');
+      if (!nav.contains(e.target) && !btn.contains(e.target)) {
+        nav.classList.remove('open');
+        btn.classList.remove('open');
+      }
+    });
+
+    // CWV: Lazy load all images except first (LCP)
+    (function() {
+      document.addEventListener('DOMContentLoaded', function() {
+        var images = document.querySelectorAll('img');
+        for (var i = 0; i < images.length; i++) {
+          var img = images[i];
+          if (i === 0) {
+            img.setAttribute('fetchpriority', 'high');
+            img.removeAttribute('loading');
+          } else {
+            img.setAttribute('loading', 'lazy');
+            img.setAttribute('decoding', 'async');
+          }
+        }
+        // Lazy load videos and iframes
+        var media = document.querySelectorAll('video[poster], iframe');
+        for (var j = 0; j < media.length; j++) {
+          media[j].setAttribute('loading', 'lazy');
+        }
+      });
+    })();
+
+    // FID: Defer non-critical event listeners
+    (function() {
+      function onIdle(fn) {
+        if ('requestIdleCallback' in window) { requestIdleCallback(fn, { timeout: 2000 }); }
+        else { setTimeout(fn, 1); }
+      }
+      onIdle(function() {
+        // Place deferred scripts here (analytics, social widgets, etc.)
+      });
+    })();
   </script>
 </body>
 </html>

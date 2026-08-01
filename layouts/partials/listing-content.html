@@ -1,0 +1,286 @@
+<style>
+/* Listing Page Styles */
+.blog-hero{background:linear-gradient(135deg,#052e16 0%,#15803d 100%);color:white;padding:50px 20px 40px;text-align:center}
+.blog-hero h1{font-size:32px;font-weight:800;margin-bottom:10px;line-height:1.2}
+.blog-hero p{font-size:16px;opacity:.85;max-width:600px;margin:0 auto 20px}
+.blog-hero-stats{display:flex;justify-content:center;gap:30px;margin-top:15px}
+.blog-hero-stat{text-align:center}
+.blog-hero-stat-num{font-size:24px;font-weight:800;color:#f59e0b}
+.blog-hero-stat-label{font-size:12px;opacity:.8}
+.blog-breadcrumb{max-width:1200px;margin:0 auto;padding:12px 20px;font-size:13px;color:#6b7280}
+.blog-breadcrumb a{color:#15803d;text-decoration:none}
+.blog-breadcrumb a:hover{text-decoration:underline}
+.blog-container{max-width:1200px;margin:0 auto;padding:20px;display:grid;grid-template-columns:1fr 320px;gap:30px}
+.blog-featured{background:white;border-radius:12px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,.08);margin-bottom:24px;display:grid;grid-template-columns:1fr 1fr;transition:transform .2s}
+.blog-featured:hover{transform:translateY(-3px)}
+.blog-featured-img{background:linear-gradient(135deg,#15803d,#166534);min-height:240px;display:flex;align-items:center;justify-content:center;font-size:60px;position:relative}
+.blog-featured-badge{position:absolute;top:16px;left:16px;background:#f59e0b;color:#111;padding:4px 12px;border-radius:20px;font-size:11px;font-weight:700;text-transform:uppercase}
+.blog-featured-body{padding:28px;display:flex;flex-direction:column;justify-content:center}
+.blog-featured-tag{display:inline-block;background:#dcfce7;color:#15803d;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:600;margin-bottom:10px;width:fit-content}
+.blog-featured-title{font-size:22px;font-weight:700;color:#111;margin-bottom:10px;line-height:1.3}
+.blog-featured-title a{text-decoration:none;color:inherit}
+.blog-featured-title a:hover{color:#15803d}
+.blog-featured-excerpt{font-size:14px;color:#6b7280;line-height:1.6;margin-bottom:14px}
+.blog-featured-meta{font-size:12px;color:#9ca3af;display:flex;align-items:center;gap:12px}
+.blog-section-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;padding-bottom:12px;border-bottom:3px solid #15803d}
+.blog-section-header h2{font-size:20px;font-weight:700;color:#111}
+.blog-section-count{background:#dcfce7;color:#15803d;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:600}
+.blog-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.blog-card{contain:layout style paint;min-height:280px;background:white;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);transition:all .25s;border:1px solid #f3f4f6}
+.blog-card:hover{transform:translateY(-4px);box-shadow:0 8px 25px rgba(0,0,0,.1)}
+.blog-card-img{height:160px;display:flex;align-items:center;justify-content:center;font-size:40px;position:relative}
+.blog-card-img-1{background:linear-gradient(135deg,#15803d,#166534)}.blog-card-img-2{background:linear-gradient(135deg,#f59e0b,#d97706)}.blog-card-img-3{background:linear-gradient(135deg,#0ea5e9,#0284c7)}
+.blog-card-img-4{background:linear-gradient(135deg,#8b5cf6,#7c3aed)}.blog-card-img-5{background:linear-gradient(135deg,#ec4899,#db2777)}.blog-card-img-6{background:linear-gradient(135deg,#14b8a6,#0d9488)}
+.blog-card-img-7{background:linear-gradient(135deg,#f97316,#ea580c)}.blog-card-img-8{background:linear-gradient(135deg,#06b6d4,#0891b2)}
+.blog-card-tag{position:absolute;top:12px;left:12px;background:rgba(255,255,255,.95);color:#15803d;padding:3px 10px;border-radius:20px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+.blog-card-body{padding:18px}
+.blog-card-title{font-size:15px;font-weight:700;color:#111;margin-bottom:8px;line-height:1.4}
+.blog-card-title a{text-decoration:none;color:inherit}
+.blog-card-title a:hover{color:#15803d}
+.blog-card-excerpt{font-size:13px;color:#6b7280;line-height:1.5;margin-bottom:12px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.blog-card-footer{display:flex;align-items:center;justify-content:space-between;font-size:11px;color:#9ca3af;padding-top:12px;border-top:1px solid #f3f4f6}
+.blog-card-read{color:#15803d;font-weight:600;text-decoration:none;font-size:12px}
+.blog-card-read:hover{text-decoration:underline}
+.blog-sidebar{display:flex;flex-direction:column;gap:20px}
+.sidebar-card{contain:layout style;min-height:200px;background:white;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);border:1px solid #f3f4f6}
+.sidebar-card-header{background:linear-gradient(135deg,#052e16,#15803d);color:white;padding:14px 18px}
+.sidebar-card-header h3{font-size:14px;font-weight:700;margin:0}
+.sidebar-card-body{padding:16px 18px}
+.cat-list{list-style:none}
+.cat-list li{padding:10px 0;border-bottom:1px solid #f3f4f6}
+.cat-list li:last-child{border:none}
+.cat-list a{display:flex;align-items:center;justify-content:space-between;text-decoration:none;color:#374151;font-size:13px;font-weight:500}
+.cat-list a:hover{color:#15803d}
+.cat-count{background:#f3f4f6;color:#6b7280;padding:2px 8px;border-radius:10px;font-size:11px}
+.popular-list{list-style:none}
+.popular-item{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid #f3f4f6}
+.popular-item:last-child{border:none}
+.popular-num{background:linear-gradient(135deg,#15803d,#166534);color:white;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;flex-shrink:0}
+.popular-info h4{font-size:13px;font-weight:600;color:#111;line-height:1.4;margin-bottom:4px}
+.popular-info h4 a{text-decoration:none;color:inherit}
+.popular-info h4 a:hover{color:#15803d}
+.popular-info span{font-size:11px;color:#9ca3af}
+.newsletter-card{background:linear-gradient(135deg,#052e16,#15803d);color:white;border-radius:10px;padding:24px;text-align:center}
+.newsletter-card h3{font-size:16px;font-weight:700;margin-bottom:8px}
+.newsletter-card p{font-size:13px;opacity:.85;margin-bottom:16px}
+.newsletter-input{width:100%;padding:10px 14px;border:none;border-radius:6px;font-size:13px;margin-bottom:10px}
+.newsletter-btn{width:100%;background:#f59e0b;color:#111;border:none;padding:10px;border-radius:6px;font-weight:700;font-size:13px;cursor:pointer}
+@media(max-width:992px){
+.blog-container{grid-template-columns:1fr}
+.blog-featured{grid-template-columns:1fr}
+.blog-featured-img{min-height:180px}
+}
+@media(max-width:768px){
+.blog-hero h1{font-size:24px}
+.blog-grid{grid-template-columns:1fr}
+.blog-hero-stats{gap:20px}
+}
+</style>
+
+{{ if eq .Section "blog" }}
+
+<!-- Blog Hero -->
+<section class="blog-hero" style="min-height:180px">
+  <h1>📚 {{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+  <div class="blog-hero-stats">
+    <div class="blog-hero-stat">
+      <div class="blog-hero-stat-num">{{ len .Pages }}</div>
+      <div class="blog-hero-stat-label">आर्टिकल्स</div>
+    </div>
+    <div class="blog-hero-stat">
+      <div class="blog-hero-stat-num">63+</div>
+      <div class="blog-hero-stat-label">गाइड्स</div>
+    </div>
+    <div class="blog-hero-stat">
+      <div class="blog-hero-stat-num">Daily</div>
+      <div class="blog-hero-stat-label">नई जानकारी</div>
+    </div>
+  </div>
+</section>
+
+<!-- Breadcrumb -->
+<div class="blog-breadcrumb">
+  <a href="/">होम</a> / <span>{{ .Title }}</span>
+</div>
+
+<!-- Main Content -->
+<div class="blog-container" style="min-height:60vh">
+  <div class="blog-main">
+
+    <!-- Featured Post (First/Latest) -->
+    {{ range first 1 .Pages.ByDate.Reverse }}
+    <a href="{{ .Permalink }}" style="text-decoration:none;">
+    <div class="blog-featured">
+      {{ if .Params.featured_image }}
+      <div class="blog-featured-img" style="background:url('{{ .Params.featured_image }}') center/cover no-repeat;"></div>
+      {{ else }}
+      <div class="blog-featured-img">🌾</div>
+      {{ end }}
+      <div class="blog-featured-body">
+        <span class="blog-featured-tag">फीचर्ड आर्टिकल</span>
+        <h2 class="blog-featured-title">{{ .Title }}</h2>
+        <p class="blog-featured-excerpt">{{ .Description | truncate 180 }}</p>
+        <div class="blog-featured-meta">
+          <span>📅 {{ .Date.Format "Jan 2, 2006" }}</span>
+          <span>⏱️ {{ .ReadingTime }} min read</span>
+        </div>
+      </div>
+    </div>
+    </a>
+    {{ end }}
+
+    <!-- All Articles -->
+    <div class="blog-section-header">
+      <h2>📰 सभी आर्टिकल्स</h2>
+      <span class="blog-section-count">{{ len .Pages }} आर्टिकल्स</span>
+    </div>
+
+    {{ if .Pages }}
+    <div class="blog-grid">
+      {{ $pages := .Pages.ByDate.Reverse }}
+      {{ $imgClasses := slice "blog-card-img-1" "blog-card-img-2" "blog-card-img-3" "blog-card-img-4" "blog-card-img-5" "blog-card-img-6" "blog-card-img-7" "blog-card-img-8" }}
+      {{ $emojis := slice "🌾" "📋" "💰" "🏛️" "📱" "💼" "🏭" "🏦" }}
+      {{ range $index, $page := $pages }}
+      {{ $imgClass := index $imgClasses (mod $index (len $imgClasses)) }}
+      {{ $emoji := index $emojis (mod $index (len $emojis)) }}
+      <div class="blog-card">
+        {{ if .Params.featured_image }}
+        <div class="blog-card-img" style="background:url('{{ .Params.featured_image }}') center/cover no-repeat;"></div>
+        {{ else }}
+        <div class="blog-card-img {{ $imgClass }}">{{ $emoji }}<span class="blog-card-tag">Article</span></div>
+        {{ end }}
+        <div class="blog-card-body">
+          <h3 class="blog-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p class="blog-card-excerpt">{{ .Description | truncate 100 }}</p>
+          <div class="blog-card-footer">
+            <span>{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min</span>
+            <a href="{{ .Permalink }}" class="blog-card-read">पढ़ें →</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ else }}
+    <div style="text-align:center;padding:60px 20px;color:#6b7280;">
+      <div style="font-size:48px;margin-bottom:16px;">📝</div>
+      <h3 style="font-size:18px;color:#111;margin-bottom:8px;">अभी कोई आर्टिकल नहीं</h3>
+      <p>जल्द ही गन्ना खेती और MSP रेट पर नए आर्टिकल्स आएंगे।</p>
+    </div>
+    {{ end }}
+
+  </div>
+
+  <!-- Sidebar -->
+  <div class="blog-sidebar">
+
+    <!-- Categories -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">
+        <h3>📂 कैटेगरीज़</h3>
+      </div>
+      <div class="sidebar-card-body">
+        <ul class="cat-list">
+          <li><a href="/blog/">📝 सभी आर्टिकल्स <span class="cat-count">{{ len .Pages }}</span></a></li>
+          <li><a href="/categories/parchi-calendar/">📋 पर्ची कैलेंडर</a></li>
+          <li><a href="/categories/msp-rate/">💰 MSP रेट</a></li>
+          <li><a href="/categories/ganna-kheti/">🌾 गन्ना खेती</a></li>
+          <li><a href="/categories/sarkari-yojana/">🏛️ सरकारी योजनाएं</a></li>
+          <li><a href="/categories/business/">💼 बिज़नेस</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Popular Posts -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">
+        <h3>🔥 लोकप्रिय आर्टिकल्स</h3>
+      </div>
+      <div class="sidebar-card-body">
+        <div class="popular-list">
+          {{ range $index, $page := first 5 .Pages.ByDate.Reverse }}
+          <div class="popular-item">
+            <div class="popular-num">{{ add $index 1 }}</div>
+            <div class="popular-info">
+              <h4><a href="{{ .Permalink }}">{{ .Title | truncate 60 }}</a></h4>
+              <span>{{ .Date.Format "Jan 2" }} · {{ .ReadingTime }} min</span>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Newsletter -->
+    <div class="newsletter-card">
+      <h3>📬 गन्ना अपडेट पाएं</h3>
+      <p>MSP रेट, पर्ची कैलेंडर, सरकारी योजनाएं</p>
+      <input type="email" class="newsletter-input" placeholder="ईमेल दर्ज करें">
+      <button class="newsletter-btn">सब्सक्राइब →</button>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header" style="background:linear-gradient(135deg,#f59e0b,#d97706);">
+        <h3 style="color:#111;">🔧 CaneUp टूल्स</h3>
+      </div>
+      <div class="sidebar-card-body">
+        <p style="font-size:13px;color:#374151;margin-bottom:12px;">गन्ना किसानों के लिए उपयोगी टूल्स</p>
+        <a href="/tools/" style="display:block;background:#f59e0b;color:#111;text-align:center;padding:10px;border-radius:6px;text-decoration:none;font-weight:700;font-size:13px;">टूल्स देखें →</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+{{ else if eq .Section "categories" }}
+
+<!-- Categories Section -->
+<section class="blog-hero" style="background:linear-gradient(135deg,#052e16,#16213e);">
+  <h1>📂 {{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</section>
+<div class="blog-breadcrumb">
+  <a href="/">होम</a> / <span>{{ .Title }}</span>
+</div>
+<div style="max-width:1200px;margin:0 auto;padding:20px;">
+  {{ if .Pages }}
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:20px;">
+    {{ range .Pages }}
+    <a href="{{ .Permalink }}" style="text-decoration:none;">
+    <div style="background:white;border-radius:10px;padding:20px;box-shadow:0 2px 10px rgba(0,0,0,.06);border:1px solid #f3f4f6;display:flex;gap:16px;align-items:center;transition:all .2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 8px 25px rgba(0,0,0,.1)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 10px rgba(0,0,0,.06)'">
+      <div style="width:56px;height:56px;background:linear-gradient(135deg,#15803d,#166534);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0;">🌾</div>
+      <div>
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:4px;">{{ .Title }}</h3>
+        <p style="font-size:12px;color:#6b7280;margin-bottom:4px;">{{ .Description | truncate 80 }}</p>
+      </div>
+    </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div style="text-align:center;padding:60px 20px;color:#6b7280;">
+    <div style="font-size:48px;margin-bottom:16px;">📂</div>
+    <h3 style="font-size:18px;color:#111;margin-bottom:8px;">जल्द आ रहा है</h3>
+    <p>कैटेगरी पेज जोड़े जा रहे हैं। जल्द वापस आएं!</p>
+  </div>
+  {{ end }}
+</div>
+
+{{ else }}
+
+<!-- Default Section -->
+<section class="blog-hero">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</section>
+<div class="blog-breadcrumb">
+  <a href="/">होम</a> / <span>{{ .Title }}</span>
+</div>
+<div style="max-width:800px;margin:0 auto;padding:30px 20px;">
+  <div class="content">
+    {{ .Content }}
+  </div>
+</div>
+
+{{ end }}
