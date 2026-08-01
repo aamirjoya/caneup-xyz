@@ -139,10 +139,10 @@
 <div class="sec">
   <div class="sec-hdr">
     <h2>📰 ताज़ा आर्टिकल्स</h2>
-    <a href="/blog/">सभी देखें →</a>
+    <a href="/posts/">सभी 87+ आर्टिकल्स देखें →</a>
   </div>
   <div class="blog-grid">
-    {{ range $i, $p := first 6 (where .Site.RegularPages "Section" "blog") }}
+    {{ range $i, $p := first 12 (where .Site.RegularPages "Section" "posts") }}
     <a href="{{ $p.Permalink }}" class="bc">
       {{ if $p.Params.featured_image }}
       <div class="bc-img" style="background:url('{{ $p.Params.featured_image }}') center/cover no-repeat;"></div>

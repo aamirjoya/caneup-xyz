@@ -98,7 +98,7 @@
 <div class="art-hero-inner">
 <div class="art-crumb">
 <a href="/">होम</a> <span>›</span>
-{{ if eq .Section "blog" }}<a href="/blog/">ब्लॉग</a> <span>›</span>{{ end }}
+{{ if eq .Section "posts" }}<a href="/posts/">आर्टिकल्स</a> <span>›</span>{{ end }}
 <span>{{ .Title | truncate 40 }}</span>
 </div>
 <h1 class="art-title">{{ .Title }}</h1>
@@ -293,7 +293,7 @@ btn.querySelector('.faq-q-arrow').classList.toggle('open');
 var relatedArticles=[
 {{ $cur := .Title }}
 {{ $count := 0 }}
-{{ range first 6 (where (where .Site.RegularPages "Section" "blog") "Title" "!=" $cur) }}
+{{ range first 6 (where (where .Site.RegularPages "Section" "posts") "Title" "!=" $cur) }}
 {{ if lt $count 5 }}
 {title:"{{ .Title | truncate 55 }}",url:"{{ .Permalink }}",img:"{{ .Params.featured_image | default "" }}",tag:"ARTICLE"},
 {{ $count = (add $count 1) }}
