@@ -1,134 +1,41 @@
-{{/* JSON-LD Structured Data for CaneUp - Hindi Devanagari Sugarcane Farming Site */}}
-
-{{/* WebSite Schema - Homepage */}}
-{{ if .IsHome }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "CaneUp - गन्ना किसानों का डिजिटल साथी",
-  "alternateName": "CaneUp",
-  "url": "{{ .Site.BaseURL }}",
-  "description": "{{ .Site.Params.description }}",
-  "inLanguage": ["hi-IN", "en"],
-  "publisher": {
-    "@type": "Organization",
-    "name": "CaneUp",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}images/logo.png",
-      "width": 250,
-      "height": 60
-    }
-  }
-  {{ if .Site.Params.social.twitter }},
-  "sameAs": [
-    "{{ .Site.Params.social.youtube }}",
-    "{{ .Site.Params.social.twitter }}",
-    "{{ .Site.Params.social.telegram }}"
-  ]
-  {{ end }}
-}
-</script>
-{{ end }}
-
-{{/* Organization Schema - All Pages */}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "CaneUp",
-  "url": "{{ .Site.BaseURL }}",
-  "logo": "{{ .Site.BaseURL }}images/logo.png",
-  "description": "गन्ना किसानों के लिए भारत का प्रमुख डिजिटल प्लेटफॉर्म — खेती तकनीक, बाजार भाव, सरकारी योजनाएं और अधिक।"
-  {{ if .Site.Params.social }},
-  "sameAs": [
-    {{ if .Site.Params.social.youtube }}"{{ .Site.Params.social.youtube }}"{{ end }}{{ if .Site.Params.social.twitter }},{{ end }}
-    {{ if .Site.Params.social.twitter }}"{{ .Site.Params.social.twitter }}"{{ end }}{{ if .Site.Params.social.telegram }},{{ end }}
-    {{ if .Site.Params.social.telegram }}"{{ .Site.Params.social.telegram }}"{{ end }}
-  ]
-  {{ end }},
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "contactType": "customer service",
-    "availableLanguage": ["Hindi", "English"]
-  }
-}
-</script>
-
-{{/* Article Schema - Blog Posts */}}
 {{ if .IsPage }}
-  {{ if or (eq .Section "blog") (eq .Section "posts") (eq .Section "articles") }}
+<!-- Article Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ .Permalink }}"
-  },
   "headline": "{{ .Title }}",
-  "description": "{{ .Description | default .Summary | plainify | truncate 160 }}",
-  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05+05:30" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05+05:30" }}"
-  {{- if .Params.image }},
-  "image": [
-    "{{ with .Params.image }}{{ if eq (printf "%T" .) "string" }}{{ . }}{{ else }}{{ .src }}{{ end }}{{ end }}"
-  ]
-  {{- else if .Params.images }},
-  "image": [
-    {{ range $i, $img := .Params.images }}{{ if $i }},{{ end }}"{{ $img }}"{{ end }}
-  ]
-  {{- end }},
+  "description": "{{ .Description }}",
+  "image": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
   "author": {
     "@type": "Person",
-    "name": "{{ .Params.author | default .Site.Params.author | default "CaneUp टीम" }}"
+    "name": "{{ .Params.author_name | default "CaneUp Team" }}"
   },
   "publisher": {
     "@type": "Organization",
     "name": "CaneUp",
+    "url": "https://caneup.xyz/",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}images/logo.png",
-      "width": 250,
-      "height": 60
+      "url": "https://caneup.xyz/images/logo.png",
+      "width": 1200,
+      "height": 630
     }
   },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "keywords": [{{ range $i, $k := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $k }}"{{ end }}],
+  "articleSection": "{{ .Section }}",
   "wordCount": {{ .WordCount }},
-  "articleSection": "{{ .Section }}"
-  {{- if .Params.tags }},
-  "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }},{{ end }}"{{ $tag }}"{{ end }}]
-  {{- end }}
+  "inLanguage": "hi-IN"
 }
 </script>
 
-{{/* FAQPage Schema - If FAQ section exists in frontmatter */}}
-  {{ if .Params.faq }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
-    {
-      "@type": "Question",
-      "name": "{{ $item.question }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ $item.answer }}"
-      }
-    }
-    {{ end }}
-  ]
-}
-</script>
-  {{ end }}
-  {{ end }}
-{{ end }}
-
-{{/* BreadcrumbList Schema - All non-homepage pages */}}
-{{ if not .IsHome }}
+<!-- Breadcrumb Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -137,27 +44,95 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "होम",
-      "item": "{{ .Site.BaseURL }}"
+      "name": "Home",
+      "item": "https://caneup.xyz/"
     }
-    {{- $currentPage := . -}}
-    {{- $scratch := newScratch -}}
-    {{- $scratch.Set "position" 2 -}}
-    {{- $pathParts := split (strings.TrimPrefix "/" (strings.TrimSuffix "/" .RelPermalink)) "/" -}}
-    {{- $currentPath := "" -}}
-    {{- range $i, $part := $pathParts -}}
-      {{- $currentPath = printf "%s/%s" $currentPath $part -}}
-      {{- if gt (len $part) 0 }},
+    {{ if .Section }},
     {
       "@type": "ListItem",
-      "position": {{ $scratch.Get "position" }},
-      "name": "{{ if eq $i 0 }}{{ with $.Site.GetPage $currentPath }}{{ .Title }}{{ else }}{{ humanize $part }}{{ end }}{{ else }}{{ $currentPage.Title }}{{ end }}",
-      "item": "{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" $currentPath }}/"
+      "position": 2,
+      "name": "{{ .Section | title }}",
+      "item": "https://caneup.xyz/{{ .Section }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title | truncate 50 }}",
+      "item": "{{ .Permalink }}"
     }
-      {{- $scratch.Set "position" (add ($scratch.Get "position") 1) -}}
-      {{- end -}}
-    {{- end }}
+    {{ end }}
   ]
 }
 </script>
+
+{{ else }}
+<!-- WebSite Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CaneUp — गन्ना किसान पोर्टल",
+  "url": "https://caneup.xyz/",
+  "description": "गन्ना पर्ची कैलेंडर, eGanna App, गन्ना भुगतान स्थिति, MSP/FRP रेट, सरकारी योजनाएं",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://caneup.xyz/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaneUp",
+    "url": "https://caneup.xyz/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://caneup.xyz/images/logo.png"
+    },
+    "sameAs": [
+      "https://youtube.com/@caneup",
+      "https://twitter.com/caneupxyz",
+      "https://t.me/caneup"
+    ]
+  }
+}
+</script>
+
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CaneUp",
+  "url": "https://caneup.xyz/",
+  "logo": "https://caneup.xyz/images/logo.png",
+  "sameAs": [
+    "https://youtube.com/@caneup",
+    "https://twitter.com/caneupxyz",
+    "https://t.me/caneup"
+  ]
+}
+</script>
+
+{{ if .IsSection }}
+<!-- Breadcrumb Schema for Section -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://caneup.xyz/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
 {{ end }}
