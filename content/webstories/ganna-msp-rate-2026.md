@@ -1,0 +1,37 @@
+---
+title: "गन्ना MSP रेट 2026-27 — सभी राज्यों की लिस्ट"
+date: 2026-08-03
+description: "गन्ना MSP रेट 2026-27 की पूरी लिस्ट। FRP और SAP रेट क्या है? किसानों को कितना भुगतान मिलेगा?"
+author_name: "CaneUp Team"
+featured_image: "/images/webstories/msp-rate.webp"
+story_type: "image"
+category: "MSP रेट"
+tags: ["गन्ना MSP रेट 2026", "FRP रेट", "ganna MSP rate", "गन्ना भाव"]
+slides:
+  - image: "/images/webstories/msp-rate.webp"
+    title: "गन्ना MSP रेट 2026-27"
+    subtitle: "किसानों को मिलने वाले न्यूनतम समर्थन मूल्य की पूरी जानकारी"
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-field.webp"
+    title: "MSP क्या है?"
+    subtitle: "Minimum Support Price — सरकार द्वारा तय न्यूनतम मूल्य जो किसानों को मिलना चाहिए।"
+    credit: "CaneUp"
+  - image: "/images/webstories/sugarcane-field.webp"
+    title: "FRP रेट 2026"
+    subtitle: "Fair and Remunerative Price — केंद्र सरकार द्वारा तय गन्ने का भाव ₹315/क्विंटल।"
+    credit: "CaneUp"
+  - image: "/images/webstories/up-map.webp"
+    title: "UP में SAP रेट"
+    subtitle: "उत्तर प्रदेश में State Advised Price ₹370/क्विंटल है — FRP से ज्यादा।"
+    credit: "CaneUp"
+  - image: "/images/webstories/payment-status.webp"
+    title: "भुगतान कैसे चेक करें"
+    subtitle: "CaneUp पोर्टल पर जाएं और अपना गन्ना भुगतान स्थिति ऑनलाइन देखें।"
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-happy.webp"
+    title: "KCC लोन लें"
+    subtitle: "किसान क्रेडिट कार्ड से गन्ना खेती के लिए कम ब्याज पर लोन पाएं।"
+    credit: "CaneUp"
+---
+
+गन्ना MSP रेट 2026-27 की पूरी लिस्ट। FRP और SAP रेट क्या है? किसानों को कितना भुगतान मिलेगा? जानें CaneUp पर।

@@ -131,10 +131,16 @@ buildExpired = false
     weight = 6
 
   [[menu.main]]
+    identifier = "webstories"
+    name = "📰 वेब स्टोरीज"
+    url = "/webstories/"
+    weight = 7
+
+  [[menu.main]]
     identifier = "tools"
     name = "🔧 टूल्स"
     url = "/tools/"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     identifier = "about"

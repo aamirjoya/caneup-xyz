@@ -1,0 +1,37 @@
+---
+title: "गन्ना खेती के 6 जरूरी टिप्स — ज्यादा उपज कैसे पाएं"
+date: 2026-08-03
+description: "गन्ना खेती में ज्यादा उपज पाने के 6 जरूरी टिप्स। Co-0238 किस्म, ड्रिप सिंचाई, कीट प्रबंधन की पूरी जानकारी।"
+author_name: "CaneUp Team"
+featured_image: "/images/webstories/sugarcane-field.webp"
+story_type: "image"
+category: "गन्ना खेती"
+tags: ["गन्ना खेती", "ganna kheti", "sugarcane farming tips", "Co-0238", "गन्ना उपज"]
+slides:
+  - image: "/images/webstories/sugarcane-field.webp"
+    title: "गन्ना खेती के 6 जरूरी टिप्स"
+    subtitle: "ज्यादा उपज और मुनाफा पाने के लिए ये तरीके अपनाएं"
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-field.webp"
+    title: "Co-0238 किस्म लगाएं"
+    subtitle: "सबसे ज्यादा उपज देने वाली किस्म — 50-60 टन/हेक्टेयर तक उपज।"
+    credit: "CaneUp"
+  - image: "/images/webstories/drip-irrigation.webp"
+    title: "ड्रिप सिंचाई अपनाएं"
+    subtitle: "40% पानी बचाएं और 20% ज्यादा उपज पाएं। सरकारी सब्सिडी भी मिलती है।"
+    credit: "CaneUp"
+  - image: "/images/webstories/fertilizer.webp"
+    title: "सही खाद डालें"
+    subtitle: "नाइट्रोजन, फास्फोरस और पोटाश का सही अनुपात — मिट्टी जांच कराएं।"
+    credit: "CaneUp"
+  - image: "/images/webstories/pest-control.webp"
+    title: "कीट प्रबंधन"
+    subtitle: "तना छेदक, एफिड्स और रेड रॉट से बचाव — जैविक उपचार अपनाएं।"
+    credit: "CaneUp"
+  - image: "/images/webstories/harvesting.webp"
+    title: "सही समय पर कटाई"
+    subtitle: "गन्ने की कटाई 12-14 महीने में करें — ज्यादा देर करने से चीनी कम होती है।"
+    credit: "CaneUp"
+---
+
+गन्ना खेती में ज्यादा उपज पाने के 6 जरूरी टिप्स। Co-0238 किस्म, ड्रिप सिंचाई, कीट प्रबंधन की पूरी जानकारी CaneUp पर।
