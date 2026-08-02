@@ -95,17 +95,17 @@
 <section class="hero" itemscope itemtype="https://schema.org/WebPage">
   <div class="hero-inner">
     <div class="hero-text">
-      <h1 itemprop="headline">🌾 गन्ना पर्ची कैलेंडर 2026 | <span>eGanna App</span> | गन्ना भुगतान स्थिति</h1>
+      <h1 itemprop="headline">🌾 गन्ना पर्ची कैलेंडर 2026-27 | <span>eGanna App</span> | गन्ना भुगतान स्थिति</h1>
       <p itemprop="description">CaneUp पर गन्ना पर्ची कैलेंडर, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह।</p>
       <div class="hero-btns">
-        <a href="/categories/parchi-calendar/" class="btn-h btn-h-gold">📋 पर्ची कैलेंडर</a>
+            <a href="/categories/parchi-calendar/" class="btn-h btn-h-gold">📋 पर्ची कैलेंडर</a>
         <a href="/categories/msp-rate/" class="btn-h btn-h-green">💰 MSP रेट 2026</a>
-        <a href="/categories/ganna-kheti/" class="btn-h btn-h-outline">🌾 गन्ना खेती गाइड</a>
+        <a href="/webstories/" class="btn-h btn-h-outline">📰 वेब स्टोरीज</a>
       </div>
       <div class="hero-stats">
-        <div class="h-stat"><b>63+</b><small>आर्टिकल्स</small></div>
-        <div class="h-stat"><b>₹340</b><small>MSP/क्विंटल</small></div>
-        <div class="h-stat"><b>2025-26</b><small>सीज़न</small></div>
+        <div class="h-stat"><b>87+</b><small>आर्टिकल्स</small></div>
+        <div class="h-stat"><b>15</b><small>वेब स्टोरीज</small></div>
+        <div class="h-stat"><b>₹370</b><small>SAP/क्विंटल</small></div>
         <div class="h-stat"><b>50L+</b><small>किसान</small></div>
       </div>
     </div>
@@ -128,10 +128,30 @@
 <!-- Stats -->
 <div class="stats-bar">
   <div class="stats-grid">
-    <div class="st"><b>63+</b><small>आर्टिकल्स</small></div>
-    <div class="st"><b>₹340</b><small>गन्ना MSP/क्विंटल</small></div>
-    <div class="st"><b>50L+</b><small>गन्ना किसान</small></div>
-    <div class="st"><b>Daily</b><small>नई जानकारी</small></div>
+    <div class="st"><b>87+</b><small>आर्टिकल्स</small></div>
+    <div class="st"><b>15</b><small>वेब स्टोरीज</small></div>
+    <div class="st"><b>₹370</b><small>गन्ना SAP/क्विंटल</small></div>
+    <div class="st"><b>119</b><small>शुगर मिलें</small></div>
+  </div>
+</div>
+
+<!-- Web Stories -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>📰 वेब स्टोरीज</h2>
+    <a href="/webstories/">सभी स्टोरीज देखें →</a>
+  </div>
+  <div style="display:flex;gap:14px;overflow-x:auto;padding-bottom:10px;-webkit-overflow-scrolling:touch;scrollbar-width:none;">
+    <style>.ws-scroll::-webkit-scrollbar{display:none}</style>
+    {{ range first 6 (where .Site.RegularPages "Section" "webstories") }}
+    <a href="{{ .Permalink }}" style="flex-shrink:0;width:160px;border-radius:12px;overflow:hidden;aspect-ratio:3/4;position:relative;display:block;text-decoration:none;box-shadow:0 2px 12px rgba(0,0,0,.1);">
+      <img src="{{ .Params.featured_image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
+      <div style="position:absolute;bottom:0;left:0;right:0;padding:24px 10px 10px;background:linear-gradient(0deg,rgba(0,0,0,.85),rgba(0,0,0,0));color:#fff;">
+        <div style="font-size:10px;font-weight:700;color:#15803d;background:rgba(255,255,255,.9);display:inline-block;padding:2px 6px;border-radius:3px;margin-bottom:4px;">{{ with .Params.category }}{{ . }}{{ end }}</div>
+        <div style="font-size:12px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</div>
+      </div>
+    </a>
+    {{ end }}
   </div>
 </div>
 
@@ -139,7 +159,7 @@
 <div class="sec">
   <div class="sec-hdr">
     <h2>📰 ताज़ा आर्टिकल्स</h2>
-    <a href="/posts/">सभी 87+ आर्टिकल्स देखें →</a>
+    <a href="/posts/">सभी आर्टिकल्स देखें →</a>
   </div>
   <div class="blog-grid">
     {{ range $i, $p := first 12 (where .Site.RegularPages "Section" "posts") }}
