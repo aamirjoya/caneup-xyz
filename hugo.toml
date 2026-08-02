@@ -85,6 +85,7 @@ buildExpired = false
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
 
 [markup]
   [markup.goldmark]

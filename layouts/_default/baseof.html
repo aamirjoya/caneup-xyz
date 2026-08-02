@@ -27,6 +27,7 @@
   <meta name="twitter:image:alt" content="{{ .Title }}">
 
   <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="alternate" type="application/rss+xml" title="CaneUp RSS Feed" href="/index.xml">
 
   {{ if .IsPage }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
@@ -87,7 +88,7 @@
 
     /* Footer */
     .ftr{background:#052e16;color:#fff;padding:50px 20px 24px}
-    .ftr-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr;gap:40px}
+    .ftr-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr 1fr;gap:32px}
     .ftr-brand p{font-size:13px;opacity:.7;line-height:1.7;margin-bottom:12px}
     .ftr h4{font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px}
     .ftr ul{list-style:none}
@@ -107,6 +108,10 @@
         .nav .btn-cta{margin-top:8px;text-align:center;display:block}
     }
 
+    @media(max-width:1100px){
+        .ftr-grid{grid-template-columns:1fr 1fr 1fr;gap:24px}
+        .ftr-grid>div:first-child{grid-column:1/-1}
+    }
     @media(max-width:900px){
         .ftr-grid{grid-template-columns:1fr 1fr;gap:30px}
         .ftr-grid>div:first-child{grid-column:1/-1}
@@ -177,6 +182,18 @@
         </div>
         <p>CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
         <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#f59e0b;">CaneUp.xyz</a></p>
+      </div>
+
+      <!-- RSS & Sitemap -->
+      <div>
+        <h4>फीड</h4>
+        <ul>
+          <li><a href="/index.xml">📰 RSS Feed</a></li>
+          <li><a href="/sitemap.xml">🗺️ XML Sitemap</a></li>
+          <li><a href="/sitemap-page/">📄 साइटमैप</a></li>
+          <li><a href="/webstories/">📰 वेब स्टोरीज</a></li>
+          <li><a href="/llms.txt">🤖 AI Agents</a></li>
+        </ul>
       </div>
 
       <!-- Popular -->

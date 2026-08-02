@@ -53,6 +53,24 @@ CaneUp वेबसाइट के सभी पेज और लेख यह�
 - [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
 - [CaneUp.in पर्ची कैलेंडर](/posts/caneup-in-parchi-calendar/)
 
+## वेब स्टोरीज
+
+- [गन्ना पर्ची कैलेंडर 2026 — कैसे देखें](/webstories/ganna-parchi-calendar-2026/)
+- [गन्ना MSP रेट 2026-27 — सभी राज्यों की लिस्ट](/webstories/ganna-msp-rate-2026/)
+- [eGanna App डाउनलोड — गन्ना किसानों का सुपर ऐप](/webstories/eganna-app-download-guide/)
+- [गन्ना खेती के 6 जरूरी टिप्स](/webstories/ganna-kheti-tips/)
+- [KCC लोन 2026 — 3 लाख तक लोन](/webstories/kcc-loan-ganna-kisan-2026/)
+- [UP शुगर मिल लिस्ट 2026 — सभी 119 मिलें](/webstories/up-sugar-mill-list-2026/)
+- [Co-0238 गन्ना किस्म — किसानों की पहली पसंद](/webstories/co0238-ganna-kism-2026/)
+- [गन्ना भुगतान 2026 — कब मिलेगा पैसा](/webstories/ganna-bhugtan-status-2026/)
+- [PM किसान योजना — ₹6000 सालाना](/webstories/pm-kisan-yojana-ganna-kisan-2026/)
+- [गन्ना पराली — नुकसान और बेहतर विकल्प](/webstories/ganna-parali-nuksan-vikalp/)
+- [ड्रिप सिंचाई — 90% सब्सिडी](/webstories/drip-irrigation-subsidy-ganna-2026/)
+- [गन्ना मशीनरी — हार्वेस्टर और सब्सिडी](/webstories/ganna-kheti-machinery-subsidy/)
+- [शुगर मिल में गन्ना कैसे बेचें](/webstories/sugar-mill-ganna-kaise-bechen/)
+- [गुड़ बनाने का बिज़नेस — लाखों की कमाई](/webstories/ganne-se-gur-business-2026/)
+- [मिट्टी जांच — उपज बढ़ाने का पहला कदम](/webstories/ganna-kheti-mitti-jaanch/)
+
 ## शुगर मिल्स
 
 - [UP की सभी शुगर मिल्स](/posts/up-sugar-mill-list-complete/)
