@@ -9,7 +9,7 @@ category: "MSP रेट"
 tags: ["गन्ना MSP रेट 2026", "FRP रेट", "ganna MSP rate", "गन्ना भाव"]
 slides:
   - type: "video"
-    video_url: "/videos/sugarcane-harvest.mp4"
+    video_url: "/videos/sugarcane-harvest.webm"
     poster: "/images/webstories/sugarcane-field.webp"
     title: "गन्ना MSP रेट 2026-27"
     subtitle: "किसानों को मिलने वाले न्यूनतम समर्थन मूल्य की पूरी जानकारी"

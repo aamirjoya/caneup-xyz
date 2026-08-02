@@ -9,7 +9,7 @@ category: "पर्ची कैलेंडर"
 tags: ["गन्ना पर्ची कैलेंडर", "ganna parchi calendar 2026", "caneup enquiry", "eGanna App"]
 slides:
   - type: "video"
-    video_url: "/videos/sugarcane-farming.mp4"
+    video_url: "/videos/sugarcane-farming.webm"
     poster: "/images/webstories/sugarcane-field.webp"
     title: "गन्ना पर्ची कैलेंडर 2026"
     subtitle: "अपनी पर्ची ऑनलाइन कैसे देखें — पूरी जानकारी"
