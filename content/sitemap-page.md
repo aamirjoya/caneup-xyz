@@ -1,7 +1,8 @@
 ---
 title: "साइटमैप - CaneUp"
-date: 2026-07-06
-description: "CaneUp का साइटमैप। सभी पेज और लेख एक जगह।"
+date: 2026-08-03
+lastmod: 2026-08-03
+description: "CaneUp का साइटमैप। सभी पेज, आर्टिकल्स और वेब स्टोरीज एक जगह।"
 ShowToc: true
 ---
 
