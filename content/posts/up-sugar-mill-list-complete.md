@@ -8,6 +8,7 @@ slug: up-sugar-mill-list-complete
 keywords: ["उत्तर प्रदेश शुगर मिल लिस्ट 2026", "UP sugar mill complete list", "यूपी की सभी चीनी मिलें जिलेवार", "UP district wise sugar mill", "उत्तर प्रदेश गन्ना मिल लिस्ट"]
 ShowToc: true
 author: "प्रिया सिंह"
+author_name: "प्रिया सिंह"
 featured_image: /images/blog/up-sugar-mill-list-complete.webp
 image: /images/blog/up-sugar-mill-list-complete.webp
 ---

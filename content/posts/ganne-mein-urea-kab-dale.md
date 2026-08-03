@@ -8,6 +8,7 @@ slug: ganne-mein-urea-kab-dale
 keywords: [गन्ने में यूरिया कब डालें, गन्ने में खाद, गन्ने में यूरिया की मात्रा, गन्ने में DAP, गन्ने में पोटाश]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-mein-urea-kab-dale.webp
 image: /images/blog/ganne-mein-urea-kab-dale.webp
 ---

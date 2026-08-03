@@ -8,6 +8,7 @@ slug: gorakhpur-sugar-mills
 keywords: [गोरखपुर चीनी मिल, गोरखपुर शुगर मिल्स 2026, Gorakhpur sugar mills list, गोरखपुर गन्ना मिल, UP sugar mills gorakhpur, धुरियापार चीनी मिल, पिपरौइच चीनी मिल, सरदारनगर चीनी मिल]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/gorakhpur-sugar-mills.webp
 image: /images/blog/gorakhpur-sugar-mills.webp
 ---

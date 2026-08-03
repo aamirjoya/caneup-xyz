@@ -8,6 +8,7 @@ slug: ganne-mein-jaivik-khaad
 keywords: [गन्ने में जैविक खाद, गन्ने में गोबर की खाद, गन्ने में वर्मीकम्पोस्ट, जैविक खाद कैसे बनाएं, organic fertilizer for sugarcane 2026]
 ShowToc: true
 author: रिफ़ौल
+author_name: "रिफ़ौल"
 featured_image: /images/blog/ganne-mein-jaivik-khaad.webp
 image: /images/blog/ganne-mein-jaivik-khaad.webp
 ---

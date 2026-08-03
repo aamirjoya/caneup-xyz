@@ -8,6 +8,7 @@ slug: ganne-mein-khad-kab-dale
 keywords: [गन्ने में खाद कब डालें, गन्ने में NPK शेड्यूल, गन्ने में यूरिया कब डालें, गन्ने में DAP कब डालें, गन्ने में खाद की मात्रा, sugarcane fertilizer schedule 2026]
 ShowToc: true
 author: रिफ़ौल
+author_name: "रिफ़ौल"
 featured_image: /images/blog/ganne-mein-khad-kab-dale.webp
 image: /images/blog/ganne-mein-khad-kab-dale.webp
 ---

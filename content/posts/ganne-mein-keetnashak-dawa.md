@@ -8,6 +8,7 @@ slug: ganne-mein-keetnashak-dawa
 keywords: [गन्ने में कीटनाशक दवा, गन्ने में तना छेदक, गन्ने में एफिड्स, गन्ने में ऊनी माहू, गन्ने में सफेद मक्खी, गन्ने की कीटनाशक दवा 2026]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-mein-keetnashak-dawa.webp
 image: /images/blog/ganne-mein-keetnashak-dawa.webp
 ---

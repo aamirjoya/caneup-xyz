@@ -8,6 +8,7 @@ slug: triveni-engineering-amroha
 keywords: ["त्रिवेणी इंजीनियरिंग अमरोहा", "Triveni Engineering Amroha sugar mill 2026", "अमरोहा चीनी मिल", "त्रिवेणी शुगर मिल अमरोहा", "UP sugar mill Amroha"]
 ShowToc: true
 author: "राजेश पांडेय"
+author_name: "राजेश पांडेय"
 featured_image: /images/blog/triveni-engineering-amroha.webp
 image: /images/blog/triveni-engineering-amroha.webp
 ---

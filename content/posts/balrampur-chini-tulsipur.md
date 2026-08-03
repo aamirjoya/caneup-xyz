@@ -8,6 +8,7 @@ slug: balrampur-chini-tulsipur
 keywords: [बलरामपुर चिनी मिल्स तुलसीपुर, तुलसीपुर शुगर मिल 2026, गन्ना पर्ची कैलेंडर तुलसीपुर, बलरामपुर चिनी मिल तुलसीपुर TCD क्षमता, गन्ना मूल्य भुगतान बलरामपुर 2026, तुलसीपुर गन्ना समिति, UP शुगर मिल बलरामपुर]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/balrampur-chini-tulsipur.webp
 image: /images/blog/balrampur-chini-tulsipur.webp
 ---

@@ -8,6 +8,7 @@ slug: ganne-mein-tana-chhedak
 keywords: [गन्ने में तना छेदक, तना छेदक का इलाज, तना छेदक कीटनाशक, गन्ने में स्टेम बोरर, तना छेदक नियंत्रण]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-mein-tana-chhedak.webp
 image: /images/blog/ganne-mein-tana-chhedak.webp
 ---

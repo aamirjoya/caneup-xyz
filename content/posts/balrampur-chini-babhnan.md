@@ -23,6 +23,7 @@ keywords:
   - उत्तर प्रदेश चीनी मिल 2026
 ShowToc: true
 author: "रिफ़ौल"
+author_name: "रिफ़ौल"
 featured_image: /images/blog/balrampur-chini-babhnan.webp
 image: /images/blog/balrampur-chini-babhnan.webp
 ---

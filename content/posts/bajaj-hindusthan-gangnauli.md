@@ -20,6 +20,7 @@ keywords:
 - गंगनौली शुगर मिल संपर्क नंबर
 ShowToc: true
 author: "रिफ़ौल (Rifaul)"
+author_name: "रिफ़ौल (Rifaul)"
 featured_image: /images/blog/bajaj-hindusthan-gangnauli.webp
 image: /images/blog/bajaj-hindusthan-gangnauli.webp
 ---

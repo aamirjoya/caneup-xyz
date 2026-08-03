@@ -8,6 +8,7 @@ slug: lakhimpur-kheri-sugar-mills
 keywords: [लखीमपुर खीरी चीनी मिल, लखीमपुर शुगर मिल्स 2026, Lakhimpur Kheri sugar mills list, गोला गोकर्णनाथ चीनी मिल, बजाज हिंदुस्तान खीरी, बलरामपुर चिनी मिल्स खीरी]
 ShowToc: true
 author: CaneUp Bureau
+author_name: "Aamir Joya"
 featured_image: /images/blog/lakhimpur-kheri-sugar-mills.webp
 image: /images/blog/lakhimpur-kheri-sugar-mills.webp
 ---

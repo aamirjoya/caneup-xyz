@@ -8,6 +8,7 @@ slug: deoria-sugar-mills
 keywords: [देवरिया शुगर मिल्स, देवरिया चिनी मिल 2026, गन्ना पर्ची कैलेंडर देवरिया, देवरिया शुगर मिल TCD क्षमता, गन्ना मूल्य भुगतान देवरिया 2026, देवरिया शुगर मिल्स किसान सुविधा, देवरिया गन्ना समिति, UP शुगर मिल देवरिया]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/deoria-sugar-mills.webp
 image: /images/blog/deoria-sugar-mills.webp
 ---

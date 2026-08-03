@@ -8,6 +8,7 @@ slug: bijnor-sugar-mills
 keywords: [बिजनौर शुगर मिल्स, बिजनौर चिनी मिल 2026, गन्ना पर्ची कैलेंडर बिजनौर, बिजनौर शुगर मिल TCD क्षमता, गन्ना मूल्य भुगतान बिजनौर 2026, बिजनौर शुगर मिल्स किसान सुविधा, बिजनौर गन्ना समिति, UP शुगर मिल बिजनौर]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/bijnor-sugar-mills.webp
 image: /images/blog/bijnor-sugar-mills.webp
 ---

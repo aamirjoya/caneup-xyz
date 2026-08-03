@@ -8,6 +8,7 @@ slug: co-0238-ganna-variety
 keywords: [Co-0238 गन्ना, गन्ने की किस्म Co-0238, Co-0238 विशेषताएं, Co-0238 उत्पादन, Co-0238 रिकवरी, गन्ना किस्म 2026]
 ShowToc: true
 author: "राहुल शर्मा"
+author_name: "राहुल शर्मा"
 featured_image: /images/blog/co-0238-ganna-variety.webp
 image: /images/blog/co-0238-ganna-variety.webp
 ---

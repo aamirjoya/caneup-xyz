@@ -26,6 +26,7 @@ keywords:
 - गन्ना ऐप डाउनलोड
 ShowToc: true
 author: "आमिर जोया (Aamir Joya)"
+author_name: "आमिर जोया (Aamir Joya)"
 featured_image: /images/blog/eganna-app-download.webp
 image: /images/blog/eganna-app-download.webp
 ---

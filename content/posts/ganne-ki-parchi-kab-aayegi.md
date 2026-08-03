@@ -8,6 +8,7 @@ slug: ganne-ki-parchi-kab-aayegi
 keywords: ["गन्ने की पर्ची कब आएगी", "पर्ची नहीं मिली", "गन्ना पर्ची स्टेटस", "पर्ची कैलेंडर 2026", "ganne ki parchi kab aayegi"]
 ShowToc: true
 author: "आमिर जोया"
+author_name: "आमिर जोया"
 featured_image: /images/blog/ganne-ki-parchi-kab-aayegi.webp
 image: /images/blog/ganne-ki-parchi-kab-aayegi.webp
 ---

@@ -26,6 +26,7 @@ keywords:
 - गन्ने का रेट कितना है
 ShowToc: true
 author: "रिफ़ौल (Rifaul)"
+author_name: "रिफ़ौल (Rifaul)"
 featured_image: /images/blog/ganna-msp-rate-2026.webp
 image: /images/blog/ganna-msp-rate-2026.webp
 ---

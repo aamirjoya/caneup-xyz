@@ -23,6 +23,7 @@ keywords:
 - enquiry.caneup.in parchi
 ShowToc: true
 author: "आमिर जोया (Aamir Joya)"
+author_name: "आमिर जोया (Aamir Joya)"
 featured_image: /images/blog/ganna-parchi-calendar-kaise-dekhe.webp
 image: /images/blog/ganna-parchi-calendar-kaise-dekhe.webp
 ---

@@ -8,6 +8,7 @@ slug: ganne-ki-fasal-mein-bimari
 keywords: [गन्ने की बीमारियां, गन्ने में रोग, गन्ने की फसल में बीमारी, गन्ना रोग पहचान, गन्ने में लाल सड़न, गन्ने में पत्ता झुलसा, गन्ने में धारीदार धब्बा, sugarcane diseases 2026]
 ShowToc: true
 author: CaneUp टीम
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-ki-fasal-mein-bimari.webp
 image: /images/blog/ganne-ki-fasal-mein-bimari.webp
 ---

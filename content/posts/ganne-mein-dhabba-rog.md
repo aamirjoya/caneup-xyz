@@ -8,6 +8,7 @@ slug: ganne-mein-dhabba-rog
 keywords: ["गन्ने में धब्बा रोग", "गन्ने की बीमारी", "धब्बा रोग का इलाज", "गन्ने में पत्ती का रोग", "ganne ka rog 2026"]
 ShowToc: true
 author: "आमिर जोया"
+author_name: "आमिर जोया"
 featured_image: /images/blog/ganne-mein-dhabba-rog.webp
 image: /images/blog/ganne-mein-dhabba-rog.webp
 ---

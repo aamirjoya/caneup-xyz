@@ -8,6 +8,7 @@ slug: balrampur-chini-haidergarh
 keywords: [बलरामपुर चिनी मिल्स हैदरगढ़, हैदरगढ़ शुगर मिल 2026, गन्ना पर्ची कैलेंडर हैदरगढ़, बलरामपुर चिनी मिल हैदरगढ़ TCD क्षमता, गन्ना मूल्य भुगतान बाराबंकी 2026, बाराबंकी शुगर मिल किसान सुविधा, हैदरगढ़ गन्ना समिति, UP शुगर मिल बाराबंकी]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/balrampur-chini-haidergarh.webp
 image: /images/blog/balrampur-chini-haidergarh.webp
 ---

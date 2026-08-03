@@ -19,6 +19,7 @@ keywords:
   - sugarcane farming losses India
 ShowToc: true
 author: CaneUp टीम
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-ki-kheti-mein-nuksan.webp
 image: /images/blog/ganne-ki-kheti-mein-nuksan.webp
 ---

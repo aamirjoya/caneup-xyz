@@ -23,6 +23,7 @@ keywords:
   - उत्तर प्रदेश चीनी मिल 2026
 ShowToc: true
 author: "आमिर जोया"
+author_name: "आमिर जोया"
 featured_image: /images/blog/bajaj-hindusthan-thanabhawan.webp
 image: /images/blog/bajaj-hindusthan-thanabhawan.webp
 ---

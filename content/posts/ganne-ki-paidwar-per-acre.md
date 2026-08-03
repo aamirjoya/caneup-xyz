@@ -20,6 +20,7 @@ keywords:
   - sugarcane production per acre India
 ShowToc: true
 author: CaneUp टीम
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-ki-paidwar-per-acre.webp
 image: /images/blog/ganne-ki-paidwar-per-acre.webp
 ---

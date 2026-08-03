@@ -8,6 +8,7 @@ slug: shahjahanpur-sugar-mills
 keywords: [शाहजहाँपुर चीनी मिल, शाहजहाँपुर शुगर मिल्स 2026, Shahjahanpur sugar mills list, बजाज हिंदुस्तान मकसूदपुर, डालमिया भारत निगोही, रोजा चीनी मिल, शाहजहाँपुर गन्ना मिल]
 ShowToc: true
 author: CaneUp Research
+author_name: "Aamir Joya"
 featured_image: /images/blog/shahjahanpur-sugar-mills.webp
 image: /images/blog/shahjahanpur-sugar-mills.webp
 ---

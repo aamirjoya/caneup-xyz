@@ -8,6 +8,7 @@ slug: ganne-ki-sinchai-schedule
 keywords: [गन्ने की सिंचाई का शेड्यूल, गन्ने में कितना पानी दें, गन्ने की सिंचाई कब करें, गन्ने में पानी का प्रबंधन, sugarcane irrigation schedule in hindi]
 ShowToc: true
 author: CaneUp टीम
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-ki-sinchai-schedule.webp
 image: /images/blog/ganne-ki-sinchai-schedule.webp
 ---

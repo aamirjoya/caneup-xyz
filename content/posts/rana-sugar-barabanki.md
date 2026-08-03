@@ -8,6 +8,7 @@ slug: rana-sugar-barabanki
 keywords: ["राणा शुगर बाराबंकी", "Rana Sugar Barabanki 2026", "बाराबंकी चीनी मिल", "राणा शुगर मिल क्रशिंग कैपेसिटी", "UP sugar mill Barabanki"]
 ShowToc: true
 author: "विकास मिश्रा"
+author_name: "विकास मिश्रा"
 featured_image: /images/blog/rana-sugar-barabanki.webp
 image: /images/blog/rana-sugar-barabanki.webp
 ---

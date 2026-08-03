@@ -23,6 +23,7 @@ keywords:
   - उत्तर प्रदेश चीनी मिल 2026
 ShowToc: true
 author: "रिफ़ौल"
+author_name: "रिफ़ौल"
 featured_image: /images/blog/bajaj-hindusthan-utraula.webp
 image: /images/blog/bajaj-hindusthan-utraula.webp
 ---

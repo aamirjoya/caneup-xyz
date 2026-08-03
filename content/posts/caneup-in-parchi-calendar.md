@@ -28,6 +28,7 @@ keywords:
 - eGanna app vs caneup
 ShowToc: true
 author: "रिफ़ौल (Rifaul)"
+author_name: "रिफ़ौल (Rifaul)"
 featured_image: /images/blog/caneup-in-parchi-calendar.webp
 image: /images/blog/caneup-in-parchi-calendar.webp
 ---

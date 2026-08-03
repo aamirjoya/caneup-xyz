@@ -20,6 +20,7 @@ keywords:
 - किनौनी शुगर मिल संपर्क नंबर
 ShowToc: true
 author: "आमिर जोया (Aamir Joya)"
+author_name: "आमिर जोया (Aamir Joya)"
 featured_image: /images/blog/bajaj-hindusthan-kinauni.webp
 image: /images/blog/bajaj-hindusthan-kinauni.webp
 ---

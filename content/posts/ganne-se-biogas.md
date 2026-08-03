@@ -8,6 +8,7 @@ slug: ganne-se-biogas
 keywords: [गन्ने से बायोगैस, बायोगैस प्लांट, गन्ने के अवशेष से बायोगैस, बायोगैस कैसे बनाएं, गन्ना बायोगैस 2026]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-se-biogas.webp
 image: /images/blog/ganne-se-biogas.webp
 ---

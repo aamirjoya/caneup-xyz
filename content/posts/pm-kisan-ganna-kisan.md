@@ -8,6 +8,7 @@ slug: pm-kisan-ganna-kisan
 keywords: ["PM किसान योजना गन्ना किसान", "PM Kisan 2026", "₹6000 कैसे मिले", "PM Kisan रजिस्ट्रेशन", "pm kisan ganna kisan 2026"]
 ShowToc: true
 author: "आमिर जोया"
+author_name: "आमिर जोया"
 featured_image: /images/blog/pm-kisan-ganna-kisan.webp
 image: /images/blog/pm-kisan-ganna-kisan.webp
 ---

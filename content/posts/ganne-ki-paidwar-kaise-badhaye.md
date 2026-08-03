@@ -8,6 +8,7 @@ slug: ganne-ki-paidwar-kaise-badhaye
 keywords: [गन्ने की पैदावार कैसे बढ़ाएं, गन्ने की उपज बढ़ाने के उपाय, गन्ने में खाद, गन्ने की सिंचाई, गन्ने की अच्छी किस्में]
 ShowToc: true
 author: CaneUp Team
+author_name: "Aamir Joya"
 featured_image: /images/blog/ganne-ki-paidwar-kaise-badhaye.webp
 image: /images/blog/ganne-ki-paidwar-kaise-badhaye.webp
 ---

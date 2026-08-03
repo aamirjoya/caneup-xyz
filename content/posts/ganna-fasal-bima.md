@@ -8,6 +8,7 @@ slug: ganna-fasal-bima
 keywords: [गन्ना फसल बीमा, गन्ना बीमा 2026, PMFBY गन्ना, फसल बीमा कैसे कराएं, गन्ना बीमा प्रीमियम, गन्ना बीमा क्लेम, गन्ना बीमा लिस्ट]
 ShowToc: true
 author: "राहुल शर्मा"
+author_name: "राहुल शर्मा"
 featured_image: /images/blog/ganna-fasal-bima.webp
 image: /images/blog/ganna-fasal-bima.webp
 ---
