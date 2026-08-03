@@ -173,7 +173,7 @@
 <div class="author-box">
 <div class="author-box-inner">
 {{ if .Params.author_image }}
-<img class="author-box-img" src="{{ .Params.author_image }}" alt="{{ .Params.author_name | default \"Randhir Patil\" }}" width="80" height="80" loading="lazy">
+<img class="author-box-img" src="{{ .Params.author_image }}" alt="{{ .Params.author_name | default `Randhir Patil` }}" width="80" height="80" loading="lazy">
 {{ else }}
 <img class="author-box-img" src="/images/authors/randhir-patil.jpg" alt="Randhir Patil" width="80" height="80" loading="lazy">
 {{ end }}
