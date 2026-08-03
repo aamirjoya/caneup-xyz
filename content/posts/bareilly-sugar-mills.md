@@ -7,8 +7,9 @@ tags: [बरेली शुगर मिल्स, बरेली चिन�
 slug: bareilly-sugar-mills
 keywords: [बरेली शुगर मिल्स, बरेली चिनी मिल 2026, गन्ना पर्ची कैलेंडर बरेली, बरेली शुगर मिल TCD क्षमता, गन्ना मूल्य भुगतान बरेली 2026, बरेली शुगर मिल्स किसान सुविधा, बरेली गन्ना समिति, UP शुगर मिल बरेली]
 ShowToc: true
-author: CaneUp Team
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bareilly-sugar-mills.webp
 image: /images/blog/bareilly-sugar-mills.webp
 ---

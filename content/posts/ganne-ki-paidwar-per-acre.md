@@ -19,8 +19,9 @@ keywords:
   - एकड़ में गन्ना कितना होता है
   - sugarcane production per acre India
 ShowToc: true
-author: CaneUp टीम
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-paidwar-per-acre.webp
 image: /images/blog/ganne-ki-paidwar-per-acre.webp
 ---

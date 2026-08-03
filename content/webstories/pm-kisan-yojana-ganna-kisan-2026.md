@@ -2,7 +2,7 @@
 title: "PM किसान योजना 2026 — गन्ना किसानों को ₹6000 सालाना"
 date: 2026-08-01
 description: "PM किसान सम्मान निधि 2026 — गन्ना किसानों को ₹6000 सालाना (3 किस्तों में)। रजिस्ट्रेशन, 20वीं किस्त डेट, स्टेटस चेक और बेनिफिशियरी लिस्ट — सब कुछ CaneUp पर।"
-author_name: "CaneUp Team"
+author_name: "Randhir Patil"
 featured_image: "/images/webstories/pm-kisan.webp"
 story_type: "image"
 category: "सरकारी योजना"

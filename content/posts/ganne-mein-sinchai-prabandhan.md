@@ -1,8 +1,9 @@
 ---
 title: "गन्ने में सिंचाई का सही शेड्यूल 2026 — कब, कैसे और कितना पानी दें?"
 date: 2026-08-03 11:00:00+05:30
-author: "आमिर जोया (Aamir Joya)"
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 description: "गन्ने में सिंचाई प्रबंधन 2026 — महीनेवार सिंचाई शेड्यूल, ड्रिप vs फ्लड, पानी की बचत के तरीके। 40% पानी बचाएं, 20% उपज बढ़ाएं — CaneUp पर पूरी गाइड।"
 categories:
 - Ganna Kheti

@@ -25,8 +25,9 @@ keywords:
 - sugarcane price 2026
 - गन्ने का रेट कितना है
 ShowToc: true
-author: "रिफ़ौल (Rifaul)"
-author_name: "रिफ़ौल (Rifaul)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-msp-rate-2026.webp
 image: /images/blog/ganna-msp-rate-2026.webp
 ---

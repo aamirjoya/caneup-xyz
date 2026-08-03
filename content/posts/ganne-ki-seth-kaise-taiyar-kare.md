@@ -1,8 +1,9 @@
 ---
 title: "गन्ने की सेथ कैसे तैयार करें 2026 — बीज उपचार, अंकुरण और रोपाई की पूरी गाइड"
 date: 2026-08-03 10:00:00+05:30
-author: "आमिर जोया (Aamir Joya)"
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 description: "गन्ने की सेथ तैयार करने की सही विधि 2026 — बीज उपचार, ट्रेंच विधि, रिज विधि, अंकुरण दर बढ़ाने के टिप्स। 90% अंकुरण कैसे पाएं — CaneUp पर स्टेप-बाय-स्टेप गाइड।"
 categories:
 - Ganna Kheti

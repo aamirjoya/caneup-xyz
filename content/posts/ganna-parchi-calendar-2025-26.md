@@ -7,8 +7,9 @@ tags: [गन्ना पर्ची कैलेंडर, गन्ना �
 slug: ganna-parchi-calendar-2025-26
 keywords: [गन्ना पर्ची कैलेंडर, गन्ना पर्ची 2025-26, गन्ना तौल पर्ची, गन्ना भुगतान स्थिति, पर्ची कैलेंडर ऑनलाइन, गन्ना पर्ची कैसे देखें]
 ShowToc: true
-author: "अनिल कुमार"
-author_name: "अनिल कुमार"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-parchi-calendar-2025-26.webp
 image: /images/blog/ganna-parchi-calendar-2025-26.webp
 ---

@@ -7,8 +7,9 @@ tags: ["CaneUp", "CaneUp.in", "eGanna App", "गन्ना पोर्टल"
 slug: caneup-keywords-target
 keywords: ["CaneUp 2026", "CaneUp.in", "eGanna App", "गन्ना पर्ची ऑनलाइन", "CaneUp पोर्टल", "caneup portal ganna kisan"]
 ShowToc: true
-author: "रिफ़ौल"
-author_name: "रिफ़ौल"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/caneup-keywords-target.webp
 image: /images/blog/caneup-keywords-target.webp
 ---

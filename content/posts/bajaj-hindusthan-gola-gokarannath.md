@@ -19,8 +19,9 @@ keywords:
 - गन्ना भुगतान स्थिति गोला गोकरननाथ
 - गोला गोकरननाथ शुगर मिल संपर्क नंबर
 ShowToc: true
-author: "आमिर जोया (Aamir Joya)"
-author_name: "आमिर जोया (Aamir Joya)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bajaj-hindusthan-gola-gokarannath.webp
 image: /images/blog/bajaj-hindusthan-gola-gokarannath.webp
 ---

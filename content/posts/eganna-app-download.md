@@ -25,8 +25,9 @@ keywords:
 - eganna app for android
 - गन्ना ऐप डाउनलोड
 ShowToc: true
-author: "आमिर जोया (Aamir Joya)"
-author_name: "आमिर जोया (Aamir Joya)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/eganna-app-download.webp
 image: /images/blog/eganna-app-download.webp
 ---

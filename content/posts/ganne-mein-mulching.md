@@ -7,8 +7,9 @@ tags: [गन्ने में मल्चिंग, गन्ना मल�
 slug: ganne-mein-mulching
 keywords: [गन्ने में मल्चिंग, गन्ने में मल्चिंग के फायदे, गन्ने में प्लास्टिक मल्चिंग, गन्ने में जैविक मल्चिंग, sugarcane mulching technique 2026]
 ShowToc: true
-author: रिफ़ौल
-author_name: "रिफ़ौल"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-mulching.webp
 image: /images/blog/ganne-mein-mulching.webp
 ---

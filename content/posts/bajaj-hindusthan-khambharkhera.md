@@ -19,8 +19,9 @@ keywords:
 - गन्ना भुगतान स्थिति खम्भारखेड़ा
 - खम्भारखेड़ा शुगर मिल संपर्क नंबर
 ShowToc: true
-author: "रिफ़ौल (Rifaul)"
-author_name: "रिफ़ौल (Rifaul)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bajaj-hindusthan-khambharkhera.webp
 image: /images/blog/bajaj-hindusthan-khambharkhera.webp
 ---

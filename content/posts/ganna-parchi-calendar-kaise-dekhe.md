@@ -22,8 +22,9 @@ keywords:
 - गन्ना पर्ची कैलेंडर UP
 - enquiry.caneup.in parchi
 ShowToc: true
-author: "आमिर जोया (Aamir Joya)"
-author_name: "आमिर जोया (Aamir Joya)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-parchi-calendar-kaise-dekhe.webp
 image: /images/blog/ganna-parchi-calendar-kaise-dekhe.webp
 ---

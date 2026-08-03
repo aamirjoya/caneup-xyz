@@ -7,8 +7,9 @@ tags: [पीलीभीत चीनी मिल, पीलीभीत श�
 slug: pilibhit-sugar-mills
 keywords: [पीलीभीत चीनी मिल, पीलीभीत शुगर मिल्स 2026, Pilibhit sugar mills list, LH शुगर फैक्ट्रीज पीलीभीत, बजाज हिंदुस्तान बरखेड़ा, बीसलपुर चीनी मिल, पूरनपुर चीनी मिल]
 ShowToc: true
-author: CaneUp Writers
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/pilibhit-sugar-mills.webp
 image: /images/blog/pilibhit-sugar-mills.webp
 ---

@@ -7,8 +7,9 @@ tags: ["केसर एंटरप्राइजेज", "बहेरी श
 slug: kesar-enterprises-baheri
 keywords: ["केसर एंटरप्राइजेज बहेरी", "Kesar Enterprises Baheri sugar mill 2026", "बहेरी चीनी मिल बरेली", "बरेली शुगर मिल", "UP sugar mill Bareilly"]
 ShowToc: true
-author: "सुनीता देवी"
-author_name: "सुनीता देवी"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/kesar-enterprises-baheri.webp
 image: /images/blog/kesar-enterprises-baheri.webp
 ---

@@ -18,8 +18,9 @@ keywords:
   - गन्ने में कीट
   - sugarcane farming losses India
 ShowToc: true
-author: CaneUp टीम
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-kheti-mein-nuksan.webp
 image: /images/blog/ganne-ki-kheti-mein-nuksan.webp
 ---

@@ -11,7 +11,14 @@
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
   "author": {
     "@type": "Person",
-    "name": "{{ .Params.author_name | default .Params.author | default "Aamir Joya" }}"
+    "name": "{{ .Params.author_name | default .Params.author | default "Randhir Patil" }}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ .Params.author_image | default "https://caneup.xyz/images/authors/randhir-patil.jpg" }}"
+    },
+    "sameAs": [
+      "https://www.chinimandi.com/author/randhir-patil/"
+    ]
   },
   "publisher": {
     "@type": "Organization",

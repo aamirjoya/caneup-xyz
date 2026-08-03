@@ -19,8 +19,9 @@ keywords:
 - गन्ना भुगतान स्थिति बिलाई
 - बिलाई शुगर मिल संपर्क नंबर
 ShowToc: true
-author: "रिफ़ौल (Rifaul)"
-author_name: "रिफ़ौल (Rifaul)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bajaj-hindusthan-bilai.webp
 image: /images/blog/bajaj-hindusthan-bilai.webp
 ---

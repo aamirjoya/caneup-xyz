@@ -7,8 +7,9 @@ tags: ["इथेनॉल प्लांट बिज़नेस", "गन्
 slug: ethanol-plant-business
 keywords: ["इथेनॉल प्लांट बिज़नेस 2026", "गन्ने से इथेनॉल कैसे बनाएं", "इथेनॉल प्लांट लागत और मुनाफ़ा", "Ethanol plant business plan India", "इथेनॉल सब्सिडी UP"]
 ShowToc: true
-author: "अमित वर्मा"
-author_name: "अमित वर्मा"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ethanol-plant-business.webp
 image: /images/blog/ethanol-plant-business.webp
 ---

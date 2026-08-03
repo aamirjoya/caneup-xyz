@@ -2,7 +2,7 @@
 title: "शुगर मिल में गन्ना कैसे बेचें — पूरा प्रोसेस जानें"
 date: 2026-07-27
 description: "शुगर मिल में गन्ना कैसे बेचें — पर्ची से भुगतान तक पूरा प्रोसेस। सप्लाई टिकट, तौल प्रक्रिया, रसीद और 14 दिन में भुगतान नियम। CaneUp पर स्टेप-बाय-स्टेप गाइड।"
-author_name: "CaneUp Team"
+author_name: "Randhir Patil"
 featured_image: "/images/webstories/mill-process.webp"
 story_type: "image"
 category: "शुगर मिल"

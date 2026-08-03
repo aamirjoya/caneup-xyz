@@ -2,7 +2,7 @@
 title: "गन्ना खेती में मशीनरी — हार्वेस्टर, प्लांटर और सब्सिडी"
 date: 2026-07-24
 description: "गन्ना खेती में मशीनरी 2026 — हार्वेस्टर, प्लांटर, रैटूनर मशीन की जानकारी और SMAM योजना के तहत 50-80% सरकारी सब्सिडी। कस्टम हायरिंग सेंटर से किराये पर भी लें। CaneUp पर पूरा प्रोसेस।"
-author_name: "CaneUp Team"
+author_name: "Randhir Patil"
 featured_image: "/images/webstories/farm-machinery.webp"
 story_type: "image"
 category: "गन्ना खेती"

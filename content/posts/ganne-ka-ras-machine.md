@@ -7,8 +7,9 @@ tags: [गन्ने का रस मशीन, गन्ना जूसर 
 slug: ganne-ka-ras-machine
 keywords: [गन्ने का रस मशीन, गन्ना जूसर मशीन कीमत, गन्ने का रस निकालने की मशीन, sugarcane juice machine 2026, गन्ना जूसर खरीदें]
 ShowToc: true
-author: आमिर जोया
-author_name: "आमिर जोया"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ka-ras-machine.webp
 image: /images/blog/ganne-ka-ras-machine.webp
 ---

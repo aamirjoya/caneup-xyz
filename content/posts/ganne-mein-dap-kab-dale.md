@@ -7,8 +7,9 @@ tags: ["गन्ने में DAP", "DAP खाद", "गन्ना खा
 slug: ganne-mein-dap-kab-dale
 keywords: ["गन्ने में DAP कब डालें", "गन्ने में DAP की मात्रा", "DAP खाद गन्ने में", "गन्ने में खाद का समय", "dap kab dale ganne mein"]
 ShowToc: true
-author: "रिफ़ौल"
-author_name: "रिफ़ौल"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-dap-kab-dale.webp
 image: /images/blog/ganne-mein-dap-kab-dale.webp
 ---

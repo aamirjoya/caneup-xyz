@@ -7,8 +7,9 @@ tags: [गन्ना सब्सिडी, सरकारी सब्सि
 slug: ganna-subsidy-yojana-2026
 keywords: [गन्ना सब्सिडी योजना, गन्ना सब्सिडी 2026, किसान सब्सिडी, कृषि सब्सिडी गन्ना, गन्ना किसान सरकारी योजना]
 ShowToc: true
-author: "अनिल कुमार"
-author_name: "अनिल कुमार"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-subsidy-yojana-2026.webp
 image: /images/blog/ganna-subsidy-yojana-2026.webp
 ---

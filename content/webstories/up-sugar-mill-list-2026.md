@@ -2,7 +2,7 @@
 title: "UP शुगर मिल लिस्ट 2026 — सभी 119 मिलों की पूरी जानकारी"
 date: 2026-07-28
 description: "UP शुगर मिल लिस्ट 2026 — उत्तर प्रदेश की सभी 119 शुगर मिलों की जिलेवार लिस्ट, क्षमता, संपर्क नंबर और भुगतान रिकॉर्ड। पश्चिमी, मध्य और पूर्वी UP की मिलें CaneUp पर।"
-author_name: "CaneUp Team"
+author_name: "Randhir Patil"
 featured_image: "/images/webstories/sugar-mill-list.webp"
 story_type: "image"
 category: "शुगर मिल"

@@ -7,8 +7,9 @@ tags: [गन्ने की जैविक खेती, जैविक ग�
 slug: ganne-ki-jaivik-kheti
 keywords: [गन्ने की जैविक खेती, जैविक गन्ना खेती कैसे करें, ऑर्गेनिक गन्ना खेती, गन्ने की जैविक खेती का तरीका, organic sugarcane farming 2026]
 ShowToc: true
-author: आमिर जोया
-author_name: "आमिर जोया"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-jaivik-kheti.webp
 image: /images/blog/ganne-ki-jaivik-kheti.webp
 ---

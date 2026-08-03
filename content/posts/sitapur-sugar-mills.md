@@ -7,8 +7,9 @@ tags: ["सीतापुर शुगर मिल", "सीतापुर �
 slug: sitapur-sugar-mills
 keywords: ["सीतापुर शुगर मिल्स", "सीतापुर चीनी मिल लिस्ट", "Sitapur sugar mills list 2026", "सीतापुर गन्ना समिति", "UP sugar mill Sitapur"]
 ShowToc: true
-author: "राहुल शर्मा"
-author_name: "राहुल शर्मा"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/sitapur-sugar-mills.webp
 image: /images/blog/sitapur-sugar-mills.webp
 ---

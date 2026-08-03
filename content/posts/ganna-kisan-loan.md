@@ -7,8 +7,9 @@ tags: [गन्ना किसान लोन, KCC, कृषि लोन, �
 slug: ganna-kisan-loan
 keywords: [गन्ना किसान लोन, गन्ना लोन 2026, KCC गन्ना, कृषि लोन गन्ना, गन्ना सब्सिडी लोन, किसान लोन गन्ना]
 ShowToc: true
-author: "अनिल कुमार"
-author_name: "अनिल कुमार"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-kisan-loan.webp
 image: /images/blog/ganna-kisan-loan.webp
 ---

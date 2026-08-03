@@ -19,8 +19,9 @@ keywords:
 - गन्ना भुगतान स्थिति किनौनी
 - किनौनी शुगर मिल संपर्क नंबर
 ShowToc: true
-author: "आमिर जोया (Aamir Joya)"
-author_name: "आमिर जोया (Aamir Joya)"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bajaj-hindusthan-kinauni.webp
 image: /images/blog/bajaj-hindusthan-kinauni.webp
 ---

@@ -1,8 +1,9 @@
 ---
 title: "शुगर मिल में गन्ना किसान रजिस्ट्रेशन 2026 — ऑनलाइन आवेदन, जरूरी दस्तावेज और पूरा प्रोसेस"
 date: 2026-08-03 13:00:00+05:30
-author: "आमिर जोया (Aamir Joya)"
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 description: "शुगर मिल में गन्ना किसान रजिस्ट्रेशन 2026 — ऑनलाइन आवेदन कैसे करें, जरूरी दस्तावेज, किसान कोड, और रजिस्ट्रेशन के फायदे। CaneUp पर स्टेप-बाय-स्टेप गाइड।"
 categories:
 - Ganna Kheti

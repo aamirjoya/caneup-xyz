@@ -7,8 +7,9 @@ tags: [द्वारिकेश शुगर बरेली, बरेली
 slug: dwarikesh-sugar-bareilly
 keywords: [द्वारिकेश शुगर बरेली, द्वारिकेश चिनी मिल 2026, गन्ना पर्ची कैलेंडर द्वारिकेश, द्वारिकेश शुगर मिल TCD क्षमता, गन्ना मूल्य भुगतान बरेली 2026, द्वारिकेश शुगर मिल्स किसान सुविधा, बरेली गन्ना समिति, UP शुगर मिल बरेली]
 ShowToc: true
-author: CaneUp Team
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/dwarikesh-sugar-bareilly.webp
 image: /images/blog/dwarikesh-sugar-bareilly.webp
 ---

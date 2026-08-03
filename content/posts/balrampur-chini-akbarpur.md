@@ -22,8 +22,9 @@ keywords:
   - caneup गन्ना पर्ची
   - उत्तर प्रदेश चीनी मिल 2026
 ShowToc: true
-author: "आमिर जोया"
-author_name: "आमिर जोया"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/balrampur-chini-akbarpur.webp
 image: /images/blog/balrampur-chini-akbarpur.webp
 ---

@@ -7,8 +7,9 @@ tags: [गन्ने की किस्में, उन्नत किस�
 slug: ganne-ki-unnat-kismen-2026
 keywords: [गन्ने की उन्नत किस्में 2026, गन्ने की अच्छी किस्में, Co-0238, Co-0118, Co-86032, गन्ने की ज़्यादा उत्पादन वाली किस्में, best sugarcane varieties in india 2026]
 ShowToc: true
-author: CaneUp टीम
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-unnat-kismen-2026.webp
 image: /images/blog/ganne-ki-unnat-kismen-2026.webp
 ---

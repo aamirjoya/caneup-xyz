@@ -7,8 +7,9 @@ tags: [गन्ने से एथेनॉल, एथेनॉल उत्�
 slug: ganne-se-ethanol-kaise-banaye
 keywords: [गन्ने से एथेनॉल कैसे बनाएं, एथेनॉल उत्पादन, गन्ने से एथेनॉल, बायोएथेनॉल, एथेनॉल प्लांट, गन्ना शीरा से एथेनॉल]
 ShowToc: true
-author: CaneUp Team
-author_name: "Aamir Joya"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-se-ethanol-kaise-banaye.webp
 image: /images/blog/ganne-se-ethanol-kaise-banaye.webp
 ---
