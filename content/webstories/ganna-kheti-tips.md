@@ -1,12 +1,13 @@
 ---
 title: "गन्ना खेती के 6 जरूरी टिप्स — ज्यादा उपज कैसे पाएं"
-date: 2026-08-03
-description: "गन्ना खेती में ज्यादा उपज पाने के 6 जरूरी टिप्स। Co-0238 किस्म, ड्रिप सिंचाई, कीट प्रबंधन की पूरी जानकारी।"
+date: 2026-07-26
+description: "गन्ना खेती के 6 जरूरी टिप्स 2026 — Co-0238 किस्म, ड्रिप सिंचाई, सही खाद, कीट प्रबंधन, मिट्टी जांच और समय पर कटाई। उपज 30% बढ़ाने के लिए CaneUp पर पूरी गाइड।"
 author_name: "CaneUp Team"
 featured_image: "/images/webstories/sugarcane-field.webp"
 story_type: "image"
 category: "गन्ना खेती"
 tags: ["गन्ना खेती", "ganna kheti", "sugarcane farming tips", "Co-0238", "गन्ना उपज"]
+keywords: ["गन्ना खेती टिप्स 2026", "ganna kheti tips", "sugarcane farming tips India", "गन्ना उपज कैसे बढ़ाएं", "Co-0238 किस्म", "गन्ना कीट प्रबंधन"]
 slides:
   - image: "/images/webstories/sugarcane-field.webp"
     title: "गन्ना खेती के 6 जरूरी टिप्स"

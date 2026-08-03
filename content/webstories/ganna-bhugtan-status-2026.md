@@ -1,7 +1,7 @@
 ---
 title: "गन्ना भुगतान 2026 — कब मिलेगा पैसा? यहां चेक करें"
-date: 2026-08-03
-description: "गन्ना भुगतान 2026 की स्थिति ऑनलाइन कैसे चेक करें। CaneUp पोर्टल और eGanna App से अपना भुगतान रिकॉर्ड, बकाया राशि और तारीख जानें।"
+date: 2026-07-29
+description: "गन्ना भुगतान 2026 — शुगर मिल से पैसा कब मिलेगा? CaneUp पोर्टल और eGanna App से भुगतान स्थिति, बकाया राशि और मिल-वाइज भुगतान रिकॉर्ड ऑनलाइन चेक करें।"
 author_name: "CaneUp Team"
 featured_image: "/images/webstories/ganna-bhugtan.webp"
 story_type: "image"
