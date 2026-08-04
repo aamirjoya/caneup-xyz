@@ -18,6 +18,9 @@ image: /images/blog/eganna-app-bada-update-august-2026.webp
 
 **eGanna App** में अगस्त 2026 में एक बड़ा अपडेट आया है। अब आपको पर्ची कैलेंडर, भुगतान स्थिति और सप्लाई टिकट के लिए अलग-अलग जगह जाने की जरूरत नहीं — सब **एक क्लिक** में मिल जाएगा।
 
+![eGanna App नया अपडेट](/images/blog/farmer-mobile-phone.webp)
+*eGanna App में अगस्त 2026 में 5 नए फीचर्स आ गए हैं*
+
 ---
 
 ## त्वरित सारांश
@@ -33,6 +36,8 @@ image: /images/blog/eganna-app-bada-update-august-2026.webp
 ---
 
 ## नए फीचर्स
+
+![गन्ना किसान मोबाइल ऐप](/images/blog/agriculture-calendar.webp)
 
 ### 1. डैशबोर्ड व्यू
 एक ही स्क्रीन पर पर्ची कैलेंडर, भुगतान, सप्लाई टिकट — सब कुछ।

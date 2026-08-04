@@ -3,13 +3,13 @@ title: "KCC लोन 2026 — गन्ना किसानों को 3 �
 date: 2026-08-04 17:30:00+05:30
 description: "किसान क्रेडिट कार्ड (KCC) से गन्ना किसानों को 3 लाख तक लोन मिल सकता है। जानें कैसे अप्लाई करें।"
 author_name: "Randhir Patil"
-featured_image: "/images/webstories/kcc-loan.webp"
+featured_image: "/images/webstories/kcc-loan-ganna-kisan-2026-update.webp"
 story_type: "image"
 category: "KCC लोन"
 tags: ["KCC लोन", "किसान क्रेडिट कार्ड", "गन्ना किसान लोन"]
 keywords: ["KCC लोन 2026", "किसान क्रेडिट कार्ड गन्ना किसान", "KCC loan sugarcane farmer"]
 slides:
-  - image: "/images/webstories/kcc-loan.webp"
+  - image: "/images/webstories/kcc-loan-ganna-kisan-2026-update.webp"
     title: "KCC लोन — गन्ना किसानों के लिए"
     subtitle: "3 लाख तक लोन — सिर्फ 4% ब्याज"
     credit: "CaneUp"

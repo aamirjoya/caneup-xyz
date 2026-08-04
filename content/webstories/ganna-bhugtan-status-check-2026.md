@@ -3,13 +3,13 @@ title: "गन्ना भुगतान स्थिति कैसे च�
 date: 2026-08-04 20:00:00+05:30
 description: "गन्ना भुगतान स्थिति 2026 — eGanna App, upcane.gov.in और SMS से चेक करें। 1 मिनट में जानें आपका पैसा आया या नहीं।"
 author_name: "Randhir Patil"
-featured_image: "/images/webstories/payment-status.webp"
+featured_image: "/images/webstories/ganna-bhugtan-status-check-2026.webp"
 story_type: "image"
 category: "भुगतान"
 tags: ["गन्ना भुगतान स्थिति", "ganna payment status", "भुगतान कैसे चेक करें"]
 keywords: ["गन्ना भुगतान स्थिति 2026", "ganna payment status check", "गन्ना पैसा कब मिलेगा"]
 slides:
-  - image: "/images/webstories/payment-status.webp"
+  - image: "/images/webstories/ganna-bhugtan-status-check-2026.webp"
     title: "गन्ना भुगतान स्थिति चेक करें"
     subtitle: "1 मिनट में जानें — आपका पैसा आया या नहीं"
     credit: "CaneUp"

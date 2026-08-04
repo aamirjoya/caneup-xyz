@@ -18,6 +18,9 @@ image: /images/blog/ganna-bhugtan-kab-milega-august-2026.webp
 
 **गन्ना भुगतान 2026** — हर गन्ना किसान के मन में यही सवाल है कि "मेरा पैसा कब आएगा?" सरकार ने स्पष्ट किया है कि गन्ना बेचने के **14 दिनों** के अंदर भुगतान होना चाहिए।
 
+![गन्ना भुगतान स्थिति](/images/blog/farmer-payment-india.webp)
+*गन्ना भुगतान 2026 — 14 दिनों के अंदर पैसा मिलना चाहिए*
+
 ---
 
 ## त्वरित सारांश
@@ -33,6 +36,8 @@ image: /images/blog/ganna-bhugtan-kab-milega-august-2026.webp
 ---
 
 ## भुगतान कैसे चेक करें?
+
+![गन्ना भुगतान चेक करें](/images/blog/farmer-mobile-phone.webp)
 
 ### तरीका #1: eGanna App
 1. eGanna App खोलें → लॉगिन करें
