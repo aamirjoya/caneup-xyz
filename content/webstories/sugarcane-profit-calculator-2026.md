@@ -23,7 +23,7 @@ slides:
     credit: "CaneUp"
   - image: "/images/webstories/msp-rate.webp"
     title: "MSP रेट 2026-27"
-    subtitle: "FRP (केंद्र): ₹315/क्विंटल | SAP UP: ₹370/क्विंटल | SAP महाराष्ट्र: ₹340/क्विंटल | पंजाब: ₹380/क्विंटल।"
+    subtitle: "FRP (केंद्र): ₹365/क्विंटल | SAP UP: ₹400/क्विंटल | SAP महाराष्ट्र: ₹340/क्विंटल | पंजाब: ₹380/क्विंटल।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
     title: "मुनाफे का हिसाब"

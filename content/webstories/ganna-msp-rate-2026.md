@@ -1,7 +1,7 @@
 ---
 title: "गन्ना MSP रेट 2026-27 — सभी राज्यों की लिस्ट"
 date: 2026-07-30
-description: "गन्ना MSP रेट 2026-27 — FRP ₹315/क्विंटल, UP में SAP ₹370/क्विंटल। सभी राज्यों का ताज़ा भाव, FRP vs SAP फर्क, और किसानों को कितना भुगतान मिलेगा — पूरी लिस्ट CaneUp पर।"
+description: "गन्ना MSP रेट 2026-27 — FRP ₹365/क्विंटल, UP में SAP ₹400/क्विंटल। सभी राज्यों का ताज़ा भाव, FRP vs SAP फर्क, और किसानों को कितना भुगतान मिलेगा — पूरी लिस्ट CaneUp पर।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/msp-rate.webp"
 story_type: "image"
@@ -21,11 +21,11 @@ slides:
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
     title: "FRP रेट 2026"
-    subtitle: "Fair and Remunerative Price — केंद्र सरकार द्वारा तय गन्ने का भाव ₹315/क्विंटल।"
+    subtitle: "Fair and Remunerative Price — केंद्र सरकार द्वारा तय गन्ने का भाव ₹365/क्विंटल।"
     credit: "CaneUp"
   - image: "/images/webstories/up-map.webp"
     title: "UP में SAP रेट"
-    subtitle: "उत्तर प्रदेश में State Advised Price ₹370/क्विंटल है — FRP से ज्यादा।"
+    subtitle: "उत्तर प्रदेश में State Advised Price ₹400/क्विंटल है — FRP से ज्यादा।"
     credit: "CaneUp"
   - image: "/images/webstories/payment-status.webp"
     title: "भुगतान कैसे चेक करें"
