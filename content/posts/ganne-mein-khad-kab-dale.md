@@ -1,6 +1,6 @@
 ---
 title: "गन्ने में खाद कब डालें 2026 — NPK शेड्यूल, मात्रा"
-date: 2026-08-01 10:00:00+05:30
+date: 2026-08-07 10:00:00+05:30
 description: "गन्ने में खाद कब डालें 2026 — NPK शेड्यूल, मात्रा, समय, यूरिया, DAP, पोटाश की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में खाद, गन्ने में NPK, गन्ने में यूरिया, गन्ने में DAP, गन्ने में पोटाश, sugarcane fertilizer schedule]
@@ -303,3 +303,17 @@ image: /images/blog/ganne-mein-khad-kab-dale.webp
 
 ### Q4: गन्ने में यूरिया कैसे डालें?
 यूरिया को हमेशा मिट्टी में मिलाकर डालें। पौधों की जड़ से 6–12 इंच दूर लाइन में डालें, 2–3 इंच मिट्टी से ढकें और तुरंत सिंचाई करें। सतह पर डालने से 40%–50% नाइट्रोजन हवा में उड़ जाती है।
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [गन्ना भुगतान स्थिति चेक करें](/posts/ganna-bhugtan-2026-bakaya-list/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [PM किसान सम्मान निधि 2026](/posts/pm-kisan-ganna-kisan/)
+- [गन्ना फसल बीमा 2026](/posts/ganna-fasal-bima-2026-apply-online/)
+- [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
+- [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

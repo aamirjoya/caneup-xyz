@@ -225,3 +225,12 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 **"पहले रोकथाम, फिर इलाज"** — यही कीट प्रबंधन का मूल मंत्र है। प्रतिरोधी किस्म लगाएं, बीज उपचार करें, खेत की सफाई रखें, और जरूरत पड़ने पर ही रासायनिक कीटनाशक इस्तेमाल करें।
 
 **CaneUp** पर गन्ना खेती की और भी जानकारी पढ़ें! 🌾🛡️
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

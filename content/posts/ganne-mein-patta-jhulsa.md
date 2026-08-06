@@ -1,6 +1,6 @@
 ---
 title: "गन्ने में पत्ता झुलसा 2026 — पहचान, इलाज और बचाव"
-date: 2026-08-01 10:00:00+05:30
+date: 2026-08-07 10:00:00+05:30
 description: "गन्ने में पत्ता झुलसा (Smut) रोग की पहचान, इलाज और बचाव के सभी तरीके 2026 में जानें। लक्षण, कारण, उपचार और रोकथाम की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में पत्ता झुलसा, स्मट रोग, गन्ना रोग, गन्ने में काला झंझर, गन्ना खेती 2026, sugarcane smut, ganne ka rog]
@@ -228,3 +228,17 @@ image: /images/blog/ganne-mein-patta-jhulsa.webp
 ---
 
 *यह लेख CaneUp टीम द्वारा तैयार किया गया है। अधिक जानकारी के लिए अपने नज़दीकी कृषि विज्ञान केंद्र से संपर्क करें।*
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [गन्ना भुगतान स्थिति चेक करें](/posts/ganna-bhugtan-2026-bakaya-list/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [PM किसान सम्मान निधि 2026](/posts/pm-kisan-ganna-kisan/)
+- [गन्ना फसल बीमा 2026](/posts/ganna-fasal-bima-2026-apply-online/)
+- [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
+- [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

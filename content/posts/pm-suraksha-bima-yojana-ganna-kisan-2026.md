@@ -170,3 +170,12 @@ image: "/images/blog/pm-suraksha-bima-yojana-ganna-kisan-2026.webp"
 **₹20/साल में ₹2 लाख का बीमा** — यह **दुनिया की सबसे सस्ती बीमा योजना** है। गन्ना किसानों के लिए यह **जरूरी** है क्योंकि खेती में दुर्घटना का खतरा हमेशा रहता है। **आज ही बैंक जाएं और PMSBY लें!**
 
 CaneUp पर गन्ना किसानों के लिए ऐसी ही जानकारी रोज मिलती है। शेयर करें!
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

@@ -1,6 +1,6 @@
 ---
 title: "गन्ने की किस्म Co-0238 2026 — विशेषताएं, उत्पादन, रिकवरी"
-date: 2026-08-01 10:00:00+05:30
+date: 2026-08-07 10:00:00+05:30
 description: "गन्ने की किस्म Co-0238 2026 — विशेषताएं, उत्पादन, रिकवरी, बुआई का समय, और देखभाल की पूरी जानकारी यहां जानें।"
 categories: [Ganna Kheti]
 tags: [Co-0238, गन्ने की किस्म, गन्ना उत्पादन, गन्ना रिकवरी, गन्ना खेती, गन्ना किस्म 2026]
@@ -262,3 +262,17 @@ image: /images/blog/co-0238-ganna-variety.webp
 ---
 
 *यह लेख CaneUp.xyz पर प्रकाशित है। गन्ना किसानों से संबंधित अधिक जानकारी के लिए हमारी वेबसाइट पर जाएं।*
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [गन्ना भुगतान स्थिति चेक करें](/posts/ganna-bhugtan-2026-bakaya-list/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [PM किसान सम्मान निधि 2026](/posts/pm-kisan-ganna-kisan/)
+- [गन्ना फसल बीमा 2026](/posts/ganna-fasal-bima-2026-apply-online/)
+- [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
+- [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

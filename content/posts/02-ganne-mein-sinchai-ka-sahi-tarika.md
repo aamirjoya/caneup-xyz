@@ -190,3 +190,12 @@ image: /images/blog/ganne-mein-sinchai-ka-sahi-tarika.webp
 सिंचाई गन्ने की खेती की रीढ़ है। **ड्रिप सिंचाई** सबसे अच्छा तरीका है — पानी भी बचता है और उपज भी बढ़ती है। अगर ड्रिप नहीं लगा सकते, तो **फरो सिंचाई** अपनाएं — फ्लड से बेहतर है।
 
 **CaneUp** पर गन्ना खेती से जुड़ी और भी जानकारी पढ़ें! 🌾💧
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

@@ -203,3 +203,12 @@ image: /images/blog/kisan-credit-card-kcc-2026.webp
 **KCC** हर किसान के पास होनी चाहिए। **4% ब्याज** पर ₹3 लाख तक लोन — यह किसी वरदान से कम नहीं। बीज, खाद, दवाई, सिंचाई — सबके लिए पैसा मिल जाता है। अभी अपने बैंक में जाएं और KCC के लिए आवेदन करें!
 
 **CaneUp** पर सरकारी योजनाओं की ताज़ा जानकारी पढ़ते रहें! 🏦🌾
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

@@ -204,3 +204,12 @@ image: /images/blog/sugar-mill-ganna-registration-2026.webp
 **गन्ना रजिस्ट्रेशन** गन्ना बेचने की पहली शर्त है। ऑनलाइन (sugarcane.up.gov.in) या ऑफलाइन (गन्ना समिति) — दोनों तरीकों से करा सकते हैं। दस्तावेज पूरे रखें, समय पर रिन्यू कराएं, और eGanna App डाउनलोड करें।
 
 **CaneUp** पर गन्ना खेती की और भी जानकारी पढ़ते रहें! 🏭🌾
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

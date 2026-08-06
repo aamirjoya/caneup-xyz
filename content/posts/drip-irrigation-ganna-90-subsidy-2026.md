@@ -174,3 +174,12 @@ image: "/images/blog/drip-irrigation-ganna-90-subsidy-2026.webp"
 ड्रिप सिंचाई **गन्ना किसानों के लिए सबसे बड़ा मौका** है। 90% सब्सिडी मिल रही है — ₹70,000 का सिस्टम सिर्फ ₹7,000 में। पानी बचेगा, उपज बढ़ेगी, मुनाफा बढ़ेगा। **अभी अप्लाई करें!**
 
 CaneUp पर गन्ना किसानों के लिए ऐसी ही जानकारी रोज मिलती है। शेयर करें!
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

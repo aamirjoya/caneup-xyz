@@ -135,3 +135,12 @@ image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
 **Co-0238** ज्यादातर किसानों के लिए सबसे अच्छी है — ज्यादा उपज, लाल सड़न प्रतिरोधी, और UP-पंजाब-हरियाणा में बेस्ट। लेकिन अगर पानी कम है या महाराष्ट्र-कर्नाटक में हैं तो **Co-0118** बेहतर है।
 
 CaneUp पर गन्ना किसानों के लिए ऐसी ही जानकारी रोज मिलती है!
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

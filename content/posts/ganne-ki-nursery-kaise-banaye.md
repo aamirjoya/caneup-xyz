@@ -1,6 +1,6 @@
 ---
 title: "गन्ने की नर्सरी कैसे बनाएं 2026 — पौध तैयार करने का पूरा तरीका"
-date: 2026-08-01 10:00:00+05:30
+date: 2026-08-07 10:00:00+05:30
 description: "गन्ने की नर्सरी बनाने और पौध तैयार करने का पूरा तरीका जानें। बीज गन्ने का चुनाव, उपचार, बुवाई और देखभाल की विस्तृत जानकारी 2026।"
 categories: [Ganna Kheti]
 tags: [गन्ने की नर्सरी, बीज गन्ना, पौध तैयार करना, गन्ने की बुवाई, टिश्यू कल्चर]
@@ -306,3 +306,17 @@ image: /images/blog/ganne-ki-nursery-kaise-banaye.webp
 
 ### Q4: बीज गन्ने का उपचार कैसे करें?
 **उत्तर:** बीज गन्ने को कार्बेन्डाजिम 50% WP (2.5 ग्राम/लीटर पानी) में 10 मिनट भिगोएं। या थीरम 75% WS (3 ग्राम/किलो बीज) का लेप करें। इससे लाल सड़न और धब्बा रोग नहीं लगता।
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [गन्ना भुगतान स्थिति चेक करें](/posts/ganna-bhugtan-2026-bakaya-list/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [PM किसान सम्मान निधि 2026](/posts/pm-kisan-ganna-kisan/)
+- [गन्ना फसल बीमा 2026](/posts/ganna-fasal-bima-2026-apply-online/)
+- [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
+- [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

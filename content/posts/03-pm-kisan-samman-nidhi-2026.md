@@ -179,3 +179,12 @@ image: /images/blog/pm-kisan-samman-nidhi-2026.webp
 PM किसान सम्मान निधि हर किसान के लिए **जरूरी योजना** है। ₹6000 सालाना भले ही कम लगे, लेकिन बीज, खाद और दवाई के लिए काम आते हैं। **eKYC पूरी करें, स्टेटस चेक करते रहें**, और अगली किस्त का इंतजार करें!
 
 **CaneUp** पर सरकारी योजनाओं की ताज़ा जानकारी पढ़ते रहें! 🏛️💰
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)

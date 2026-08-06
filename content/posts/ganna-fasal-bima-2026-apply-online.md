@@ -165,3 +165,12 @@ image: "/images/blog/ganna-fasal-bima-2026-apply-online.webp"
 ₹500 में ₹50,000 का बीमा — यह **किसानों के लिए सबसे अच्छा सौदा** है। सूखा, बाढ़, कीट — कुछ भी हो, आपकी फसल सुरक्षित। **अभी आवेदन करें!**
 
 CaneUp पर गन्ना किसानों के लिए ऐसी ही जानकारी रोज मिलती है। शेयर करें!
+
+## 📌 यह भी पढ़ें
+
+- [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download 2026](/eganna/)
+- [गन्ना पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+- [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
+- [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
