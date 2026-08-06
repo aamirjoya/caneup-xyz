@@ -1,42 +1,42 @@
 ---
-title: "Government Schemes for Sugarcane Farmers 2026 — Free Money & Subsidies"
+title: "गन्ना किसानों के लिए सरकारी योजनाएं 2026 — मुफ्त पैसा और सब्सिडी"
 date: 2026-08-07
-description: "Top government schemes for sugarcane farmers in 2026 — PM-Kisan, KCC loan, crop insurance, drip irrigation subsidy, and machinery subsidy. How to apply and get benefits."
+description: "गन्ना किसानों के लिए सरकारी योजनाएं 2026 — PM-Kisan, KCC लोन, फसल बीमा, ड्रिप सिंचाई सब्सिडी और मशीनरी सब्सिडी। CaneUp पर पूरी जानकारी।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/pm-kisan.webp"
 story_type: "image"
-category: "Government Schemes"
-tags: ["sugarcane farmer schemes", "PM Kisan 2026", "KCC loan sugarcane", "crop insurance India", "agriculture subsidy"]
-keywords: ["government schemes sugarcane farmers 2026", "PM Kisan yojana", "KCC loan for sugarcane", "crop insurance sugarcane", "agriculture subsidy India 2026"]
+category: "सरकारी योजनाएं"
+tags: ["गन्ना किसान योजनाएं", "PM Kisan 2026", "KCC लोन गन्ना", "crop insurance India", "agriculture subsidy"]
+keywords: ["गन्ना किसान सरकारी योजनाएं 2026", "PM Kisan yojana", "KCC लोन गन्ना किसान", "फसल बीमा गन्ना", "agriculture subsidy India 2026"]
 slides:
   - image: "/images/webstories/pm-kisan.webp"
-    title: "Government Schemes 2026"
-    subtitle: "Free money and subsidies for sugarcane farmers — don't miss out!"
+    title: "सरकारी योजनाएं 2026"
+    subtitle: "गन्ना किसानों के लिए मुफ्त पैसा और सब्सिडी — चूकें नहीं!"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
-    title: "PM-Kisan Samman Nidhi"
-    subtitle: "₹6,000/year direct to your bank account in 3 instalments. All farmer families eligible. Apply at pmkisan.gov.in."
+    title: "PM-Kisan सम्मान निधि"
+    subtitle: "सालाना ₹6,000 सीधे बैंक खाते में — 3 किस्तों में। सभी किसान परिवार पात्र। pmkisan.gov.in पर आवेदन करें।"
     credit: "CaneUp"
   - image: "/images/webstories/kcc-loan.webp"
-    title: "Kisan Credit Card (KCC)"
-    subtitle: "Loan up to ₹3 lakh at 4% interest (after subsidy). Covers seeds, fertilizers, and farm expenses. Apply at any bank with land documents."
+    title: "किसान क्रेडिट कार्ड (KCC)"
+    subtitle: "₹3 लाख तक लोन — सिर्फ 4% ब्याज (सब्सिडी के बाद)। बीज, खाद और खेती के खर्च के लिए। किसी भी बैंक में जमीन के कागजात दें।"
     credit: "CaneUp"
   - image: "/images/webstories/crop-insurance.webp"
-    title: "PM Fasal Bima Yojana"
-    subtitle: "Crop insurance at just 1.5–5% premium. Covers drought, flood, pest attack. Government pays the rest. Claim within 72 hours of loss."
+    title: "PM फसल बीमा योजना"
+    subtitle: "सिर्फ 1.5–5% प्रीमियम पर फसल बीमा। सूखा, बाढ़, कीट हमला — सब कवर। बाकी सरकार भरती है। नुकसान के 72 घंटे में क्लेम करें।"
     credit: "CaneUp"
   - image: "/images/webstories/drip-subsidy.webp"
-    title: "Drip Irrigation Subsidy"
-    subtitle: "55–80% subsidy on drip irrigation under PMKSY. Saves 40% water, boosts yield 20%. Apply at district agriculture office."
+    title: "ड्रिप सिंचाई सब्सिडी"
+    subtitle: "PMKSY में ड्रिप सिंचाई पर 55–80% सब्सिडी। 40% पानी बचाएं, 20% उपज बढ़ाएं। जिला कृषि कार्यालय में आवेदन करें।"
     credit: "CaneUp"
   - image: "/images/webstories/farm-machinery.webp"
-    title: "Machinery Subsidy"
-    subtitle: "40–50% subsidy on harvesters, planters, and tractors under SMAM scheme. Apply at agrimachinery.nic.in. Maximum ₹10 lakh subsidy."
+    title: "मशीनरी सब्सिडी"
+    subtitle: "SMAM योजना में हार्वेस्टर, प्लांटर और ट्रैक्टर पर 40–50% सब्सिडी। agrimachinery.nic.in पर आवेदन करें। अधिकतम ₹10 लाख सब्सिडी।"
     credit: "CaneUp"
   - image: "/images/webstories/mobile-check.webp"
-    title: "How to Apply?"
-    subtitle: "Most schemes: Visit CSC centre or district agriculture office. Need: Aadhaar, land record, bank passbook, passport photo. All services are free!"
+    title: "कैसे आवेदन करें?"
+    subtitle: "ज्यादातर योजनाएं: CSC सेंटर या जिला कृषि कार्यालय जाएं। जरूरी: आधार, खसरा/खतौनी, बैंक पासबुक, फोटो। सब सेवाएं मुफ्त हैं!"
     credit: "CaneUp"
 ---
 
-Top government schemes for sugarcane farmers in 2026. PM-Kisan ₹6,000, KCC loan at 4%, crop insurance, irrigation & machinery subsidies. Apply now!
+गन्ना किसानों के लिए टॉप सरकारी योजनाएं 2026। PM-Kisan ₹6,000, KCC लोन 4% पर, फसल बीमा, सिंचाई और मशीनरी सब्सिडी। अभी आवेदन करें!

@@ -1,40 +1,40 @@
 ---
-title: "Drip Irrigation for Sugarcane — Save 40% Water, Boost Yield 20%"
+title: "गन्ने में ड्रिप सिंचाई — 40% पानी बचाएं, 20% ज्यादा उपज पाएं"
 date: 2026-08-07
-description: "Drip irrigation for sugarcane farming — how it works, installation cost, government subsidy up to 80%, and how much water and money you save. Complete guide for Indian farmers."
+description: "गन्ने में ड्रिप सिंचाई — कैसे काम करती है, लागत कितनी, 80% तक सब्सिडी, और कितना पानी और पैसा बचता है। पूरी जानकारी CaneUp पर।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/drip-irrigation.webp"
 story_type: "image"
-category: "Irrigation"
-tags: ["drip irrigation sugarcane", "sugarcane irrigation methods", "water saving farming", "drip irrigation subsidy India", "micro irrigation"]
-keywords: ["drip irrigation sugarcane", "sugarcane irrigation methods", "drip irrigation subsidy India 2026", "water saving sugarcane farming", "micro irrigation sugarcane"]
+category: "सिंचाई"
+tags: ["ड्रिप सिंचाई गन्ना", "गन्ने में सिंचाई", "पानी बचाने की खेती", "drip irrigation subsidy India", "micro irrigation sugarcane"]
+keywords: ["गन्ने में ड्रिप सिंचाई", "ड्रिप सिंचाई सब्सिडी 2026", "गन्ने में सिंचाई का तरीका", "drip irrigation sugarcane", "पानी बचाओ खेती"]
 slides:
   - type: "video"
     video_url: "/videos/sugarcane-harvest.webm"
     poster: "/images/webstories/drip-irrigation.webp"
-    title: "Drip Irrigation for Sugarcane"
-    subtitle: "Save water, save money, grow more"
+    title: "गन्ने में ड्रिप सिंचाई"
+    subtitle: "पानी बचाएं, पैसा बचाएं, ज्यादा उगाएं"
     credit: "Video: Pexels"
   - image: "/images/webstories/drip-irrigation.webp"
-    title: "Why Drip Irrigation?"
-    subtitle: "Sugarcane needs 2000–2500mm water. Drip delivers water directly to roots — saves 30–40% water compared to flood irrigation."
+    title: "ड्रिप सिंचाई क्यों?"
+    subtitle: "गन्ने को 2000–2500mm पानी चाहिए। ड्रिप सिंचाई सीधे जड़ों तक पानी पहुंचाती है — बाढ़ सिंचाई से 30–40% पानी बचता है।"
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
-    title: "How It Works"
-    subtitle: "Water drips slowly through pipes with emitters placed near each plant. Runs 1–2 hours daily. Even water distribution."
+    title: "कैसे काम करती है?"
+    subtitle: "पाइपों में लगे ड्रिपर से पौधे के पास बूंद-बूंद पानी गिरता है। रोज 1–2 घंटे चलाएं। पानी समान बंटता है।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-field.webp"
-    title: "Installation Cost"
-    subtitle: "₹50,000–70,000 per hectare. But government subsidy covers 55–80% under PMKSY scheme. Your cost: only ₹10,000–30,000."
+    title: "लागत कितनी?"
+    subtitle: "₹50,000–70,000 प्रति हेक्टेयर। लेकिन PMKSY योजना में 55–80% सब्सिडी मिलती है। आपकी लागत: सिर्फ ₹10,000–30,000।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
-    title: "Benefits"
-    subtitle: "40% less water | 20% more yield | 30% less fertilizer | Less weed growth | ROI in 1–2 seasons."
+    title: "फायदे"
+    subtitle: "40% कम पानी | 20% ज्यादा उपज | 30% कम खाद | कम खरपतवार | 1–2 सीजन में लागत वसूल।"
     credit: "CaneUp"
   - image: "/images/webstories/mobile-check.webp"
-    title: "How to Apply for Subsidy"
-    subtitle: "Visit your district agriculture office or apply online at pmksy.gov.in. Need: Aadhaar, land records, bank account."
+    title: "सब्सिडी कैसे लें?"
+    subtitle: "जिला कृषि कार्यालय जाएं या pmksy.gov.in पर ऑनलाइन आवेदन करें। जरूरी: आधार, जमीन के कागजात, बैंक खाता।"
     credit: "CaneUp"
 ---
 
-Drip irrigation saves 40% water and boosts sugarcane yield by 20%. Government subsidy up to 80% available under PMKSY. Learn how to install and apply.
+गन्ने में ड्रिप सिंचाई से 40% पानी बचता है और 20% उपज बढ़ती है। PMKSY में 80% तक सब्सिडी मिलती है। जानें कैसे लगाएं और सब्सिडी कैसे लें।

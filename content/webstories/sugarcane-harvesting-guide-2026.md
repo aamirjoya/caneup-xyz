@@ -1,40 +1,40 @@
 ---
-title: "Sugarcane Harvesting Guide — When and How to Harvest for Maximum Sugar"
+title: "गन्ने की कटाई गाइड — ज्यादा चीनी के लिए कब और कैसे काटें"
 date: 2026-08-07
-description: "Sugarcane harvesting guide 2026 — when to harvest, signs of maturity, cutting methods, post-harvest handling, and how to get maximum sugar recovery from your crop."
+description: "गन्ने की कटाई गाइड 2026 — कब काटें, पकने के संकेत, काटने का तरीका, कटाई के बाद क्या करें, और ज्यादा चीनी कैसे निकालें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/harvesting.webp"
 story_type: "image"
-category: "Harvesting"
-tags: ["sugarcane harvesting", "when to harvest sugarcane", "sugarcane maturity signs", "ganne ki katai", "sugar recovery sugarcane"]
-keywords: ["sugarcane harvesting guide 2026", "when to harvest sugarcane", "sugarcane maturity signs", "how to cut sugarcane", "ganne ki katai kaise kare"]
+category: "कटाई"
+tags: ["गन्ने की कटाई", "ganne ki katai", "sugarcane harvesting", "गन्ना कटाई का समय", "sugar recovery sugarcane"]
+keywords: ["गन्ने की कटाई गाइड 2026", "गन्ना कब काटें", "गन्ने की कटाई का तरीका", "ganne ki katai kaise kare", "ज्यादा चीनी कैसे पाएं"]
 slides:
   - type: "video"
     video_url: "/videos/sugarcane-harvest.webm"
     poster: "/images/webstories/harvesting.webp"
-    title: "Sugarcane Harvesting Guide"
-    subtitle: "Right timing = more sugar = more profit"
+    title: "गन्ने की कटाई गाइड"
+    subtitle: "सही समय = ज्यादा चीनी = ज्यादा मुनाफा"
     credit: "Video: Pexels"
   - image: "/images/webstories/harvesting.webp"
-    title: "When to Harvest?"
-    subtitle: "Harvest at 12–14 months when sugar content peaks. Best season: November–March. Early harvest = less sugar. Late harvest = more fiber."
+    title: "कब काटें?"
+    subtitle: "12–14 महीने में कटाई करें जब चीनी सबसे ज्यादा हो। सबसे अच्छा समय: नवंबर–मार्च। जल्दी काटें = कम चीनी। देर से काटें = ज्यादा रेशा।"
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
-    title: "Signs of Maturity"
-    subtitle: "Stalks turn yellowish-green. Lower leaves dry up. Stalks feel hard and solid. Internodes become shorter near top."
+    title: "पकने के संकेत"
+    subtitle: "डंठल पीले-हरे रंग के हो जाएं। नीचे की पत्तियां सूख जाएं। डंठल कठोर और मजबूत लगें। ऊपर के गांठ छोटे हो जाएं।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-field.webp"
-    title: "Cutting Method"
-    subtitle: "Cut close to ground level — bottom nodes have most sugar. Remove green tops (use as fodder). Strip leaves before transporting."
+    title: "काटने का तरीका"
+    subtitle: "जमीन के पास से काटें — नीचे के गांठों में सबसे ज्यादा चीनी होती है। हरे ऊपरी हिस्से को हटाएं (चारे के काम आएंगे)। पत्तियां छीलकर भेजें।"
     credit: "CaneUp"
   - image: "/images/webstories/sugar-mill.webp"
-    title: "Send to Mill Fast!"
-    subtitle: "Sugar content drops 0.5% every 24 hours after cutting. Transport to mill within 24–48 hours. Don't stack for more than 3 days."
+    title: "जल्दी मिल भेजें!"
+    subtitle: "काटने के 24 घंटे बाद चीनी 0.5% गिर जाती है। 24–48 घंटे में मिल पहुंचाएं। 3 दिन से ज्यादा न रखें।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
-    title: "Pro Tips"
-    subtitle: "Harvest in morning (cool). Don't burn fields — it reduces sugar by 10%. Use mechanical harvester if available (saves labor cost)."
+    title: "जरूरी टिप्स"
+    subtitle: "सुबह ठंडे समय में काटें। खेत न जलाएं — चीनी 10% कम हो जाती है। मशीन से काटें तो मजदूरी बचती है।"
     credit: "CaneUp"
 ---
 
-Learn when and how to harvest sugarcane for maximum sugar recovery. Signs of maturity, cutting methods, and post-harvest tips for Indian farmers.
+गन्ने की कटाई कब और कैसे करें? पकने के संकेत, काटने का सही तरीका, और ज्यादा चीनी निकालने के टिप्स।

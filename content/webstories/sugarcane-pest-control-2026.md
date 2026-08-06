@@ -1,38 +1,38 @@
 ---
-title: "Sugarcane Pest Control 2026 — Top 5 Pests and How to Beat Them"
+title: "गन्ने में कीट नियंत्रण 2026 — 5 सबसे खतरनाक कीट और बचाव"
 date: 2026-08-07
-description: "Sugarcane pest management 2026 — identify and control stem borer, whitefly, top borer, root borer, and pyrilla. Chemical and organic solutions for Indian farmers."
+description: "गन्ने में कीट नियंत्रण 2026 — तना छेदक, सफेद मक्खी, टॉप बोरर, रूट बोरर और पाइरिला। रासायनिक और जैविक उपाय CaneUp पर।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/pest-control.webp"
 story_type: "image"
-category: "Pest Control"
-tags: ["sugarcane pest control", "stem borer sugarcane", "whitefly sugarcane", "ganna keet niyantran", "crop protection sugarcane"]
-keywords: ["sugarcane pest control 2026", "stem borer sugarcane treatment", "whitefly sugarcane control", "sugarcane pest management", "ganne mein keet niyantran"]
+category: "कीट नियंत्रण"
+tags: ["गन्ने में कीट नियंत्रण", "तना छेदक गन्ना", "सफेद मक्खी गन्ना", "ganna keet niyantran", "crop protection sugarcane"]
+keywords: ["गन्ने में कीट नियंत्रण 2026", "तना छेदक उपचार", "सफेद मक्खी नियंत्रण", "गन्ने में कीट प्रबंधन", "ganne mein keet niyantran"]
 slides:
   - image: "/images/webstories/pest-control.webp"
-    title: "Sugarcane Pest Control 2026"
-    subtitle: "Protect your crop from the 5 most damaging pests"
+    title: "गन्ने में कीट नियंत्रण 2026"
+    subtitle: "5 सबसे खतरनाक कीटों से अपनी फसल बचाएं"
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
-    title: "1. Stem Borer"
-    subtitle: "Larvae bore into stems causing dead hearts. Signs: holes in stalks, dry central leaves. Use Carbofuran 3G granules in whorl."
+    title: "1. तना छेदक"
+    subtitle: "लार्वा डंठल में घुसकर डेड हार्ट बनाता है। पहचान: डंठल में छेद, सूखी पत्तियां। Carbofuran 3G ग्रेन्यूल डालें।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-field.webp"
-    title: "2. Whitefly"
-    subtitle: "Tiny white insects on leaf undersides. They spread mosaic virus. Spray neem oil (5ml/L) or Imidacloprid 17.8% SL."
+    title: "2. सफेद मक्खी"
+    subtitle: "पत्तियों के नीचे छोटे सफेद कीड़े। मोज़ेक वायरस फैलाते हैं। नीम का तेल (5ml/L) या Imidacloprid छिड़कें।"
     credit: "CaneUp"
   - image: "/images/webstories/fertilizer.webp"
-    title: "3. Top Borer"
-    subtitle: "Attacks the top portion of cane. Causes withered central shoot. Release Trichogramma cards (50,000/ha) for biological control."
+    title: "3. टॉप बोरर"
+    subtitle: "गन्ने के ऊपरी हिस्से पर हमला करता है। बीच की पत्ती सूख जाती है। Trichogramma कार्ड (50,000/हेक्टेयर) लगाएं।"
     credit: "CaneUp"
   - image: "/images/webstories/soil-testing.webp"
-    title: "4. Root Borer"
-    subtitle: "Larvae feed on roots causing lodging. Apply Phorate 10G at planting. Keep field weed-free to reduce breeding."
+    title: "4. रूट बोरर"
+    subtitle: "लार्वा जड़ों को खाता है, गन्ना गिर जाता है। बुवाई पर Phorate 10G डालें। खेत को खरपतवार मुक्त रखें।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
-    title: "Prevention Tips"
-    subtitle: "Use resistant varieties (Co-0238). Rotate crops. Remove crop residue after harvest. Monitor fields weekly. Spray early!"
+    title: "बचाव के उपाय"
+    subtitle: "प्रतिरोधी किस्में लगाएं (Co-0238)। फसल चक्र अपनाएं। कटाई के बाद अवशेष हटाएं। हफ्ते में एक बार खेत देखें। जल्दी छिड़काव करें!"
     credit: "CaneUp"
 ---
 
-Identify and control the top 5 sugarcane pests — stem borer, whitefly, top borer, root borer, and pyrilla. Chemical and organic solutions for 2026.
+गन्ने में 5 सबसे खतरनाक कीट — तना छेदक, सफेद मक्खी, टॉप बोरर, रूट बोरर और पाइरिला। पहचान और उपचार की पूरी जानकारी।

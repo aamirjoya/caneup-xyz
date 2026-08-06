@@ -1,38 +1,38 @@
 ---
-title: "Soil Testing for Sugarcane — Why It Can Double Your Yield"
+title: "गन्ने की खेती में मिट्टी जांच — क्यों जरूरी है और कैसे कराएं"
 date: 2026-08-07
-description: "Soil testing for sugarcane farming 2026 — why it matters, how to do it, what nutrients to check, and how to use results to optimize fertilizer. Free soil testing available in India."
+description: "गन्ने की खेती में मिट्टी जांच 2026 — क्यों जरूरी है, कैसे कराएं, कौन से पोषक तत्व देखें, और रिपोर्ट से खाद कैसे तय करें। मुफ्त मिट्टी जांच उपलब्ध।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/soil-testing.webp"
 story_type: "image"
-category: "Soil Health"
-tags: ["soil testing sugarcane", "soil health India", "fertilizer optimization", "mitti jaanch", "soil testing lab India"]
-keywords: ["soil testing sugarcane farming", "how to test soil for sugarcane", "soil testing lab India", "free soil testing India", "ganne ki kheti mein mitti jaanch"]
+category: "मिट्टी स्वास्थ्य"
+tags: ["मिट्टी जांच गन्ना", "soil health India", "खाद अनुकूलन", "mitti jaanch", "soil testing lab India"]
+keywords: ["गन्ने में मिट्टी जांच", "मिट्टी जांच कैसे कराएं", "soil testing sugarcane", "मुफ्त मिट्टी जांच India", "ganne ki kheti mein mitti jaanch"]
 slides:
   - image: "/images/webstories/soil-testing.webp"
-    title: "Soil Testing for Sugarcane"
-    subtitle: "Know your soil, grow smarter"
+    title: "गन्ने में मिट्टी जांच"
+    subtitle: "मिट्टी जानें, स्मार्ट खेती करें"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-field.webp"
-    title: "Why Test Soil?"
-    subtitle: "70% of Indian farmers over-use fertilizers. Soil testing tells you exactly what your soil needs — saves money, boosts yield 20–30%."
+    title: "मिट्टी जांच क्यों?"
+    subtitle: "70% भारतीय किसान ज्यादा खाद डालते हैं। मिट्टी जांच बताती है कि क्या चाहिए — पैसा बचता है, उपज 20–30% बढ़ती है।"
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
-    title: "What to Test?"
-    subtitle: "N (Nitrogen), P (Phosphorus), K (Potash), pH level, organic carbon, zinc, iron. Sugarcane needs pH 6.0–7.5 for best growth."
+    title: "क्या जांच कराएं?"
+    subtitle: "N (नाइट्रोजन), P (फास्फोरस), K (पोटाश), pH, ऑर्गेनिक कार्बन, जिंक, आयरन। गन्ने के लिए pH 6.0–7.5 सबसे अच्छा।"
     credit: "CaneUp"
   - image: "/images/webstories/fertilizer.webp"
-    title: "When to Test?"
-    subtitle: "Test soil 2–3 months before planting. Best time: September–October for Feb–March planting. Test every 2–3 years."
+    title: "कब जांच कराएं?"
+    subtitle: "बुवाई से 2–3 महीने पहले। सबसे अच्छा समय: सितंबर–अक्टूबर (फरवरी–मार्च बुवाई के लिए)। हर 2–3 साल में जांच कराएं।"
     credit: "CaneUp"
   - image: "/images/webstories/mobile-check.webp"
-    title: "How to Get Tested?"
-    subtitle: "Free testing at government soil health labs. Visit soilhealth.dac.gov.in. Or private labs charge ₹200–500. Take samples from 6 spots in your field."
+    title: "कैसे कराएं?"
+    subtitle: "सरकारी मिट्टी स्वास्थ्य प्रयोगशाला में मुफ्त जांच। soilhealth.dac.gov.in पर देखें। प्राइवेट लैब: ₹200–500। खेत से 6 जगह सैंपल लें।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
-    title: "Use Results Smartly"
-    subtitle: "Low N? Add more urea. Low P? Add DAP. High pH? Add gypsum. Soil testing saves ₹2,000–5,000/ha on unnecessary fertilizers."
+    title: "रिपोर्ट का उपयोग"
+    subtitle: "N कम? यूरिया डालें। P कम? DAP डालें। pH ज्यादा? जिप्सम डालें। मिट्टी जांच से बेकार खाद पर ₹2,000–5,000/हेक्टेयर बचता है।"
     credit: "CaneUp"
 ---
 
-Soil testing can double your sugarcane yield. Learn why it matters, how to do it, and how to use results to optimize fertilizer. Free testing available in India.
+मिट्टी जांच से गन्ने की उपज दोगुनी हो सकती है। जानें क्यों जरूरी है, कैसे कराएं, और रिपोर्ट से खाद कैसे तय करें।

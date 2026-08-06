@@ -1,42 +1,42 @@
 ---
-title: "Sugarcane Profit Calculator 2026 — How Much Can You Really Earn?"
+title: "गन्ना खेती में कितना मुनाफा? 2026 का पूरा हिसाब"
 date: 2026-08-07
-description: "Sugarcane farming profit breakdown 2026 — cost of cultivation, expected yield, MSP rates, and net profit per hectare. Real numbers from real farmers in UP, Maharashtra, and Karnataka."
+description: "गन्ना खेती का मुनाफा 2026 — खेती की लागत, अपेक्षित उपज, MSP रेट, और प्रति हेक्टेयर नेट प्रॉफिट। UP, महाराष्ट्र और कर्नाटक के किसानों से असली आंकड़े।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/farmer-happy.webp"
 story_type: "image"
-category: "Profit Analysis"
-tags: ["sugarcane farming profit", "sugarcane cost cultivation", "ganne ki kheti se kitna profit", "sugarcane income", "farming profit India"]
-keywords: ["sugarcane farming profit 2026", "sugarcane cost of cultivation", "how much earn sugarcane farming", "sugarcane profit per hectare", "ganne ki kheti se kamai"]
+category: "मुनाफा विश्लेषण"
+tags: ["गन्ना खेती मुनाफा", "ganne ki kheti se kitna profit", "sugarcane farming profit", "गन्ना आय", "farming profit India"]
+keywords: ["गन्ना खेती मुनाफा 2026", "गन्ने की खेती की लागत", "गन्ना खेती से कितनी कमाई", "sugarcane profit per hectare", "ganne ki kheti se kamai"]
 slides:
   - image: "/images/webstories/farmer-happy.webp"
-    title: "Sugarcane Profit Calculator 2026"
-    subtitle: "Real numbers. Real farmers. Real profit."
+    title: "गन्ना खेती का मुनाफा 2026"
+    subtitle: "असली आंकड़े। असली किसान। असली मुनाफा।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-field.webp"
-    title: "Cost of Cultivation"
-    subtitle: "Seeds: ₹15,000 | Fertilizer: ₹12,000 | Irrigation: ₹8,000 | Labor: ₹20,000 | Others: ₹5,000. Total: ₹60,000/hectare."
+    title: "खेती की लागत"
+    subtitle: "बीज: ₹15,000 | खाद: ₹12,000 | सिंचाई: ₹8,000 | मजदूरी: ₹20,000 | अन्य: ₹5,000। कुल: ₹60,000/हेक्टेयर।"
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
-    title: "Expected Yield"
-    subtitle: "Average: 50–60 tonnes/ha | Good management: 70–80 t/ha | Best: 100+ t/ha. Variety Co-0238 gives highest yield."
+    title: "अपेक्षित उपज"
+    subtitle: "औसत: 50–60 टन/हेक्टेयर | अच्छी देखभाल: 70–80 टन | सबसे अच्छी: 100+ टन। Co-0238 सबसे ज्यादा उपज देती है।"
     credit: "CaneUp"
   - image: "/images/webstories/msp-rate.webp"
-    title: "MSP Rate 2026-27"
-    subtitle: "FRP (Centre): ₹315/quintal | SAP UP: ₹370/quintal | SAP Maharashtra: ₹340/quintal | Punjab: ₹380/quintal."
+    title: "MSP रेट 2026-27"
+    subtitle: "FRP (केंद्र): ₹315/क्विंटल | SAP UP: ₹370/क्विंटल | SAP महाराष्ट्र: ₹340/क्विंटल | पंजाब: ₹380/क्विंटल।"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
-    title: "Profit Calculation"
-    subtitle: "50 t/ha × ₹370 = ₹1,85,000 gross. Minus cost ₹60,000 = ₹1,25,000 net profit/ha. With drip irrigation: ₹1,50,000+."
+    title: "मुनाफे का हिसाब"
+    subtitle: "50 टन × ₹370 = ₹1,85,000 कुल आय। खर्च ₹60,000 घटाओ = ₹1,25,000 नेट प्रॉफिट/हेक्टेयर। ड्रिप सिंचाई से: ₹1,50,000+।"
     credit: "CaneUp"
   - image: "/images/webstories/mobile-check.webp"
-    title: "Boost Your Profit"
-    subtitle: "Use drip irrigation (+20% yield). Apply fertilizer based on soil test. Use high-yield varieties. Sell jaggery for 5x value. Get government subsidies."
+    title: "मुनाफा कैसे बढ़ाएं?"
+    subtitle: "ड्रिप सिंचाई लगाएं (+20% उपज)। मिट्टी जांच से खाद डालें। ज्यादा उपज वाली किस्में लगाएं। गुड़ बेचें (5 गुना कीमत)। सरकारी सब्सिडी लें।"
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
-    title: "Bottom Line"
-    subtitle: "Sugarcane is one of the most profitable crops in India. With good practices, you can earn ₹1.25–2 lakh per hectare. Start smart!"
+    title: "निष्कर्ष"
+    subtitle: "गन्ना भारत की सबसे फायदेमंद फसलों में से एक है। अच्छी खेती से ₹1.25–2 लाख प्रति हेक्टेयर कमा सकते हैं। स्मार्ट खेती शुरू करें!"
     credit: "CaneUp"
 ---
 
-How much can you earn from sugarcane farming? Real profit breakdown for 2026 — costs, yield, MSP rates, and tips to maximize your income.
+गन्ना खेती से कितना मुनाफा होता है? 2026 का असली हिसाब — लागत, उपज, MSP रेट और मुनाफा बढ़ाने के टिप्स।
