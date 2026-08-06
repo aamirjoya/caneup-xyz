@@ -1,99 +1,84 @@
 ---
-title: "साइटमैप - CaneUp"
-date: 2026-08-03
-lastmod: 2026-08-03
-description: "CaneUp का साइटमैप। सभी पेज, आर्टिकल्स और वेब स्टोरीज एक जगह।"
-ShowToc: true
+title: "Sitemap — CaneUp | सभी पेजों की लिस्ट"
+date: 2026-08-07
+description: "CaneUp का पूरा साइटमैप — गन्ना पर्ची कैलेंडर, eGanna App, गन्ना भुगतान, MSP रेट, शुगर मिल लिस्ट, सरकारी योजनाएं, गन्ना खेती गाइड — सभी पेजों की लिस्ट।"
+slug: sitemap-page
+author: "CaneUp Team"
 ---
 
-## साइटमैप
-
-CaneUp वेबसाइट के सभी पेज और लेख यहाँ मिलेंगे।
+# CaneUp — साइटमैप
 
 ## मुख्य पेज
+- [CaneUp होमपेज](/)
+- [CaneUp Portal — गन्ना किसानों का #1 पोर्टल](/caneup/)
+- [eGanna App Download](/eganna/)
+- [गन्ना पर्ची कैलेंडर CaneUp](/ganna-parchi-calendar-caneup/)
 
-- [होमपेज](/)
+## गन्ना पर्ची कैलेंडर
+- [गन्ना पर्ची कैलेंडर 2026-27](/categories/parchi-calendar/)
+- [पर्ची कैलेंडर कैसे देखें](/ganna-parchi-calendar-caneup/)
+
+## eGanna App
+- [eGanna App Download](/eganna/)
+- [eGanna App बड़ा अपडेट](/posts/eganna-app-bada-update-august-2026/)
+
+## गन्ना भुगतान
+- [गन्ना भुगतान स्थिति](/categories/ganna-bhugtan/)
+- [गन्ना भुगतान 2026 बकाया लिस्ट](/posts/ganna-bhugtan-2026-bakaya-list/)
+
+## MSP/FRP रेट
+- [गन्ना MSP रेट 2026](/categories/msp-rate/)
+- [SAP रेट बढ़ने की संभावना](/posts/ganna-sap-rate-badhne-ki-sambhavna-2026/)
+
+## शुगर मिल लिस्ट
+- [सभी शुगर मिल्स](/categories/sugar-mill/)
+- [UP शुगर मिल लिस्ट](/posts/up-sugar-mill-list-complete/)
+- [बिजनौर शुगर मिल](/posts/bijnor-sugar-mills/)
+- [मुजफ्फरनगर शुगर मिल](/posts/muzaffarnagar-sugar-mills/)
+- [सहारनपुर शुगर मिल](/posts/saharanpur-sugar-mills/)
+- [मेरठ शुगर मिल](/posts/meerut-sugar-mills/)
+- [बरेली शुगर मिल](/posts/bareilly-sugar-mills/)
+- [शाहजहांपुर शुगर मिल](/posts/shahjahanpur-sugar-mills/)
+- [पीलीभीत शुगर मिल](/posts/pilibhit-sugar-mills/)
+- [लखीमपुर खीरी शुगर मिल](/posts/lakhimpur-kheri-sugar-mills/)
+- [गोरखपुर शुगर मिल](/posts/gorakhpur-sugar-mills/)
+- [कुशीनगर शुगर मिल](/posts/kushinagar-sugar-mills/)
+- [सीतापुर शुगर मिल](/posts/sitapur-sugar-mills/)
+- [देवरिया शुगर मिल](/posts/deoria-sugar-mills/)
+- [बजाज हिंदुस्तान शुगर मिल](/posts/bajaj-hindusthan-barkhera/)
+- [बलरामपुर चिनी मिल](/posts/balrampur-chini-balrampur/)
+- [धामपुर शुगर मिल](/posts/dhampur-sugar-mills/)
+- [त्रिवेणी इंजीनियरिंग](/posts/triveni-engineering-amroha/)
+
+## सरकारी योजनाएं
+- [सभी सरकारी योजनाएं](/categories/sarkari-yojana/)
+- [PM किसान सम्मान निधि](/posts/pm-kisan-ganna-kisan/)
+- [किसान क्रेडिट कार्ड (KCC)](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [गन्ना फसल बीमा](/posts/ganna-fasal-bima-2026-apply-online/)
+- [PM सुरक्षा बीमा](/posts/pm-suraksha-bima-yojana-ganna-kisan-2026/)
+
+## गन्ना खेती गाइड
+- [सभी खेती गाइड](/categories/ganna-kheti/)
+- [अगस्त में गन्ने की फसल](/posts/ganne-ki-fasal-agust-2026-5-kaam/)
+- [Co-0238 vs Co-0118](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
+- [ड्रिप सिंचाई 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
+- [गन्ने में कीट नियंत्रण](/posts/sugarcane-pest-control-2026/)
+- [गन्ने के रोग](/posts/sugarcane-disease-guide-2026/)
+- [गन्ने की कटाई](/posts/sugarcane-harvesting-guide-2026/)
+- [गन्ने में खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
+- [गन्ने में यूरिया कब डालें](/posts/ganne-mein-urea-kab-dale/)
+
+## बिज़नेस
+- [सभी बिज़नेस आइडियाज़](/categories/business/)
+- [गन्ने से एथेनॉल बिज़नेस](/posts/ganne-se-ethanol-business-2026-kaise-kare/)
+- [गन्ने से गुड़ बिज़नेस](/posts/gud-banane-ka-tarika/)
+- [गन्ने से बायोगैस](/posts/ganne-se-biogas/)
+
+## वेब स्टोरीज
+- [सभी वेब स्टोरीज](/webstories/)
+
+## अन्य
 - [हमारे बारे में](/about/)
 - [संपर्क करें](/contact/)
 - [प्राइवेसी पॉलिसी](/privacy-policy/)
-- [सेवा की शर्तें](/terms-of-service/)
 - [डिस्क्लेमर](/disclaimer/)
-- [साइटमैप](/sitemap-page/)
-- [टूल्स](/tools/)
-
-## गन्ना पर्ची और भुगतान
-
-- [गन्ना पर्ची कैलेंडर 2025-26](/posts/ganna-parchi-calendar-2025-26/)
-- [CaneUp.in पर्ची कैलेंडर](/posts/caneup-in-parchi-calendar/)
-- [eGanna App डाउनलोड](/posts/eganna-app-download/)
-- [गन्ना MSP रेट 2026](/posts/ganna-msp-rate-2026/)
-- [गन्ना FRP रेट 2026](/posts/ganna-frp-rate-2026/)
-
-## गन्ना खेती
-
-- [गन्ने की खेती गाइड](/posts/ganne-ki-kheti-guide/)
-- [पैदावार कैसे बढ़ाएं](/posts/ganne-ki-paidwar-kaise-badhaye/)
-- [रोग और इलाज](/posts/ganne-mein-rog-ilaj/)
-- [खाद कब डालें](/posts/ganne-mein-khad-kab-dale/)
-- [नई किस्में 2026](/posts/ganne-ki-nai-kism-2026/)
-
-## सरकारी योजनाएं
-
-- [PM किसान योजना](/posts/pm-kisan-ganna-kisan/)
-- [KCC किसान क्रेडिट कार्ड](/posts/kisan-credit-card-ganna/)
-- [सब्सिडी योजनाएं](/posts/ganna-subsidy-yojana-2026/)
-- [गन्ना किसान लोन](/posts/ganna-kisan-loan/)
-
-## बिजनेस
-
-- [गन्ने का जूस बिजनेस](/posts/ganne-ka-juice-business/)
-- [एथेनॉल प्लांट बिजनेस](/posts/ethanol-plant-business/)
-
-## CaneUp
-
-- [CaneUp पूरी जानकारी](/posts/caneup-keywords-target/)
-- [CaneUp.in पर्ची कैलेंडर](/posts/caneup-in-parchi-calendar/)
-
-## वेब स्टोरीज
-
-- [गन्ना पर्ची कैलेंडर 2026 — कैसे देखें](/webstories/ganna-parchi-calendar-2026/)
-- [गन्ना MSP रेट 2026-27 — सभी राज्यों की लिस्ट](/webstories/ganna-msp-rate-2026/)
-- [eGanna App डाउनलोड — गन्ना किसानों का सुपर ऐप](/webstories/eganna-app-download-guide/)
-- [गन्ना खेती के 6 जरूरी टिप्स](/webstories/ganna-kheti-tips/)
-- [KCC लोन 2026 — 3 लाख तक लोन](/webstories/kcc-loan-ganna-kisan-2026/)
-- [UP शुगर मिल लिस्ट 2026 — सभी 119 मिलें](/webstories/up-sugar-mill-list-2026/)
-- [Co-0238 गन्ना किस्म — किसानों की पहली पसंद](/webstories/co0238-ganna-kism-2026/)
-- [गन्ना भुगतान 2026 — कब मिलेगा पैसा](/webstories/ganna-bhugtan-status-2026/)
-- [PM किसान योजना — ₹6000 सालाना](/webstories/pm-kisan-yojana-ganna-kisan-2026/)
-- [गन्ना पराली — नुकसान और बेहतर विकल्प](/webstories/ganna-parali-nuksan-vikalp/)
-- [ड्रिप सिंचाई — 90% सब्सिडी](/webstories/drip-irrigation-subsidy-ganna-2026/)
-- [गन्ना मशीनरी — हार्वेस्टर और सब्सिडी](/webstories/ganna-kheti-machinery-subsidy/)
-- [शुगर मिल में गन्ना कैसे बेचें](/webstories/sugar-mill-ganna-kaise-bechen/)
-- [गुड़ बनाने का बिज़नेस — लाखों की कमाई](/webstories/ganne-se-gur-business-2026/)
-- [मिट्टी जांच — उपज बढ़ाने का पहला कदम](/webstories/ganna-kheti-mitti-jaanch/)
-
-## शुगर मिल्स
-
-- [UP की सभी शुगर मिल्स](/posts/up-sugar-mill-list-complete/)
-- [शुगर मिल लिस्ट UP](/posts/sugar-mill-list-up/)
-- [बिजनौर की शुगर मिल्स](/posts/bijnor-sugar-mills/)
-- [मुजफ्फरनगर की शुगर मिल्स](/posts/muzaffarnagar-sugar-mills/)
-- [मेरठ की शुगर मिल्स](/posts/meerut-sugar-mills/)
-- [सहारनपुर की शुगर मिल्स](/posts/saharanpur-sugar-mills/)
-- [बरेली की शुगर मिल्स](/posts/bareilly-sugar-mills/)
-- [लखीमपुर खीरी की शुगर मिल्स](/posts/lakhimpur-kheri-sugar-mills/)
-- [गोरखपुर की शुगर मिल्स](/posts/gorakhpur-sugar-mills/)
-- [शाहजहाँपुर की शुगर मिल्स](/posts/shahjahanpur-sugar-mills/)
-
-## प्रमुख शुगर कंपनियां
-
-- [बजाज हिंदुस्तान - गोला गोकरननाथ](/posts/bajaj-hindusthan-gola-gokarannath/)
-- [बजाज हिंदुस्तान - बिलाई](/posts/bajaj-hindusthan-bilai/)
-- [बलरामपुर चीनी - बलरामपुर](/posts/balrampur-chini-balrampur/)
-- [बलरामपुर चीनी - तुलसीपुर](/posts/balrampur-chini-tulsipur/)
-- [धामपुर शुगर मिल्स](/posts/dhampur-sugar-mills/)
-- [द्वारिकेश शुगर](/posts/dwarikesh-sugar-bareilly/)
-- [त्रिवेणी इंजीनियरिंग](/posts/triveni-engineering-amroha/)
-- [सिम्भावली शुगर](/posts/simbhaoli-sugar-mills/)
-- [केसर एंटरप्राइजेज](/posts/kesar-enterprises-baheri/)
-- [राणा शुगर](/posts/rana-sugar-barabanki/)
