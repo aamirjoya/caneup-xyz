@@ -1,0 +1,48 @@
+---
+title: "Sugarcane Farming Guide 2026 — From Planting to Harvest"
+date: 2026-08-07
+description: "Complete sugarcane farming guide for 2026 — soil preparation, planting methods, irrigation, fertilizers, pest control, and harvesting tips. Maximize your yield and profit with CaneUp."
+author_name: "Randhir Patil"
+featured_image: "/images/webstories/sugarcane-field.webp"
+story_type: "image"
+category: "Sugarcane Farming"
+tags: ["sugarcane farming guide", "how to grow sugarcane", "ganna kheti guide", "sugarcane cultivation 2026", "farming tips India"]
+keywords: ["sugarcane farming guide 2026", "how to grow sugarcane", "sugarcane cultivation tips", "ganna kheti guide", "sugarcane planting to harvest"]
+slides:
+  - type: "video"
+    video_url: "/videos/sugarcane-harvest.webm"
+    poster: "/images/webstories/sugarcane-field.webp"
+    title: "Sugarcane Farming Guide 2026"
+    subtitle: "Everything you need to know — from planting to harvesting"
+    credit: "Video: Pexels"
+  - image: "/images/webstories/soil-testing.webp"
+    title: "Step 1: Soil Preparation"
+    subtitle: "Test your soil first. Sugarcane grows best in well-drained loamy soil with pH 6.0–7.5. Add organic manure before ploughing."
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-field.webp"
+    title: "Step 2: Planting Method"
+    subtitle: "Plant setts in rows 90cm apart during Feb–March. Use healthy 3-budded setts. Treat with fungicide before planting."
+    credit: "CaneUp"
+  - image: "/images/webstories/drip-irrigation.webp"
+    title: "Step 3: Irrigation"
+    subtitle: "Sugarcane needs 8–12 irrigations. Drip irrigation saves 40% water and boosts yield by 20%. Critical stages: germination & tillering."
+    credit: "CaneUp"
+  - image: "/images/webstories/fertilizer.webp"
+    title: "Step 4: Fertilizer Schedule"
+    subtitle: "Apply N:200, P:60, K:60 kg/ha in 3 splits. First dose at planting, second at 45 days, third at 90 days after planting."
+    credit: "CaneUp"
+  - image: "/images/webstories/pest-control.webp"
+    title: "Step 5: Pest & Disease Control"
+    subtitle: "Watch for stem borer, whitefly, and red rot. Use resistant varieties like Co-0238. Spray neem oil for organic control."
+    credit: "CaneUp"
+  - image: "/images/webstories/harvesting.webp"
+    title: "Step 6: Harvesting"
+    subtitle: "Harvest at 12–14 months when stalks turn yellowish-green. Cut close to ground level. Send to mill within 24 hours."
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-happy.webp"
+    title: "Expected Profit"
+    subtitle: "Average yield: 50–60 tonnes/ha. At MSP ₹370/quintal, gross income = ₹1.85 lakh/ha. Net profit: ₹80,000–1 lakh/ha."
+    credit: "CaneUp"
+---
+
+Complete sugarcane farming guide 2026 — soil prep, planting, irrigation, fertilizer, pest control, and harvesting. Learn how to maximize your sugarcane yield and profit.
