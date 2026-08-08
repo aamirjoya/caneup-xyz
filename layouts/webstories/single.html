@@ -43,16 +43,16 @@
     },
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-    "author": { "@type": "Organization", "name": "{{ .Params.author_name | default "CaneUp Team" }}" },
+    "author": { "@type": "Person", "name": "{{ .Params.author_name | default "Randhir Patil" }}" },
     "publisher": {
       "@type": "Organization",
       "name": "CaneUp — गन्ना किसान पोर्टल",
       "url": "https://caneup.xyz/",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://caneup.xyz/favicon-32x32.png",
-        "width": 32,
-        "height": 32
+        "url": "https://caneup.xyz/images/logo.png",
+        "width": 1200,
+        "height": 630
       }
     },
     "mainEntityOfPage": "{{ .Permalink }}",
@@ -175,7 +175,7 @@
 <amp-story
     title="{{ .Title }}"
     publisher="CaneUp — गन्ना किसान पोर्टल"
-    publisher-logo-src="https://caneup.xyz/favicon-32x32.png"
+    publisher-logo-src="https://caneup.xyz/images/logo.png"
     poster-portrait-src="{{ .Params.featured_image | absURL }}"
     poster-landscape-src="{{ .Params.featured_image | absURL }}"
     poster-square-src="{{ .Params.featured_image | absURL }}"
@@ -193,7 +193,7 @@
     <amp-story-grid-layer template="vertical">
       <div class="cover-logo">
         <amp-img width="44" height="44" layout="fixed" class="logo"
-            src="https://caneup.xyz/favicon-32x32.png"
+            src="https://caneup.xyz/images/logo.png"
             alt="CaneUp">
         </amp-img>
       </div>

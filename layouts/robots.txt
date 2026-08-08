@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://caneup.xyz/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin/utility pages
+Disallow: /tags/
+Disallow: /categories/
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Googlebot-Image
+User-agent: Googlebot-Image
+Allow: /
