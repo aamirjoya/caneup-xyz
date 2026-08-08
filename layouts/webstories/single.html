@@ -203,7 +203,7 @@
         {{ with .Params.category }}<span class="cover-category">{{ . }}</span>{{ end }}
         <h1>{{ .Title }}</h1>
         <p class="cover-date">{{ .Date.Format "Jan 2, 2006" }}</p>
-        <span class="cover-author">caneup.xyz</span>
+        <span class="cover-author">{{ .Params.author_name | default "Randhir Patil" }}</span>
       </div>
     </amp-story-grid-layer>
   </amp-story-page>
