@@ -1,6 +1,6 @@
 ---
 title: "CaneUp 2026 — गन्ना किसानों का #1 पोर्टल | पर्ची कैलेंडर, MSP रेट, eGanna App"
-date: 2026-08-07 10:00:00+05:30
+date: 2026-07-09 20:15:00+05:30
 description: "CaneUp 2026 — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, ऑनलाइन शिकायत की पूरी जानकारी।"
 categories: [CaneUp]
 tags: ["CaneUp", "CaneUp.in", "eGanna App", "गन्ना पोर्टल", "CaneUp 2026"]
@@ -309,3 +309,9 @@ image: /images/blog/caneup-keywords-target.webp
 - [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
 - [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
+
+## 📖 यह भी पढ़ें
+
+- [गन्ना किसान WhatsApp ग्रुप — रोज ताजा अपडेट पाएं, जुड़ें CaneUp से](/posts/ganna-kisan-whatsapp-group-caneup/)
+- [गन्ना किसानों के लिए YouTube चैनल — CaneUp पर वीडियो में देखें खेती के टिप्स](/posts/caneup-youtube-channel-ganna-kisan/)
+

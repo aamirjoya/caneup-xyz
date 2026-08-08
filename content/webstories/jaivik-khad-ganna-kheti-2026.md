@@ -1,6 +1,6 @@
 ---
 title: "गन्ने की खेती में जैविक खाद — कम खर्च, ज्यादा उपज"
-date: 2026-08-07
+date: 2026-07-08 18:10:00+05:30
 description: "गन्ने की खेती में जैविक खाद का उपयोग — वर्मी कम्पोस्ट, गोबर खाद, नीम खाद। अगस्त 2026 में जैविक खेती के फायदे।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/fertilizer.webp"

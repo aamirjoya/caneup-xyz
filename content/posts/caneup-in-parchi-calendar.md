@@ -1,6 +1,6 @@
 ---
 title: "CaneUp Enquiry 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी"
-date: 2026-08-07 10:00:00+05:30
+date: 2026-07-18 10:40:00+05:30
 description: "CaneUp Enquiry (enquiry.caneup.in) पर गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट और तौल विवरण कैसे देखें — 2026 अपडेटेड स्टेप-बाय-स्टेप गाइड। UP, Bihar, Maharashtra के किसानों के लिए।"
 categories:
 - caneup
@@ -262,3 +262,8 @@ image: /images/blog/caneup-in-parchi-calendar.webp
 - [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
 - [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
+
+## 📖 यह भी पढ़ें
+
+- [eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी](/posts/eganna-app-download/)
+

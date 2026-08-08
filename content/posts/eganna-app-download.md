@@ -1,6 +1,6 @@
 ---
 title: "eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी"
-date: 2026-08-07 10:00:00+05:30
+date: 2026-07-03 18:53:00+05:30
 description: "eGanna App Download 2026 कैसे करें? eGANNA CANE UP App से गन्ना पर्ची कैलेंडर, सप्लाई टिकट, गन्ना भुगतान स्थिति, टॉल डिटेल — सब कुछ एक जगह। पूरी जानकारी हिंदी में।"
 categories:
 - caneup
@@ -254,3 +254,8 @@ Play Store के सर्च बार में **"eGanna"** या **"eGANNA
 - [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
 - [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
+
+## 📖 यह भी पढ़ें
+
+- [CaneUp Enquiry 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी](/posts/caneup-in-parchi-calendar/)
+

@@ -1,6 +1,6 @@
 ---
 title: "गन्ने की सबसे अच्छी किस्में 2026 — ज्यादा उपज वाली किस्में"
-date: 2026-08-07
+date: 2026-07-18 16:53:00+05:30
 description: "गन्ने की टॉप किस्में 2026 — Co-0238, Co-0118, Co-86032 और अन्य। उपज, चीनी की मात्रा और रोग प्रतिरोध तुलना। CaneUp पर पूरी जानकारी।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/co0238-variety.webp"

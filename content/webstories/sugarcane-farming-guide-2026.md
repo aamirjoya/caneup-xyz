@@ -1,6 +1,6 @@
 ---
 title: "गन्ना खेती गाइड 2026 — बुवाई से कटाई तक पूरी जानकारी"
-date: 2026-08-07
+date: 2026-07-06 20:47:00+05:30
 description: "गन्ना खेती की पूरी गाइड 2026 — मिट्टी तैयार करना, बुवाई के तरीके, सिंचाई, खाद, कीट नियंत्रण और कटाई के टिप्स। CaneUp पर जानें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/sugarcane-field.webp"

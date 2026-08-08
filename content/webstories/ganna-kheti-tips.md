@@ -1,6 +1,6 @@
 ---
 title: "गन्ना खेती के 6 जरूरी टिप्स — ज्यादा उपज कैसे पाएं"
-date: 2026-07-26
+date: 2026-07-02 10:17:00+05:30
 description: "गन्ना खेती के 6 जरूरी टिप्स 2026 — Co-0238 किस्म, ड्रिप सिंचाई, सही खाद, कीट प्रबंधन, मिट्टी जांच और समय पर कटाई। उपज 30% बढ़ाने के लिए CaneUp पर पूरी गाइड।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/sugarcane-field.webp"

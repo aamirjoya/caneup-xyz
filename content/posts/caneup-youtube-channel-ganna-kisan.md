@@ -1,6 +1,6 @@
 ---
 title: "गन्ना किसानों के लिए YouTube चैनल — CaneUp पर वीडियो में देखें खेती के टिप्स"
-date: 2026-08-07 22:30:00+05:30
+date: 2026-07-04 08:10:00+05:30
 description: "CaneUp YouTube चैनल — गन्ना किसानों के लिए वीडियो गाइड। खेती के टिप्स, MSP रेट, सरकारी योजनाएं, eGanna App — सब वीडियो में।"
 categories:
 - CaneUp
@@ -91,3 +91,9 @@ image: "/images/blog/caneup-youtube-channel-ganna-kisan.webp"
 ## निष्कर्ष
 
 CaneUp YouTube चैनल **गन्ना किसानों के लिए सबसे अच्छा** है। वीडियो में खेती के टिप्स, MSP रेट, सरकारी योजनाएं — सब कुछ। **अभी सब्सक्राइब करें!**
+
+## 📖 यह भी पढ़ें
+
+- [CaneUp 2026 — गन्ना किसानों का #1 पोर्टल | पर्ची कैलेंडर, MSP रेट, eGanna App](/posts/caneup-keywords-target/)
+- [गन्ना किसान WhatsApp ग्रुप — रोज ताजा अपडेट पाएं, जुड़ें CaneUp से](/posts/ganna-kisan-whatsapp-group-caneup/)
+

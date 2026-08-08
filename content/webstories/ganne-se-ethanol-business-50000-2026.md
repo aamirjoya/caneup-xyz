@@ -1,6 +1,6 @@
 ---
 title: "गन्ने से एथेनॉल बिज़नेस — ₹50,000/महीना कमाओ"
-date: 2026-08-07
+date: 2026-07-03 08:05:00+05:30
 description: "गन्ने से एथेनॉल बनाकर कमाई। सरकार की एथेनॉल नीति 2026 — गन्ना किसानों के लिए नया मौका। CaneUp पर जानें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/sugarcane-harvest.webp"

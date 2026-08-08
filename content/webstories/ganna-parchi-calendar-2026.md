@@ -1,6 +1,6 @@
 ---
 title: "गन्ना पर्ची कैलेंडर 2026 — कैसे देखें अपनी पर्ची"
-date: 2026-07-31
+date: 2026-07-15 09:56:00+05:30
 description: "गन्ना पर्ची कैलेंडर 2026-27 ऑनलाइन कैसे देखें — CaneUp, eGanna App और upcane.gov.in तीनों तरीके जानें। सप्लाई टिकट, पर्ची डेट और शुगर मिल जानकारी घर बैठे चेक करें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/parchi-calendar.webp"

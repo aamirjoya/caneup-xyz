@@ -1,6 +1,6 @@
 ---
 title: "गन्ने में ड्रोन से छिड़काव — 10 गुना तेज, 50% सस्ता"
-date: 2026-08-07
+date: 2026-07-05 16:44:00+05:30
 description: "गन्ने की फसल में ड्रोन से छिड़काव का पूरा तरीका। अगस्त 2026 में ड्रोन टेक्नोलॉजी से गन्ना खेती आसान। CaneUp पर जानें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/drone-spraying.webp"

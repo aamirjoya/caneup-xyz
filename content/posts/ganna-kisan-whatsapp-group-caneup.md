@@ -1,6 +1,6 @@
 ---
 title: "गन्ना किसान WhatsApp ग्रुप — रोज ताजा अपडेट पाएं, जुड़ें CaneUp से"
-date: 2026-08-07 20:00:00+05:30
+date: 2026-07-01 09:15:00+05:30
 description: "गन्ना किसान WhatsApp ग्रुप — CaneUp से जुड़ें और रोज गन्ना पर्ची, भुगतान, MSP रेट, सरकारी योजनाओं की ताजा जानकारी पाएं।"
 categories:
 - CaneUp
@@ -97,3 +97,9 @@ image: "/images/blog/ganna-kisan-whatsapp-group-caneup.webp"
 ## निष्कर्ष
 
 CaneUp से जुड़ें और **रोज ताजा अपडेट** पाएं। WhatsApp ग्रुप और Telegram चैनल — दोनों में से कोई भी ज्वाइन करें। **गन्ना किसानों का सबसे बड़ा कम्युनिटी!**
+
+## 📖 यह भी पढ़ें
+
+- [CaneUp 2026 — गन्ना किसानों का #1 पोर्टल | पर्ची कैलेंडर, MSP रेट, eGanna App](/posts/caneup-keywords-target/)
+- [गन्ना किसानों के लिए YouTube चैनल — CaneUp पर वीडियो में देखें खेती के टिप्स](/posts/caneup-youtube-channel-ganna-kisan/)
+

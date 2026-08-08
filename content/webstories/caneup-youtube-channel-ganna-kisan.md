@@ -1,6 +1,6 @@
 ---
 title: "गन्ना किसानों के लिए YouTube चैनल — CaneUp पर वीडियो में देखें"
-date: 2026-08-07
+date: 2026-07-17 08:05:00+05:30
 description: "CaneUp YouTube चैनल — गन्ना किसानों के लिए वीडियो में खेती टिप्स, MSP रेट, सरकारी योजना। अभी सब्सक्राइब करें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/farmer-happy.webp"

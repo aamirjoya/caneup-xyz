@@ -1,6 +1,6 @@
 ---
 title: "गन्ने से गुड़ बनाने का बिज़नेस — लाखों की कमाई"
-date: 2026-07-20
+date: 2026-07-14 17:53:00+05:30
 description: "गन्ने से गुड़ बनाने का बिज़नेस 2026 — ₹5-10 लाख सालाना कमाई। PMFME योजना से 35% सब्सिडी, MUDRA लोन से ₹10 लाख तक। छोटी यूनिट लगाने का पूरा प्रोसेस CaneUp पर।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/jaggery-making.webp"

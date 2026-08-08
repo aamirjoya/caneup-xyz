@@ -1,6 +1,6 @@
 ---
 title: "किसान क्रेडिट कार्ड (KCC) 2026 — गन्ना किसानों को ₹3 लाख तक लोन, 4% ब्याज पर"
-date: 2026-08-06 13:30:00+05:30
+date: 2026-08-05 14:13:00+05:30
 description: "किसान क्रेडिट कार्ड (KCC) 2026 — गन्ना किसानों को ₹3 लाख तक लोन सिर्फ 4% ब्याज पर। आवेदन कैसे करें, जरूरी दस्तावेज, और KCC के फायदे।"
 categories:
 - Sarkari Yojana
@@ -212,3 +212,11 @@ image: /images/blog/kisan-credit-card-kcc-2026.webp
 - [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
 - [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
+
+## 📖 यह भी पढ़ें
+
+- [PM किसान योजना 2026 — गन्ना किसानों को ₹6,000 कैसे मिले](/posts/pm-kisan-ganna-kisan/)
+- [PM किसान सम्मान निधि 2026 — ₹6000 सीधे खाते में, ऐसे चेक करें स्टेटस](/posts/pm-kisan-samman-nidhi-2026/)
+- [गन्ना किसान क्रेडिट कार्ड 2026 — ₹3 लाख का लोन सिर्फ 4% ब्याज पर, ऐसे बनवाएं](/posts/kisan-credit-card-ganna-kisan-2026/)
+- [गन्ना किसानों के लिए SBI का नया लोन — ₹10 लाख तक, बिना गारंटी, 7% ब्याज](/posts/sbi-loan-ganna-kisan-2026-naya-plan/)
+
