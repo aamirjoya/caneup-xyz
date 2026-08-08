@@ -19,9 +19,9 @@ keywords:
 - crop insurance sugarcane India
 - गन्ना बीमा कैसे करें
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: "/images/blog/ganna-fasal-bima-2026-apply-online.webp"
 image: "/images/blog/ganna-fasal-bima-2026-apply-online.webp"
 ---

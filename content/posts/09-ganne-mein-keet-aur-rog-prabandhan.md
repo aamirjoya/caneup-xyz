@@ -19,9 +19,9 @@ keywords:
 - गन्ने में तना छेदक
 - गन्ने की बीमारियां
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 ---

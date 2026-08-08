@@ -19,9 +19,9 @@ keywords:
 - ganne ka juice bechkar kamai
 - ₹5000 per day juice business
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: "/images/blog/ganne-ka-juice-business-5000-per-day-2026.webp"
 image: "/images/blog/ganne-ka-juice-business-5000-per-day-2026.webp"
 ---

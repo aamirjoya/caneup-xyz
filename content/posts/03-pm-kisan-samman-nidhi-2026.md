@@ -19,9 +19,9 @@ keywords:
 - PM किसान रजिस्ट्रेशन
 - गन्ना किसान PM किसान
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/pm-kisan-samman-nidhi-2026.webp
 image: /images/blog/pm-kisan-samman-nidhi-2026.webp
 ---

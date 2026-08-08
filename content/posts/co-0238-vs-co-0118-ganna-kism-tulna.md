@@ -19,9 +19,9 @@ keywords:
 - Co-0238 या Co-0118 कौन सी अच्छी
 - गन्ना किस्म तुलना 2026
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
 image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
 ---

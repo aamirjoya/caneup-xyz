@@ -19,9 +19,9 @@ keywords:
 - गन्ने में weed management 2026
 - गन्ने में खरपतवार की दवा
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-kharpatwar-niyantran.webp
 image: /images/blog/ganne-mein-kharpatwar-niyantran.webp
 ---

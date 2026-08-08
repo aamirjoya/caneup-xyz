@@ -19,9 +19,9 @@ keywords:
 - गन्ना भुगतान ऐप
 - eGanna App update 2026
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/eganna-app-download-2026.webp
 image: /images/blog/eganna-app-download-2026.webp
 ---

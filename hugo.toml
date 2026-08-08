@@ -46,7 +46,7 @@ buildExpired = false
     "किसान क्रेडिट कार्ड",
     "गन्ना लोन"
   ]
-  author = "CaneUp Team"
+  author = "Randhir Patil"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true

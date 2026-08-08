@@ -19,9 +19,9 @@ keywords:
 - गन्ना अपडेट WhatsApp group
 - caneup telegram group
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: "/images/blog/ganna-kisan-whatsapp-group-caneup.webp"
 image: "/images/blog/ganna-kisan-whatsapp-group-caneup.webp"
 ---

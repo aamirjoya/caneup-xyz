@@ -19,9 +19,9 @@ keywords:
 - ganna kheti video tutorial
 - caneup youtube
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: "/images/blog/caneup-youtube-channel-ganna-kisan.webp"
 image: "/images/blog/caneup-youtube-channel-ganna-kisan.webp"
 ---

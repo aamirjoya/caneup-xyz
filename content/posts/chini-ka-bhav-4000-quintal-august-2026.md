@@ -19,9 +19,9 @@ keywords:
 - ganna kisan ke liye khushkhabri
 - sugar rate 2026 India
 ShowToc: true
-author: "CaneUp Team"
-author_name: "CaneUp Team"
-author_image: "/images/authors/caneup-team.jpg"
+author: "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.jpg"
 featured_image: "/images/blog/chini-ka-bhav-4000-quintal-august-2026.webp"
 image: "/images/blog/chini-ka-bhav-4000-quintal-august-2026.webp"
 ---
