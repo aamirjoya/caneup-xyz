@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/ganna-fasal-bima-2026-apply-online.webp"
+featured_image: /images/blog/ganna-fasal-bima-2026-apply-online.webp
 image: "/images/blog/ganna-fasal-bima-2026-apply-online.webp"
 ---
 

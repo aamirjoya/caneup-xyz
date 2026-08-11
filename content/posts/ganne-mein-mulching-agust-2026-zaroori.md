@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/ganne-mein-mulching-agust-2026-zaroori.webp"
+featured_image: /images/blog/ganne-mein-mulching-agust-2026-zaroori.webp
 image: "/images/blog/ganne-mein-mulching-agust-2026-zaroori.webp"
 ---
 

@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/up-sarkar-ne-3-milon-ka-license-suspend-kiya.webp"
+featured_image: /images/blog/up-sarkar-ne-3-milon-ka-license-suspend-kiya.webp
 image: "/images/blog/up-sarkar-ne-3-milon-ka-license-suspend-kiya.webp"
 ---
 

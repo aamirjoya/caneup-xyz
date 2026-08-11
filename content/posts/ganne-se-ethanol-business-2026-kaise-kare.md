@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/ganne-se-ethanol-business-2026-kaise-kare.webp"
+featured_image: /images/blog/ganne-se-ethanol-business-2026-kaise-kare.webp
 image: "/images/blog/ganne-se-ethanol-business-2026-kaise-kare.webp"
 ---
 

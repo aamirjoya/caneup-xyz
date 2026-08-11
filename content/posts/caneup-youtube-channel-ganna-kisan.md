@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/caneup-youtube-channel-ganna-kisan.webp"
+featured_image: /images/blog/caneup-youtube-channel-ganna-kisan.webp
 image: "/images/blog/caneup-youtube-channel-ganna-kisan.webp"
 ---
 

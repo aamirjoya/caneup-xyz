@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
+featured_image: /images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp
 image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
 ---
 

@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp"
+featured_image: /images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp
 image: "/images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp"
 ---
 

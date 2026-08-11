@@ -22,7 +22,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/ganne-ki-fasal-agust-2026-5-kaam.webp"
+featured_image: /images/blog/ganne-ki-fasal-agust-2026-5-kaam.webp
 image: "/images/blog/ganne-ki-fasal-agust-2026-5-kaam.webp"
 ---
 

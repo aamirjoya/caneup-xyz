@@ -23,7 +23,7 @@ ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: "/images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp"
+featured_image: /images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp
 image: "/images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp"
 ---
 
