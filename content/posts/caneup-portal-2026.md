@@ -14,6 +14,7 @@ tags:
 - caneup website
 - ganna kisan portal
 slug: caneup-portal-2026
+featured_image: /images/blog/ganna-parchi-calendar-kaise-dekhe.webp
 keywords:
 - "caneup"
 - "cane up"

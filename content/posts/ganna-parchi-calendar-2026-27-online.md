@@ -14,6 +14,7 @@ tags:
 - UP ganna parchi calendar
 - ganna parchi calendar caneup
 slug: ganna-parchi-calendar-2026-27-online
+featured_image: /images/blog/ganna-parchi-calendar-2025-26.webp
 keywords:
 - "ganna parchi calendar"
 - "गन्ना पर्ची कैलेंडर"

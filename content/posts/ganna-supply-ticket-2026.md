@@ -14,6 +14,7 @@ tags:
 - supply ticket caneup
 - ganna aapurti ticket
 slug: ganna-supply-ticket-2026
+featured_image: /images/blog/caneup-in-parchi-calendar.webp
 keywords:
 - "ganna supply ticket"
 - "गन्ना सप्लाई टिकट"

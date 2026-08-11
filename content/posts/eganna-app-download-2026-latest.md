@@ -14,6 +14,7 @@ tags:
 - ganna app download
 - eganna app install
 slug: eganna-app-download-2026-latest
+featured_image: /images/blog/eganna-app-download-2026.webp
 keywords:
 - "eganna app download"
 - "eGanna app"

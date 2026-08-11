@@ -14,6 +14,7 @@ tags:
 - cane up status check
 - cane up parchi
 slug: cane-up-enquiry-2026
+featured_image: /images/blog/caneup-in-parchi-calendar.webp
 keywords:
 - "cane up enquiry"
 - "caneup enquiry 2026"

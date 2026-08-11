@@ -14,6 +14,7 @@ tags:
 - caneup payment status
 - ganna paisa kab milega
 slug: ganna-bhugtan-status-2026-online
+featured_image: /images/blog/ganna-bhugtan-kab-milega-august-2026.webp
 keywords:
 - "ganna bhugtan status"
 - "गन्ना भुगतान स्थिति"
