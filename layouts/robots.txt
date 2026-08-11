@@ -7,9 +7,8 @@ Sitemap: https://caneup.xyz/sitemap.xml
 # Crawl-delay
 Crawl-delay: 1
 
-# Disallow admin/utility pages
+# Disallow tag pages (empty/low quality)
 Disallow: /tags/
-Disallow: /categories/
 
 # Googlebot
 User-agent: Googlebot

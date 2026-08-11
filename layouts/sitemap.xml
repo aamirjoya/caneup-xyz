@@ -1,13 +1,15 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{ range .Data.Pages }}
-    {{ if or (eq .Section "posts") (eq .Section "webstories") (eq .Permalink .Site.BaseURL) }}
+    {{ if or (eq .Section "posts") (eq .Section "webstories") (eq .Section "categories") (eq .Permalink .Site.BaseURL) }}
+      {{ if ne .Section "tags" }}
   <url>
     <loc>{{ .Permalink }}</loc>
     <lastmod>{{ .Date.Format "2006-01-02" }}</lastmod>
     <changefreq>{{ .Sitemap.ChangeFreq | default "daily" }}</changefreq>
     <priority>{{ .Sitemap.Priority | default "0.7" }}</priority>
   </url>
+      {{ end }}
     {{ end }}
   {{ end }}
 </urlset>
