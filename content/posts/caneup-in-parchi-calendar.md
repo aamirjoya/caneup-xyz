@@ -215,6 +215,12 @@ image: /images/blog/caneup-in-parchi-calendar.webp
 
 ---
 
+
+### 📚 संबंधित आर्टिकल्स
+
+- [eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी](/posts/eganna-app-download/)
+
+
 ## CaneUp Enquiry — अक्सर पूछे जाने वाले सवाल
 
 ### प्रश्न 1: CaneUp Enquiry क्या है?

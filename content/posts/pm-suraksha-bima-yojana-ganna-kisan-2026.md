@@ -151,6 +151,14 @@ image: "/images/blog/pm-suraksha-bima-yojana-ganna-kisan-2026.webp"
 - Regional Rural Banks
 - India Post Payments Bank
 
+
+### 📚 संबंधित आर्टिकल्स
+
+- [PM किसान सम्मान निधि 2026 — ₹6000 सीधे खाते में, ऐसे चेक करें स्टेटस](/posts/pm-kisan-samman-nidhi-2026/)
+- [किसान क्रेडिट कार्ड (KCC) 2026 — गन्ना किसानों को ₹3 लाख तक लोन, 4% ब्याज पर](/posts/kisan-credit-card-kcc-2026/)
+- [गन्ना फसल बीमा 2026 — ₹500 में ₹50,000 तक का बीमा, ऐसे करें आवेदन](/posts/ganna-fasal-bima-2026-apply-online/)
+
+
 ## अक्सर पूछे जाने वाले सवाल
 
 ### Q: ₹20/साल कैसे कटते हैं?

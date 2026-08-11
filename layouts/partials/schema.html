@@ -42,6 +42,51 @@
 }
 </script>
 
+<!-- FAQPage Schema - Auto from FAQ content -->
+{{ $content := .Content }}
+{{ if in $content "faq" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ $lines := split $content "\n" }}
+    {{ $qs := slice }}
+    {{ $as := slice }}
+    {{ $currentQ := "" }}
+    {{ $currentA := "" }}
+    {{ range $lines }}
+      {{ if or (hasPrefix . "### प्रश्न") (hasPrefix . "### Q") (hasPrefix . "### सवाल") }}
+        {{ if ne $currentQ "" }}
+          {{ $qs = append $qs $currentQ }}
+          {{ $as = append $as $currentA }}
+        {{ end }}
+        {{ $currentQ = . }}
+        {{ $currentA = "" }}
+      {{ else if ne $currentQ "" }}
+        {{ $currentA = printf "%s %s" $currentA . }}
+      {{ end }}
+    {{ end }}
+    {{ if ne $currentQ "" }}
+      {{ $qs = append $qs $currentQ }}
+      {{ $as = append $as $currentA }}
+    {{ end }}
+    {{ range $i, $q := $qs }}
+      {{ if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ $q | replaceRE "### प्रश्न \\d+: " "" | replaceRE "### Q\\d+: " "" | replaceRE "### सवाल: " "" | replaceRE "### " "" }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ index $as $i | replaceRE "\\*\\*उत्तर:?\\*\\*\\s*" "" | replaceRE "\\*\\*Answer:?\\*\\*\\s*" "" | replaceRE "<[^>]*>" "" | truncate 500 }}"
+        }
+      }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
 <!-- Breadcrumb Schema -->
 <script type="application/ld+json">
 {

@@ -145,3 +145,10 @@ image: "/images/blog/ganna-bhugtan-2026-bakaya-list.webp"
 - [गन्ना किसानों के लिए बड़ा फैसला — UP सरकार ने 3 मिलों का लाइसेंस सस्पेंड किया](/posts/up-sarkar-ne-3-milon-ka-license-suspend-kiya/)
 - [गन्ना किसानों के लिए बड़ी खबर — अगस्त 2026 में चीनी का भाव ₹4,000/क्विंटल पार](/posts/chini-ka-bhav-4000-quintal-august-2026/)
 
+
+
+### 📚 संबंधित आर्टिकल्स
+
+- [गन्ना किसानों के लिए बड़ी खबर — अगस्त 2026 में चीनी का भाव ₹4,000/क्विंटल पार](/posts/chini-ka-bhav-4000-quintal-august-2026/)
+- [गन्ना किसानों के लिए बड़ा फैसला — UP सरकार ने 3 मिलों का लाइसेंस सस्पेंड किया](/posts/up-sarkar-ne-3-milon-ka-license-suspend-kiya/)
+
