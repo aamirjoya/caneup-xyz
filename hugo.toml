@@ -1,8 +1,7 @@
 baseURL = "https://caneup.xyz/"
 languageCode = "hi-in"
 defaultContentLanguage = "hi"
-title = "गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति | CaneUp"
-# theme = "PaperMod"  # Removed for ultra-fast redesign
+title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
 pagination.pagerSize = 20
 enableRobotsTXT = true
 buildDrafts = false
@@ -11,13 +10,20 @@ buildExpired = false
 
 [params]
   env = "production"
-  title = "गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति | CaneUp"
+  title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
   description = "CaneUp — गन्ना किसानों का #1 पोर्टल। गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट, गन्ना खेती गाइड, सरकारी योजनाएं, KCC लोन — सब एक जगह।"
   keywords = [
     "caneup",
-    "caneup.xyz",
+    "cane up",
+    "cane up.in",
     "caneup.in",
-    "caneup enquiry",
+    "caneup portal",
+    "caneup xyz",
+    "caneup website",
+    "cane up enquiry",
+    "cane up payment",
+    "cane up parchi calendar",
+    "cane up supply ticket",
     "e ganna app",
     "eganna app",
     "eGANNA CANE UP",
@@ -29,11 +35,14 @@ buildExpired = false
     "गन्ना पर्ची कैलेंडर 2025-26",
     "गन्ना भुगतान स्थिति",
     "ganna payment status",
+    "ganna bhugtan status",
     "सप्लाई टिकट",
     "supply ticket",
+    "ganna supply ticket",
     "गन्ना MSP रेट 2026",
     "ganna MSP rate",
     "FRP रेट",
+    "SAP रेट",
     "गन्ना किसान",
     "sugarcane farmer",
     "शुगर मिल लिस्ट",
@@ -44,7 +53,17 @@ buildExpired = false
     "गन्ना सब्सिडी",
     "PM किसान योजना",
     "किसान क्रेडिट कार्ड",
-    "गन्ना लोन"
+    "गन्ना लोन",
+    "ganna parchi calendar online",
+    "ganna parchi kaise dekhe",
+    "गन्ना पर्ची कैलेंडर ऑनलाइन",
+    "caneup enquiry",
+    "cane up enquiry online",
+    "ganna bhugtan online",
+    "गन्ना भुगतान ऑनलाइन",
+    "eganna app 2026",
+    "cane up app",
+    "ganna app download"
   ]
   author = "Randhir Patil"
   defaultTheme = "auto"
@@ -67,8 +86,8 @@ buildExpired = false
     disableFingerprinting = true
 
   [params.homeInfoParams]
-    Title = "🌾 गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति | CaneUp"
-    Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 63+ आर्टिकल्स।"
+    Title = "🌾 CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
+    Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 87+ आर्टिकल्स।"
 
   [[params.socialIcons]]
     name = "youtube"
