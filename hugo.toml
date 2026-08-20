@@ -1,0 +1,205 @@
+baseURL = "https://caneup.xyz/"
+languageCode = "hi-in"
+defaultContentLanguage = "hi"
+title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
+pagination.pagerSize = 20
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = true
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
+  description = "CaneUp — गन्ना किसानों का #1 पोर्टल। गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट, गन्ना खेती गाइड, सरकारी योजनाएं, KCC लोन — सब एक जगह।"
+  keywords = [
+    "caneup",
+    "cane up",
+    "cane up.in",
+    "caneup.in",
+    "caneup portal",
+    "caneup xyz",
+    "caneup website",
+    "cane up enquiry",
+    "cane up payment",
+    "cane up parchi calendar",
+    "cane up supply ticket",
+    "e ganna app",
+    "eganna app",
+    "eGANNA CANE UP",
+    "eganna app download",
+    "गन्ना पर्ची कैलेंडर",
+    "ganna parchi calendar",
+    "गन्ना पर्ची कैलेंडर कैसे देखें",
+    "ganna parchi calendar 2026-27",
+    "गन्ना पर्ची कैलेंडर 2025-26",
+    "गन्ना भुगतान स्थिति",
+    "ganna payment status",
+    "ganna bhugtan status",
+    "सप्लाई टिकट",
+    "supply ticket",
+    "ganna supply ticket",
+    "गन्ना MSP रेट 2026",
+    "ganna MSP rate",
+    "FRP रेट",
+    "SAP रेट",
+    "गन्ना किसान",
+    "sugarcane farmer",
+    "शुगर मिल लिस्ट",
+    "UP sugar mill",
+    "upcane.gov.in",
+    "sugarcane farming India",
+    "गन्ना खेती",
+    "गन्ना सब्सिडी",
+    "PM किसान योजना",
+    "किसान क्रेडिट कार्ड",
+    "गन्ना लोन",
+    "ganna parchi calendar online",
+    "ganna parchi kaise dekhe",
+    "गन्ना पर्ची कैलेंडर ऑनलाइन",
+    "caneup enquiry",
+    "cane up enquiry online",
+    "ganna bhugtan online",
+    "गन्ना भुगतान ऑनलाइन",
+    "eganna app 2026",
+    "cane up app",
+    "ganna app download"
+  ]
+  author = "Randhir Patil"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = true
+
+  [params.assets]
+    disableFingerprinting = true
+
+  [params.homeInfoParams]
+    Title = "🌾 CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
+    Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 87+ आर्टिकल्स।"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@caneup"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/caneupxyz"
+
+  [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/caneup"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  page = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "🏠 होम"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "parchi"
+    name = "📋 पर्ची कैलेंडर"
+    url = "/categories/parchi-calendar/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "kheti"
+    name = "🌾 गन्ना खेती"
+    url = "/categories/ganna-kheti/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "yojana"
+    name = "🏛️ सरकारी योजनाएं"
+    url = "/categories/sarkari-yojana/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "msp"
+    name = "💰 MSP रेट"
+    url = "/categories/msp-rate/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "business-cat"
+    name = "💼 बिजनेस"
+    url = "/categories/business/"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "webstories"
+    name = "📰 वेब स्टोरीज"
+    url = "/webstories/"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "tools"
+    name = "🔧 टूल्स"
+    url = "/tools/"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "about"
+    name = "ℹ️ हमारे बारे में"
+    url = "/about/"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "📞 संपर्क"
+    url = "/contact/"
+    weight = 9
+
+  [[menu.main]]
+    identifier = "privacy"
+    name = "🔒 प्राइवेसी"
+    url = "/privacy-policy/"
+    weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.7
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableSVG = false
+
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+    [minify.tdewolff.json]
+      keepNumbers = true
+    [minify.tdewolff.svg]
+      keepComments = false

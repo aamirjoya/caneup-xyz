@@ -1,0 +1,31 @@
+<!-- Google Analytics - Deferred for performance -->
+<script>
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-C81ZDJ296Z';
+    script.async = true;
+    document.head.appendChild(script);
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-C81ZDJ296Z', {
+      'anonymize_ip': true,
+      'cookie_flags': 'SameSite=None;Secure'
+    });
+  });
+</script>
+
+<!-- Security Headers Meta -->
+<meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+<meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=()">
+
+{{ if .IsPage }}
+<meta name="author" content="{{ .Params.author_name | default `Randhir Patil` }}">
+<meta name="article:publisher" content="https://caneup.xyz/">
+{{ end }}
+
+{{ if .IsPage }}
+{{ with .Params.featured_image }}
+<link rel="preload" as="image" href="{{ . | absURL }}" fetchpriority="high">
+{{ end }}
+{{ end }}

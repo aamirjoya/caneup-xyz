@@ -1,0 +1,75 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Disallow: /page/
+Disallow: /*.json$
+Disallow: /search?
+
+Sitemap: https://caneup.xyz/sitemap.xml
+Crawl-delay: 1
+
+User-agent: Googlebot
+Allow: /
+Allow: /images/
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /images/
+Crawl-delay: 0
+
+User-agent: Googlebot-News
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /llms.txt
+
+User-agent: CCBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: anthropic-ai
+Allow: /
+Allow: /llms.txt
+
+User-agent: Claude-Web
+Allow: /
+Allow: /llms.txt
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: YouBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: Bytespider
+Allow: /
+Crawl-delay: 2
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

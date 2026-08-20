@@ -1,0 +1,80 @@
+{{ define "main" }}
+<meta name="robots" content="noindex, nofollow">
+
+<style>
+  .error-page{min-height:70vh;display:flex;align-items:center;justify-content:center;padding:40px 20px;background:linear-gradient(135deg,#f0fdf4,#dcfce7)}
+  .error-container{max-width:700px;text-align:center}
+  .error-icon{font-size:100px;margin-bottom:10px;line-height:1}
+  .error-code{font-size:80px;font-weight:800;color:#15803d;line-height:1;margin-bottom:10px}
+  .error-title{font-size:28px;font-weight:700;color:#111;margin-bottom:12px}
+  .error-desc{font-size:16px;color:#6b7280;margin-bottom:30px;line-height:1.6}
+  .error-search{display:flex;max-width:450px;margin:0 auto 30px;gap:8px}
+  .error-search input{flex:1;padding:12px 16px;border:2px solid #e5e7eb;border-radius:8px;font-size:14px;outline:none;transition:border .2s}
+  .error-search input:focus{border-color:#15803d}
+  .error-search button{background:#15803d;color:#fff;border:none;padding:12px 20px;border-radius:8px;font-weight:600;font-size:14px;cursor:pointer}
+  .error-search button:hover{background:#166534}
+  .error-links-title{font-size:18px;font-weight:600;color:#111;margin-bottom:16px}
+  .error-links{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;max-width:500px;margin:0 auto 30px}
+  .error-link{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:16px;text-decoration:none;transition:all .2s;display:flex;align-items:center;gap:12px}
+  .error-link:hover{border-color:#15803d;box-shadow:0 4px 12px rgba(21,128,61,.15);transform:translateY(-2px)}
+  .error-link-icon{width:40px;height:40px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
+  .error-link-icon-1{background:#dcfce7}.error-link-icon-2{background:#fef3c7}.error-link-icon-3{background:#dbeafe}.error-link-icon-4{background:#fce7f3}
+  .error-link-text h3{font-size:14px;font-weight:600;color:#111;margin-bottom:2px}
+  .error-link-text p{font-size:11px;color:#9ca3af;margin:0}
+  .error-home-btn{display:inline-block;background:linear-gradient(135deg,#052e16,#15803d);color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-weight:600;font-size:15px;transition:transform .2s}
+  .error-home-btn:hover{transform:translateY(-2px)}
+  @media(max-width:768px){.error-code{font-size:60px}.error-icon{font-size:70px}.error-title{font-size:22px}.error-links{grid-template-columns:1fr}.error-search{flex-direction:column}}
+</style>
+
+<section class="error-page">
+  <div class="error-container">
+    <div class="error-icon">🔍</div>
+    <div class="error-code">404</div>
+    <h1 class="error-title">पेज नहीं मिला</h1>
+    <p class="error-desc">
+      आप जो पेज ढूंढ रहे हैं वो मौजूद नहीं है या हटा दिया गया है।<br>
+      नीचे दिए गए लिंक्स से सही जानकारी पाएं।
+    </p>
+
+    <form class="error-search" action="/search/" method="get">
+      <input type="text" name="q" placeholder="पर्ची कैलेंडर, MSP रेट, गन्ना खेती...">
+      <button type="submit">खोजें</button>
+    </form>
+
+    <p class="error-links-title">लोकप्रिय पेज</p>
+    <div class="error-links">
+      <a href="/categories/parchi-calendar/" class="error-link">
+        <div class="error-link-icon error-link-icon-1">📋</div>
+        <div class="error-link-text">
+          <h3>पर्ची कैलेंडर</h3>
+          <p>गन्ना पर्ची चेक करें</p>
+        </div>
+      </a>
+      <a href="/categories/msp-rate/" class="error-link">
+        <div class="error-link-icon error-link-icon-2">💰</div>
+        <div class="error-link-text">
+          <h3>MSP रेट 2026</h3>
+          <p>गन्ना मूल्य जानें</p>
+        </div>
+      </a>
+      <a href="/categories/ganna-kheti/" class="error-link">
+        <div class="error-link-icon error-link-icon-3">🌾</div>
+        <div class="error-link-text">
+          <h3>गन्ना खेती गाइड</h3>
+          <p>खेती टिप्स</p>
+        </div>
+      </a>
+      <a href="/categories/sarkari-yojana/" class="error-link">
+        <div class="error-link-icon error-link-icon-4">🏛️</div>
+        <div class="error-link-text">
+          <h3>सरकारी योजनाएं</h3>
+          <p>PM किसान, KCC</p>
+        </div>
+      </a>
+    </div>
+
+    <a href="/" class="error-home-btn">← होम पेज पर जाएं</a>
+  </div>
+</section>
+
+{{ end }}

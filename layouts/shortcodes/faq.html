@@ -1,0 +1,11 @@
+{{ $question := .Get 0 }}
+<details style="border:1px solid #e2e8f0;border-radius:10px;padding:0;margin:1rem 0;background:#fff;overflow:hidden;" itemscope itemtype="https://schema.org/FAQPage">
+  <summary style="font-weight:600;font-size:1.05rem;padding:1rem 1.25rem;cursor:pointer;list-style:none;display:flex;align-items:center;gap:.5rem;background:#f8fafc;transition:background .2s;" onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='#f8fafc'" itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+    <span style="color:#6366f1;font-size:1.2rem;">❓</span>
+    <span itemprop="name">{{ $question }}</span>
+    <span style="margin-left:auto;color:#94a3b8;font-size:.85rem;transition:transform .2s;">▼</span>
+  </summary>
+  <div style="padding:1rem 1.25rem;line-height:1.75;color:#334155;border-top:1px solid #f1f5f9;" itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+    <div itemprop="text">{{ .Inner | markdownify }}</div>
+  </div>
+</details>

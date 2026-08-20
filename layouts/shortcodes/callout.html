@@ -1,0 +1,27 @@
+{{ $type := .Get "type" | default "info" }}
+{{ $icon := "ℹ️" }}
+{{ $bg := "#eff6ff" }}
+{{ $border := "#3b82f6" }}
+{{ $text := "#1e40af" }}
+
+{{ if eq $type "tip" }}
+  {{ $icon = "💡" }}
+  {{ $bg = "#f0fdf4" }}
+  {{ $border = "#22c55e" }}
+  {{ $text = "#166534" }}
+{{ else if eq $type "warning" }}
+  {{ $icon = "⚠️" }}
+  {{ $bg = "#fffbeb" }}
+  {{ $border = "#f59e0b" }}
+  {{ $text = "#92400e" }}
+{{ else if eq $type "danger" }}
+  {{ $icon = "🚫" }}
+  {{ $bg = "#fef2f2" }}
+  {{ $border = "#ef4444" }}
+  {{ $text = "#991b1b" }}
+{{ end }}
+
+<div style="background:{{ $bg }};border-left:4px solid {{ $border }};border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;color:{{ $text }};">
+  <span style="font-size:1.1rem;font-weight:700;display:block;margin-bottom:.5rem;">{{ $icon }} {{ $type | title }}</span>
+  <div style="line-height:1.7;">{{ .Inner | markdownify }}</div>
+</div>

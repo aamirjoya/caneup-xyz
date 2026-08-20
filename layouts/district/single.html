@@ -1,0 +1,48 @@
+{{ define "main" }}
+<article class="district-page">
+  <header class="district-header">
+    <div class="district-hero">
+      <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" width="1200" height="630" loading="eager">
+    </div>
+    <h1>{{ .Title }}</h1>
+    <div class="district-meta">
+      <span>📅 {{ .Date.Format "2 Jan 2006" }}</span>
+      <span>📍 {{ .Params.district }}</span>
+    </div>
+  </header>
+
+  <div class="district-content">
+    {{ .Content }}
+  </div>
+
+  {{/* Related Districts */}}
+  <section class="related-districts">
+    <h2>🗺️ पास के जिले</h2>
+    <div class="district-grid">
+      {{ range first 6 (where .Site.RegularPages "Section" "district") }}
+        {{ if ne .Permalink $.Permalink }}
+        <a href="{{ .Permalink }}" class="district-card">
+          <span class="district-name">{{ .Title | truncate 30 }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+</article>
+
+<style>
+.district-page { max-width: 900px; margin: 0 auto; }
+.district-header { text-align: center; margin-bottom: 2rem; }
+.district-hero img { width: 100%; height: auto; border-radius: 12px; }
+.district-meta { display: flex; gap: 1rem; justify-content: center; color: #666; font-size: 0.9rem; }
+.district-content { line-height: 1.8; }
+.district-content h2 { color: #2d6a4f; margin-top: 2rem; }
+.district-content table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+.district-content th, .district-content td { padding: 0.5rem; border: 1px solid #ddd; text-align: left; }
+.district-content th { background: #f0f7f0; }
+.related-districts { margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #e8f5e9; }
+.district-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1rem; }
+.district-card { padding: 1rem; background: #f8f9fa; border-radius: 8px; text-align: center; text-decoration: none; color: #2d6a4f; font-weight: 600; }
+.district-card:hover { background: #e8f5e9; }
+</style>
+{{ end }}

@@ -1,0 +1,32 @@
+{
+  "name": "CaneUp — गन्ना किसान पोर्टल",
+  "short_name": "CaneUp",
+  "description": "गन्ना पर्ची कैलेंडर, eGanna App, गन्ना भुगतान स्थिति, MSP/FRP रेट, सरकारी योजनाएं",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "orientation": "portrait",
+  "lang": "hi-IN",
+  "dir": "ltr",
+  "categories": ["news", "agriculture", "education"],
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

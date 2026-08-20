@@ -1,0 +1,24 @@
+# Hugo
+public/
+resources/_gen/
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Hugo binary
+hugo
+hugo.tar.gz
+skills/
+
+# Node.js
+node_modules/
+package-lock.json
+.openclaw/

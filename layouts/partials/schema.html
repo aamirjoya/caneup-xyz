@@ -1,0 +1,279 @@
+{{ if .IsPage }}
+<!-- Article Schema with Speakable for AEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author_name | default .Params.author | default "Randhir Patil" }}",
+    "url": "https://caneup.xyz/authors/randhir-patil/",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ .Params.author_image | default "https://caneup.xyz/images/authors/randhir-patil.jpg" }}"
+    },
+    "jobTitle": "Sugarcane Industry Expert",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "ChiniMandi"
+    },
+    "sameAs": [
+      "https://www.chinimandi.com/author/randhir-patil/"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaneUp",
+    "url": "https://caneup.xyz/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://caneup.xyz/images/logo.png",
+      "width": 1200,
+      "height": 630
+    },
+    "sameAs": [
+      "https://youtube.com/@caneup",
+      "https://twitter.com/caneupxyz",
+      "https://t.me/caneup"
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "keywords": [{{ range $i, $k := .Params.keywords }}{{ if $i }}, {{ end }}"{{ $k }}"{{ end }}],
+  "articleSection": "{{ .Section }}",
+  "wordCount": {{ .WordCount }},
+  "inLanguage": "hi-IN",
+  "isAccessibleForFree": true,
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".art-title", ".art-body p:first-of-type", ".upd-box"]
+  }
+}
+</script>
+
+<!-- FAQPage Schema - Auto from FAQ content -->
+{{ $content := .Content }}
+{{ if in $content "faq" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ $lines := split $content "\n" }}
+    {{ $qs := slice }}
+    {{ $as := slice }}
+    {{ $currentQ := "" }}
+    {{ $currentA := "" }}
+    {{ range $lines }}
+      {{ if or (hasPrefix . "### प्रश्न") (hasPrefix . "### Q") (hasPrefix . "### सवाल") }}
+        {{ if ne $currentQ "" }}
+          {{ $qs = append $qs $currentQ }}
+          {{ $as = append $as $currentA }}
+        {{ end }}
+        {{ $currentQ = . }}
+        {{ $currentA = "" }}
+      {{ else if ne $currentQ "" }}
+        {{ $currentA = printf "%s %s" $currentA . }}
+      {{ end }}
+    {{ end }}
+    {{ if ne $currentQ "" }}
+      {{ $qs = append $qs $currentQ }}
+      {{ $as = append $as $currentA }}
+    {{ end }}
+    {{ range $i, $q := $qs }}
+      {{ if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ $q | replaceRE "### प्रश्न \\d+: " "" | replaceRE "### Q\\d+: " "" | replaceRE "### सवाल: " "" | replaceRE "### " "" }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ index $as $i | replaceRE "\\*\\*उत्तर:?\\*\\*\\s*" "" | replaceRE "\\*\\*Answer:?\\*\\*\\s*" "" | replaceRE "<[^>]*>" "" | truncate 500 }}"
+        }
+      }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "होम",
+      "item": "https://caneup.xyz/"
+    }
+    {{ if .Section }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ if eq .Section "posts" }}आर्टिकल्स{{ else }}{{ .Section | title }}{{ end }}",
+      "item": "https://caneup.xyz/{{ .Section }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title | truncate 60 }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+<!-- WebPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "hi-IN",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "CaneUp",
+    "url": "https://caneup.xyz/"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "गन्ना किसान"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"
+}
+</script>
+
+{{ else }}
+<!-- WebSite Schema with SearchAction -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CaneUp — गन्ना किसान पोर्टल",
+  "alternateName": ["CaneUp", "Cane Up", "caneup.xyz", "caneup.in"],
+  "url": "https://caneup.xyz/",
+  "description": "गन्ना पर्ची कैलेंडर, eGanna App, गन्ना भुगतान स्थिति, MSP/FRP रेट, सरकारी योजनाएं",
+  "inLanguage": "hi-IN",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://caneup.xyz/search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CaneUp",
+    "url": "https://caneup.xyz/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://caneup.xyz/images/logo.png",
+      "width": 1200,
+      "height": 630
+    },
+    "sameAs": [
+      "https://youtube.com/@caneup",
+      "https://twitter.com/caneupxyz",
+      "https://t.me/caneup"
+    ]
+  }
+}
+</script>
+
+<!-- Organization Schema with E-E-A-T signals -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CaneUp",
+  "url": "https://caneup.xyz/",
+  "logo": "https://caneup.xyz/images/logo.png",
+  "description": "गन्ना किसानों का #1 पोर्टल — पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं",
+  "foundingDate": "2024",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "email": "info@caneup.xyz",
+    "availableLanguage": ["Hindi", "English"]
+  },
+  "sameAs": [
+    "https://youtube.com/@caneup",
+    "https://twitter.com/caneupxyz",
+    "https://t.me/caneup"
+  ]
+}
+</script>
+
+<!-- SiteNavigationElement Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SiteNavigationElement",
+  "name": ["होम", "पर्ची कैलेंडर", "गन्ना खेती", "सरकारी योजनाएं", "MSP रेट", "बिजनेस", "वेब स्टोरीज"],
+  "url": [
+    "https://caneup.xyz/",
+    "https://caneup.xyz/categories/parchi-calendar/",
+    "https://caneup.xyz/categories/ganna-kheti/",
+    "https://caneup.xyz/categories/sarkari-yojana/",
+    "https://caneup.xyz/categories/msp-rate/",
+    "https://caneup.xyz/categories/business/",
+    "https://caneup.xyz/webstories/"
+  ]
+}
+</script>
+
+{{ if .IsSection }}
+<!-- Breadcrumb Schema for Section -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "होम",
+      "item": "https://caneup.xyz/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+
+<!-- CollectionPage Schema for Sections -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Site.Params.description }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "hi-IN",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "CaneUp",
+    "url": "https://caneup.xyz/"
+  }
+}
+</script>
+{{ end }}
+{{ end }}

@@ -1,0 +1,13 @@
+{
+  "name": "caneup-xyz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify",
+    "dev": "hugo server"
+  },
+  "dependencies": {
+    "@heyputer/puter.js": "^2.5.4",
+    "sharp": "^0.35.3"
+  }
+}

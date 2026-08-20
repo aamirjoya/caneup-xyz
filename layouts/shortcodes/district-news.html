@@ -1,0 +1,105 @@
+{{/*
+  District News Shortcode
+  Usage: {{< district-news district="bijnor" >}}
+  
+  Shows latest 5 news articles for the specified district
+  Sorted by date (newest first)
+  
+  Data source: content/news/{district}/ section
+*/}}
+
+{{ $district := .Get "district" }}
+{{ $newsPath := printf "news/%s" $district }}
+{{ $newsPages := where .Site.RegularPages "Section" "news" }}
+{{ $districtNews := where $newsPages "Params.district" $district }}
+{{ $sortedNews := $districtNews.ByDate.Reverse }}
+
+{{ if $sortedNews }}
+<div class="district-news-section">
+  <div class="news-list">
+    {{ range first 5 $sortedNews }}
+    <article class="news-card">
+      <div class="news-meta">
+        <span class="news-date">📅 {{ .Date.Format "2 Jan 2006" }}</span>
+        <span class="news-category">📰 {{ with .Params.categories }}{{ index . 0 }}{{ end }}</span>
+      </div>
+      <h3 class="news-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h3>
+      <p class="news-excerpt">{{ .Description | truncate 150 }}</p>
+      <a href="{{ .Permalink }}" class="news-read-more">पूरी खबर पढ़ें →</a>
+    </article>
+    {{ end }}
+  </div>
+  
+  <div class="news-archive-link">
+    <a href="/news/{{ $district }}/">📰 {{ $district }} की सभी खबरें देखें →</a>
+  </div>
+</div>
+
+<style>
+.district-news-section {
+  margin: 1.5rem 0;
+}
+.news-card {
+  background: #f8f9fa;
+  border-left: 4px solid #2d6a4f;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  border-radius: 0 8px 8px 0;
+  transition: transform 0.2s;
+}
+.news-card:hover {
+  transform: translateX(5px);
+}
+.news-meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+.news-title {
+  margin: 0.3rem 0;
+  font-size: 1.1rem;
+}
+.news-title a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+.news-title a:hover {
+  color: #2d6a4f;
+}
+.news-excerpt {
+  color: #555;
+  font-size: 0.95rem;
+  margin: 0.5rem 0;
+}
+.news-read-more {
+  color: #2d6a4f;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+.news-read-more:hover {
+  text-decoration: underline;
+}
+.news-archive-link {
+  text-align: center;
+  margin-top: 1rem;
+  padding: 0.8rem;
+  background: #e8f5e9;
+  border-radius: 8px;
+}
+.news-archive-link a {
+  color: #2d6a4f;
+  font-weight: 600;
+  text-decoration: none;
+}
+</style>
+{{ else }}
+<div class="district-news-empty">
+  <p>📰 <strong>{{ $district }}</strong> की ताज़ा खबरें जल्दी ही यहां दिखाई देंगी। CaneUp से जुड़े रहें!</p>
+  <p><a href="/news/">📰 सभी खबरें देखें →</a></p>
+</div>
+{{ end }}

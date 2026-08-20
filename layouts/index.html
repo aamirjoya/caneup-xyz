@@ -1,0 +1,386 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <h1>🌾 CaneUp —गन्ना पर्ची कैलेंडर 2026-27 | eGanna App |गन्ना भुगतान स्थिति</h1>
+      <p>CaneUp पर गन्ना पर्ची कैलेंडर, eGanna App Download,गन्ना भुगतान स्थिति, MSP/FRP रेट, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह।</p>
+      <div class="hero-btns">
+        <a href="/categories/parchi-calendar/" class="btn-h btn-h-gold">📋 पर्ची कैलेंडर</a>
+        <a href="/categories/msp-rate/" class="btn-h btn-h-green">💰 MSP रेट 2026</a>
+        <a href="/webstories/" class="btn-h btn-h-outline">📰 वेब स्टोरीज</a>
+      </div>
+      <div class="hero-stats">
+        <div class="h-stat"><b>87+</b><small>आर्टिकल्स</small></div>
+        <div class="h-stat"><b>15</b><small>वेब स्टोरीज</small></div>
+        <div class="h-stat"><b>₹370</b><small>SAP/क्विंटल</small></div>
+        <div class="h-stat"><b>50L+</b><small>किसान</small></div>
+      </div>
+    </div>
+    <div style="padding:40px;display:flex;align-items:center;justify-content:center;">
+      <div style="background:#fff;border-radius:16px;width:100%;max-width:380px;box-shadow:0 16px 48px rgba(0,0,0,.25);overflow:hidden;">
+        <div style="background:linear-gradient(135deg,#052e16,#15803d);color:#fff;padding:18px 22px;text-align:center;">
+          <h3 style="font-size:17px;font-weight:700;margin-bottom:3px;">📱 eGanna App Download</h3>
+          <p style="font-size:11px;opacity:.85;">गन्ना पर्ची कैलेंडर चेक करें</p>
+        </div>
+        <div style="padding:20px 22px;text-align:center;">
+          <p style="font-size:14px;color:#374151;margin-bottom:16px;line-height:1.6;">अपना गन्ना पर्ची कैलेंडर, भुगतान स्थिति और सप्लाई टिकट ऑनलाइन देखें</p>
+          <a href="/categories/parchi-calendar/" style="display:block;background:linear-gradient(135deg,#f59e0b,#d97706);color:#111;padding:12px;border-radius:8px;font-size:15px;font-weight:700;text-decoration:none;transition:transform .2s;">📋 पर्ची कैलेंडर देखें →</a>
+          <p style="text-align:center;font-size:10px;color:#9ca3af;margin-top:10px;">🔒 कोई रजिस्ट्रेशन जरूरी नहीं</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats -->
+<div class="stats-bar">
+  <div class="stats-grid">
+    <div class="st"><b>87+</b><small>आर्टिकल्स</small></div>
+    <div class="st"><b>15</b><small>वेब स्टोरीज</small></div>
+    <div class="st"><b>₹370</b><small>गन्ना SAP/क्विंटल</small></div>
+    <div class="st"><b>119</b><small>शुगर मिलें</small></div>
+  </div>
+</div>
+
+<!-- Web Stories -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>📰 वेब स्टोरीज</h2>
+    <a href="/webstories/">सभी स्टोरीज देखें →</a>
+  </div>
+  <div style="display:flex;gap:14px;overflow-x:auto;padding-bottom:10px;-webkit-overflow-scrolling:touch;scrollbar-width:none;">
+    {{ range first 6 (where .Site.RegularPages "Section" "webstories") }}
+    <a href="{{ .Permalink }}" style="flex-shrink:0;width:160px;border-radius:12px;overflow:hidden;aspect-ratio:3/4;position:relative;display:block;text-decoration:none;box-shadow:0 2px 12px rgba(0,0,0,.1);">
+      <img src="{{ .Params.featured_image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
+      <div style="position:absolute;bottom:0;left:0;right:0;padding:24px 10px 10px;background:linear-gradient(0deg,rgba(0,0,0,.85),rgba(0,0,0,0));color:#fff;">
+        <div style="font-size:10px;font-weight:700;color:#15803d;background:rgba(255,255,255,.9);display:inline-block;padding:2px 6px;border-radius:3px;margin-bottom:4px;">{{ with .Params.category }}{{ . }}{{ end }}</div>
+        <div style="font-size:12px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Latest Articles -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>📰 ताज़ा आर्टिकल्स</h2>
+    <a href="/posts/">सभी आर्टिकल्स देखें →</a>
+  </div>
+  <div class="blog-grid">
+    {{ range $i, $p := first 12 (where .Site.RegularPages "Section" "posts") }}
+    <a href="{{ $p.Permalink }}" class="bc">
+      {{ if $p.Params.featured_image }}
+      <div class="bc-img" style="background:url('{{ $p.Params.featured_image }}') center/cover no-repeat;"></div>
+      {{ else }}
+      <div class="bc-img bc-img-{{ mod $i 6 }}">📝</div>
+      {{ end }}
+      <div class="bc-body">
+        <span class="bc-tag">{{ with $p.Params.categories }}{{ index . 0 }}{{ else }}Article{{ end }}</span>
+        <div class="bc-title">{{ $p.Title }}</div>
+        <div class="bc-meta">{{ $p.Date.Format "Jan 2, 2006" }} · {{ $p.ReadingTime }} min</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Categories -->
+<div class="cat-bg">
+  <div class="cat-wrap">
+    <div class="sec-hdr">
+      <h2>📂 कैटेगरीज़</h2>
+      <a href="/categories/">सभी देखें →</a>
+    </div>
+    <div class="cat-grid">
+      <a href="/categories/parchi-calendar/" class="cc">
+        <div class="cc-icon">📋</div>
+        <h3>पर्ची कैलेंडर</h3>
+        <p>गन्ना पर्ची चेक करें</p>
+      </a>
+      <a href="/categories/msp-rate/" class="cc">
+        <div class="cc-icon">💰</div>
+        <h3>MSP रेट</h3>
+        <p>गन्ना मूल्य जानें</p>
+      </a>
+      <a href="/categories/ganna-kheti/" class="cc">
+        <div class="cc-icon">🌾</div>
+        <h3>गन्ना खेती</h3>
+        <p>खेती गाइड</p>
+      </a>
+      <a href="/categories/sarkari-yojana/" class="cc">
+        <div class="cc-icon">🏛️</div>
+        <h3>सरकारी योजनाएं</h3>
+        <p>लाभ उठाएं</p>
+      </a>
+      <a href="/categories/business/" class="cc">
+        <div class="cc-icon">💼</div>
+        <h3>बिज़नेस आइडियाज़</h3>
+        <p>कमाई के तरीके</p>
+      </a>
+      <a href="/categories/eganna-app/" class="cc">
+        <div class="cc-icon">📱</div>
+        <h3>eGanna App</h3>
+        <p>ऐप गाइड</p>
+      </a>
+      <a href="/categories/sugar-mill/" class="cc">
+        <div class="cc-icon">🏭</div>
+        <h3>शुगर मिल</h3>
+        <p>मिल लिस्ट</p>
+      </a>
+      <a href="/categories/kcc-loan/" class="cc">
+        <div class="cc-icon">🏦</div>
+        <h3>KCC लोन</h3>
+        <p>किसान क्रेडिट कार्ड</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Popular Searches - SEO Keywords -->
+<div class="sec" style="padding-top:10px;">
+  <div class="sec-hdr">
+    <h2>🔍 लोकप्रिय सर्च</h2>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;gap:8px;">
+    <a href="/categories/parchi-calendar/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ना पर्ची कैलेंडर 2026-27</a>
+    <a href="/eganna/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">eGanna App Download</a>
+    <a href="/categories/ganna-bhugtan/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ना भुगतान स्थिति</a>
+    <a href="/categories/msp-rate/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ना MSP रेट 2026</a>
+    <a href="/caneup/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">CaneUp Portal</a>
+    <a href="/categories/sugar-mill/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">शुगर मिल लिस्ट UP</a>
+    <a href="/ganna-parchi-calendar-caneup/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">पर्ची कैलेंडर कैसे देखें</a>
+    <a href="/categories/sarkari-yojana/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">PM किसान योजना 2026</a>
+    <a href="/categories/kcc-loan/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">किसान क्रेडिट कार्ड</a>
+    <a href="/categories/ganna-kheti/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ना खेती गाइड</a>
+    <a href="/categories/business/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ने से एथेनॉल बिज़नेस</a>
+    <a href="/categories/ganna-kheti/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ने की नई किस्में 2026</a>
+    <a href="/categories/sarkari-yojana/" style="background:#f0fdf4;color:#15803d;padding:8px 16px;border-radius:20px;font-size:13px;text-decoration:none;border:1px solid #bbf7d0;font-weight:500;">गन्ना फसल बीमा</a>
+  </div>
+</div>
+
+<!-- UP Sugar Mills - District SEO -->
+<div class="cat-bg">
+  <div class="cat-wrap">
+    <div class="sec-hdr">
+      <h2>🏭 UP की शुगर मिल्स — जिलेवार लिस्ट</h2>
+      <a href="/categories/sugar-mill/">सभी मिलें देखें →</a>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;">
+      <a href="/posts/bijnor-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">बिजनौर शुगर मिल</a>
+      <a href="/posts/muzaffarnagar-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">मुजफ्फरनगर शुगर मिल</a>
+      <a href="/posts/saharanpur-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">सहारनपुर शुगर मिल</a>
+      <a href="/posts/meerut-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">मेरठ शुगर मिल</a>
+      <a href="/posts/bareilly-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">बरेली शुगर मिल</a>
+      <a href="/posts/shahjahanpur-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">शाहजहांपुर शुगर मिल</a>
+      <a href="/posts/pilibhit-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">पीलीभीत शुगर मिल</a>
+      <a href="/posts/lakhimpur-kheri-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">लखीमपुर खीरी शुगर मिल</a>
+      <a href="/posts/gorakhpur-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">गोरखपुर शुगर मिल</a>
+      <a href="/posts/kushinagar-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">कुशीनगर शुगर मिल</a>
+      <a href="/posts/sitapur-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">सीतापुर शुगर मिल</a>
+      <a href="/posts/deoria-sugar-mills/" style="background:#fff;color:#333;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;border:1px solid #e5e7eb;font-weight:500;">देवरिया शुगर मिल</a>
+      <a href="/posts/up-sugar-mill-list-complete/" style="background:#15803d;color:#fff;padding:8px 14px;border-radius:8px;font-size:12px;text-decoration:none;font-weight:600;">सभी 119 मिलें देखें →</a>
+    </div>
+  </div>
+</div>
+
+<!-- Government Schemes Section -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>🏛️ गन्ना किसानों के लिए सरकारी योजनाएं 2026</h2>
+    <a href="/categories/sarkari-yojana/">सभी योजनाएं →</a>
+  </div>
+  <div class="blog-grid">
+    <a href="/posts/pm-kisan-ganna-kisan/" class="bc">
+      <div class="bc-img" style="background:linear-gradient(135deg,#f59e0b,#d97706);display:flex;align-items:center;justify-content:center;font-size:40px;">💰</div>
+      <div class="bc-body">
+        <span class="bc-tag">PM किसान</span>
+        <div class="bc-title">PM किसान सम्मान निधि 2026 — ₹6,000 सीधे खाते में</div>
+        <div class="bc-meta">सभी किसान पात्र हैं</div>
+      </div>
+    </a>
+    <a href="/posts/kisan-credit-card-ganna-kisan-2026/" class="bc">
+      <div class="bc-img" style="background:linear-gradient(135deg,#0ea5e9,#0284c7);display:flex;align-items:center;justify-content:center;font-size:40px;">🏦</div>
+      <div class="bc-body">
+        <span class="bc-tag">KCC लोन</span>
+        <div class="bc-title">किसान क्रेडिट कार्ड — ₹3 लाख लोन सिर्फ 4% ब्याज पर</div>
+        <div class="bc-meta">आज ही अप्लाई करें</div>
+      </div>
+    </a>
+    <a href="/posts/ganna-fasal-bima-2026-apply-online/" class="bc">
+      <div class="bc-img" style="background:linear-gradient(135deg,#8b5cf6,#7c3aed);display:flex;align-items:center;justify-content:center;font-size:40px;">🛡️</div>
+      <div class="bc-body">
+        <span class="bc-tag">फसल बीमा</span>
+        <div class="bc-title">गन्ना फसल बीमा — ₹500 में ₹50,000 तक का बीमा</div>
+        <div class="bc-meta">PM फसल बीमा योजना</div>
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- Farming Tips Section -->
+<div class="cat-bg">
+  <div class="cat-wrap">
+    <div class="sec-hdr">
+      <h2>🌾 गन्ना खेती गाइड 2026</h2>
+      <a href="/categories/ganna-kheti/">सभी गाइड →</a>
+    </div>
+    <div class="blog-grid">
+      <a href="/posts/ganne-ki-fasal-agust-2026-5-kaam/" class="bc">
+        <div class="bc-img" style="background:linear-gradient(135deg,#15803d,#166534);display:flex;align-items:center;justify-content:center;font-size:40px;">🌱</div>
+        <div class="bc-body">
+          <span class="bc-tag">खेती टिप्स</span>
+          <div class="bc-title">अगस्त में गन्ने की फसल — 5 जरूरी काम</div>
+          <div class="bc-meta">30% ज्यादा उपज पाएं</div>
+        </a>
+        <a href="/posts/co-0238-vs-co-0118-ganna-kism-tulna/" class="bc">
+          <div class="bc-img" style="background:linear-gradient(135deg,#14b8a6,#0d9488);display:flex;align-items:center;justify-content:center;font-size:40px;">🌿</div>
+          <div class="bc-body">
+            <span class="bc-tag">किस्में</span>
+            <div class="bc-title">Co-0238 vs Co-0118 — कौन सी किस्म है बेस्ट?</div>
+            <div class="bc-meta">उपज और चीनी की तुलना</div>
+          </a>
+          <a href="/posts/drip-irrigation-ganna-90-subsidy-2026/" class="bc">
+            <div class="bc-img" style="background:linear-gradient(135deg,#0ea5e9,#0284c7);display:flex;align-items:center;justify-content:center;font-size:40px;">💧</div>
+            <div class="bc-body">
+              <span class="bc-tag">सिंचाई</span>
+              <div class="bc-title">ड्रिप सिंचाई — 90% सब्सिडी कैसे लें</div>
+              <div class="bc-meta">40% पानी बचाएं</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- CaneUp Tools Section -->
+<div class="sec">
+  <div class="sec-hdr">
+    <h2>🔧 CaneUp टूल्स — किसानों के लिए</h2>
+    <a href="/tools/">सभी टूल्स →</a>
+  </div>
+  <div class="ql-grid">
+    <a href="/categories/parchi-calendar/" class="ql ql-1">
+      <div class="ql-icon">📋</div>
+      <div class="ql-title">पर्ची कैलेंडर</div>
+      <div class="ql-desc">अपनी पर्ची देखें</div>
+    </a>
+    <a href="/categories/ganna-bhugtan/" class="ql ql-2">
+      <div class="ql-icon">💰</div>
+      <div class="ql-title">भुगतान चेक</div>
+      <div class="ql-desc">गन्ना भुगतание स्थिति</div>
+    </a>
+    <a href="/categories/msp-rate/" class="ql ql-3">
+      <div class="ql-icon">📊</div>
+      <div class="ql-title">MSP कैलकुलेटर</div>
+      <div class="ql-desc">कितना मिलेगा</div>
+    </a>
+    <a href="/categories/sugar-mill/" class="ql ql-4">
+      <div class="ql-icon">🏭</div>
+      <div class="ql-title">मिल फाइंडर</div>
+      <div class="ql-desc">नजदीकी मिल खोजें</div>
+    </a>
+    <a href="/categories/ganna-kheti/" class="ql ql-5">
+      <div class="ql-icon">🌾</div>
+      <div class="ql-title">खेती कैलकुलेटर</div>
+      <div class="ql-desc">मुनाफा हिसाब</div>
+    </a>
+  </div>
+</div>
+
+<!-- FAQ Section - SEO Rich -->
+<div class="cat-bg">
+  <div class="cat-wrap">
+    <div class="sec-hdr">
+      <h2>❓ अक्सर पूछे जाने वाले सवाल</h2>
+    </div>
+    <div style="max-width:800px;margin:0 auto;">
+      <div style="background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);border:1px solid #f3f4f6;">
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:8px;">CaneUp क्या है?</h3>
+        <p style="font-size:13px;color:#6b7280;line-height:1.6;">CaneUp (Cane Up.in) गन्ना किसानों का #1 पोर्टल है। यहां गन्ना पर्ची कैलेंडर, eGanna App, भुगतान स्थिति, MSP रेट, शुगर मिल लिस्ट, सरकारी योजनाएं — सब कुछ मिलता है।</p>
+      </div>
+      <div style="background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);border:1px solid #f3f4f6;">
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:8px;">गन्ना पर्ची कैलेंडर कैसे देखें?</h3>
+        <p style="font-size:13px;color:#6b7280;line-height:1.6;">CaneUp.xyz पर जाएं → पर्ची कैलेंडर पर क्लिक करें → अपना जिला और मिल चुनें → पर्ची की तारीख दिखेगी। eGanna App से भी देख सकते हैं।</p>
+      </div>
+      <div style="background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);border:1px solid #f3f4f6;">
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:8px;">eGanna App कैसे डाउनलोड करें?</h3>
+        <p style="font-size:13px;color:#6b7280;line-height:1.6;">Google Play Store पर "eGanna" सर्च करें और इंस्टॉल करें। iPhone पर App Store पर "eGanna UP" सर्च करें। या <a href="/eganna/" style="color:#15803d;font-weight:600;">यहां क्लिक करें</a>।</p>
+      </div>
+      <div style="background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);border:1px solid #f3f4f6;">
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:8px;">गन्ना MSP रेट 2026-27 क्या है?</h3>
+        <p style="font-size:13px;color:#6b7280;line-height:1.6;">FRP (केंद्र): ₹315/क्विंटल | SAP UP: ₹370/क्विंटल | पंजाब: ₹380/क्विंटल। ताजा भाव के लिए <a href="/categories/msp-rate/" style="color:#15803d;font-weight:600;">MSP रेट सेक्शन</a> देखें।</p>
+      </div>
+      <div style="background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);border:1px solid #f3f4f6;">
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:8px;">गन्ना भुगतान कैसे चेक करें?</h3>
+        <p style="font-size:13px;color:#6b7280;line-height:1.6;">CaneUp पर भुगतान स्थिति सेक्शन में जाएं या eGanna App में लॉगिन करके "भुगतान स्थिति" पर क्लिक करें। अपना गन्ना कोड या नाम डालें।</p>
+      </div>
+      <div style="background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);border:1px solid #f3f4f6;">
+        <h3 style="font-size:15px;font-weight:700;color:#111;margin-bottom:8px;">CaneUp मुफ्त है?</h3>
+        <p style="font-size:13px;color:#6b7280;line-height:1.6;">हाँ, CaneUp पूरी तरह मुफ्त है। कोई रजिस्ट्रेशन या पेमेंट जरूरी नहीं।</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "CaneUp क्या है?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CaneUp (Cane Up.in) गन्ना किसानों का #1 पोर्टल है। यहां गन्ना पर्ची कैलेंडर, eGanna App, भुगतान स्थिति, MSP रेट, शुगर मिल लिस्ट, सरकारी योजनाएं — सब कुछ मिलता है।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "गन्ना पर्ची कैलेंडर कैसे देखें?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CaneUp.xyz पर जाएं, पर्ची कैलेंडर पर क्लिक करें, अपना जिला और मिल चुनें, पर्ची की तारीख दिखेगी। eGanna App से भी देख सकते हैं।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "eGanna App कैसे डाउनलोड करें?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Play Store पर eGanna सर्च करें और इंस्टॉल करें। iPhone पर App Store पर eGanna UP सर्च करें।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "गन्ना MSP रेट 2026-27 क्या है?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FRP (केंद्र): ₹315/क्विंटल, SAP UP: ₹370/क्विंटल, पंजाब: ₹380/क्विंटल।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "गन्ना भुगतान कैसे चेक करें?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CaneUp पर भुगतान स्थिति सेक्शन में जाएं या eGanna App में लॉगिन करके भुगतान स्थिति पर क्लिक करें।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "CaneUp मुफ्त है?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "हाँ, CaneUp पूरी तरह मुफ्त है। कोई रजिस्ट्रेशन या पेमेंट जरूरी नहीं।"
+      }
+    }
+  ]
+}
+</script>
+
+{{ end }}

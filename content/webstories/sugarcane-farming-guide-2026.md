@@ -1,0 +1,48 @@
+---
+title: "गन्ना खेती गाइड 2026 — बुवाई से कटाई तक पूरी जानकारी"
+date: 2026-07-06 20:47:00+05:30
+description: "गन्ना खेती की पूरी गाइड 2026 — मिट्टी तैयार करना, बुवाई के तरीके, सिंचाई, खाद, कीट नियंत्रण और कटाई के टिप्स। CaneUp पर जानें।"
+author_name: "Randhir Patil"
+featured_image: "/images/webstories/sugarcane-field.webp"
+story_type: "image"
+category: "गन्ना खेती"
+tags: ["गन्ना खेती गाइड", "ganna kheti kaise kare", "sugarcane farming guide", "गन्ने की खेती 2026", "गन्ना उपज बढ़ाएं"]
+keywords: ["गन्ना खेती गाइड 2026", "ganna kheti kaise kare", "गन्ने की खेती का तरीका", "sugarcane farming India", "गन्ना बुवाई से कटाई"]
+slides:
+  - type: "video"
+    video_url: "/videos/sugarcane-harvest.webm"
+    poster: "/images/webstories/sugarcane-field.webp"
+    title: "गन्ना खेती गाइड 2026"
+    subtitle: "बुवाई से कटाई तक — सब कुछ जानें"
+    credit: "Video: Pexels"
+  - image: "/images/webstories/soil-testing.webp"
+    title: "चरण 1: मिट्टी तैयार करें"
+    subtitle: "पहले मिट्टी की जांच कराएं। गन्ने के लिए दोमट मिट्टी सबसे अच्छी है। pH 6.0–7.5 होना चाहिए। जैविक खाद डालें।"
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-field.webp"
+    title: "चरण 2: बुवाई का तरीका"
+    subtitle: "फरवरी–मार्च में बुवाई करें। पंक्तियों में 90cm की दूरी रखें। 3 कली वाले सेट लगाएं। फफूंदनाशक से उपचार करें।"
+    credit: "CaneUp"
+  - image: "/images/webstories/drip-irrigation.webp"
+    title: "चरण 3: सिंचाई"
+    subtitle: "गन्ने को 8–12 सिंचाई चाहिए। ड्रिप सिंचाई से 40% पानी बचता है और 20% ज्यादा उपज मिलती है।"
+    credit: "CaneUp"
+  - image: "/images/webstories/fertilizer.webp"
+    title: "चरण 4: खाद का शेड्यूल"
+    subtitle: "N:200, P:60, K:60 kg/हेक्टेयर डालें। पहली बुवाई पर, दूसरी 45 दिन पर, तीसरी 90 दिन पर।"
+    credit: "CaneUp"
+  - image: "/images/webstories/pest-control.webp"
+    title: "चरण 5: कीट और रोग नियंत्रण"
+    subtitle: "तना छेदक, सफेद मक्खी और लाल सड़न से बचाव करें। Co-0238 जैसी प्रतिरोधी किस्म लगाएं। नीम का तेल छिड़कें।"
+    credit: "CaneUp"
+  - image: "/images/webstories/harvesting.webp"
+    title: "चरण 6: कटाई"
+    subtitle: "12–14 महीने में कटाई करें जब डंठल पीले-हरे हो जाएं। जमीन के पास से काटें। 24 घंटे में मिल भेजें।"
+    credit: "CaneUp"
+  - image: "/images/webstories/farmer-happy.webp"
+    title: "कितना मुनाफा होगा?"
+    subtitle: "औसत उपज: 50–60 टन/हेक्टेयर। MSP ₹400/क्विंटल पर कुल आय = ₹1.85 लाख। खर्च निकालकर ₹80,000–1 लाख नेट प्रॉफिट।"
+    credit: "CaneUp"
+---
+
+गन्ना खेती की पूरी गाइड 2026 — मिट्टी तैयार करना, बुवाई, सिंचाई, खाद, कीट नियंत्रण और कटाई। जानें कैसे बढ़ाएं उपज और मुनाफा।
