@@ -135,9 +135,11 @@
 {{ end }}
 <span>•</span>
 <span>📅 {{ .Date.Format "Jan 2, 2006" }}</span>
-{{ if and .Lastmod (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
+{{ if .Lastmod }}
+{{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
 <span>•</span>
 <span style="color:#15803d;font-weight:600;">🔄 अपडेट: {{ .Lastmod.Format "Jan 2, 2006" }} {{ .Lastmod.Format "3:04 PM" }} IST</span>
+{{ end }}
 {{ end }}
 <span>•</span>
 <span>⏱️ {{ .ReadingTime }} min read</span>
@@ -154,6 +156,11 @@
 
 <div class="upd-box">
 <strong>📢 अंतिम अपडेट:</strong> {{ if .Lastmod }}{{ .Lastmod.Format "January 2, 2006" }} {{ .Lastmod.Format "3:04 PM" }} IST{{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }} — यह आर्टिकल नियमित रूप से अपडेट किया जाता है।
+</div>
+
+<!-- AI Summary Box -->
+<div class="ai-summary-box" style="background:#dcfce7;border-radius:10px;padding:20px 24px;margin:24px 0;font-size:14px;line-height:1.6;color:#111;">
+  <p><strong>📝 इस आर्टिकल का सारांश:</strong> CaneUp पर इस पोस्ट में गन्ना किसानों के लिए उपयोगी जानकारी दी गई है। इस आर्टिकल में गन्ना पर्ची कैलेंडर, MSP/FRP रेट, भुगतान स्थिति, सरकारी योजनाएं, eGanna App संबंधी जानकारी, खेती के टिप्स, और sugarcane business ideas शामिल हैं। हम 5+ वर्षों से लगातार गन्ना किसानों की मदद कर रहे हैं, और यह आर्टिकल नियमित रूप से अपडेट किया जाता है ताकि किसानों को सबसे ताजा और सही जानकारी मिल सके।</p>
 </div>
 
 <div class="toc-box" id="tocBox" style="display:none">
