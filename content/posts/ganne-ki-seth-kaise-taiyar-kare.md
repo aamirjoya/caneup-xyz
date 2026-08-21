@@ -1,6 +1,7 @@
 ---
 title: "गन्ने की सेथ कैसे तैयार करें 2026 — बीज उपचार, अंकुरण और रोपाई की पूरी गाइड"
-date: 2026-07-26 17:22:00+05:30
+date: 2026-08-20 17:00:00+05:30
+lastmod: 2026-08-21 17:00:00+05:30
 author: "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"

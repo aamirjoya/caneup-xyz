@@ -1,6 +1,7 @@
 ---
 title: "गन्ना MSP रेट 2026 — सभी राज्यों का ताज़ा भाव | FRP, SAP रेट की पूरी जानकारी"
-date: 2026-07-10 20:38:00+05:30
+date: 2026-08-19 14:00:00+05:30
+lastmod: 2026-08-21 14:00:00+05:30
 description: "गन्ना MSP रेट 2026 — UP, Maharashtra, Karnataka, Bihar, Punjab, Haryana में गन्ने का ताज़ा भाव। FRP ₹355/quintal, SAP रेट, रिकवरी आधारित भाव, 14 दिन भुगतान नियम — सब कुछ एक जगह।"
 categories:
 - MSP Rate
