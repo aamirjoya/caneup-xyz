@@ -25,6 +25,11 @@ keywords:
 - "गन्ना पेमेंट स्टेटस"
 - "caneup payment"
 - "ganna paisa kab milega"
+- "ganna payment online"
+- "ganna bhugtan status check online"
+- "sugarcane payment status online"
+- "online payment check kare"
+- "ganna payment dekhna"
 author: "Randhir Patil"
 ShowToc: true
 ---

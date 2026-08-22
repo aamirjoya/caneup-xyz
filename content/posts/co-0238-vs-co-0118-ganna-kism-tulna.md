@@ -19,6 +19,14 @@ keywords:
 - best sugarcane variety India
 - Co-0238 या Co-0118 कौन सी अच्छी
 - गन्ना किस्म तुलना 2026
+- Comparing sugarcane varieties
+- Co-0238 विशेषताएं
+- गन्ने की तुलना करें
+- सर्वश्रेष्ठ गन्ना किस्म 2026
+- किसान के लिए बेहतरीन किस्म
+- Co-0238 banam Co-0118 kaulan
+- sugarcane variety comparison 2026
+- best variety for sugarcane farming
 ShowToc: true
 author: "Randhir Patil"
 author_name: "Randhir Patil"
