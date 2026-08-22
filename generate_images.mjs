@@ -23,7 +23,7 @@ const HEIGHT = 630;
 const PEXELS_API_KEY = process.env.PEXELS_API_KEY || '';  // Set via env var or GitHub Secrets
 
 // Register Hindi fonts
-const FONT_DIR = path.join(path.dirname(new URL(import.meta.url).pathname), 'fonts');
+const FONT_DIR = 'C:\\Users\\rifab\\Downloads\\caneup-xyz\\caneup-xyz\\fonts';
 registerFont(path.join(FONT_DIR, 'NotoSansDevanagari-Bold.ttf'), { family: 'NotoDevanagari', weight: 'bold' });
 registerFont(path.join(FONT_DIR, 'NotoSansDevanagari-Regular.ttf'), { family: 'NotoDevanagari', weight: 'normal' });
 
