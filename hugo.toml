@@ -1,4 +1,5 @@
 baseURL = "https://caneup.xyz/"
+theme = "PaperMod"
 languageCode = "hi-in"
 defaultContentLanguage = "hi"
 title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
@@ -86,7 +87,7 @@ buildExpired = false
     disableFingerprinting = true
 
   [params.homeInfoParams]
-    Title = "🌾 CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
+    Title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
     Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 87+ आर्टिकल्स।"
 
   [[params.socialIcons]]
@@ -116,67 +117,73 @@ buildExpired = false
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "🏠 होम"
+    name = "होम"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    identifier = "parchi"
-    name = "📋 पर्ची कैलेंडर"
-    url = "/categories/parchi-calendar/"
+    identifier = "news"
+    name = "ताज़ा खबरें 🔴"
+    url = "/news/"
     weight = 2
 
   [[menu.main]]
+    identifier = "parchi"
+    name = "पर्ची कैलेंडर"
+    url = "/categories/parchi-calendar/"
+    weight = 3
+
+  [[menu.main]]
     identifier = "kheti"
-    name = "🌾 गन्ना खेती"
+    name = "गन्ना खेती"
     url = "/categories/ganna-kheti/"
     weight = 3
 
   [[menu.main]]
     identifier = "yojana"
-    name = "🏛️ सरकारी योजनाएं"
+    name = "सरकारी योजनाएं"
     url = "/categories/sarkari-yojana/"
     weight = 4
 
   [[menu.main]]
     identifier = "msp"
-    name = "💰 MSP रेट"
+    name = "MSP रेट"
     url = "/categories/msp-rate/"
     weight = 5
 
   [[menu.main]]
     identifier = "business-cat"
-    name = "💼 बिजनेस"
+    name = "बिजनेस"
     url = "/categories/business/"
     weight = 6
 
   [[menu.main]]
     identifier = "webstories"
-    name = "📰 वेब स्टोरीज"
+    name = "वेब स्टोरीज"
     url = "/webstories/"
     weight = 7
 
   [[menu.main]]
     identifier = "tools"
-    name = "🔧 टूल्स"
+    name = "टूल्स"
     url = "/tools/"
     weight = 8
 
   [[menu.main]]
     identifier = "about"
-    name = "ℹ️ हमारे बारे में"
+    name = "हमारे बारे में"
     url = "/about/"
     weight = 8
 
   [[menu.main]]
     identifier = "contact"
-    name = "📞 संपर्क"
+    name = "संपर्क"
     url = "/contact/"
     weight = 9
 
   [[menu.main]]
     identifier = "privacy"
-    name = "🔒 प्राइवेसी"
+    name = "प्राइवेसी"
     url = "/privacy-policy/"
     weight = 10
 

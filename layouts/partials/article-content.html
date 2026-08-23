@@ -134,15 +134,15 @@
 <span class="author">Randhir Patil</span>
 {{ end }}
 <span>•</span>
-<span>📅 {{ .Date.Format "Jan 2, 2006" }}</span>
+<span>{{ .Date.Format "Jan 2, 2006" }}</span>
 {{ if .Lastmod }}
 {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
 <span>•</span>
-<span style="color:#15803d;font-weight:600;">🔄 अपडेट: {{ .Lastmod.Format "Jan 2, 2006" }} {{ .Lastmod.Format "3:04 PM" }} IST</span>
+<span style="color:#15803d;font-weight:600;">अपडेट: {{ .Lastmod.Format "Jan 2, 2006" }} {{ .Lastmod.Format "3:04 PM" }} IST</span>
 {{ end }}
 {{ end }}
 <span>•</span>
-<span>⏱️ {{ .ReadingTime }} min read</span>
+<span>{{ .ReadingTime }} min read</span>
 </div>
 </div>
 </div>
@@ -155,12 +155,12 @@
 {{ end }}
 
 <div class="upd-box">
-<strong>📢 अंतिम अपडेट:</strong> {{ if .Lastmod }}{{ .Lastmod.Format "January 2, 2006" }} {{ .Lastmod.Format "3:04 PM" }} IST{{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }} — यह आर्टिकल नियमित रूप से अपडेट किया जाता है।
+<strong>अंतिम अपडेट:</strong> {{ if .Lastmod }}{{ .Lastmod.Format "January 2, 2006" }} {{ .Lastmod.Format "3:04 PM" }} IST{{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }} — यह आर्टिकल नियमित रूप से अपडेट किया जाता है।
 </div>
 
 <!-- AI Summary Box -->
 <div class="ai-summary-box" style="background:#dcfce7;border-radius:10px;padding:20px 24px;margin:24px 0;font-size:14px;line-height:1.6;color:#111;">
-  <p><strong>📝 इस आर्टिकल का सारांश:</strong> CaneUp पर इस पोस्ट में गन्ना किसानों के लिए उपयोगी जानकारी दी गई है। इस आर्टिकल में गन्ना पर्ची कैलेंडर, MSP/FRP रेट, भुगतान स्थिति, सरकारी योजनाएं, eGanna App संबंधी जानकारी, खेती के टिप्स, और sugarcane business ideas शामिल हैं। हम 5+ वर्षों से लगातार गन्ना किसानों की मदद कर रहे हैं, और यह आर्टिकल नियमित रूप से अपडेट किया जाता है ताकि किसानों को सबसे ताजा और सही जानकारी मिल सके।</p>
+  <p><strong>इस आर्टिकल में:</strong> CaneUp पर इस पोस्ट में गन्ना किसानों के लिए उपयोगी जानकारी दी गई है — गन्ना पर्ची कैलेंडर, MSP/FRP रेट, भुगतान स्थिति, सरकारी योजनाएं, eGanna App, खेती के टिप्स, और बिज़नेस आइडियाज। यह आर्टिकल नियमित रूप से अपडेट किया जाता है।</p>
 </div>
 
 <div class="toc-box" id="tocBox" style="display:none">
@@ -185,7 +185,7 @@
 <img class="author-box-img" src="/images/authors/randhir-patil.jpg" alt="Randhir Patil" width="80" height="80" loading="lazy">
 {{ end }}
 <div class="author-box-info">
-<span class="author-box-label">✍️ लेखक</span>
+<span class="author-box-label">लेखक</span>
 <h3 class="author-box-name">{{ .Params.author_name | default "Randhir Patil" }}</h3>
 <p class="author-box-bio">गन्ना उद्योग विशेषज्ञ — ChiniMandi पर 425+ लेख। गन्ना खेती, शुगर मिल, MSP रेट, सरकारी योजनाओं पर विश्वसनीय जानकारी।</p>
 <div class="author-box-links">
@@ -354,7 +354,7 @@ div.className='also-read-inline';
 div.style.cssText='background:#fff;border:1px solid #E5E7EB;border-radius:10px;padding:14px;margin:20px 0;display:flex;gap:14px;align-items:center;transition:all .2s;cursor:pointer;text-decoration:none;';
 div.onclick=function(){window.location.href=card.url;};
 var imgHtml=card.img?'<div style="width:100px;height:70px;border-radius:8px;background:url(\''+card.img+'\') center/cover no-repeat;flex-shrink:0;"></div>':'';
-div.innerHTML=imgHtml+'<div><span style="display:inline-block;background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:4px;">📖 और पढ़ें</span><h4 style="font-size:14px;font-weight:600;color:#111;margin:0;line-height:1.4;">'+card.title+'</h4><span style="font-size:12px;color:#15803d;font-weight:600;">पढ़ें →</span></div>';
+div.innerHTML=imgHtml+'<div><span style="display:inline-block;background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:4px;">और पढ़ें</span><h4 style="font-size:14px;font-weight:600;color:#111;margin:0;line-height:1.4;">'+card.title+'</h4><span style="font-size:12px;color:#15803d;font-weight:600;">पढ़ें →</span></div>';
 h2s[i].parentNode.insertBefore(div,h2s[i]);
 insertCount++;
 }

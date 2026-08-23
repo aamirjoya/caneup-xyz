@@ -1,0 +1,243 @@
+{{ define "main" }}
+
+<style>
+/* News Page Hero */
+.news-hero{background:linear-gradient(135deg,#450a0a 0%,#dc2626 50%,#450a0a 100%);color:#fff;padding:48px 20px 40px;text-align:center;position:relative;overflow:hidden}
+.news-hero::before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background:url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")}
+.news-hero h1{font-size:32px;font-weight:800;margin-bottom:10px;line-height:1.2;position:relative}
+.news-hero h1 .live-dot{display:inline-block;width:12px;height:12px;background:#fff;border-radius:50%;margin-right:8px;animation:news-blink 1.5s ease-in-out infinite}
+@keyframes news-blink{0%,100%{opacity:1}50%{opacity:.3}}
+.news-hero p{font-size:15px;opacity:.9;max-width:650px;margin:0 auto 20px;line-height:1.6;position:relative}
+.news-hero-stats{display:flex;justify-content:center;gap:36px;margin-top:20px;position:relative}
+.news-hero-stat b{display:block;font-size:26px;font-weight:800;color:#fbbf24}
+.news-hero-stat small{font-size:11px;opacity:.8}
+
+/* Breadcrumb */
+.news-breadcrumb{max-width:1200px;margin:0 auto;padding:14px 20px;font-size:13px;color:#6b7280}
+.news-breadcrumb a{color:#dc2626;text-decoration:none;font-weight:500}
+.news-breadcrumb a:hover{text-decoration:underline}
+
+/* News Container */
+.news-container{max-width:1200px;margin:0 auto;padding:0 20px 40px;display:grid;grid-template-columns:1fr 320px;gap:30px}
+
+/* Featured / Latest News Card */
+.news-featured{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,.08);margin-bottom:24px;display:grid;grid-template-columns:1fr 1fr;border:2px solid #fecaca;transition:all .3s}
+.news-featured:hover{transform:translateY(-3px);box-shadow:0 8px 30px rgba(220,38,38,.15)}
+.news-featured-img{min-height:280px;display:flex;align-items:center;justify-content:center;font-size:60px;position:relative;background:linear-gradient(135deg,#dc2626,#991b1b)}
+.news-featured-img img{width:100%;height:100%;object-fit:cover}
+.news-featured-badge{position:absolute;top:16px;left:16px;background:#dc2626;color:#fff;padding:5px 14px;border-radius:20px;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:1px;display:flex;align-items:center;gap:6px;animation:news-blink 1.5s ease-in-out infinite}
+.news-featured-badge::before{content:"";width:6px;height:6px;background:#fff;border-radius:50%}
+.news-featured-body{padding:28px;display:flex;flex-direction:column;justify-content:center}
+.news-featured-cat{display:inline-block;background:#fef2f2;color:#dc2626;padding:4px 12px;border-radius:4px;font-size:11px;font-weight:700;margin-bottom:10px;width:fit-content;text-transform:uppercase}
+.news-featured-title{font-size:22px;font-weight:800;color:#111;margin-bottom:10px;line-height:1.3}
+.news-featured-title a{text-decoration:none;color:inherit}
+.news-featured-title a:hover{color:#dc2626}
+.news-featured-excerpt{font-size:14px;color:#6b7280;line-height:1.6;margin-bottom:14px}
+.news-featured-meta{font-size:12px;color:#9ca3af;display:flex;align-items:center;gap:12px}
+.news-featured-readmore{display:inline-flex;align-items:center;gap:6px;background:#dc2626;color:#fff;padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;margin-top:14px;width:fit-content;transition:background .2s}
+.news-featured-readmore:hover{background:#b91c1c}
+
+/* News Grid */
+.news-section-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;padding-bottom:12px;border-bottom:3px solid #dc2626}
+.news-section-header h2{font-size:20px;font-weight:700;color:#111;display:flex;align-items:center;gap:8px}
+.news-section-count{background:#fef2f2;color:#dc2626;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:700}
+.news-list-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.news-list-card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);transition:all .25s;border:1px solid #f3f4f6}
+.news-list-card:hover{transform:translateY(-4px);box-shadow:0 8px 25px rgba(220,38,38,.1);border-color:#fecaca}
+.news-list-card-img{height:170px;position:relative;overflow:hidden;background:linear-gradient(135deg,#dc2626,#991b1b);display:flex;align-items:center;justify-content:center;font-size:40px}
+.news-list-card-img img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.news-list-card:hover .news-list-card-img img{transform:scale(1.05)}
+.news-list-card-time{position:absolute;top:10px;right:10px;background:rgba(0,0,0,.75);color:#fff;font-size:10px;font-weight:600;padding:4px 10px;border-radius:4px;backdrop-filter:blur(4px)}
+.news-list-card-cat{position:absolute;top:10px;left:10px;background:#dc2626;color:#fff;font-size:9px;font-weight:700;padding:3px 10px;border-radius:4px;text-transform:uppercase;letter-spacing:.5px}
+.news-list-card-body{padding:16px}
+.news-list-card-title{font-size:15px;font-weight:700;color:#111;margin-bottom:6px;line-height:1.4}
+.news-list-card-title a{text-decoration:none;color:inherit}
+.news-list-card-title a:hover{color:#dc2626}
+.news-list-card-desc{font-size:12px;color:#6b7280;line-height:1.5;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news-list-card-footer{display:flex;align-items:center;justify-content:space-between;font-size:11px;color:#9ca3af;padding-top:10px;border-top:1px solid #f3f4f6}
+.news-list-card-read{color:#dc2626;font-weight:700;text-decoration:none;font-size:12px}
+.news-list-card-read:hover{text-decoration:underline}
+
+/* Sidebar */
+.news-sidebar{display:flex;flex-direction:column;gap:20px}
+.news-sidebar-card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);border:1px solid #f3f4f6}
+.news-sidebar-header{background:linear-gradient(135deg,#450a0a,#dc2626);color:#fff;padding:14px 18px}
+.news-sidebar-header h3{font-size:14px;font-weight:700;margin:0}
+.news-sidebar-body{padding:16px 18px}
+.news-trending-list{list-style:none;padding:0;margin:0}
+.news-trending-item{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid #f3f4f6;text-decoration:none;color:inherit;transition:background .2s}
+.news-trending-item:last-child{border:none}
+.news-trending-item:hover{background:#fef2f2;margin:0 -18px;padding-left:18px;padding-right:18px;border-radius:0}
+.news-trending-num{background:linear-gradient(135deg,#dc2626,#991b1b);color:#fff;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;flex-shrink:0}
+.news-trending-info h4{font-size:13px;font-weight:600;color:#111;line-height:1.4;margin:0 0 4px}
+.news-trending-info p{font-size:11px;color:#9ca3af;margin:0}
+.news-subscribe-box{background:#fef2f2;border:2px dashed #fecaca;border-radius:10px;padding:20px;text-align:center}
+.news-subscribe-box h4{font-size:14px;font-weight:700;color:#111;margin-bottom:6px}
+.news-subscribe-box p{font-size:12px;color:#6b7280;margin-bottom:14px;line-height:1.5}
+.news-subscribe-btn{display:inline-flex;align-items:center;gap:6px;background:#dc2626;color:#fff;padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;transition:background .2s}
+.news-subscribe-btn:hover{background:#b91c1c}
+
+/* Responsive */
+@media(max-width:992px){
+  .news-container{grid-template-columns:1fr}
+  .news-sidebar{order:-1}
+}
+@media(max-width:768px){
+  .news-featured{grid-template-columns:1fr}
+  .news-featured-img{min-height:200px}
+  .news-hero h1{font-size:24px}
+  .news-hero-stats{gap:16px;flex-wrap:wrap}
+  .news-list-grid{grid-template-columns:1fr}
+  .news-hero-stat b{font-size:20px}
+}
+</style>
+
+{{ $allNews := where .Site.RegularPages "Section" "news" }}
+{{ $newsCount := len $allNews }}
+{{ $latest := first 1 $allNews }}
+{{ $rest := after 1 $allNews }}
+
+<!-- Hero -->
+<div class="news-hero">
+  <h1><span class="live-dot"></span> ताज़ा खबरें — गन्ना न्यूज़</h1>
+  <p>गन्ना किसानों के लिए ब्रेकिंग न्यूज़, भुगतान अपडेट, MSP रेट, पेराई सीजन, सरकारी योजनाएं — सबसे पहले यहाँ। Google Discover और CaneUp पर ताज़ा खबरें पढ़ें।</p>
+  <div class="news-hero-stats">
+    <div class="news-hero-stat"><b>{{ $newsCount }}</b><small>ताज़ा खबरें</small></div>
+    <div class="news-hero-stat"><b>24/7</b><small>लाइव अपडेट</small></div>
+    <div class="news-hero-stat"><b>₹400</b><small>SAP/क्विंटल</small></div>
+    <div class="news-hero-stat"><b>2026-27</b><small>पेराई सत्र</small></div>
+  </div>
+</div>
+
+<!-- Breadcrumb -->
+<div class="news-breadcrumb">
+  <a href="/">होम</a> › <strong>ताज़ा खबरें</strong>
+</div>
+
+<div class="news-container">
+  <!-- Main Content -->
+  <div>
+    <!-- Featured / Latest -->
+    {{ range $latest }}
+    {{ $featured := .Params.featured_image }}
+    <a href="{{ .Permalink }}" style="text-decoration:none;color:inherit;display:block;">
+      <div class="news-featured">
+        <div class="news-featured-img">
+          {{ if $featured }}
+          <img src="{{ $featured }}" alt="{{ .Title }}" loading="lazy">
+          {{ else }}
+          📰
+          {{ end }}
+          <span class="news-featured-badge">🔴 LATEST</span>
+        </div>
+        <div class="news-featured-body">
+          <span class="news-featured-cat">{{ with .Params.categories }}{{ index . 0 }}{{ else }}Breaking News{{ end }}</span>
+          <div class="news-featured-title">{{ .Title }}</div>
+          <div class="news-featured-excerpt">{{ .Description | truncate 160 }}</div>
+          <div class="news-featured-meta">
+            <span>📅 {{ .Date.Format "02 Aug 2006" }}</span>
+            <span>⏱ {{ .ReadingTime }} min read</span>
+            {{ with .Params.author_name }}<span>✍️ {{ . }}</span>{{ end }}
+          </div>
+          <span class="news-featured-readmore">पूरी खबर पढ़ें →</span>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+
+    <!-- All News -->
+    {{ if $rest }}
+    <div class="news-section-header">
+      <h2>📰 सभी खबरें</h2>
+      <span class="news-section-count">{{ $newsCount }} खबरें</span>
+    </div>
+    <div class="news-list-grid">
+      {{ range $i, $p := $rest }}
+      {{ $featured := $p.Params.featured_image }}
+      <div class="news-list-card">
+        <a href="{{ $p.Permalink }}" style="text-decoration:none;color:inherit;display:block;">
+          <div class="news-list-card-img">
+            {{ if $featured }}
+            <img src="{{ $featured }}" alt="{{ $p.Title }}" loading="lazy">
+            {{ else }}
+            📰
+            {{ end }}
+            <span class="news-list-card-time">{{ $p.Date.Format "02 Jan, 3:04 PM" }}</span>
+            <span class="news-list-card-cat">{{ with $p.Params.categories }}{{ index . 0 }}{{ else }}News{{ end }}</span>
+          </div>
+          <div class="news-list-card-body">
+            <div class="news-list-card-title">{{ $p.Title }}</div>
+            <div class="news-list-card-desc">{{ $p.Description | truncate 120 }}</div>
+            <div class="news-list-card-footer">
+              <span>{{ $p.Date.Format "02 Aug 2006" }} · {{ $p.ReadingTime }} min</span>
+              <span class="news-list-card-read">पढ़ें →</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- Sidebar -->
+  <div class="news-sidebar">
+    <!-- Trending -->
+    <div class="news-sidebar-card">
+      <div class="news-sidebar-header">
+        <h3>🔥 ट्रेंडिंग खबरें</h3>
+      </div>
+      <div class="news-sidebar-body">
+        <div class="news-trending-list">
+          {{ range $i, $p := first 5 $allNews }}
+          <a href="{{ $p.Permalink }}" class="news-trending-item">
+            <span class="news-trending-num">{{ add $i 1 }}</span>
+            <div class="news-trending-info">
+              <h4>{{ $p.Title | truncate 60 }}</h4>
+              <p>{{ $p.Date.Format "02 Aug 2006" }}</p>
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Categories -->
+    <div class="news-sidebar-card">
+      <div class="news-sidebar-header">
+        <h3>📂 कैटेगरीज़</h3>
+      </div>
+      <div class="news-sidebar-body">
+        <ul class="news-trending-list" style="list-style:none;padding:0;margin:0;">
+          <li><a href="/categories/parchi-calendar/" class="news-trending-item"><span style="font-size:18px;">🗓</span><div class="news-trending-info"><h4>पर्ची कैलेंडर</h4></div></a></li>
+          <li><a href="/categories/msp-rate/" class="news-trending-item"><span style="font-size:18px;">💹</span><div class="news-trending-info"><h4>MSP रेट</h4></div></a></li>
+          <li><a href="/categories/ganna-kheti/" class="news-trending-item"><span style="font-size:18px;">🌱</span><div class="news-trending-info"><h4>गन्ना खेती</h4></div></a></li>
+          <li><a href="/categories/sarkari-yojana/" class="news-trending-item"><span style="font-size:18px;">📜</span><div class="news-trending-info"><h4>सरकारी योजनाएं</h4></div></a></li>
+          <li><a href="/categories/business/" class="news-trending-item"><span style="font-size:18px;">📈</span><div class="news-trending-info"><h4>बिज़नेस आइडियाज़</h4></div></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Subscribe CTA -->
+    <div class="news-subscribe-box">
+      <h4>📲 ताज़ा खबरें सबसे पहले पाएं</h4>
+      <p>CaneUp टेलीग्राम चैनल जॉइन करें — गन्ना भुगतान, पर्ची, MSP की ताज़ा खबरें सीधे फोन पर</p>
+      <a href="https://t.me/caneup" target="_blank" rel="noopener" class="news-subscribe-btn">📱 टेलीग्राम जॉइन करें</a>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="news-sidebar-card">
+      <div class="news-sidebar-header">
+        <h3>⚡ क्विक लिंक्स</h3>
+      </div>
+      <div class="news-sidebar-body" style="display:flex;flex-direction:column;gap:8px;">
+        <a href="/ganna-parchi-calendar-caneup/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#f0fdf4;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#15803d;">🗓 पर्ची कैलेंडर देखें</a>
+        <a href="/ganna-bhugtan-status/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#fffbeb;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#d97706;">💳 भुगतान स्टेटस चेक</a>
+        <a href="/eganna/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#fdf4ff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#7c3aed;">📲 eGanna App Download</a>
+        <a href="/posts/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#eff6ff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#2563eb;">📝 सभी आर्टिकल्स</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

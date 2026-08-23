@@ -263,27 +263,30 @@
       <div class="mid-heading"><h3>और भी देखें</h3></div>
       <div class="mid-cards">
         {{ with $relatedFirst }}
-        <a class="mid-card" href="{{ .Permalink }}" >
+        <div class="mid-card">
           <div class="mid-card-img">
             <amp-img src="{{ .Params.featured_image | absURL }}"
                 layout="responsive" width="900" height="1600" alt="{{ .Title }}">
             </amp-img>
           </div>
           <div class="mid-card-text"><h4>{{ .Title | truncate 60 }}</h4></div>
-        </a>
+        </div>
         {{ end }}
         {{ with $relatedSecond }}
-        <a class="mid-card" href="{{ .Permalink }}" >
+        <div class="mid-card">
           <div class="mid-card-img">
             <amp-img src="{{ .Params.featured_image | absURL }}"
                 layout="responsive" width="900" height="1600" alt="{{ .Title }}">
             </amp-img>
           </div>
           <div class="mid-card-text"><h4>{{ .Title | truncate 60 }}</h4></div>
-        </a>
+        </div>
         {{ end }}
       </div>
     </amp-story-grid-layer>
+    <amp-story-cta-layer>
+      <a href="{{ $relatedFirst.Permalink }}">पूरी कहानी पढ़ें →</a>
+    </amp-story-cta-layer>
   </amp-story-page>
   {{ end }}
 
@@ -313,9 +316,11 @@
       <div class="fade-in">
         <p class="thanks">पढ़ने के लिए धन्यवाद!</p>
         <h2>caneup.xyz पर और देखें</h2>
-        <a href="/" class="cta-link">और देखें →</a>
       </div>
     </amp-story-grid-layer>
+    <amp-story-cta-layer>
+      <a href="/" class="cta-link">और देखें →</a>
+    </amp-story-cta-layer>
   </amp-story-page>
   {{ end }}
 

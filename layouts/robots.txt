@@ -1,19 +1,15 @@
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://caneup.xyz/sitemap.xml
+Sitemap: https://caneup.xyz/news-sitemap.xml
 
-# Crawl-delay
-Crawl-delay: 1
-
-# Disallow tag pages (empty/low quality)
-Disallow: /tags/
-
-# Googlebot
 User-agent: Googlebot
 Allow: /
 
-# Googlebot-Image
 User-agent: Googlebot-Image
 Allow: /
+
+User-agent: Googlebot-News
+Allow: /news/
+Allow: /posts/

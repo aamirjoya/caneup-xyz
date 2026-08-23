@@ -1,7 +1,8 @@
----
+﻿---
 title: "गन्ने में कीट और रोग प्रबंधन 2026 — 10 सबसे आम बीमारियां और उनका इलाज"
 date: 2026-08-20 09:00:00+05:30
 lastmod: 2026-08-21 09:00:00+05:30
+description: "गन्ने में कीट और रोग प्रबंधन 2026 — लाल सड़न, तना छेदक, धब्बा रोग समेत 10 आम बीमारियों की पहचान और इलाज। फसल बचाने के असरदार तरीके।"
 categories:
 - Ganna Kheti
 tags:
@@ -26,7 +27,6 @@ featured_image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 ---
 
-# गन्ने में कीट और रोग प्रबंधन 2026 — फसल बचाने की पूरी गाइड
 
 **गन्ने में कीट और रोग** हर साल किसानों को करोड़ों रुपये का नुकसान पहुंचाते हैं। अगर समय पर पहचान और इलाज न किया जाए, तो उपज **20-50% तक घट** सकती है। इस लेख में हम **10 सबसे आम कीट और रोग** और उनके इलाज के बारे में बताएंगे।
 
@@ -34,7 +34,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ## गन्ने के प्रमुख रोग (Diseases)
 
-### 1. 🔴 लाल सड़न (Red Rot)
+### 1. लाल सड़न (Red Rot)
 
 **पहचान:**
 - पत्तियां पीली पड़ना और सूखना
@@ -50,7 +50,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 2. ⚫ धारीदार धब्बा (Smut)
+### 2. धारीदार धब्बा (Smut)
 
 **पहचान:**
 - पत्तियों पर **काली धारियां** दिखती हैं
@@ -66,7 +66,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 3. 🟤 गलन/म्लानि (Wilt)
+### 3. गलन/म्लानि (Wilt)
 
 **पहचान:**
 - पत्तियां मुरझाना
@@ -82,7 +82,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 4. 🟡 पत्ती धब्बा (Leaf Spot)
+### 4. पत्ती धब्बा (Leaf Spot)
 
 **पहचान:**
 - पत्तियों पर **भूरे/लाल धब्बे**
@@ -98,7 +98,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ## गन्ने के प्रमुख कीट (Pests)
 
-### 5. 🐛 तना छेदक (Stem Borer)
+### 5. तना छेदक (Stem Borer)
 
 **पहचान:**
 - तने में **छेद** दिखते हैं
@@ -116,7 +116,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 6. 🐜 ऊपरी तना छेदक (Top Borer)
+### 6. ऊपरी तना छेदक (Top Borer)
 
 **पहचान:**
 - गन्ने के **ऊपरी हिस्से** में छेद
@@ -130,7 +130,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 7. 🟢 माहू (Aphid)
+### 7. माहू (Aphid)
 
 **पहचान:**
 - पत्तियों के **नीचे** छोटे-छोटे हरे/काले कीड़े
@@ -146,7 +146,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 8. 🦗 टिड्डी (Termite)
+### 8. टिड्डी (Termite)
 
 **पहचान:**
 - जड़ों और तने के **निचले हिस्से** में मिट्टी की सुरंगें
@@ -161,7 +161,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 9. 🪲 सफेद गंभीर (White Grub)
+### 9. सफेद गंभीर (White Grub)
 
 **पहचान:**
 - जमीन के अंदर **सफेद मोटे कीड़े**
@@ -175,7 +175,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-### 10. 🦟 तना मक्खी (Top Shoot Borer)
+### 10. तना मक्खी (Top Shoot Borer)
 
 **पहचान:**
 - गन्ने के **शीर्ष** में छेद
@@ -201,13 +201,11 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 ---
 
-
-### 📚 संबंधित आर्टिकल्स
+### संबंधित आर्टिकल्स
 
 - [गन्ने की फसल में खरपतवार नियंत्रण 2026 — 7 असरदार तरीके जो किसानों को जरूर जानने चाहिए](/posts/ganne-mein-kharpatwar-niyantran/)
 - [गन्ने में सिंचाई का सही तरीका 2026 — कब, कितना और कैसे पानी दें?](/posts/ganne-mein-sinchai-ka-sahi-tarika/)
 - [गन्ने की नई किस्में 2026 — Co-0238, Co-0118 और अन्य बेहतरीन किस्में जो किसानों को जरूर जाननी चाहिए](/posts/ganne-ki-nai-kismen-2026/)
-
 
 ## अक्सर पूछे जाने वाले प्रश्न (FAQ)
 
@@ -232,9 +230,7 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 
 **"पहले रोकथाम, फिर इलाज"** — यही कीट प्रबंधन का मूल मंत्र है। प्रतिरोधी किस्म लगाएं, बीज उपचार करें, खेत की सफाई रखें, और जरूरत पड़ने पर ही रासायनिक कीटनाशक इस्तेमाल करें।
 
-**CaneUp** पर गन्ना खेती की और भी जानकारी पढ़ें! 🌾🛡️
-
-## 📌 यह भी पढ़ें
+## यह भी पढ़ें
 
 - [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
 - [eGanna App Download 2026](/eganna/)
@@ -242,11 +238,3 @@ image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 - [गन्ना MSP रेट 2026-27](/posts/ganna-msp-rate-2026-27/)
 - [किसान क्रेडिट कार्ड (KCC) 2026](/posts/kisan-credit-card-ganna-kisan-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
-
-## 📖 यह भी पढ़ें
-
-- [गन्ना किसानों के लिए बड़ी खुशखबरी — अगस्त 2026 में SAP रेट बढ़ने की पूरी संभावना](/posts/ganna-sap-rate-badhne-ki-sambhavna-2026/)
-- [गन्ने का जूस कैसे निकालें 2026 — घर पर, मशीन से](/posts/ganne-ka-juice-kaise-nikale/)
-- [गन्ने का जूस बिज़नेस 2026 — कैसे शुरू करें, लागत, मुनाफ़ा](/posts/ganne-ka-juice-business/)
-- [गन्ने का रस मशीन 2026 — कीमत, प्रकार, कैसे खरीदें](/posts/ganne-ka-ras-machine/)
-

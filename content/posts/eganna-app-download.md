@@ -1,4 +1,4 @@
----
+﻿---
 title: "eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी"
 date: 2026-08-19 18:30:00+05:30
 lastmod: 2026-08-21 18:30:00+05:30
@@ -33,7 +33,6 @@ featured_image: /images/blog/eganna-app-download.webp
 image: /images/blog/eganna-app-download.webp
 ---
 
-# eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी
 
 **eGanna App Download** — अगर आप उत्तर प्रदेश के गन्ना किसान हैं, तो यह App आपके फोन में होना ज़रूरी है। **eGANNA CANE UP App** उत्तर प्रदेश गन्ना विभाग की आधिकारिक एप्लीकेशन है जिससे आप अपना **गन्ना पर्ची कैलेंडर**, **भुगतान स्थिति**, **सप्लाई टिकट** और **तौल विवरण** — सब कुछ अपने फोन पर देख सकते हैं।
 
@@ -43,7 +42,7 @@ image: /images/blog/eganna-app-download.webp
 
 ---
 
-## 📋 क्विक समरी — eGanna App 2026 (TL;DR)
+## क्विक समरी — eGanna App 2026 (TL;DR)
 
 | पैरामीटर | जानकारी |
 |---|---|
@@ -191,7 +190,7 @@ Play Store के सर्च बार में **"eGanna"** या **"eGANNA
 ---
 
 
-### 📚 संबंधित आर्टिकल्स
+### संबंधित आर्टिकल्स
 
 - [CaneUp Enquiry 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी](/posts/caneup-in-parchi-calendar/)
 
@@ -246,9 +245,9 @@ Play Store के सर्च बार में **"eGanna"** या **"eGANNA
 
 अगर यह लेख आपके काम आया तो इसे अपने किसान भाइयों के साथ शेयर करें।
 
-**🌾 CaneUp — गन्ना किसानों का भरोसेमंद साथी।**
+**CaneUp — गन्ना किसानों का भरोसेमंद साथी।**
 
-## 📌 यह भी पढ़ें
+## यह भी पढ़ें
 
 - [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
 - [eGanna App Download 2026](/eganna/)
@@ -261,8 +260,3 @@ Play Store के सर्च बार में **"eGanna"** या **"eGANNA
 - [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
 - [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
-
-## 📖 यह भी पढ़ें
-
-- [CaneUp Enquiry 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी](/posts/caneup-in-parchi-calendar/)
-

@@ -1,4 +1,4 @@
----
+﻿---
 title: "CaneUp 2026 — गन्ना किसानों का #1 पोर्टल | पर्ची कैलेंडर, MSP रेट, eGanna App"
 date: 2026-08-19 13:00:00+05:30
 lastmod: 2026-08-21 13:00:00+05:30
@@ -15,7 +15,6 @@ featured_image: /images/blog/caneup-keywords-target.webp
 image: /images/blog/caneup-keywords-target.webp
 ---
 
-# CaneUp 2026 — गन्ना किसानों का #1 पोर्टल | पर्ची कैलेंडर, MSP रेट, eGanna App
 
 **CaneUp** (caneup.in) उत्तर प्रदेश के गन्ना किसानों के लिए सबसे महत्वपूर्ण ऑनलाइन पोर्टल है। इस पोर्टल पर किसान अपनी **पर्ची कैलेंडर**, **MSP रेट**, **गन्ना भुगतान स्टेटस**, **eGanna App** डाउनलोड, और **ऑनलाइन शिकायत** — सब कुछ एक जगह पर कर सकते हैं। अगर आप गन्ना किसान हैं तो CaneUp आपके लिए बहुत जरूरी है। इस लेख में हम आपको CaneUp पोर्टल की पूरी जानकारी देंगे।
 
@@ -297,7 +296,7 @@ image: /images/blog/caneup-keywords-target.webp
 
 **CaneUp** गन्ना किसानों का भरोसेमंद साथी है — इसका पूरा फायदा उठाएं।
 
-## 📌 यह भी पढ़ें
+## यह भी पढ़ें
 
 - [CaneUp — गन्ना किसानों का #1 पोर्टल](/caneup/)
 - [eGanna App Download 2026](/eganna/)
@@ -310,9 +309,3 @@ image: /images/blog/caneup-keywords-target.webp
 - [Co-0238 vs Co-0118 — कौन सी किस्म बेस्ट?](/posts/co-0238-vs-co-0118-ganna-kism-tulna/)
 - [ड्रिप सिंचाई — 90% सब्सिडी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
 - [सभी शुगर मिल्स की लिस्ट](/posts/up-sugar-mill-list-complete/)
-
-## 📖 यह भी पढ़ें
-
-- [गन्ना किसान WhatsApp ग्रुप — रोज ताजा अपडेट पाएं, जुड़ें CaneUp से](/posts/ganna-kisan-whatsapp-group-caneup/)
-- [गन्ना किसानों के लिए YouTube चैनल — CaneUp पर वीडियो में देखें खेती के टिप्स](/posts/caneup-youtube-channel-ganna-kisan/)
-
