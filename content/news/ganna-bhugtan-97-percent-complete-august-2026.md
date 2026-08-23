@@ -19,6 +19,8 @@ keywords:
 - चीनी मिल भुगतान लिस्ट
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/ganna-bhugtan-97-percent-2026.webp

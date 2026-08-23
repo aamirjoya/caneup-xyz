@@ -21,6 +21,8 @@ keywords:
 - गन्ना किसान बीमा योजना
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/pm-suraksha-bima-yojana-ganna-kisan-2026.webp

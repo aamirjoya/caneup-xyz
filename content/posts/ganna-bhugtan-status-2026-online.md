@@ -31,6 +31,8 @@ keywords:
 - "online payment check kare"
 - "ganna payment dekhna"
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 ShowToc: true
 ---
 

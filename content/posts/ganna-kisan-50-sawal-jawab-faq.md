@@ -23,6 +23,8 @@ keywords:
   - "up ganna kisan guide"
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-faq-2026.webp

@@ -9,6 +9,8 @@ slug: lakhimpur-kheri-sugar-mills
 keywords: [लखीमपुर खीरी चीनी मिल, लखीमपुर शुगर मिल्स 2026, Lakhimpur Kheri sugar mills list, गोला गोकर्णनाथ चीनी मिल, बजाज हिंदुस्तान खीरी, बलरामपुर चिनी मिल्स खीरी]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/lakhimpur-kheri-sugar-mills.webp

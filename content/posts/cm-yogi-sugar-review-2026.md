@@ -27,6 +27,8 @@ keywords:
 featured_image: /images/blog/cm-yogi-sugar-review-2026.webp
 image: /images/blog/cm-yogi-sugar-review-2026.webp
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 ---

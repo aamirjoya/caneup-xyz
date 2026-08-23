@@ -21,6 +21,8 @@ keywords:
 - गन्ना किसान PM किसान
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/pm-kisan-samman-nidhi-2026.webp

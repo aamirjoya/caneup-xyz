@@ -22,6 +22,8 @@ keywords:
 - गन्ने का कैंसर
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/red-rot-ganna-2026.webp

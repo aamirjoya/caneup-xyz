@@ -20,6 +20,8 @@ keywords:
 - चीनी संकट भारत
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/global-sugar-crisis-2026.webp

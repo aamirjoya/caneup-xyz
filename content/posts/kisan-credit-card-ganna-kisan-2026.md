@@ -21,6 +21,8 @@ keywords:
 - गन्ना किसान लोन 4%
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/kisan-credit-card-ganna-kisan-2026.webp

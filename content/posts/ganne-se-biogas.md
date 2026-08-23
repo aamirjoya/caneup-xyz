@@ -9,6 +9,8 @@ slug: ganne-se-biogas
 keywords: [गन्ने से बायोगैस, बायोगैस प्लांट, गन्ने के अवशेष से बायोगैस, बायोगैस कैसे बनाएं, गन्ना बायोगैस 2026]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-se-biogas.webp

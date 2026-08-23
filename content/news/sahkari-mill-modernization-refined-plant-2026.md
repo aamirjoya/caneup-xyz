@@ -19,6 +19,8 @@ keywords:
 - गन्ना रिकवरी और भुगतान
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/sahkari-mill-modern-2026.webp

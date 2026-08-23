@@ -26,6 +26,8 @@ keywords:
 - "cane up status"
 - "cane up parchi calendar"
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 ShowToc: true
 ---
 

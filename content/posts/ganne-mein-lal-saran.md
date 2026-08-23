@@ -9,6 +9,8 @@ slug: ganne-mein-lal-saran
 keywords: [गन्ने में लाल सड़न, रेड रॉट ऑफ सुगरकेन, गन्ने की लाल सड़न का इलाज, गन्ने में लाल सड़न के लक्षण, गन्ने की बीमारियां 2026, red rot of sugarcane in hindi]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-lal-saran.webp

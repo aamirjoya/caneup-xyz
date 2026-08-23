@@ -102,8 +102,17 @@ buildExpired = false
     name = "telegram"
     url = "https://t.me/caneup"
 
+[mediaTypes."application/xml"]
+  suffixes = ["xml"]
+
+[outputFormats.NewsSitemap]
+  mediaType = "application/xml"
+  baseName = "news-sitemap"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "NewsSitemap"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
 
@@ -190,6 +199,7 @@ buildExpired = false
 [taxonomies]
   category = "categories"
   tag = "tags"
+  author = "authors"
 
 [sitemap]
   changefreq = "daily"

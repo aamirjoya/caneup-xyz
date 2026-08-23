@@ -21,6 +21,8 @@ keywords:
 - गन्ना खेती में ड्रोन कैसे इस्तेमाल करें
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-drone-technology-2026.webp

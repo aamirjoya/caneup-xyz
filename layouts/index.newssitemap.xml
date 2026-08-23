@@ -1,0 +1,52 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {{ $now := now }}
+  {{ range where .Site.RegularPages "Section" "news" }}
+  {{ $age := $now.Sub .Date }}
+  {{ if lt $age.Hours 48.0 }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>CaneUp</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</news:publication_date>
+      <news:title>{{ .Title | htmlEscape }}</news:title>
+      {{ with .Params.keywords }}<news:keywords>{{ delimit . ", " }}</news:keywords>{{ end }}
+    </news:news>
+    {{ with .Params.featured_image }}
+    <image:image>
+      <image:loc>{{ . | absURL }}</image:loc>
+      <image:title>{{ $.Title | htmlEscape }}</image:title>
+    </image:image>
+    {{ end }}
+  </url>
+  {{ end }}
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "posts" }}
+  {{ $age := $now.Sub .Date }}
+  {{ if lt $age.Hours 48.0 }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <news:news>
+      <news:publication>
+        <news:name>CaneUp</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</news:publication_date>
+      <news:title>{{ .Title | htmlEscape }}</news:title>
+      {{ with .Params.keywords }}<news:keywords>{{ delimit . ", " }}</news:keywords>{{ end }}
+    </news:news>
+    {{ with .Params.featured_image }}
+    <image:image>
+      <image:loc>{{ . | absURL }}</image:loc>
+      <image:title>{{ $.Title | htmlEscape }}</image:title>
+    </image:image>
+    {{ end }}
+  </url>
+  {{ end }}
+  {{ end }}
+</urlset>

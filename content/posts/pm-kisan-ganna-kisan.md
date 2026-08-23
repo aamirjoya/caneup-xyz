@@ -9,6 +9,8 @@ slug: pm-kisan-ganna-kisan
 keywords: ["PM किसान योजना गन्ना किसान", "PM Kisan 2026", "₹6000 कैसे मिले", "PM Kisan रजिस्ट्रेशन", "pm kisan ganna kisan 2026"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/pm-kisan-ganna-kisan.webp

@@ -21,6 +21,8 @@ keywords:
   - ganna kheti UP
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-kheti-calendar-2026.webp

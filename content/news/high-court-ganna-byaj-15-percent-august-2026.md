@@ -19,6 +19,8 @@ keywords:
 - 31 अगस्त सुनवाई
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/high-court-ganna-byaj-2026.webp

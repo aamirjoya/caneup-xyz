@@ -28,6 +28,8 @@ keywords:
 - "cane up portal"
 - "caneup 2026"
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 ShowToc: true
 ---
 

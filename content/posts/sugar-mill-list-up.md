@@ -9,6 +9,8 @@ slug: sugar-mill-list-up
 keywords: ["उत्तर प्रदेश शुगर मिल लिस्ट 2026", "UP sugar mill list complete", "यूपी की सभी चीनी मिलें", "UP district wise sugar mill list", "उत्तर प्रदेश गन्ना मिल"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/sugar-mill-list-up.webp

@@ -25,6 +25,8 @@ keywords:
 - "supply ticket"
 - "गन्ना आपूर्ति टिकट"
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 ShowToc: true
 ---
 

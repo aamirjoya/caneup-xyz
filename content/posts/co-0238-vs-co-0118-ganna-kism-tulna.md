@@ -29,6 +29,8 @@ keywords:
 - best variety for sugarcane farming
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp

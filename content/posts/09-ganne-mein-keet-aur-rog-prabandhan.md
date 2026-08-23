@@ -21,6 +21,8 @@ keywords:
 - गन्ने की बीमारियां
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp

@@ -9,6 +9,8 @@ slug: ganne-ka-juice-business
 keywords: [गन्ने का जूस बिज़नेस, गन्ना जूस बिज़नेस कैसे शुरू करें, गन्ने का रस बिज़नेस लागत मुनाफ़ा, sugarcane juice business plan India 2026]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ka-juice-business.webp

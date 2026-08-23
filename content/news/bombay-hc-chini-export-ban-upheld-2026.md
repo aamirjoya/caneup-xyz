@@ -19,6 +19,8 @@ keywords:
 - चीनी निर्यात प्रतिबंध
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/bombay-hc-export-ban-2026.webp

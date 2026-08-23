@@ -9,6 +9,8 @@ slug: dhampur-sugar-mills
 keywords: [धामपुर शुगर मिल्स, धामपुर चिनी मिल 2026, गन्ना पर्ची कैलेंडर धामपुर, धामपुर शुगर मिल TCD क्षमता, गन्ना मूल्य भुगतान बिजनौर 2026, धामपुर शुगर मिल्स किसान सुविधा, धामपुर गन्ना समिति, UP शुगर मिल बिजनौर]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/dhampur-sugar-mills.webp

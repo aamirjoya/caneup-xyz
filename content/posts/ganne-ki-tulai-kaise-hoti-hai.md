@@ -9,6 +9,8 @@ slug: ganne-ki-tulai-kaise-hoti-hai
 keywords: ["गन्ने की तुड़ाई कैसे होती है", "गन्ना कटाई का समय", "गन्ना काटने की मशीन", "गन्ने की तुड़ाई 2026", "ganne ki cutting kaise kare"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-tulai-kaise-hoti-hai.webp

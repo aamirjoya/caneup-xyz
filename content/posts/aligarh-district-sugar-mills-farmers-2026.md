@@ -32,6 +32,8 @@ keywords:
 featured_image: /images/blog/aligarh-6-sugar-mills-2026.webp
 image: /images/blog/aligarh-6-sugar-mills-2026.webp
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 ---

@@ -21,6 +21,8 @@ keywords:
 - KCC ब्याज दर 2026
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/kisan-credit-card-kcc-2026.webp

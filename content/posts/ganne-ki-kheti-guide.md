@@ -32,6 +32,8 @@ ShowToc: true
 featured_image: /images/blog/ganne-ki-kheti-guide.webp
 image: /images/blog/ganne-ki-kheti-guide.webp
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 ---

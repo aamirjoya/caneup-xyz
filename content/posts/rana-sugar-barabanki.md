@@ -9,6 +9,8 @@ slug: rana-sugar-barabanki
 keywords: ["राणा शुगर बाराबंकी", "Rana Sugar Barabanki 2026", "बाराबंकी चीनी मिल", "राणा शुगर मिल क्रशिंग कैपेसिटी", "UP sugar mill Barabanki"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/rana-sugar-barabanki.webp

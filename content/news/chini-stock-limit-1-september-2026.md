@@ -21,6 +21,8 @@ keywords:
   - CM Yogi on sugar hoarding
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/chini-stock-limit-sept-2026.webp

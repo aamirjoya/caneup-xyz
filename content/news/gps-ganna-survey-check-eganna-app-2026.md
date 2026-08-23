@@ -20,6 +20,8 @@ keywords:
   - गन्ना सट्टा रकबा सुधार
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/gps-ganna-survey-2026.webp

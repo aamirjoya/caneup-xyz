@@ -21,6 +21,8 @@ keywords:
 - sugarcane price 2026
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-msp-rate-2026-27.webp

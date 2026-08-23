@@ -9,6 +9,8 @@ slug: ganne-ki-parchi-kab-aayegi
 keywords: ["गन्ने की पर्ची कब आएगी", "पर्ची नहीं मिली", "गन्ना पर्ची स्टेटस", "पर्ची कैलेंडर 2026", "ganne ki parchi kab aayegi"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-parchi-kab-aayegi.webp

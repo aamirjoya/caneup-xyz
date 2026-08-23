@@ -9,6 +9,8 @@ slug: kisan-credit-card-ganna
 keywords: ["किसान क्रेडिट कार्ड गन्ना किसान", "KCC 2026", "KCC कैसे बनवाएं", "गन्ना किसान लोन", "kisan credit card ganna kisan"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/kisan-credit-card-ganna.webp

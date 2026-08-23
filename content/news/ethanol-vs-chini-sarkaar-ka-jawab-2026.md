@@ -19,6 +19,8 @@ keywords:
 - मक्का एथेनॉल
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/ethanol-vs-chini-2026.webp

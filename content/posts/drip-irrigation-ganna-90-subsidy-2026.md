@@ -27,6 +27,8 @@ keywords:
 - micro irrigation subsidy India 2026
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/drip-irrigation-ganna-90-subsidy-2026.webp

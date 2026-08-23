@@ -22,6 +22,8 @@ keywords:
 - चीनी का रेट आज का
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/chini-bhav-august-2026.webp

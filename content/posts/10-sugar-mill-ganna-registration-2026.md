@@ -21,6 +21,8 @@ keywords:
 - शुगर मिल रजिस्ट्रेशन दस्तावेज
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/sugar-mill-ganna-registration-2026.webp

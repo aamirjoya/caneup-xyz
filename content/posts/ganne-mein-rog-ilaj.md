@@ -9,6 +9,8 @@ slug: ganne-mein-rog-ilaj
 keywords: [गन्ने में रोग और इलाज, गन्ने की बीमारी, गन्ने में लाल सड़न, गन्ने में धब्बा रोग, गन्ने में पत्ती झुलसा, गन्ने में मोज़ेक रोग]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-mein-rog-ilaj.webp

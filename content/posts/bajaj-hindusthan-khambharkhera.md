@@ -21,6 +21,8 @@ keywords:
 - खम्भारखेड़ा शुगर मिल संपर्क नंबर
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bajaj-hindusthan-khambharkhera.webp

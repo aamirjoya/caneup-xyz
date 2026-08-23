@@ -9,6 +9,8 @@ slug: co-0238-ganna-variety
 keywords: ["Co-0238 गन्ना", "गन्ने की किस्म Co-0238", "Co-0238 विशेषताएं", "Co-0238 उत्पादन", "Co-0238 रिकवरी", "गन्ना किस्म 2026", "Co-0238 विशेषताएं हिंदी", "सर्वश्रेष्ठ गन्ने की किस्म", "उच्च उत्पादन वाली गन्ने की किस्म", "Co-0238 रिकवरी प्रतिशत", "ICAR-IISR Co-0238", "गन्ने की बेहतर किस्म", "उच्च रिकवरी वाली गन्ना किस्म", "Co-0238 बुआई का समय", "Co-0238 कटाई का समय", "गन्ना किस्म तुलना", "best sugarcane variety for UP"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/co-0238-ganna-variety.webp

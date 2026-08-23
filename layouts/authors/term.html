@@ -1,0 +1,170 @@
+{{ define "main" }}
+<style>
+.author-hero {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 32px;
+  background: linear-gradient(135deg, #1a7a2e 0%, #2d5016 100%);
+  color: white;
+  border-radius: 16px;
+  margin-bottom: 32px;
+}
+.author-hero img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid rgba(255,255,255,0.3);
+  object-fit: cover;
+}
+.author-hero h1 {
+  margin: 0 0 8px;
+  font-size: 2em;
+  color: white;
+}
+.author-hero .author-bio {
+  opacity: 0.9;
+  line-height: 1.6;
+}
+.author-stats {
+  display: flex;
+  gap: 24px;
+  margin-top: 12px;
+}
+.author-stat {
+  background: rgba(255,255,255,0.15);
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 0.9em;
+}
+.author-stat strong {
+  font-size: 1.3em;
+  display: block;
+}
+.author-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 24px;
+}
+.author-post-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: var(--entry);
+}
+.author-post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+.author-post-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+.author-post-card .card-body {
+  padding: 16px;
+}
+.author-post-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+.author-post-card h3 a {
+  color: var(--primary);
+  text-decoration: none;
+}
+.author-post-card .card-meta {
+  font-size: 0.85em;
+  color: var(--secondary);
+}
+.author-post-card .card-desc {
+  font-size: 0.9em;
+  color: var(--secondary);
+  margin-top: 8px;
+  line-height: 1.5;
+}
+.section-title {
+  font-size: 1.5em;
+  margin: 32px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 3px solid #1a7a2e;
+  display: inline-block;
+}
+@media (max-width: 600px) {
+  .author-hero { flex-direction: column; text-align: center; padding: 24px 16px; }
+  .author-stats { justify-content: center; flex-wrap: wrap; }
+  .author-posts-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+{{ $authorName := .Data.Term }}
+{{ $pages := .Pages }}
+
+<!-- Author Hero -->
+<div class="author-hero">
+  <img src="/images/authors/randhir-patil.jpg" alt="{{ $authorName }}" onerror="this.style.display='none'">
+  <div>
+    <h1>{{ .Title }}</h1>
+    <div class="author-bio">
+      CaneUp के संस्थापक और मुख्य संपादक। उत्तर प्रदेश के गन्ना किसानों के लिए भुगतान, पर्ची कैलेंडर, सरकारी योजनाओं और खेती से जुड़ी हर जानकारी प्रदान करते हैं। किसानों की आवाज़ — डिजिटल माध्यम से।
+    </div>
+    <div class="author-stats">
+      <div class="author-stat">
+        <strong>{{ len $pages }}</strong>
+        आर्टिकल्स
+      </div>
+      <div class="author-stat">
+        <strong>{{ len (where .Site.RegularPages "Section" "news") }}</strong>
+        न्यूज़
+      </div>
+      <div class="author-stat">
+        <strong>{{ len (where .Site.RegularPages "Section" "posts") }}</strong>
+        गाइड्स
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Latest News -->
+{{ $newsPages := where $pages "Section" "news" }}
+{{ if $newsPages }}
+<h2 class="section-title">📰 ताज़ा खबरें</h2>
+<div class="author-posts-grid">
+  {{ range first 6 (sort $newsPages "Date" "desc") }}
+  <div class="author-post-card">
+    {{ with .Params.featured_image }}
+    <a href="{{ $.Permalink }}"><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></a>
+    {{ end }}
+    <div class="card-body">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <div class="card-meta">📅 {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} मिनट</div>
+      {{ with .Description }}<div class="card-desc">{{ . | truncate 120 }}</div>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+
+<!-- Blog Posts / Guides -->
+{{ $postPages := where $pages "Section" "posts" }}
+{{ if $postPages }}
+<h2 class="section-title">📝 गाइड्स और आर्टिकल्स</h2>
+<div class="author-posts-grid">
+  {{ range sort $postPages "Date" "desc" }}
+  <div class="author-post-card">
+    {{ with .Params.featured_image }}
+    <a href="{{ $.Permalink }}"><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></a>
+    {{ end }}
+    <div class="card-body">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <div class="card-meta">📅 {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} मिनट</div>
+      {{ with .Description }}<div class="card-desc">{{ . | truncate 120 }}</div>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+
+{{ end }}

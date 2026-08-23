@@ -21,6 +21,8 @@ keywords:
 - गन्ने से पेट्रोल बनाने का बिज़नेस
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-se-ethanol-business-2026-kaise-kare.webp

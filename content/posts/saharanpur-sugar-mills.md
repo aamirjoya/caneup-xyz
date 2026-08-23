@@ -9,6 +9,8 @@ slug: saharanpur-sugar-mills
 keywords: [सहारनपुर चीनी मिल, सहारनपुर शुगर मिल्स 2026, Saharanpur sugar mills list, बजाज हिंदुस्तान गंगनौली, देवबंद चीनी मिल, सरसावा चीनी मिल, सहारनपुर गन्ना मिल]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/saharanpur-sugar-mills.webp

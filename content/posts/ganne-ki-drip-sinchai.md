@@ -9,6 +9,8 @@ slug: ganne-ki-drip-sinchai
 keywords: [गन्ने में ड्रिप सिंचाई, ड्रिप इरिगेशन गन्ना, गन्ने में ड्रिप कैसे लगाएं, ड्रिप सिंचाई का खर्च, ड्रिप सिंचाई सब्सिडी, drip irrigation for sugarcane in hindi, "ड्रिप सिंचाई लागत", "ड्रिप सिस्टम सब्सिडी", "गन्ने में पानी बचाने की विधि", "किसान के लिए ड्रिप सिंचाई", "सिंचाई सब्सिडी योजना", "ड्रिप इरिगेशन बेनिफिट्स", "गन्ने की खेती में पानी बचाना", "धान गन्ना सिचाई विधि", "कृषि विभाग ड्रिप योजना"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-drip-sinchai.webp

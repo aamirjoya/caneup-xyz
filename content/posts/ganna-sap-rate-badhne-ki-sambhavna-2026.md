@@ -22,6 +22,8 @@ keywords:
 - गन्ना MSP रेट अगस्त 2026
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp

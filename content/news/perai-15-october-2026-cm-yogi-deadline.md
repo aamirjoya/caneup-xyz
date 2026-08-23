@@ -19,6 +19,8 @@ keywords:
 - गन्ना मिल deadline
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/perai-15-october-2026.webp

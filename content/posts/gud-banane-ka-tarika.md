@@ -9,6 +9,8 @@ slug: gud-banane-ka-tarika
 keywords: [गुड़ कैसे बनाएं, गन्ने से गुड़ बनाने का तरीका, गुड़ बनाने की विधि, गुड़ उत्पादन, गन्ने का रस से गुड़, jaggery making process in hindi, गुड़ बनाने का बिज़नेस]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/gud-banane-ka-tarika.webp

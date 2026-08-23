@@ -21,6 +21,8 @@ keywords:
 - गन्ने की उन्नत किस्में
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-nai-kismen-2026.webp

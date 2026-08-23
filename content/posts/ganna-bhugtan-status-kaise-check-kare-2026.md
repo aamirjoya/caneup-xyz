@@ -22,6 +22,8 @@ keywords:
   - up ganna payment 14 days interest rule
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/bhugtan-status-check-2026.webp

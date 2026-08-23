@@ -22,6 +22,8 @@ keywords:
   - eganna helpline
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganna-helpline-2026.webp

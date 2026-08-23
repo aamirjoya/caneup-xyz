@@ -20,6 +20,8 @@ keywords:
 - TRQ sugar India
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/chini-import-10-lmt-2026.webp

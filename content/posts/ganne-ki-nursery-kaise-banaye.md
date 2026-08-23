@@ -9,6 +9,8 @@ slug: ganne-ki-nursery-kaise-banaye
 keywords: [गन्ने की नर्सरी कैसे बनाएं, बीज गन्ना, गन्ने की पौध, गन्ने की बुवाई, टिश्यू कल्चर गन्ना]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-nursery-kaise-banaye.webp

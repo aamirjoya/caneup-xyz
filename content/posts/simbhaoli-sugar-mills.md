@@ -9,6 +9,8 @@ slug: simbhaoli-sugar-mills
 keywords: ["सिम्भावली शुगर मिल्स बिजनौर", "Simbhaoli sugar mills 2026", "बिजनौर चीनी मिल", "सिम्भावली शुगर मिल क्रशिंग कैपेसिटी", "UP sugar mill Bijnor"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/simbhaoli-sugar-mills.webp

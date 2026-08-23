@@ -21,6 +21,8 @@ keywords:
 - sugar rate 2026 India
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/chini-ka-bhav-4000-quintal-august-2026.webp

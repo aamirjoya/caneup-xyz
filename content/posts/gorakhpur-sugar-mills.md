@@ -9,6 +9,8 @@ slug: gorakhpur-sugar-mills
 keywords: [गोरखपुर चीनी मिल, गोरखपुर शुगर मिल्स 2026, Gorakhpur sugar mills list, गोरखपुर गन्ना मिल, UP sugar mills gorakhpur, धुरियापार चीनी मिल, पिपरौइच चीनी मिल, सरदारनगर चीनी मिल]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/gorakhpur-sugar-mills.webp

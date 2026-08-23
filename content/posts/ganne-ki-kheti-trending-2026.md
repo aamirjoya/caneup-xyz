@@ -28,6 +28,8 @@ keywords:
 featured_image: /images/blog/trending-farming-techniques-2026.webp
 image: /images/blog/trending-farming-techniques-2026.webp
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 ---

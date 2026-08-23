@@ -19,6 +19,8 @@ keywords:
 - चीनी मिल profit 2026
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/news/chini-4000-quintal-2026.webp

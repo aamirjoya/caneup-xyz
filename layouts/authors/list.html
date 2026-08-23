@@ -1,0 +1,57 @@
+{{ define "main" }}
+<style>
+.authors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+  margin-top: 24px;
+}
+.author-card {
+  background: var(--entry);
+  border: 1px solid #e0e0e0;
+  border-radius: 16px;
+  padding: 32px;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.author-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+.author-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 16px;
+  border: 3px solid #1a7a2e;
+}
+.author-card h3 { margin: 0 0 8px; }
+.author-card h3 a { color: var(--primary); text-decoration: none; }
+.author-card .post-count {
+  background: #1a7a2e;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.85em;
+  display: inline-block;
+  margin-top: 8px;
+}
+</style>
+
+<h1>✍️ लेखक (Authors)</h1>
+<p>CaneUp पर लिखने वाले सभी लेखक — उनकी profile और सभी articles देखें।</p>
+
+<div class="authors-grid">
+  {{ range .Data.Terms.Alphabetical }}
+  <div class="author-card">
+    <a href="{{ .Page.Permalink }}">
+      <img src="/images/authors/randhir-patil.jpg" alt="{{ .Page.Title }}" onerror="this.src='/images/og-default.jpg'">
+    </a>
+    <h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
+    <p style="color: var(--secondary); font-size: 0.9em;">CaneUp - गन्ना किसान पोर्टल</p>
+    <span class="post-count">{{ .Count }} आर्टिकल्स</span>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

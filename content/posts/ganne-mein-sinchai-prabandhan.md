@@ -27,6 +27,8 @@ ShowToc: true
 featured_image: /images/blog/ganne-ki-drip-sinchai.webp
 image: /images/blog/ganne-ki-drip-sinchai.webp
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 ---

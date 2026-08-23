@@ -9,6 +9,8 @@ slug: ganne-ki-nai-kism-2026
 keywords: ["गन्ने की नई किस्में 2026", "Co-0238", "Co-0118", "Co-86032", "गन्ने की अच्छी किस्म", "ganne ki kism 2026"]
 ShowToc: true
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 featured_image: /images/blog/ganne-ki-nai-kism-2026.webp

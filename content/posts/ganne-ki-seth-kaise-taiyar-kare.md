@@ -3,6 +3,8 @@ title: "गन्ने की सेथ कैसे तैयार करे�
 date: 2026-08-20 17:00:00+05:30
 lastmod: 2026-08-21 17:00:00+05:30
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
 description: "गन्ने की सेथ तैयार करने की सही विधि 2026 — बीज उपचार, ट्रेंच विधि, रिज विधि, अंकुरण दर बढ़ाने के टिप्स। 90% अंकुरण कैसे पाएं — CaneUp पर स्टेप-बाय-स्टेप गाइड।"

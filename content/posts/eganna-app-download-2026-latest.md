@@ -26,6 +26,8 @@ keywords:
 - "ganna app"
 - "eganna app install"
 author: "Randhir Patil"
+authors:
+- "Randhir Patil"
 ShowToc: true
 ---
 
