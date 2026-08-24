@@ -22,3 +22,5 @@ skills/
 node_modules/
 package-lock.json
 .openclaw/
+
+scripts/indexing-log.json
