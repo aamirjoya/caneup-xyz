@@ -18,6 +18,12 @@ Credential: ~/.config/caneup-google-service-account.json
 import json
 import sys
 import os
+
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
 import time
 import argparse
 import xml.etree.ElementTree as ET
@@ -184,9 +190,12 @@ def batch_submit(urls, dry_run=False):
             print(f"  ✅ {i:3d}/{len(submit_list)} | {url}")
         else:
             error_count += 1
-            error_short = result["error"][:80]
+            error_short = result["error"][:100]
             print(f"  ❌ {i:3d}/{len(submit_list)} | {url}")
             print(f"       Error: {error_short}")
+            if "429" in error_short or "Quota" in error_short:
+                print("\n⚠️  Google Indexing API Rate Limit / Daily Quota (429) hit. Stopping batch.")
+                break
 
         # Rate limiting: 1 request per 0.5 second
         if i < len(submit_list):
