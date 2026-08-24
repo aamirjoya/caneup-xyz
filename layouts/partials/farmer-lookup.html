@@ -20,13 +20,13 @@
 
 {{ $subtitle := "अपना Grower Code डालें और जिला-फैक्टरी चुनें" }}
 
-{{ $portalUrl := "https://cane.up.gov.in/site/parchi_cal_status.aspx" }}
-{{ if eq $mode "bhugtan" }}{{ $portalUrl = "https://cane.up.gov.in/site/payment_status.aspx"       }}{{ end }}
-{{ if eq $mode "survey"  }}{{ $portalUrl = "https://cane.up.gov.in/site/farmer_survey_form.aspx"    }}{{ end }}
-{{ if eq $mode "eganna"  }}{{ $portalUrl = "https://eganna.up.gov.in/eganna/"                       }}{{ end }}
+{{ $portalUrl := "https://enquiry.caneup.in/" }}
+{{ if eq $mode "parchi"  }}{{ $portalUrl = "https://enquiry.caneup.in/"  }}{{ end }}
+{{ if eq $mode "bhugtan" }}{{ $portalUrl = "https://enquiry.caneup.in/"  }}{{ end }}
+{{ if eq $mode "survey"  }}{{ $portalUrl = "https://enquiry.caneup.in/"  }}{{ end }}
+{{ if eq $mode "eganna"  }}{{ $portalUrl = "https://enquiry.caneup.in/"  }}{{ end }}
 
-{{ $portalNote := "eganna.up.gov.in" }}
-{{ if eq $mode "survey" }}{{ $portalNote = "cane.up.gov.in" }}{{ end }}
+{{ $portalNote := "enquiry.caneup.in" }}
 
 <div class="fw-wrap" id="{{ $id }}"
      data-mode="{{ $mode }}"
@@ -50,52 +50,68 @@
         <label for="{{ $id }}-district">जिला (District)</label>
         <select id="{{ $id }}-district">
           <option value="">— जिला चुनें —</option>
-          <option value="saharanpur">सहारनपुर</option>
-          <option value="muzaffarnagar">मुजफ्फरनगर</option>
-          <option value="shamli">शामली</option>
-          <option value="meerut">मेरठ</option>
-          <option value="baghpat">बागपत</option>
-          <option value="bijnor">बिजनौर</option>
-          <option value="amroha">अमरोहा</option>
-          <option value="moradabad">मुरादाबाद</option>
-          <option value="rampur">रामपुर</option>
-          <option value="bareilly">बरेली</option>
-          <option value="badaun">बदायूं</option>
-          <option value="pilibhit">पीलीभीत</option>
-          <option value="shahjahanpur">शाहजहांपुर</option>
-          <option value="lakhimpur-kheri">लखीमपुर खीरी</option>
-          <option value="sitapur">सीतापुर</option>
-          <option value="hardoi">हरदोई</option>
+          <option value="agra">आगरा</option>
           <option value="aligarh">अलीगढ़</option>
-          <option value="mathura">मथुरा</option>
-          <option value="bulandshahr">बुलंदशहर</option>
-          <option value="hapur">हापुड़</option>
-          <option value="gorakhpur">गोरखपुर</option>
-          <option value="kushinagar">कुशीनगर</option>
-          <option value="deoria">देवरिया</option>
-          <option value="maharajganj">महाराजगंज</option>
-          <option value="balrampur">बलरामपुर</option>
-          <option value="gonda">गोंडा</option>
-          <option value="bahraich">बहराइच</option>
-          <option value="barabanki">बाराबंकी</option>
-          <option value="lucknow">लखनऊ</option>
-          <option value="unnao">उन्नाव</option>
-          <option value="kanpur">कानपुर</option>
-          <option value="fatehpur">फतेहपुर</option>
-          <option value="etah">एटा</option>
-          <option value="mainpuri">मैनपुरी</option>
-          <option value="kannauj">कन्नौज</option>
-          <option value="farrukhabad">फर्रुखाबाद</option>
-          <option value="sultanpur">सुलतानपुर</option>
-          <option value="allahabad">प्रयागराज</option>
-          <option value="raebareli">रायबरेली</option>
+          <option value="ambedkar-nagar">अम्बेडकरनगर</option>
+          <option value="amroha">अमरोहा (जे.पी. नगर)</option>
+          <option value="auraiya">औरैया</option>
+          <option value="ayodhya">अयोध्या (फैजाबाद)</option>
           <option value="azamgarh">आजमगढ़</option>
-          <option value="mau">मऊ</option>
+          <option value="baghpat">बागपत</option>
+          <option value="bahraich">बहराइच</option>
           <option value="ballia">बलिया</option>
+          <option value="balrampur">बलरामपुर</option>
+          <option value="barabanki">बाराबंकी</option>
+          <option value="bareilly">बरेली</option>
+          <option value="basti">बस्ती</option>
+          <option value="bijnor">बिजनौर</option>
+          <option value="budaun">बदायूं</option>
+          <option value="bulandshahr">बुलंदशहर</option>
+          <option value="chandauli">चंदौली</option>
+          <option value="deoria">देवरिया</option>
+          <option value="etah">एटा</option>
+          <option value="etawah">इटावा</option>
+          <option value="farrukhabad">फर्रुखाबाद</option>
+          <option value="fatehpur">फतेहपुर</option>
+          <option value="firozabad">फिरोजाबाद</option>
+          <option value="ghaziabad">गाज़ियाबाद</option>
+          <option value="ghazipur">गाज़ीपुर</option>
+          <option value="gonda">गोंडा</option>
+          <option value="gorakhpur">गोरखपुर</option>
+          <option value="hapur">हापुड़</option>
+          <option value="hardoi">हरदोई</option>
+          <option value="hathras">हाथरस (महामाया नगर)</option>
           <option value="jaunpur">जौनपुर</option>
-          <option value="varanasi">वाराणसी</option>
+          <option value="kannauj">कन्नौज</option>
+          <option value="kanpur-dehat">कानपुर देहात</option>
+          <option value="kanpur-nagar">कानपुर नगर</option>
+          <option value="kasganj">कासगंज</option>
+          <option value="kushinagar">कुशीनगर</option>
+          <option value="lakhimpur-kheri">लखीमपुर खीरी</option>
+          <option value="lucknow">लखनऊ</option>
+          <option value="maharajganj">महाराजगंज</option>
+          <option value="mainpuri">मैनपुरी</option>
+          <option value="mathura">मथुरा</option>
+          <option value="mau">मऊ</option>
+          <option value="meerut">मेरठ</option>
           <option value="mirzapur">मिर्जापुर</option>
-          <option value="sonbhadra">सोनभद्र</option>
+          <option value="moradabad">मुरादाबाद</option>
+          <option value="muzaffarnagar">मुज़फ्फरनगर</option>
+          <option value="pilibhit">पीलीभीत</option>
+          <option value="pratapgarh">प्रतापगढ़</option>
+          <option value="prayagraj">प्रयागराज (इलाहाबाद)</option>
+          <option value="raebareli">रायबरेली</option>
+          <option value="rampur">रामपुर</option>
+          <option value="saharanpur">सहारनपुर</option>
+          <option value="sambhal">सम्भल</option>
+          <option value="sant-kabir-nagar">संत कबीर नगर</option>
+          <option value="shahjahanpur">शाहजहांपुर</option>
+          <option value="shamli">शामली</option>
+          <option value="shravasti">श्रावस्ती</option>
+          <option value="siddharthnagar">सिद्धार्थनगर</option>
+          <option value="sitapur">सीतापुर</option>
+          <option value="sultanpur">सुलतानपुर</option>
+          <option value="unnao">उन्नाव</option>
         </select>
       </div>
     </div>
@@ -133,11 +149,7 @@
 
   <p class="fw-note">
     यह CaneUp का सर्च टूल है।
-    {{ if eq $mode "survey" }}
-    आधिकारिक जानकारी: <a href="https://cane.up.gov.in" target="_blank" rel="noopener">cane.up.gov.in</a>
-    {{ else }}
-    आधिकारिक जानकारी: <a href="https://eganna.up.gov.in" target="_blank" rel="noopener">eganna.up.gov.in</a>
-    {{ end }}
+    आधिकारिक जानकारी: <a href="https://enquiry.caneup.in/" target="_blank" rel="noopener">enquiry.caneup.in</a>
     — आपका डेटा सेव नहीं होता।
   </p>
 </div>
@@ -179,25 +191,99 @@ if(window.fwInitDone) return;
 window.fwInitDone = true;
 
 var FACTORIES = {
-  "saharanpur":["सिम्भावली शुगर — सहारनपुर","त्रिवेणी इंजीनियरिंग — सहारनपुर"],
-  "muzaffarnagar":["त्रिवेणी — मुजफ्फरनगर","बजाज हिंदुस्थान — बुढ़ाना","बजाज हिंदुस्थान — थाना भवन","बजाज हिंदुस्थान — किनौनी","धामपुर — मुजफ्फरनगर","सिम्भावली — मुजफ्फरनगर"],
-  "bijnor":["बजाज हिंदुस्थान — बिलाई","बजाज हिंदुस्थान — गंगनौली","त्रिवेणी — बिजनौर","द्वारिकेश शुगर — बिजनौर"],
-  "meerut":["त्रिवेणी — मेरठ","दौराला शुगर — मेरठ","राणा शुगर — मेरठ"],
-  "bareilly":["त्रिवेणी — बरेली","द्वारिकेश — बरेली","केसर एंटरप्राइजेज — बहेड़ी"],
-  "pilibhit":["बजाज हिंदुस्थान — बरखेड़ा","बजाज हिंदुस्थान — खम्भारखेड़ा"],
-  "shahjahanpur":["रोजा शुगर — शाहजहांपुर","किसान शुगर — शाहजहांपुर"],
-  "lakhimpur-kheri":["बजाज हिंदुस्थान — गोला","बजाज हिंदुस्थान — पलिया","बलरामपुर चिनी — हैदरगढ़","बलरामपुर चिनी — बभनान"],
-  "sitapur":["बलरामपुर चिनी — बभनान","सीतापुर शुगर मिल"],
-  "gorakhpur":["सिम्भावली — गोरखपुर","गोरखपुर शुगर मिल"],
-  "kushinagar":["कुशीनगर शुगर मिल"],
-  "deoria":["बलरामपुर चिनी — तुलसीपुर","देवरिया शुगर मिल"],
-  "aligarh":["अनूपशहर शुगर मिल","मझावली वेन्नस शुगर मिल","नेवली शुगर मिल","राजपूर शुगर मिल","साबितगढ़ शुगर मिल","साथा शुगर मिल"],
-  "amroha":["त्रिवेणी — अमरोहा","धामपुर — अमरोहा"],
-  "moradabad":["बजाज हिंदुस्थान — कुंदरखी"],
-  "balrampur":["बलरामपुर चिनी — बलरामपुर","बलरामपुर चिनी — अकबरपुर"],
-  "gonda":["बलरामपुर चिनी — गोंडा"],
-  "barabanki":["राना शुगर — बाराबंकी"],
-  "hardoi":["लखनऊ डिस्टिलरी — हरदोई"]
+  "agra":["अवध शुगर — अवध","दालमिया शुगर — रामगढ़"],
+  "aligarh":["अनूपशहर सहकारी — अनूपशहर","मझावली वेन्नस शुगर — चंदौस","नेवली शुगर फैक्ट्री — नेवली","राजपुरा शुगर — राजपुरा","साबितगढ़ शुगर — साबितगढ़","साथा शुगर — साथा","त्रिवेणी इंजीनियरिंग — डाइकिनगंज"],
+  "ambedkar-nagar":["अम्बेडकरनगर सहकारी शुगर मिल","बलरामपुर चिनी — अकबरपुर"],
+  "amroha":["त्रिवेणी इंजीनियरिंग — अमरोहा","धामपुर शुगर — अमरोहा","सिम्भावली शुगर — अमरोहा"],
+  "auraiya":["दालमिया शुगर — जसवंतनगर","औरैया सहकारी शुगर मिल"],
+  "ayodhya":["अवध शुगर — फैजाबाद","रुदौली सहकारी मिल"],
+  "azamgarh":["त्रिवेणी इंजीनियरिंग — आजमगढ़","बजाज हिंदुस्थान — उतरौला","आजमगढ़ सहकारी मिल"],
+  "baghpat":["बागपत सहकारी शुगर मिल","दौराला शुगर — बागपत","त्रिवेणी — बागपत"],
+  "bahraich":["बलरामपुर चिनी — बहराइच","बहराइच सहकारी शुगर मिल","अवध शुगर — बहराइच"],
+  "ballia":["बलिया सहकारी शुगर मिल","त्रिवेणी शुगर — बलिया"],
+  "balrampur":["बलरामपुर चिनी — बलरामपुर","बलरामपुर चिनी — तुलसीपुर","मनकापुर सहकारी शुगर मिल"],
+  "barabanki":["राणा शुगर — बाराबंकी","बाराबंकी सहकारी शुगर मिल","दालमिया शुगर — बाराबंकी","हरियावां शुगर — बाराबंकी"],
+  "bareilly":["त्रिवेणी इंजीनियरिंग — बरेली","द्वारिकेश शुगर — बरेली","केसर एंटरप्राइजेज — बहेड़ी","बजाज हिंदुस्थान — बरेली","बरेली सहकारी शुगर मिल"],
+  "basti":["बस्ती सहकारी शुगर मिल","वाल्थिन शुगर — बस्ती"],
+  "bijnor":["बजाज हिंदुस्थान — बिलाई","बजाज हिंदुस्थान — गंगनौली","त्रिवेणी इंजीनियरिंग — बिजनौर","द्वारिकेश शुगर — बिजनौर","धामपुर शुगर — धामपुर","सिम्भावली — बिजनौर","बिजनौर सहकारी मिल"],
+  "budaun":["बदायूं सहकारी शुगर मिल","रोज़ा शुगर — बदायूं"],
+  "bulandshahr":["सिम्भावली शुगर — बुलंदशहर","बुलंदशहर सहकारी मिल","अनूपशहर शुगर — बुलंदशहर","गुलावठी शुगर मिल"],
+  "chandauli":["चंदौली सहकारी शुगर मिल"],
+  "deoria":["बलरामपुर चिनी — देवरिया","देवरिया सहकारी शुगर मिल","बजाज हिंदुस्थान — देवरिया","गौरीबाज़ार शुगर मिल","लार शुगर — देवरिया"],
+  "etah":["एटा सहकारी शुगर मिल","अवध शुगर — एटा"],
+  "etawah":["इटावा सहकारी शुगर मिल"],
+  "farrukhabad":["फर्रुखाबाद सहकारी शुगर मिल","कायमगंज शुगर मिल"],
+  "fatehpur":["फतेहपुर सहकारी शुगर मिल"],
+  "firozabad":["फिरोजाबाद सहकारी शुगर मिल"],
+  "ghaziabad":["मोदीनगर शुगर — गाजियाबाद","गाज़ियाबाद सहकारी मिल"],
+  "ghazipur":["गाज़ीपुर सहकारी शुगर मिल","सैदपुर शुगर मिल"],
+  "gonda":["बलरामपुर चिनी — गोंडा","गोंडा सहकारी शुगर मिल","मनकापुर शुगर — गोंडा"],
+  "gorakhpur":["गोरखपुर सहकारी शुगर मिल","बजाज हिंदुस्थान — गोरखपुर","सिम्भावली — गोरखपुर","सरदारनगर शुगर — गोरखपुर","पिपराइच शुगर मिल"],
+  "hapur":["हापुड़ शुगर मिल","सिम्भावली — हापुड़"],
+  "hardoi":["हरदोई सहकारी शुगर मिल","अवध शुगर — हरदोई","बेगमाबाद शुगर — हरदोई","लखनऊ डिस्टिलरी — हरदोई"],
+  "hathras":["हाथरस सहकारी शुगर मिल","बालाजी शुगर — हाथरस"],
+  "jaunpur":["जौनपुर सहकारी शुगर मिल"],
+  "kannauj":["कन्नौज सहकारी शुगर मिल","कन्नौज शुगर — तिरवा"],
+  "kanpur-dehat":["कानपुर देहात शुगर मिल","पुखरायां शुगर मिल"],
+  "kanpur-nagar":["कानपुर शुगर मिल","आई.आई.एल — कानपुर"],
+  "kasganj":["कासगंज सहकारी शुगर मिल"],
+  "kushinagar":["कुशीनगर सहकारी शुगर मिल","रामकोला शुगर — कुशीनगर","पडरौना शुगर मिल","तमकुही शुगर मिल","हाटा शुगर मिल"],
+  "lakhimpur-kheri":["बजाज हिंदुस्थान — गोला गोकर्णनाथ","बजाज हिंदुस्थान — पलिया कलां","बलरामपुर चिनी — खीरी","बजाज हिंदुस्थान — मक़सूदापुर","खीरी सहकारी शुगर मिल","ओयल शुगर — लखीमपुर","निघासन शुगर मिल","मैलानी शुगर मिल","सम्पूर्णानगर शुगर मिल"],
+  "lucknow":["लखनऊ सहकारी शुगर मिल","अवध शुगर — लखनऊ"],
+  "maharajganj":["बजाज हिंदुस्थान — महाराजगंज","महाराजगंज सहकारी शुगर मिल","सिसवा बाज़ार शुगर मिल","फरेंदा शुगर मिल","आनंदनगर शुगर मिल"],
+  "mainpuri":["मैनपुरी सहकारी शुगर मिल"],
+  "mathura":["मथुरा सहकारी शुगर मिल"],
+  "mau":["मऊ सहकारी शुगर मिल","घोसी शुगर मिल"],
+  "meerut":["त्रिवेणी इंजीनियरिंग — मेरठ","दौराला शुगर — मेरठ","सिम्भावली — मेरठ","मेरठ सहकारी शुगर मिल","मोदीनगर — मेरठ"],
+  "mirzapur":["मिर्जापुर सहकारी शुगर मिल"],
+  "moradabad":["बजाज हिंदुस्थान — कुंदरखी","मुरादाबाद सहकारी शुगर मिल","धनौरा शुगर — मुरादाबाद"],
+  "muzaffarnagar":["त्रिवेणी इंजीनियरिंग — मुजफ्फरनगर","बजाज हिंदुस्थान — बुढ़ाना","बजाज हिंदुस्थान — थानाभवन","बजाज हिंदुस्थान — किनौनी","धामपुर शुगर — मुजफ्फरनगर","सिम्भावली — मुजफ्फरनगर","तिलकनगर शुगर — मुजफ्फरनगर","शामली शुगर — मुजफ्फरनगर","मंसूरपुर शुगर — मुजफ्फरनगर","खतौली शुगर — मुजफ्फरनगर"],
+  "pilibhit":["बजाज हिंदुस्थान — बरखेड़ा","बजाज हिंदुस्थान — खम्भारखेड़ा","पीलीभीत सहकारी शुगर मिल","बीसलपुर शुगर मिल","पूरनपुर शुगर मिल"],
+  "pratapgarh":["प्रतापगढ़ सहकारी शुगर मिल"],
+  "prayagraj":["प्रयागराज सहकारी शुगर मिल","मेजा शुगर — प्रयागराज"],
+  "raebareli":["रायबरेली सहकारी शुगर मिल","अवध शुगर — रायबरेली","मुंशीगंज शुगर — रायबरेली"],
+  "rampur":["बजाज हिंदुस्थान — रामपुर","रामपुर सहकारी शुगर मिल","बिलासपुर शुगर — रामपुर"],
+  "saharanpur":["सिम्भावली शुगर — सहारनपुर","त्रिवेणी इंजीनियरिंग — सहारनपुर","धामपुर — सहारनपुर","देवबंद शुगर — सहारनपुर","सहारनपुर सहकारी शुगर मिल","नानौता शुगर — सहारनपुर"],
+  "sambhal":["सम्भल सहकारी शुगर मिल","चंदौसी शुगर — सम्भल"],
+  "sant-kabir-nagar":["संत कबीर नगर सहकारी मिल","खलीलाबाद शुगर — संत कबीर नगर"],
+  "shahjahanpur":["रोजा शुगर — शाहजहांपुर","किसान शुगर — शाहजहांपुर","बजाज हिंदुस्थान — शाहजहांपुर","शाहजहांपुर सहकारी मिल","जलालाबाद शुगर — शाहजहांपुर","पुवायां शुगर — शाहजहांपुर","तिलहर शुगर — शाहजहांपुर"],
+  "shamli":["शामली शुगर — शामली","बजाज हिंदुस्थान — शामली","त्रिवेणी — शामली"],
+  "shravasti":["श्रावस्ती सहकारी शुगर मिल"],
+  "siddharthnagar":["सिद्धार्थनगर शुगर मिल","वाल्थिन शुगर — सिद्धार्थनगर","ऊसगाँव शुगर मिल"],
+  "sitapur":["बलरामपुर चिनी — सीतापुर","बजाज हिंदुस्थान — रुदौली","सीतापुर सहकारी शुगर मिल","बिसवां शुगर — सीतापुर","महमूदाबाद शुगर — सीतापुर","लहरपुर शुगर — सीतापुर"],
+  "sultanpur":["सुलतानपुर सहकारी शुगर मिल","अवध शुगर — सुलतानपुर"],
+  "unnao":["उन्नाव सहकारी शुगर मिल","अवध शुगर — उन्नाव","बांगरमऊ शुगर — उन्नाव"]
+};
+
+var VILLAGES = {
+  "बजाज हिंदुस्थान — बुढ़ाना":["बुढ़ाना","शेरपुर","मसौली","झिंझाना","चरथावल","इस्माइलपुर","उन ठाना","लिसाढ़","खतौली","सोरम","शाहपुर","कांधला"],
+  "बजाज हिंदुस्थान — थानाभवन":["थानाभवन","गंगारू","सिकंदरपुर","कैराना","मरनी","ननौता","कौशर","उन ठाना","कमालपुर","शाहपुर"],
+  "बजाज हिंदुस्थान — किनौनी":["किनौनी","जलालाबाद","पुरकाजी","मोरना","शाहपुर","अमीनगर","खतौली"],
+  "धामपुर शुगर — धामपुर":["धामपुर","नगीना","नजीबाबाद","सेवहरा","अफजलगढ़","कीरतपुर","चांदपुर"],
+  "बजाज हिंदुस्थान — बिलाई":["बिलाई","मंडावर","चांदपुर","नजीबाबाद","कोटद्वार"],
+  "बजाज हिंदुस्थान — गंगनौली":["गंगनौली","नूरपुर","हल्दौर","रिठौरा","ताजपुर"],
+  "त्रिवेणी इंजीनियरिंग — मेरठ":["मेरठ","सरधना","मवाना","बहसुमा","हस्तिनापुर","जानी","किठौर","रजपुरा","पारीक्षितगढ़"],
+  "सिम्भावली शुगर — सहारनपुर":["सहारनपुर","देवबंद","रामपुर मनिहारान","नकुड़","बेहट","गंगोह"],
+  "त्रिवेणी इंजीनियरिंग — सहारनपुर":["गंगोह","नकुड़","बेहट","सहारनपुर","रामपुर मनिहारान"],
+  "बजाज हिंदुस्थान — गोला गोकर्णनाथ":["गोला","ढौरहरा","पसगवां","लखीमपुर","बनबसा"],
+  "बजाज हिंदुस्थान — पलिया कलां":["पलिया कलां","निघासन","मैलानी","ओयल","बनकटी"],
+  "बजाज हिंदुस्थान — मक़सूदापुर":["मक़सूदापुर","मोहम्मदी","खीरी","बेहजम"],
+  "बलरामपुर चिनी — बलरामपुर":["बलरामपुर","तुलसीपुर","गैसड़ी","उतरौला","पचपेड़वा"],
+  "बलरामपुर चिनी — तुलसीपुर":["तुलसीपुर","बलरामपुर","गैसड़ी","श्रावस्ती"],
+  "बलरामपुर चिनी — अकबरपुर":["अकबरपुर","जलालपुर","टांडा","रामनगर"],
+  "बजाज हिंदुस्थान — बरखेड़ा":["बरखेड़ा","पीलीभीत","बीसलपुर","पूरनपुर","अमरिया"],
+  "बजाज हिंदुस्थान — खम्भारखेड़ा":["खम्भारखेड़ा","पीलीभीत","मरोड़ी","न्योरिया"],
+  "त्रिवेणी इंजीनियरिंग — बरेली":["बरेली","आँवला","फरीदपुर","मीरगंज","बहेड़ी","शाहजहांपुर"],
+  "रोजा शुगर — शाहजहांपुर":["रोजा","शाहजहांपुर","तिलहर","जलालाबाद","पुवायां","निगोही"],
+  "गोरखपुर सहकारी शुगर मिल":["गोरखपुर","बांसगांव","चौरीचौरा","सहजनवां","पिपराइच","कैम्पियरगंज"],
+  "कुशीनगर सहकारी शुगर मिल":["कुशीनगर","पडरौना","हाटा","तमकुही","रामकोला","सेवरही","कसया"],
+  "राणा शुगर — बाराबंकी":["बाराबंकी","सिरौली","रामनगर","फतेहपुर","देवा","बानकेगंज"],
+  "अनूपशहर सहकारी — अनूपशहर":["अनूपशहर","डिबाई","अलीगढ़","खैर","अतरौली"],
+  "साथा शुगर — साथा":["साथा","अलीगढ़","हाथरस","इगलास","बेसवान"],
+  "बजाज हिंदुस्थान — कुंदरखी":["कुंदरखी","मुरादाबाद","चंदौसी","सम्भल","बिलारी"],
+  "त्रिवेणी इंजीनियरिंग — अमरोहा":["अमरोहा","हसनपुर","गजरौला","धनौरा","नगीना"],
+  "देवरिया सहकारी शुगर मिल":["देवरिया","बरहज","भाटपार रानी","सलेमपुर","लार"],
+  "बजाज हिंदुस्थान — महाराजगंज":["महाराजगंज","फरेंदा","सिसवा बाजार","आनंदनगर","निचलौल","ब्रिजमनगंज"]
 };
 
 // District change: populate factory dropdown
@@ -214,12 +300,19 @@ document.addEventListener('change', function(e){
   list.forEach(function(f){ fSel.innerHTML += '<option value="'+f+'">'+f+'</option>'; });
 });
 
-// Factory change: set village placeholder
+// Factory change: populate village dropdown
 document.addEventListener('change', function(e){
   if(!e.target.id || e.target.id.indexOf('-factory') < 0) return;
   var wrap = e.target.closest('.fw-wrap');
   var vSel = wrap.querySelector('[id$="-village"]');
-  vSel.innerHTML = '<option value="">— Grower Code से गांव खुद पहचाना जाएगा —</option>';
+  var fact = e.target.value;
+  var vList = VILLAGES[fact] || [];
+  if(!vList.length){
+    vSel.innerHTML = '<option value="">— Grower Code से गांव पहचाना जाएगा —</option>';
+    return;
+  }
+  vSel.innerHTML = '<option value="">— गांव चुनें —</option>';
+  vList.forEach(function(v){ vSel.innerHTML += '<option value="'+v+'">'+v+'</option>'; });
 });
 
 // Submit
@@ -227,6 +320,7 @@ window.fwSubmit = function(wrap){
   var grower   = wrap.querySelector('[id$="-grower"]').value.trim();
   var distEl   = wrap.querySelector('[id$="-district"]');
   var factEl   = wrap.querySelector('[id$="-factory"]');
+  var villEl   = wrap.querySelector('[id$="-village"]');
   var nameEl   = wrap.querySelector('[id$="-name"]');
   var result   = wrap.querySelector('.fw-result');
   var portal   = wrap.getAttribute('data-portal');
@@ -247,10 +341,12 @@ window.fwSubmit = function(wrap){
   if(grower) params.set('grower_code', grower);
   if(distEl.value) params.set('dist', distEl.value);
   if(factEl.value) params.set('mill', factEl.value);
+  if(villEl.value) params.set('village', villEl.value);
   if(nameEl.value.trim()) params.set('farmer_name', nameEl.value.trim());
 
   var distName = distEl.options[distEl.selectedIndex] ? distEl.options[distEl.selectedIndex].text : '';
   var factName = factEl.options[factEl.selectedIndex] ? factEl.options[factEl.selectedIndex].text : '';
+  var villName = villEl.options[villEl.selectedIndex] ? villEl.options[villEl.selectedIndex].text : '';
   var name = nameEl.value.trim();
 
   setTimeout(function(){
@@ -258,7 +354,8 @@ window.fwSubmit = function(wrap){
     var info = '';
     if(grower)   info += '<strong>Grower Code:</strong> '+grower+'<br>';
     if(distName && distName !== '— जिला चुनें —') info += '<strong>जिला:</strong> '+distName+'<br>';
-    if(factName && factName.indexOf('चुनें')<0) info += '<strong>फैक्टरी:</strong> '+factName+'<br>';
+    if(factName && factName.indexOf('चुनें')<0 && factName.indexOf('आएंगी')<0) info += '<strong>फैक्टरी:</strong> '+factName+'<br>';
+    if(villName && villName.indexOf('चुनें')<0 && villName.indexOf('पहचाना')<0) info += '<strong>गांव:</strong> '+villName+'<br>';
     if(name)     info += '<strong>नाम:</strong> '+name;
     result.innerHTML=
       '<div style="display:flex;align-items:flex-start;gap:12px;">'+
@@ -270,7 +367,7 @@ window.fwSubmit = function(wrap){
             'style="display:inline-block;background:#15803d;color:#fff;padding:10px 22px;border-radius:8px;font-weight:700;font-size:14px;text-decoration:none;">'+
             label+
           '</a>'+
-          '<p style="font-size:11px;color:#9ca3af;margin-top:10px;">आधिकारिक UP Cane Portal खुलेगा। CaneUp कोई डेटा स्टोर नहीं करता।</p>'+
+          '<p style="font-size:11px;color:#9ca3af;margin-top:10px;">CaneUp Enquiry Portal खुलेगा। CaneUp कोई डेटा स्टोर नहीं करता।</p>'+
         '</div>'+
       '</div>';
   }, 600);
