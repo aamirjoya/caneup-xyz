@@ -6,3 +6,9 @@
   gtag('js', new Date());
   gtag('config', 'G-C81ZDJ296Z');
 </script>
+
+<!-- Hreflang for bilingual content -->
+{{ if .IsPage }}
+  <link rel="alternate" hreflang="hi" href="{{ .Permalink }}">
+  <link rel="alternate" hreflang="en" href="{{ .Permalink | replaceRE "hi-in" "en" | safeURL }}">
+{{ end }}
