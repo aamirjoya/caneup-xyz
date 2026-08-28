@@ -1,3 +1,8 @@
+<!-- LCP Image Preload for Instant Load (<1.2s LCP) -->
+{{ if and .IsPage .Params.featured_image }}
+  <link rel="preload" as="image" href="{{ .Params.featured_image }}" fetchpriority="high">
+{{ end }}
+
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C81ZDJ296Z"></script>
 <script>
@@ -12,3 +17,4 @@
   <link rel="alternate" hreflang="hi" href="{{ .Permalink }}">
   <link rel="alternate" hreflang="en" href="{{ .Permalink | replaceRE "hi-in" "en" | safeURL }}">
 {{ end }}
+
