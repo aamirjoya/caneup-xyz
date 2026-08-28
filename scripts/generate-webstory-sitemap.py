@@ -2,7 +2,6 @@ import os
 import sys
 import glob
 import re
-from datetime import datetime
 
 if sys.platform == "win32":
     try:
@@ -17,6 +16,21 @@ os.makedirs(static_dir, exist_ok=True)
 
 md_files = glob.glob(os.path.join(ws_dir, '*.md'))
 webstories = []
+
+def clean_w3c_date(dt_str):
+    if not dt_str:
+        return "2026-08-28T16:00:00+05:30"
+    dt_str = dt_str.strip('"').strip("'").strip()
+    # Replace space with T for strict ISO-8601 W3C date format
+    if " " in dt_str and "T" not in dt_str:
+        dt_str = dt_str.replace(" ", "T", 1)
+    # If no timezone offset, add +05:30
+    if not re.search(r'[\+\-]\d{2}:\d{2}$', dt_str) and not dt_str.endswith('Z'):
+        if len(dt_str) == 10:
+            dt_str += "T00:00:00+05:30"
+        elif len(dt_str) == 19:
+            dt_str += "+05:30"
+    return dt_str
 
 for f in md_files:
     if os.path.basename(f) == '_index.md':
@@ -34,11 +48,11 @@ for f in md_files:
     slug = m_slug.group(1).strip() if m_slug else os.path.basename(f).replace('.md', '')
     
     # Extract date/lastmod
-    m_date = re.search(r'date:\s*([^\n]+)', txt)
     m_lastmod = re.search(r'lastmod:\s*([^\n]+)', txt)
+    m_date = re.search(r'date:\s*([^\n]+)', txt)
     
-    date_str = m_lastmod.group(1).strip() if m_lastmod else (m_date.group(1).strip() if m_date else "2026-08-28T16:00:00+05:30")
-    date_str = date_str.strip('"').strip("'")
+    raw_date = m_lastmod.group(1).strip() if m_lastmod else (m_date.group(1).strip() if m_date else "2026-08-28T16:00:00+05:30")
+    formatted_date = clean_w3c_date(raw_date)
     
     # Extract featured_image
     m_img = re.search(r'featured_image:\s*["\']?(.*?)["\']?\n', txt)
@@ -50,11 +64,11 @@ for f in md_files:
     webstories.append({
         "url": url,
         "title": title,
-        "date": date_str,
+        "date": formatted_date,
         "img": feat_img
     })
 
-print(f"Found {len(webstories)} Web Stories. Generating WebStory XML Sitemap...")
+print(f"Found {len(webstories)} Web Stories. Generating SINGLE WebStory XML Sitemap...")
 
 # Build XML Sitemap
 xml_lines = [
@@ -81,16 +95,17 @@ xml_lines.append('</urlset>')
 
 xml_content = '\n'.join(xml_lines)
 
-# Write to static/webstory-sitemap.xml & static/sitemap-webstories.xml
+# Write ONLY ONE file: static/webstory-sitemap.xml
 out_file1 = os.path.join(static_dir, 'webstory-sitemap.xml')
 out_file2 = os.path.join(static_dir, 'sitemap-webstories.xml')
 
 with open(out_file1, 'w', encoding='utf-8') as f:
     f.write(xml_content)
-    
-with open(out_file2, 'w', encoding='utf-8') as f:
-    f.write(xml_content)
 
-print(f"Successfully generated WebStory Sitemap with {len(webstories)} URLs:")
+# Remove duplicate sitemap-webstories.xml if present
+if os.path.exists(out_file2):
+    os.remove(out_file2)
+    print("Removed duplicate sitemap file: sitemap-webstories.xml")
+
+print(f"Successfully generated single WebStory Sitemap with {len(webstories)} URLs:")
 print(f" - {out_file1}")
-print(f" - {out_file2}")
