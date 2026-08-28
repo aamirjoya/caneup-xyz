@@ -20,8 +20,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/sabitgarh-sugar-factory-2026.jpg"
-image: "/images/blog/sabitgarh-sugar-factory-2026.jpg"
+featured_image: "/images/blog/sabitgarh-sugar-factory-2026.webp"
+image: "/images/blog/sabitgarh-sugar-factory-2026.webp"
 ---
 
 साबितगढ़ शुगर मिल 2026-27: 1327 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Sabitgarh Sugar Mill Bulandshahr Aligarh

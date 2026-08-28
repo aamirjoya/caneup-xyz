@@ -21,8 +21,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/munderwa-sugar-factory-2026.jpg"
-image: "/images/blog/munderwa-sugar-factory-2026.jpg"
+featured_image: "/images/blog/munderwa-sugar-factory-2026.webp"
+image: "/images/blog/munderwa-sugar-factory-2026.webp"
 ---
 
 मुंडेरवा चीनी मिल 2026-27: 3312 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Munderwa Sugar Mill Basti Ambedkar Nagar

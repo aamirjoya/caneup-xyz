@@ -20,8 +20,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/satha-sugar-factory-2026.jpg"
-image: "/images/blog/satha-sugar-factory-2026.jpg"
+featured_image: "/images/blog/satha-sugar-factory-2026.webp"
+image: "/images/blog/satha-sugar-factory-2026.webp"
 ---
 
 साथा शुगर मिल 2026-27: 3417 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Satha Sugar Mill Aligarh

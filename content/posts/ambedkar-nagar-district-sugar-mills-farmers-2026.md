@@ -22,8 +22,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.jpg"
-image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.jpg"
+featured_image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.webp"
+image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.webp"
 ---
 
 अम्बेडकर नगर जिला गन्ना किसान मिल गाइड 2026-27: अकबरपुर व मुंडेरवा चीनी मिल की पूरी जानकारी

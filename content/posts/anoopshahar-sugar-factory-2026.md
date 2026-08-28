@@ -18,8 +18,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/anoopshahar-sugar-factory-2026.jpg"
-image: "/images/blog/anoopshahar-sugar-factory-2026.jpg"
+featured_image: "/images/blog/anoopshahar-sugar-factory-2026.webp"
+image: "/images/blog/anoopshahar-sugar-factory-2026.webp"
 ---
 
 अनूपशहर चीनी मिल (Anoopshahr Sugar Mill) 2026-27: 453 गांवों की लिस्ट, कोड व पर्ची कैलेंडर गाइड

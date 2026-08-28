@@ -22,8 +22,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/akbarpur-sugar-factory-2026.jpg"
-image: "/images/blog/akbarpur-sugar-factory-2026.jpg"
+featured_image: "/images/blog/akbarpur-sugar-factory-2026.webp"
+image: "/images/blog/akbarpur-sugar-factory-2026.webp"
 ---
 
 अकबरपुर चीनी मिल 2026-27: 3606 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Akbarpur Sugar Mill Ambedkar Nagar
