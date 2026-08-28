@@ -1,161 +1,746 @@
-﻿---
-title: "मझावली (वेन्नस) शुगर मिल 2026 - पूरी जानकारी गांववार"
-date: 2026-08-22 10:00:00+05:30
-lastmod: 2026-08-22 10:00:00+05:30
-description: "मझावली (वेन्नस) शुगर मिल 2026 - पूरी जानकारी। अपने गांव अनुसार मिल चुनें, यहाँ के सभी गांव की लिस्ट, भुगतान की गति, और संपर्क विवरण। गन्ना किसानों के लिए उपयोगी गाइड।"
+---
+title: "मझावली (वीनस) शुगर मिल (Mazhawali Venus Sugar Mill) 2026-27: 604 गांवों की लिस्ट, कोड व पर्ची कैलेंडर गाइड"
+date: 2026-08-28T18:50:00+05:30
+lastmod: 2026-08-28T18:50:00+05:30
+description: "मझावली (वीनस) शुगर मिल (संभल/बहजोई/अलीगढ़) से जुड़े सभी 604 गांवों की आधिकारिक लिस्ट और कोड। ऑनलाइन गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व गन्ना भुगतान स्थिति।"
 categories:
-- Ganna Bhugtan
+- Sugar Mills
 tags:
+- Mazhawali Sugar Mill
+- Venus Sugar Factory
 - मझावली शुगर मिल 2026
-- Venus sugar factory Aligarh
-- Mazhawali sugar mill villages list
-- Aligarh factory information
-- ganna factory Mazhawali
-- sugar mill village mapping
-- Aligarh sugar factories contact
-- Mazhawali ganna khanepan
-- cane supplier Mazhawali
-- sugar factory information 2026
-keywords:
-- मझावली वेन्नस शुगर मिल
-- mazhawali venus factory 2026
-- venus sugar factory aligarh
-- मझावली गन्ना किसान
-- mazhawali mill village list
-- अलीगढ़ शुगर फैक्टरी
-featured_image: /images/blog/mazhawali-sugar-factory-2026.webp
-image: /images/blog/mazhawali-sugar-factory-2026.webp
+- बहजोई गन्ना पर्ची
+- eGanna Village List
+- CaneUp Village Code
+slug: mazhawali-venus-sugar-factory-2026
+ShowToc: true
 author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
+featured_image: "/images/blog/mazhawali-sugar-factory-2026.webp"
+image: "/images/blog/mazhawali-sugar-factory-2026.webp"
 ---
 
-**मझावली शुगर मिल (जिसे वेन्नस के नाम से भी जाना जाता है) उत्तर प्रदेश के अलीगढ़ जिले की प्रमुख फैक्ट्रियों में से एक है।** इस फैक्ट्री ने अपने आधुनिक प्रोसेसिंग सिस्टम के लिए प्रसिद्धि हासिल की है। इस पोस्ट में मैं आपको मझावली शुगर मिल की complete information दूंगा, आपके गांव अनुसार यहाँ गन्ना जाएगा या नहीं, और भुगतान की गति क्या रहेगी।
+मझावली (वीनस) शुगर मिल (Mazhawali Venus Sugar Mill) 2026-27: 604 गांवों की लिस्ट, कोड व पर्ची कैलेंडर गाइड
 
-## मझावली (वेन्नस) शुगर मिल Overview
+By  
+[Randhir Patil](https://caneup.xyz/) - August 28, 2026
 
-| विवरण | जानकारी |
-|--------|----------|
-| **फैक्ट्री का नाम** | मझावली शुगर मिल (वेन्नस) |
-| **स्थान** | मझावली, अलीगढ़ जिला, उत्तर प्रदेश |
-| **पेराई क्षमता** | 5,500 TCD (टन प्रति दिन) |
-| **प्रकार** | modern technology, तेज़ भुगतान |
-| **भुगतान की गति** | 12-14 दिन (सामान्य परिस्थितियों में) |
-| **रीकवरी विशेषता** | good recovery के अनुसार भाव |
-| **फैक्ट्री की विशेषता** | modern processing system के लिए जानी जाती है |
+**संभल/बहजोई/अलीगढ़ :** मझावली शुगर मिल (जिसे वीनस शुगर लिमिटेड / Venus Sugar Factory के नाम से भी जाना जाता है) संभल, बहजोई, चंदौसी और अलीगढ़ सीमा क्षेत्र की सबसे प्रमुख चीनी मिलों में से एक है। यह आधुनिक चीनी मिल आगामी पेराई सत्र 2026-27 में लगभग **604 से अधिक गांवों** के किसानों का गन्ना पेराई के लिए स्वीकार करती है।
 
-> **मेरा personal अनुभव:** मझावली (वेन्नस) फैक्ट्री अपने modern processing system के लिए जानी जाती है, और भुगतान आमतौर पर 12-14 दिन में हो जाता है। किसान इससे भी रहते हैं।
-
-## मझावली (वेन्नस) Factory में जाने वाले गांव की सूची
-
-यहाँ मैं आपको उन गांवों की सूची दे रहा हूं जो Typically मझावली (वेन्नस) sugar mill को गन्ना सप्लाई करते हैं। कृपया अपने गांव का नाम चेक करें:
-
-### **मझावली क्षेत्र के गांव:**
-1. **मझावली गांव** (main village)
-2. **Venus** (जिस नाम से यह फैक्ट्री भी जानी जाती है)
-3. **Bhainsali** (कुछ area)
-4. **Saifai** (कुछ गांव)
-
-### **पड़ोसी क्षेत्र के गांव:**
-- **Bulandshahr** की सीमा के आसपास के गांव
-- **Hathras** की ओर के कुछ गांव
-- **Mathura** की ओर के कुछ गांव
-
-**खास बात:** Venus factory अपने modern processing system के लिए जानी जाती है, और भुगतान आमतौर पर 12-14 दिन में हो जाता है।
-
-## मझावली (वेन्नस) Factory में भुगतान की गति
-
-**मैं personally आपको निम्नलिखित सलाह दूंगा:**
-
-1. **12-14 दिन का इंतज़ार सामान्य है** - इस फैक्ट्री में भुगतान में 12-14 दिन का समय लगता है सामान्य परिस्थितियों में।
-2. **त्योहारी सीजन में देरी हो सकती है** - दिवाली और छठ के मौसम में भुगतान में 20-25 दिन तक लग सकते हैं।
-3. **भुगतान से पहले जरूर करें ये काम:**
- - अपनी तौल की रसीद हमेशा संभालकर रखें
- - अपने किसान कोड और तौल की तारीख लिखित में नोट करें
- - मिल के गन्ना विभाग से संपर्क करें इससे पहले कि गन्ना लेकर जाएं
-
-## दूरी और परिवहन लागत
-
-**मैं आपको निम्नलिखित सलाह दूंगा:**
-
-1. **यदि आपका गांव मझावली के 20-25 किलोमीटर के अंदर है,** तो यही **best option** है क्योकि परिवहन लागत कम होगी।
-2. **परिवहन लागत:** आपके गांव से मझावली तक ट्रांसपोर्टेशन cost लगभग ₹2-3 प्रति क्विंटल हो सकता है (दूरी और गन्ने की मात्रा के अनुसार)।
-3. **टाइम बचत:** अगर आप अपनी गाड़ी से गन्ना लेकर जाएंगे, तो समय की बचत होगी।
-
-## आम गलतियाँ जिनसे बचें (Must Read)
-
-**मैंने बहुत से किसानों को यह गलत करते हुए देखा है:**
-
-1. **केवल ऊँचा भाव देखकर मिल चुनना:**
- - मुझे कई किसान मिलते हैं जो सिर्फ ऊँचा भाव देखकर मिल चुन लेते हैं,
- - लेकिन उन्हें बाद में भुगतान में 20-25 दिन की देरी होती है,
- - परिवहन लागत अधिक होने के कारण उनका net मुनाफा कम हो जाता है।
-
-2. **बहुत दूर की मिल चुनना:**
- - 50 किलोमीटर से ज्यादा दूरी का मतलब है परिवहन में ₹2000-5000 extra खर्च,
- - थकान और समय की बर्बादी,
- - बारिश के मौसम में यात्रा और भी जोखिम भरी होती है।
-
-3. **मिल के इतिहास को नज़रअंदाज़ करना:**
- - पिछले सीज़न की शिकायतें भूल जाना,
- - मिल के भुगतान इतिहास को नज़रअंदाज़ करना,
- - अन्य किसानों के अनुभव को नज़रअंदाज़ करना।
-
-## मेरा personal सुझाव (Personal Advice)
-
-**मैं आपको निम्नलिखित सलाह दूंगा:**
-
-1. **सबसे पहले अपने गांव की list देखें** ऊपर दी गई list के अनुसार,
-2. **उस फैक्ट्री को चुनें जो आपके गांव के करीब हो**,
-3. **एक बार वरिष्ठ किसान से सलाह जरूर लें**,
-4. **सम्पर्क करने से पहले मिल के गन्ना विभाग से बात करें**,
-5. **भुगतान की गति के बारे में पहले से पता कर लें**,
-
-**याद रखें:** ₹100 प्रति क्विंटल का भाव अंतर यदि 20 दिन की भुगतान देरी के कारण ₹500 परिवहन लागत और मानसिक तनाव में बदल जाए, तो वह "बेहतर भाव" वास्तव में बेहतर विकल्प नहीं है।
-
-## संपर्क सूची (Contact Information)
-
-यदि आपको अधिक जानकारी चाहिए, तो नीचे दिए गए संपर्कों का उपयोग कर सकते हैं:
-
-| सेवा | संपर्क | उपयोग |
-|------|--------|-------|
-| **जिला गन्ना अधिकारी** | 1800-180-5151 | भुगतान संबंधी शिकायतें और मार्गदर्शन |
-| **मझावली (वेन्नस) शुगर मिल के गन्ना विभाग** | मिल पर उपलब्ध | मिल से संबंधित जानकारी और भुगतान की गति |
-| **कृषि विज्ञान केंद्र** | मझावली | स्थानीय मौसम, मिट्टी और मिल परफॉर्मेंस के बारे में सलाह |
-| **CaneUp Enquiry** | enquiry.caneup.in | ऑनलाइन भुगतान स्टेटस चेक और मिल की जानकारी |
+यदि आप मझावली (वीनस) चीनी मिल से जुड़े गन्ना किसान हैं और अपने गांव का आधिकारिक **Village Code (गांव कोड)** खोज रहे हैं, तो नीचे दी गई डायरेक्ट सर्च टेबल का उपयोग करके तुरंत अपना गांव और कोड जांच सकते हैं।
 
 ---
 
-## निष्कर्ष (Conclusion)
+## 🔍 मझावली (वीनस) शुगर मिल — गांव और कोड तुरंत खोजें (Live Village Search)
 
-**मझावली (वेन्नस) शुगर मिल एक modern फैक्ट्री है** जो अलीगढ़ जिले के किसानों की सेवा करती है। अपने modern processing system के लिए जानी जाती है, और भुगतान आमतौर पर 12-14 दिन में हो जाता है। अगर आपके गांव इस फैक्ट्री के दायरे में आते हैं, तो यह सबसे बेहतर विकल्प हो सकता है क्योकि:
-- modern processing system की सुविधा
-- 12-14 दिन में भुगतान
-- किसान संतुष्ट रहते हैं
+नीचे दिए गए सर्च बॉक्स में अपने **गांव का नाम (जैसे: BAHAJOI, CHANDAUSI, AKRAULI, MAZHAWALI, NARAULI, TAPPAL)** या **गांव कोड (जैसे: 41, 65, 164, 5001, 4385)** टाइप करें:
 
-**मेरा आपसे यही निवेदन है कि:** ऊपर दी गई अपनी village list देखकर अपनी फैक्ट्री चुनें, और सबसे important बात यह है कि अपने गांव के वरिष्ठ किसान से एक बार सलाह जरूर लें क्योकि उन्होंने वो देखा है और उनका अनुभव आपके लिए बहुत काम आएगा।
+<div style="margin:20px 0;background:#f0fdf4;border:2px solid #bbf7d0;border-radius:12px;padding:16px;">
+  <label for="vsearch" style="font-weight:700;color:#15803d;display:block;margin-bottom:8px;font-size:15px;">🔎 अपने गांव का नाम या कोड लिखें:</label>
+  <input type="text" id="vsearch" placeholder="उदा. BAHAJOI, CHANDAUSI, MAZHAWALI, 41..." onkeyup="filterVillages()" style="width:100%;padding:10px 14px;border:1px solid #15803d;border-radius:8px;font-size:15px;outline:none;">
+  <small style="color:#6b7280;display:block;margin-top:6px;">कुल 604 गांव सूचीबद्ध हैं। टाइप करते ही परिणाम नीचे दिखेंगे।</small>
+</div>
 
-**अगर यह पोस्ट आपके लिए उपयोगी साबित हुई तो इसे अपने किसान भाइयों के साथ जरूर शेयर करें, और कमेंट करें - आपका गांव मझावली (वेन्नस) factory जाता है या नही, और आपको भुगतान में कितना समय लगा? आपके अनुभव से अन्य किसानों को मदद मिलेगी।**
+<div class="tbl-wrap">
+<table id="vtable">
+<thead>
+  <tr>
+    <th>#</th>
+    <th>गांव का नाम (Village Name)</th>
+    <th>गांव कोड (Village Code)</th>
+    <th>गन्ना समिति / मिल</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="vrow"><td>1</td><td class="vname"><strong>AB.WAHIDPUR PAWSARA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6045</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>2</td><td class="vname"><strong>ABUSAIDPUR KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5428</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>3</td><td class="vname"><strong>ACHAL PURCHD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>4</td><td class="vname"><strong>ACHALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6002</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>5</td><td class="vname"><strong>ADAM PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">1</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>6</td><td class="vname"><strong>AFZAL PUR VIDAUTI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6029</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>7</td><td class="vname"><strong>AHADAULA MAFI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5018</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>8</td><td class="vname"><strong>AHAMAD NGR PASTAURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>9</td><td class="vname"><strong>AHAMAD NGR THRESA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>10</td><td class="vname"><strong>AHRAULA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4299</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>11</td><td class="vname"><strong>AINJRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5021</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>12</td><td class="vname"><strong>AINJRI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5022</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>13</td><td class="vname"><strong>AINTOL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>14</td><td class="vname"><strong>AJEEMABAD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">22</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>15</td><td class="vname"><strong>AJEETPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">691</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>16</td><td class="vname"><strong>AJITPUR MADHIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6019</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>17</td><td class="vname"><strong>AKBARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>18</td><td class="vname"><strong>AKBARPUR CHITERI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">724</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>19</td><td class="vname"><strong>AKBARPUR JARAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">8</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>20</td><td class="vname"><strong>AKHTIYARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">298</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>21</td><td class="vname"><strong>AKRAULI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5001</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>22</td><td class="vname"><strong>ALAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5017</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>23</td><td class="vname"><strong>ALAMPUR KANHAIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">12</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>24</td><td class="vname"><strong>ALAVALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">11</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>25</td><td class="vname"><strong>ALAWALPURI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">751</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>26</td><td class="vname"><strong>ALI NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6010</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>27</td><td class="vname"><strong>ALIPUR BUJURG</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">13</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>28</td><td class="vname"><strong>ALLEHPUR ISLAMNAGER</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6042</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>29</td><td class="vname"><strong>ALLIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">BHAINA) (7014</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>30</td><td class="vname"><strong>ALLIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">BHAINA) (7003</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>31</td><td class="vname"><strong>AMANABAD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6091</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>32</td><td class="vname"><strong>AMARPUR URF DHARAMPU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">716</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>33</td><td class="vname"><strong>AMIYAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">PINONI) (6031</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>34</td><td class="vname"><strong>ANANDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">15</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>35</td><td class="vname"><strong>ANJERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">680</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>36</td><td class="vname"><strong>ANNNNNNNN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7009</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>37</td><td class="vname"><strong>ANNNNNNNNNN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7010</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>38</td><td class="vname"><strong>ARJUN PUR JUNA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">247</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>39</td><td class="vname"><strong>ARJUN PUR KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">101</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>40</td><td class="vname"><strong>ARJUNPURJHARYAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5002</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>41</td><td class="vname"><strong>ASALATPUR JARAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">17</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>42</td><td class="vname"><strong>ATARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4914</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>43</td><td class="vname"><strong>ATARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">914</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>44</td><td class="vname"><strong>ATRASI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">18</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>45</td><td class="vname"><strong>ATTA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">19</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>46</td><td class="vname"><strong>AURANGAPUR SILETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">21</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>47</td><td class="vname"><strong>AZIM GANJ</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">23</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>48</td><td class="vname"><strong>BABENA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">735</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>49</td><td class="vname"><strong>BADRAKHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7004</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>50</td><td class="vname"><strong>BAHADUR NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">30</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>51</td><td class="vname"><strong>BAHAJOI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">41</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>52</td><td class="vname"><strong>BAHAPUR PATTI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">48</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>53</td><td class="vname"><strong>BAHAPURPATTIASALATPU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">723</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>54</td><td class="vname"><strong>BAHJOI DEHAT</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">749</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>55</td><td class="vname"><strong>BAHROLI TAHARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">109</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>56</td><td class="vname"><strong>BAHTRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">755</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>57</td><td class="vname"><strong>BAJAUTA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4922</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>58</td><td class="vname"><strong>BAJHEDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">DEEBA HAMEE (4332</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>59</td><td class="vname"><strong>BAJHEDA M. BHARATPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4336</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>60</td><td class="vname"><strong>BAJHHANGI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6011</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>61</td><td class="vname"><strong>BALANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4324</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>62</td><td class="vname"><strong>BALKARANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5004</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>63</td><td class="vname"><strong>BALLAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">726</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>64</td><td class="vname"><strong>BALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6062</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>65</td><td class="vname"><strong>BAMOTI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4110</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>66</td><td class="vname"><strong>BANIYAKHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">36</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>67</td><td class="vname"><strong>BANJARPURI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">679</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>68</td><td class="vname"><strong>BAR KHERA  GAJA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">729</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>69</td><td class="vname"><strong>BAR KI GARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4369</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>70</td><td class="vname"><strong>BARHERIA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">707</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>71</td><td class="vname"><strong>BARKEDA KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">276</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>72</td><td class="vname"><strong>BARKHEDA SONAK</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">284</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>73</td><td class="vname"><strong>BAROLIRUSTAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5030</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>74</td><td class="vname"><strong>BARRAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">37</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>75</td><td class="vname"><strong>BASANT NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KHANDUA (6089</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>76</td><td class="vname"><strong>BASERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4341</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>77</td><td class="vname"><strong>BAYAUR KASHAMABAD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6051</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>78</td><td class="vname"><strong>BAZPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">39</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>79</td><td class="vname"><strong>BEEKAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">40</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>80</td><td class="vname"><strong>BEHTA JAI SINGH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">42</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>81</td><td class="vname"><strong>BEHTA KHAS</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">43</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>82</td><td class="vname"><strong>BEHTA SHAHU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">44</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>83</td><td class="vname"><strong>BENA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4915</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>84</td><td class="vname"><strong>BENA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">915</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>85</td><td class="vname"><strong>BERI KHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">45</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>86</td><td class="vname"><strong>BERI KHERA A</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">46</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>87</td><td class="vname"><strong>BERNI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5013</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>88</td><td class="vname"><strong>BETLA SARTHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">38</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>89</td><td class="vname"><strong>BHADIYAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4349</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>90</td><td class="vname"><strong>BHAGATPUR PAHELI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5003</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>91</td><td class="vname"><strong>BHAGNAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">MANIHAR NA (2005</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>92</td><td class="vname"><strong>BHAGWANTPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6005</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>93</td><td class="vname"><strong>BHAINA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7008</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>94</td><td class="vname"><strong>BHAKAR PUR BHAINTRI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">31</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>95</td><td class="vname"><strong>BHARATPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">50</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>96</td><td class="vname"><strong>BHARATPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4366</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>97</td><td class="vname"><strong>BHARATPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KARAIYA) (6070</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>98</td><td class="vname"><strong>BHARTRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">51</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>99</td><td class="vname"><strong>BHATAUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">52</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>100</td><td class="vname"><strong>BHATPURA SEONDARA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">739</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>101</td><td class="vname"><strong>BHAWAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">53</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>102</td><td class="vname"><strong>BHAWANI PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">54</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>103</td><td class="vname"><strong>BHAWANIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5054</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>104</td><td class="vname"><strong>BHAWANIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2) (744</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>105</td><td class="vname"><strong>BHAWANIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KHANDUA) (6088</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>106</td><td class="vname"><strong>BHEEM PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">56</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>107</td><td class="vname"><strong>BHIYAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2001</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>108</td><td class="vname"><strong>BHOJPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">57</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>109</td><td class="vname"><strong>BHOJPUR PAWAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6018</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>110</td><td class="vname"><strong>BHULAWAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">58</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>111</td><td class="vname"><strong>BICHHOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5422</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>112</td><td class="vname"><strong>BICHOLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">717</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>113</td><td class="vname"><strong>BICHPURI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4353</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>114</td><td class="vname"><strong>BICHPURI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">60</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>115</td><td class="vname"><strong>BIJNA KI NAGARIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4361</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>116</td><td class="vname"><strong>BILKHAURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4306</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>117</td><td class="vname"><strong>BIRSINGHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">715</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>118</td><td class="vname"><strong>BRIJANANGLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4376</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>119</td><td class="vname"><strong>BUDDH NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6080</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>120</td><td class="vname"><strong>BUDHNAGAR KHADUA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">61</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>121</td><td class="vname"><strong>BULAKIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4334</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>122</td><td class="vname"><strong>BUMNETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">35</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>123</td><td class="vname"><strong>BURHAKA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4920</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>124</td><td class="vname"><strong>CHACHIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6081</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>125</td><td class="vname"><strong>CHAKAR PUR NEMRI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">26</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>126</td><td class="vname"><strong>CHAMARPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">64</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>127</td><td class="vname"><strong>CHAMARPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">CHADOI) (6057</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>128</td><td class="vname"><strong>CHANDAN KATI CHUHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">728</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>129</td><td class="vname"><strong>CHANDANKATI MUJA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">62</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>130</td><td class="vname"><strong>CHANDAUSI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">65</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>131</td><td class="vname"><strong>CHANDNER</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7006</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>132</td><td class="vname"><strong>CHANDOI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6055</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>133</td><td class="vname"><strong>CHANDPUR NITHAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6060</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>134</td><td class="vname"><strong>CHANDRAUA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5056</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>135</td><td class="vname"><strong>CHARSAURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6052</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>136</td><td class="vname"><strong>CHATAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">66</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>137</td><td class="vname"><strong>CHEETI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4950</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>138</td><td class="vname"><strong>CHHACHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5066</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>139</td><td class="vname"><strong>CHHAJJUPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4357</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>140</td><td class="vname"><strong>CHHAPRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">67</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>141</td><td class="vname"><strong>CHHITARPUR MAHROLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6009</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>142</td><td class="vname"><strong>CHICHETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6100</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>143</td><td class="vname"><strong>CHIDIYA BHAWAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">68</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>144</td><td class="vname"><strong>CHIDIYA KHEDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6041</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>145</td><td class="vname"><strong>CHIROLI BHAGWANTPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">69</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>146</td><td class="vname"><strong>CHITAN PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">70</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>147</td><td class="vname"><strong>CHITAURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">71</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>148</td><td class="vname"><strong>CHOPA SHOBHAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">73</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>149</td><td class="vname"><strong>CHUCHAWALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7018</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>150</td><td class="vname"><strong>CUCATA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">725</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>151</td><td class="vname"><strong>DAHELI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">74</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>152</td><td class="vname"><strong>DAJRAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6008</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>153</td><td class="vname"><strong>DAL FATEHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">75</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>154</td><td class="vname"><strong>DAMKAULA M.AHRAULA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4309</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>155</td><td class="vname"><strong>DAMMI NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6087</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>156</td><td class="vname"><strong>DARA NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6082</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>157</td><td class="vname"><strong>DARAULI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">3</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>158</td><td class="vname"><strong>DARGAWAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4829</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>159</td><td class="vname"><strong>DATAWLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">710</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>160</td><td class="vname"><strong>DAULATPUR BHARKAU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">81</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>161</td><td class="vname"><strong>DAWAINA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">740</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>162</td><td class="vname"><strong>DEEVA HAMEEDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4184</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>163</td><td class="vname"><strong>DEHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7017</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>164</td><td class="vname"><strong>DEOHARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6036</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>165</td><td class="vname"><strong>DERA SARAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5429</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>166</td><td class="vname"><strong>DETA KALAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4826</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>167</td><td class="vname"><strong>DEVAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">82</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>168</td><td class="vname"><strong>DEVARKHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">83</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>169</td><td class="vname"><strong>DHADAUL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">84</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>170</td><td class="vname"><strong>DHADOLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5055</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>171</td><td class="vname"><strong>DHAKARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">86</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>172</td><td class="vname"><strong>DHAKARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">685</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>173</td><td class="vname"><strong>DHAMAWALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5088</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>174</td><td class="vname"><strong>DHANETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">76</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>175</td><td class="vname"><strong>DHANUPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5057</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>176</td><td class="vname"><strong>DHARAM PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">(PINONI) (6012</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>177</td><td class="vname"><strong>DHARAM PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">GATE) (6095</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>178</td><td class="vname"><strong>DHARAMPUR N DHADOL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">732</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>179</td><td class="vname"><strong>DHARMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4295</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>180</td><td class="vname"><strong>DHATRAS SHEKHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">87</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>181</td><td class="vname"><strong>DHIMARPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6066</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>182</td><td class="vname"><strong>DHODAHAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">89</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>183</td><td class="vname"><strong>DHOLPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7011</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>184</td><td class="vname"><strong>DHOOMERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4331</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>185</td><td class="vname"><strong>DHURETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">703</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>186</td><td class="vname"><strong>DILGORA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">91</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>187</td><td class="vname"><strong>DUMUAKA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4367</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>188</td><td class="vname"><strong>DURGAPUR GANGAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4338</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>189</td><td class="vname"><strong>DYODAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">93</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>190</td><td class="vname"><strong>ECHAOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">94</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>191</td><td class="vname"><strong>FAIJGANJ</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">PINONI) (6034</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>192</td><td class="vname"><strong>FAIJULLAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5005</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>193</td><td class="vname"><strong>FAJALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4337</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>194</td><td class="vname"><strong>FAREEDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">96</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>195</td><td class="vname"><strong>FAREEDPUR  KHUSHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">97</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>196</td><td class="vname"><strong>FATEHGARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4311</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>197</td><td class="vname"><strong>FATEHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4329</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>198</td><td class="vname"><strong>FATEHPUR UTAMA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">299</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>199</td><td class="vname"><strong>FATTEHPUR  SARAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5095</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>200</td><td class="vname"><strong>FATTEPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">98</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>201</td><td class="vname"><strong>FAUJUA KA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4365</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>202</td><td class="vname"><strong>FAZALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">271</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>203</td><td class="vname"><strong>FAZALPUR NIKAT SADAT</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">742</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>204</td><td class="vname"><strong>FIROZPUR GA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6074</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>205</td><td class="vname"><strong>GADHI KHANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6003</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>206</td><td class="vname"><strong>GADI BICHOLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">312</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>207</td><td class="vname"><strong>GANDHROLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6102</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>208</td><td class="vname"><strong>GANDUPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5006</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>209</td><td class="vname"><strong>GANESH PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">178</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>210</td><td class="vname"><strong>GANESHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4319</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>211</td><td class="vname"><strong>GANGA DHARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">736</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>212</td><td class="vname"><strong>GANGAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4296</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>213</td><td class="vname"><strong>GANGETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">296</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>214</td><td class="vname"><strong>GARH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7007</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>215</td><td class="vname"><strong>GARHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2002</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>216</td><td class="vname"><strong>GARHI HARNARAYAN M.A</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4307</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>217</td><td class="vname"><strong>GARHI N. SHIVRAM</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4328</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>218</td><td class="vname"><strong>GARHI SURAJMAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4372</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>219</td><td class="vname"><strong>GAUMAT</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4303</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>220</td><td class="vname"><strong>GHASIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">102</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>221</td><td class="vname"><strong>GHOSIPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">103</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>222</td><td class="vname"><strong>GIRDHARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">PINONI) (6028</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>223</td><td class="vname"><strong>GOPALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5103</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>224</td><td class="vname"><strong>GOPALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6083</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>225</td><td class="vname"><strong>GOVINDRA PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5407</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>226</td><td class="vname"><strong>GULARIYA KALAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5007</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>227</td><td class="vname"><strong>GUMTHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">106</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>228</td><td class="vname"><strong>GURITHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6076</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>229</td><td class="vname"><strong>HAMIDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4108</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>230</td><td class="vname"><strong>HASAN PUR  KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">738</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>231</td><td class="vname"><strong>HASANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5423</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>232</td><td class="vname"><strong>HASANPUR JARELIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4011</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>233</td><td class="vname"><strong>HASANPUR JARELIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4371</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>234</td><td class="vname"><strong>HAYAT NAGAR ATWA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">754</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>235</td><td class="vname"><strong>HAZIYAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4354</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>236</td><td class="vname"><strong>HETALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4382</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>237</td><td class="vname"><strong>HIMAT PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">313</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>238</td><td class="vname"><strong>HINDOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">110</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>239</td><td class="vname"><strong>HULLASNAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5008</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>240</td><td class="vname"><strong>HUSAINPUR BHOOD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6020</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>241</td><td class="vname"><strong>IKH KHEDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6084</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>242</td><td class="vname"><strong>ISHAQPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">762</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>243</td><td class="vname"><strong>ISLAMNAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6053</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>244</td><td class="vname"><strong>ITWARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4342</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>245</td><td class="vname"><strong>JADANA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4360</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>246</td><td class="vname"><strong>JADWAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">704</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>247</td><td class="vname"><strong>JAFARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6058</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>248</td><td class="vname"><strong>JAIMALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">750</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>249</td><td class="vname"><strong>JAIRAMNAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">115</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>250</td><td class="vname"><strong>JAIROI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">116</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>251</td><td class="vname"><strong>JAITPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">117</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>252</td><td class="vname"><strong>JAKHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7013</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>253</td><td class="vname"><strong>JALAL PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">27</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>254</td><td class="vname"><strong>JALALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4344</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>255</td><td class="vname"><strong>JALALPUR MOHAMMADBAD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5120</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>256</td><td class="vname"><strong>JALDA GAGHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4244</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>257</td><td class="vname"><strong>JAMUNKA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4297</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>258</td><td class="vname"><strong>JANITA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">118</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>259</td><td class="vname"><strong>JARENDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6064</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>260</td><td class="vname"><strong>JARGAON</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5130</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>261</td><td class="vname"><strong>JARTOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4175</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>262</td><td class="vname"><strong>JASUPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6007</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>263</td><td class="vname"><strong>JATPURA BAGUN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">745</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>264</td><td class="vname"><strong>JATTARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4346</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>265</td><td class="vname"><strong>JIKARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4381</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>266</td><td class="vname"><strong>JOGIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5421</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>267</td><td class="vname"><strong>KADARPUR KUKAITA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">119</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>268</td><td class="vname"><strong>KADILPUR KARAH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">49121</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>269</td><td class="vname"><strong>KAGIRPUR KARAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">8001</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>270</td><td class="vname"><strong>KAIL MUNDI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">120</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>271</td><td class="vname"><strong>KAILI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">130</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>272</td><td class="vname"><strong>KAINSERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">1348</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>273</td><td class="vname"><strong>KAITHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">123</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>274</td><td class="vname"><strong>KALIYANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4081</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>275</td><td class="vname"><strong>KALIYANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4138</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>276</td><td class="vname"><strong>KAMALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4355</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>277</td><td class="vname"><strong>KAMALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">124</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>278</td><td class="vname"><strong>KANAU DHAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">125</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>279</td><td class="vname"><strong>KANETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">126</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>280</td><td class="vname"><strong>KANETA-II</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">684</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>281</td><td class="vname"><strong>KANTHARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">128</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>282</td><td class="vname"><strong>KANUA KHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">146</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>283</td><td class="vname"><strong>KANUA KHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">325</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>284</td><td class="vname"><strong>KANUA NAGLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2008</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>285</td><td class="vname"><strong>KAPROL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6063</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>286</td><td class="vname"><strong>KARANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4350</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>287</td><td class="vname"><strong>KARELA KARELI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">686</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>288</td><td class="vname"><strong>KARELI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">131</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>289</td><td class="vname"><strong>KARIMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">678</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>290</td><td class="vname"><strong>KARIYAMAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6067</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>291</td><td class="vname"><strong>KASAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5155</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>292</td><td class="vname"><strong>KASAMPUR JAGROOP</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">132</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>293</td><td class="vname"><strong>KASISAUN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4313</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>294</td><td class="vname"><strong>KASOURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5141</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>295</td><td class="vname"><strong>KATIRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7002</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>296</td><td class="vname"><strong>KAZI BEHTA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">133</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>297</td><td class="vname"><strong>KEELPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4322</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>298</td><td class="vname"><strong>KEERATPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4084</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>299</td><td class="vname"><strong>KESOPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">134</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>300</td><td class="vname"><strong>KHABARIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5009</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>301</td><td class="vname"><strong>KHAIR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4314</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>302</td><td class="vname"><strong>KHAJRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">135</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>303</td><td class="vname"><strong>KHAJRA KHAKHAM</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">699</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>304</td><td class="vname"><strong>KHANDEHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4375</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>305</td><td class="vname"><strong>KHANDWA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6092</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>306</td><td class="vname"><strong>KHANJANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6014</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>307</td><td class="vname"><strong>KHANUPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5016</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>308</td><td class="vname"><strong>KHASERPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5157</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>309</td><td class="vname"><strong>KHATETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">138</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>310</td><td class="vname"><strong>KHEDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4323</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>311</td><td class="vname"><strong>KHEDA DAS</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">758</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>312</td><td class="vname"><strong>KHEDA KISAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4343</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>313</td><td class="vname"><strong>KHEDIYA BUJURG</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4352</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>314</td><td class="vname"><strong>KHERA KHAS</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">139</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>315</td><td class="vname"><strong>KHETAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">141</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>316</td><td class="vname"><strong>KHUSHALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KMI) (6072</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>317</td><td class="vname"><strong>KHUSHHAL PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">33</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>318</td><td class="vname"><strong>KIRARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">143</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>319</td><td class="vname"><strong>KIRATPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">47</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>320</td><td class="vname"><strong>KISAIRA SURAHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6048</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>321</td><td class="vname"><strong>KISHOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">281</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>322</td><td class="vname"><strong>KOHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6021</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>323</td><td class="vname"><strong>KOKAWAS NAWADA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">145</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>324</td><td class="vname"><strong>KOTHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6022</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>325</td><td class="vname"><strong>KRAPAL GARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4204</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>326</td><td class="vname"><strong>KRAPALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4374</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>327</td><td class="vname"><strong>KRAPALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6073</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>328</td><td class="vname"><strong>KUBRI BHUD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2003</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>329</td><td class="vname"><strong>KUNAKHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5151</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>330</td><td class="vname"><strong>KUNDAWALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KMI) (6077</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>331</td><td class="vname"><strong>KUNWARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5144</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>332</td><td class="vname"><strong>KUNWARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">CHNDOI) (6059</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>333</td><td class="vname"><strong>KURANA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4383</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>334</td><td class="vname"><strong>KURESHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">PINONI) (6033</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>335</td><td class="vname"><strong>KURIRAM</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">733</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>336</td><td class="vname"><strong>KUWARI BHOOD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">144</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>337</td><td class="vname"><strong>KUWARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">682</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>338</td><td class="vname"><strong>LADISHS GADI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">277</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>339</td><td class="vname"><strong>LAHAR SHEESH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">149</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>340</td><td class="vname"><strong>LAHRAWAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">153</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>341</td><td class="vname"><strong>LAKHNETA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5015</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>342</td><td class="vname"><strong>LALGARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4345</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>343</td><td class="vname"><strong>LALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4373</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>344</td><td class="vname"><strong>LANGOTGARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4351</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>345</td><td class="vname"><strong>LATIFPUR PACHTAURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">700</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>346</td><td class="vname"><strong>LATIRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">148</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>347</td><td class="vname"><strong>LEHRA KAMANGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">711</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>348</td><td class="vname"><strong>LOHARPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6027</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>349</td><td class="vname"><strong>MACHH KHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">154</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>350</td><td class="vname"><strong>MADAIYA KUBRI KAMSAH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6094</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>351</td><td class="vname"><strong>MADAK</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4079</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>352</td><td class="vname"><strong>MADANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4333</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>353</td><td class="vname"><strong>MADARA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">718</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>354</td><td class="vname"><strong>MAHARAJPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">748</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>355</td><td class="vname"><strong>MAHGAURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4835</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>356</td><td class="vname"><strong>MAHORA LAKHUPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">713</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>357</td><td class="vname"><strong>MAHORA LAKHUPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">760</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>358</td><td class="vname"><strong>MAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">157</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>359</td><td class="vname"><strong>MAI KALA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6047</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>360</td><td class="vname"><strong>MAI KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6050</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>361</td><td class="vname"><strong>MAITHARA DHARAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">171</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>362</td><td class="vname"><strong>MAITHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5012</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>363</td><td class="vname"><strong>MAITHRA AALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">170</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>364</td><td class="vname"><strong>MAKANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">158</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>365</td><td class="vname"><strong>MALAV KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4008</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>366</td><td class="vname"><strong>MALLAH TATAR PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">294</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>367</td><td class="vname"><strong>MANAKPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">160</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>368</td><td class="vname"><strong>MANAKPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2006</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>369</td><td class="vname"><strong>MANAKPUR NARAULI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">161</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>370</td><td class="vname"><strong>MANAUNA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">722</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>371</td><td class="vname"><strong>MANDAN PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">162</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>372</td><td class="vname"><strong>MANGAL PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">163</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>373</td><td class="vname"><strong>MANGANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5420</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>374</td><td class="vname"><strong>MANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4918</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>375</td><td class="vname"><strong>MANPUR KALA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4218</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>376</td><td class="vname"><strong>MATHNA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4335</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>377</td><td class="vname"><strong>MAU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4186</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>378</td><td class="vname"><strong>MAU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4187</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>379</td><td class="vname"><strong>MAU ASSU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">167</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>380</td><td class="vname"><strong>MAU BHUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">702</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>381</td><td class="vname"><strong>MAU KATHER</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">166</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>382</td><td class="vname"><strong>MAULAGARH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">181</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>383</td><td class="vname"><strong>MAUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4359</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>384</td><td class="vname"><strong>MAUSAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6015</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>385</td><td class="vname"><strong>MAZHAULA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">165</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>386</td><td class="vname"><strong>MAZHAWALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">164</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>387</td><td class="vname"><strong>MEWALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6093</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>388</td><td class="vname"><strong>MILK FATEHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4139</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>389</td><td class="vname"><strong>MIRJAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">173</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>390</td><td class="vname"><strong>MIRJAPUR IKTARA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">746</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>391</td><td class="vname"><strong>MOH.GANJ GOVRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6026</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>392</td><td class="vname"><strong>MOHADPUR TANDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">180</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>393</td><td class="vname"><strong>MOHD GANJ</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">175</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>394</td><td class="vname"><strong>MOHD PUR BAWAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">179</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>395</td><td class="vname"><strong>MOHDNAGAR KASWA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">176</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>396</td><td class="vname"><strong>MOHPUR KASHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">177</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>397</td><td class="vname"><strong>MOHSANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4317</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>398</td><td class="vname"><strong>MOJUDDINAGAR DHAK NA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6024</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>399</td><td class="vname"><strong>MOKHAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">169</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>400</td><td class="vname"><strong>MUGARRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">690</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>401</td><td class="vname"><strong>MUKARRAVPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5430</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>402</td><td class="vname"><strong>MULHAITA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">185</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>403</td><td class="vname"><strong>MUMRENJNAGAR URF MAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">747</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>404</td><td class="vname"><strong>MUNDIA KHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">730</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>405</td><td class="vname"><strong>MUSIYA NAGLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KMI) (6071</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>406</td><td class="vname"><strong>MUZAFFARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">712</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>407</td><td class="vname"><strong>N. MEWA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4917</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>408</td><td class="vname"><strong>N.DEVI SINGH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4294</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>409</td><td class="vname"><strong>N.KARAN SINGH M.SUJA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4300</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>410</td><td class="vname"><strong>N.SAHAB SINGH M.AHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4310</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>411</td><td class="vname"><strong>NAADHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6017</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>412</td><td class="vname"><strong>NACHNI URF MHMADABAD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">727</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>413</td><td class="vname"><strong>NADHAUS</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">188</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>414</td><td class="vname"><strong>NAGALA ASSU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4188</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>415</td><td class="vname"><strong>NAGALA DAGHA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">1345</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>416</td><td class="vname"><strong>NAGALIA BALLU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">189</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>417</td><td class="vname"><strong>NAGALIA KATHER</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">190</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>418</td><td class="vname"><strong>NAGAR KALA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4183</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>419</td><td class="vname"><strong>NAGAR KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4340</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>420</td><td class="vname"><strong>NAGAR PUKHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6085</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>421</td><td class="vname"><strong>NAGARIYA GAROLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4034</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>422</td><td class="vname"><strong>NAGARIYA HARSUKH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4339</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>423</td><td class="vname"><strong>NAGARIYA SOFA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4315</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>424</td><td class="vname"><strong>NAGLA GUJJAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">191</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>425</td><td class="vname"><strong>NAGLA JHEEL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6096</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>426</td><td class="vname"><strong>NAGLA KHAKAM</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">192</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>427</td><td class="vname"><strong>NAGLA KHOKAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">193</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>428</td><td class="vname"><strong>NAGLA POORVI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">194</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>429</td><td class="vname"><strong>NAGLA-BARAH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6054</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>430</td><td class="vname"><strong>NAGLIYA BHOOR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">721</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>431</td><td class="vname"><strong>NAGOLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4109</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>432</td><td class="vname"><strong>NANAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7001</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>433</td><td class="vname"><strong>NARAUDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">720</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>434</td><td class="vname"><strong>NARAULI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">196</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>435</td><td class="vname"><strong>NARAYANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4325</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>436</td><td class="vname"><strong>NARVARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4194</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>437</td><td class="vname"><strong>NASEERPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5221</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>438</td><td class="vname"><strong>NAWAB PURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">198</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>439</td><td class="vname"><strong>NEHTA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">199</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>440</td><td class="vname"><strong>NIGUNA SIGUNA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4363</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>441</td><td class="vname"><strong>NIRAWALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">295</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>442</td><td class="vname"><strong>NIWORA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">708</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>443</td><td class="vname"><strong>NOGWAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6040</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>444</td><td class="vname"><strong>NONA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6065</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>445</td><td class="vname"><strong>NOORIYE SARAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5427</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>446</td><td class="vname"><strong>NOORPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4919</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>447</td><td class="vname"><strong>NOORPUR PINONI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">1201</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>448</td><td class="vname"><strong>NOORPUR PINONI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6001</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>449</td><td class="vname"><strong>NURUDDIN PUR GANJ</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">200</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>450</td><td class="vname"><strong>ORCHHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">759</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>451</td><td class="vname"><strong>PACHAK</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5233</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>452</td><td class="vname"><strong>PAGAUNA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">202</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>453</td><td class="vname"><strong>PALANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5235</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>454</td><td class="vname"><strong>PALAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">1346</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>455</td><td class="vname"><strong>PALAVEERAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4327</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>456</td><td class="vname"><strong>PALTHA MITHAN PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">203</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>457</td><td class="vname"><strong>PALWARA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7016</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>458</td><td class="vname"><strong>PARHLAD PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">212</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>459</td><td class="vname"><strong>PARMANANDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">757</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>460</td><td class="vname"><strong>PARTA PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">206</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>461</td><td class="vname"><strong>PATHAK PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">207</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>462</td><td class="vname"><strong>PATHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">737</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>463</td><td class="vname"><strong>PATISA SAGAR SARAI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6013</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>464</td><td class="vname"><strong>PATRASI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">731</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>465</td><td class="vname"><strong>PATRUA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">208</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>466</td><td class="vname"><strong>PAWASA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">204</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>467</td><td class="vname"><strong>PEEPLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5236</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>468</td><td class="vname"><strong>PEEPLI GHARBARA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4380</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>469</td><td class="vname"><strong>PELSEDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4347</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>470</td><td class="vname"><strong>PIPARIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">689</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>471</td><td class="vname"><strong>PIPLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">209</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>472</td><td class="vname"><strong>PRATHI PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">213</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>473</td><td class="vname"><strong>PREMPUR BHOORGARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4358</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>474</td><td class="vname"><strong>PURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">214</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>475</td><td class="vname"><strong>PURDALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6069</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>476</td><td class="vname"><strong>RAFI PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">215</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>477</td><td class="vname"><strong>RAGHUNATHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">77</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>478</td><td class="vname"><strong>RAGHUNATHPUR N BAHRO</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">734</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>479</td><td class="vname"><strong>RAHOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">216</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>480</td><td class="vname"><strong>RAIPUR KALAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">217</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>481</td><td class="vname"><strong>RAITHA KHERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">753</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>482</td><td class="vname"><strong>RAJPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6098</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>483</td><td class="vname"><strong>RAJPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">218</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>484</td><td class="vname"><strong>RAJPUR AMARGARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4326</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>485</td><td class="vname"><strong>RAJPUR ROSHAN NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6068</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>486</td><td class="vname"><strong>RAJTHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5011</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>487</td><td class="vname"><strong>RAJTHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">219</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>488</td><td class="vname"><strong>RAJTHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6006</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>489</td><td class="vname"><strong>RAM NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">221</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>490</td><td class="vname"><strong>RAMGARH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">220</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>491</td><td class="vname"><strong>RAMNAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6090</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>492</td><td class="vname"><strong>RAMNAGAR BHOOD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6016</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>493</td><td class="vname"><strong>RAMRAIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">223</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>494</td><td class="vname"><strong>RANJEETGARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4320</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>495</td><td class="vname"><strong>RASHULPURKALI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5146</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>496</td><td class="vname"><strong>RASOOLPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4916</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>497</td><td class="vname"><strong>RASOOLPUR DHATORA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">709</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>498</td><td class="vname"><strong>RATANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5010</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>499</td><td class="vname"><strong>RESARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4330</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>500</td><td class="vname"><strong>RUDAINA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KMI) (6079</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>501</td><td class="vname"><strong>RUKANDI NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6038</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>502</td><td class="vname"><strong>RUMPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">222</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>503</td><td class="vname"><strong>SAADATPUR NACHNI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6039</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>504</td><td class="vname"><strong>SABHA NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6043</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>505</td><td class="vname"><strong>SADARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7005</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>506</td><td class="vname"><strong>SADATNAGAR DHAK NAGL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6023</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>507</td><td class="vname"><strong>SADATWARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">229</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>508</td><td class="vname"><strong>SAHAJPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4318</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>509</td><td class="vname"><strong>SAHGORA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4112</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>510</td><td class="vname"><strong>SAID MOHMMAD PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">743</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>511</td><td class="vname"><strong>SAIDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">230</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>512</td><td class="vname"><strong>SAIF KHAN SARAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5426</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>513</td><td class="vname"><strong>SAIFPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6086</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>514</td><td class="vname"><strong>SAINJNI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">231</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>515</td><td class="vname"><strong>SAJANA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4203</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>516</td><td class="vname"><strong>SAKAT PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">248</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>517</td><td class="vname"><strong>SAKATPUR  PINONI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6030</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>518</td><td class="vname"><strong>SAKIN SHOBHA PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">234</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>519</td><td class="vname"><strong>SALEMPUR BHOOD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6025</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>520</td><td class="vname"><strong>SALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4368</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>521</td><td class="vname"><strong>SAMD NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6044</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>522</td><td class="vname"><strong>SAMSOI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">236</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>523</td><td class="vname"><strong>SARAHBARILIYA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6099</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>524</td><td class="vname"><strong>SARAI JWALAPURI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5019</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>525</td><td class="vname"><strong>SARAIY SIKANDAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">237</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>526</td><td class="vname"><strong>SARERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6097</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>527</td><td class="vname"><strong>SARIFABAD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">495</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>528</td><td class="vname"><strong>SARTHAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">240</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>529</td><td class="vname"><strong>SATNAULI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">241</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>530</td><td class="vname"><strong>SATNOLI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2004</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>531</td><td class="vname"><strong>SEEKRI BHAGWANTPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">78</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>532</td><td class="vname"><strong>SEMLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">714</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>533</td><td class="vname"><strong>SENJANA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">245</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>534</td><td class="vname"><strong>SHADIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4362</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>535</td><td class="vname"><strong>SHAH NAGAR SAURAULA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4370</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>536</td><td class="vname"><strong>SHAHBAZPURSOORANAGLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5424</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>537</td><td class="vname"><strong>SHAHPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">GARH) (7015</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>538</td><td class="vname"><strong>SHAHPUR BHUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">706</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>539</td><td class="vname"><strong>SHAHZADI SARAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5431</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>540</td><td class="vname"><strong>SHEKHPUR JAGNA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5277</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>541</td><td class="vname"><strong>SHEKHU PUR MADHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">249</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>542</td><td class="vname"><strong>SHERKHAN SARAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5425</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>543</td><td class="vname"><strong>SHERPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4082</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>544</td><td class="vname"><strong>SHERPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">741</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>545</td><td class="vname"><strong>SHERPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">761</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>546</td><td class="vname"><strong>SHERWA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">246</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>547</td><td class="vname"><strong>SHIVALA KALAN</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4304</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>548</td><td class="vname"><strong>SHIVALA KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4305</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>549</td><td class="vname"><strong>SHYAM PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">252</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>550</td><td class="vname"><strong>SHYAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">2007</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>551</td><td class="vname"><strong>SHYARAUL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4379</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>552</td><td class="vname"><strong>SHYARAUL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4921</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>553</td><td class="vname"><strong>SIHORI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">253</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>554</td><td class="vname"><strong>SIKANDARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5432</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>555</td><td class="vname"><strong>SIMRAUTHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4384</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>556</td><td class="vname"><strong>SINGH PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">256</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>557</td><td class="vname"><strong>SIRIYA KI GARHI M.AH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4308</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>558</td><td class="vname"><strong>SISARKA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">257</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>559</td><td class="vname"><strong>SISONA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">297</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>560</td><td class="vname"><strong>SITHAULI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6056</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>561</td><td class="vname"><strong>SOFA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4316</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>562</td><td class="vname"><strong>SOHRA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">KMI) (6075</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>563</td><td class="vname"><strong>SONIYA KHEDA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6101</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>564</td><td class="vname"><strong>SOTIPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4348</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>565</td><td class="vname"><strong>SOTIPURA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5014</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>566</td><td class="vname"><strong>SUJANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4302</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>567</td><td class="vname"><strong>SULATANPUR THAPPA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">P (6035</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>568</td><td class="vname"><strong>SULTAN PUR KHURD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">719</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>569</td><td class="vname"><strong>SULTANGARH</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">705</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>570</td><td class="vname"><strong>SUNDAR NAGAR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6046</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>571</td><td class="vname"><strong>SUNWAR SARAY</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">261</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>572</td><td class="vname"><strong>SURAHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6049</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>573</td><td class="vname"><strong>SURAJPUR BHOOD</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6037</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>574</td><td class="vname"><strong>SURENIPAPDI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">692</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>575</td><td class="vname"><strong>SYORAJPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">262</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>576</td><td class="vname"><strong>TAHARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">701</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>577</td><td class="vname"><strong>TAHARPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4377</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>578</td><td class="vname"><strong>TAHARPUR SIMRAUA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">264</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>579</td><td class="vname"><strong>TAKIPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4321</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>580</td><td class="vname"><strong>TAPPAL</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4385</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>581</td><td class="vname"><strong>TARA PUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">756</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>582</td><td class="vname"><strong>TASHTPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5433</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>583</td><td class="vname"><strong>THANPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">PINONI) (6032</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>584</td><td class="vname"><strong>THATHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">80</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>585</td><td class="vname"><strong>THERA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">7012</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>586</td><td class="vname"><strong>THERESA JAISING</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">265</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>587</td><td class="vname"><strong>TIGRI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5302</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>588</td><td class="vname"><strong>TILOKPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">752</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>589</td><td class="vname"><strong>UDAYAPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4232</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>590</td><td class="vname"><strong>UDAYPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6078</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>591</td><td class="vname"><strong>UGIA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">266</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>592</td><td class="vname"><strong>ULLA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6061</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>593</td><td class="vname"><strong>UMARI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4298</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>594</td><td class="vname"><strong>UMRAGOPALPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">5306</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>595</td><td class="vname"><strong>USRAH RASOOLPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4356</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>596</td><td class="vname"><strong>VAMAN PURI KALA</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">34</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>597</td><td class="vname"><strong>VANKNER</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4301</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>598</td><td class="vname"><strong>VAZIDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4364</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>599</td><td class="vname"><strong>VIJAYPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">6004</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>600</td><td class="vname"><strong>VIKRAMPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">291</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>601</td><td class="vname"><strong>VISARU</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">268</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>602</td><td class="vname"><strong>VISAYTI GARHI</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4312</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>603</td><td class="vname"><strong>WASIDPUR</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">4195</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+  <tr class="vrow"><td>604</td><td class="vname"><strong>YUSUFPUR ISAM</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">269</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>
+
+</tbody>
+</table>
+</div>
+
+<script>
+function filterVillages() {
+  var input = document.getElementById("vsearch");
+  var filter = input.value.toUpperCase();
+  var table = document.getElementById("vtable");
+  var tr = table.getElementsByTagName("tr");
+  for (var i = 1; i < tr.length; i++) {
+    var tdName = tr[i].getElementsByClassName("vname")[0];
+    var tdCode = tr[i].getElementsByClassName("vcode")[0];
+    if (tdName || tdCode) {
+      var txtName = tdName.textContent || tdName.innerText;
+      var txtCode = tdCode.textContent || tdCode.innerText;
+      if (txtName.toUpperCase().indexOf(filter) > -1 || txtCode.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
 
 ---
 
-*यह लेख CaneUp टीम द्वारा Prepared किया गया है। मझावली (वेन्नस) शुगर मिल की किसी भी अपडेट के लिए अपने नज़दीकी कृषि विज्ञान केंद्र से संपर्क करें।*
+## 🏭 Mazhawali (Venus) Sugar Mill Overview & Specifications
 
-## संबंधित आर्टिकल्स
-
-- [अलीगढ़ जिला गन्ना किसानों के लिए मिल गाइड 2026](/posts/aligarh-district-sugar-mills-farmers-2026/)
-- [टॉप 5 शुगर मिल्स जो 14 दिन में देती हैं गन्ना भुगतान](/posts/sugar-mills-payment-2026/)
-- [Co-0238 गन्ना किस्म - सबसे ज्यादा उपज](/posts/co-0238-ganna-variety/)
-- [ड्रिप सिंचाई - 90% सब्सिडी कैसे मिलेगी](/posts/drip-irrigation-ganna-90-subsidy-2026/)
-
-## यह भी पढ़ें
-
-- [PM किसान योजना 2026 - ₹6000 कैसे मिलें](/posts/pm-kisan-ganna-kisan/)
-- [किसान क्रेडिट कार्ड (KCC) 2026 - ₹3 लाख तक लोन](/posts/kisan-credit-card-ganna-kisan-2026/)
-- [गन्ना भुगतान स्थिति ऑनलाइन कैसे चेक करें](/posts/ganna-bhugtan-status-2026-online/)
+| विवरण (Parameter) | आधिकारिक जानकारी (Official Details) |
+|---|---|
+| **मिल का नाम** | मझावली शुगर मिल (Venus Sugar Ltd, Mazhawali) |
+| **स्थान व जिला** | मझावली (बहजोई), जिला संभल / अलीगढ़ सीमा, उत्तर प्रदेश |
+| **प्रतिदिन पेराई क्षमता (Crushing Capacity)** | 5,500 TCD (टन प्रति दिन) |
+| **संबद्ध कुल गांव (Total Villages)** | **604 गांव** |
+| **पेराई सत्र 2026-27 प्रारंभ तिथि** | **15 अक्टूबर से 22 अक्टूबर 2026** |
+| **औसत गन्ना भुगतान समय** | 12 से 14 दिन (Direct DBT to Bank) |
+| **आधिकारिक पोर्टल** | [enquiry.caneup.in](https://enquiry.caneup.in/) |
 
 ---
 
-*कैनेअप — गन्ना किसानों का भरोसेमंद साथी। हर गन्ना किसान को उसका हक़ मिले, यही हमारा मिशन है।*
+## 📲 CaneUp व eGanna App पर मझावली मिल की पर्ची कैलेंडर कैसे देखें?
+
+मझावली (वीनस) चीनी मिल के किसान भाई अपने मोबाइल पर सप्लाय पर्ची और कैलेंडर इस प्रकार जांच सकते हैं:
+
+1. **CaneUp पोर्टल खोलें:** मोबाइल में **[enquiry.caneup.in](https://enquiry.caneup.in/)** पर जाएं।
+2. **कैप्चा कोड दर्ज करें:** Captcha कोड भरकर 'Submit' पर क्लिक करें।
+3. **जिला व मिल चुनें:**
+   - **District:** Sambhal / Aligarh (संभल/अलीगढ़)
+   - **Factory:** Mazhawali / Venus (मझावली/वीनस)
+4. **गांव व किसान कोड चुनें:**
+   - ऊपर दी गई तालिका से अपने गांव का **Village Code** चुनें (उदा. मझावली गांव कोड `164` या बहजोई कोड `41`)।
+   - अपना **Grower Code (किसान कोड)** डालें।
+5. **सप्लाई टिकट व पर्ची:** आपके सामने 12 पखवाड़ों की जारी पर्चियां, वजन और भुगतान विवरण आ जाएगा।
+
+---
+
+## 💳 मझावली (वीनस) चीनी मिल गन्ना भुगतान स्थिति (Payment Status 2026)
+
+मझावली (वीनस) चीनी मिल आधुनिक प्रोसेसिंग और एथेनॉल उत्पादन से जुड़ी होने के कारण गन्ना भुगतान के मामले में बहुत तेज है। 
+
+- **12-14 दिनों में भुगतान:** गन्ना आपूर्ति के 12 से 14 दिनों के अंदर भुगतान सीधे किसान के बैंक खाते में DBT द्वारा क्रेडिट होता है।
+- **एस्क्रो खाता सुरक्षा:** मिल की चीनी और शीरे की बिक्री का 85% धन सीधे एस्क्रो अकाउंट में टैग रहता है, जिससे भुगतान सुरक्षित रहता है।
+
+---
+
+## ❓ अक्सर पूछे जाने वाले सवाल (Frequently Asked Questions)
+
+### Q1. मझावली शुगर मिल और वीनस शुगर मिल में क्या अंतर है?
+दोनों एक ही चीनी मिल का नाम हैं। स्थानीय स्तर पर इसे मझावली शुगर मिल और आधिकारिक तौर पर वीनस शुगर लिमिटेड (Venus Sugar Ltd) कहा जाता है।
+
+### Q2. मझावली मिल में गन्ना पेराई सत्र 2026-27 कब शुरू होगा?
+सरकार द्वारा मंजूर पेराई टाइमटेबल के तहत मझावली चीनी मिल में पेराई 15 अक्टूबर से 22 अक्टूबर 2026 के बीच शुरू हो जाएगी।
+
+### Q3. यदि मेरे गांव का कोड इस लिस्ट में नहीं है तो क्या करें?
+यदि आपका गांव मझावली मिल क्षेत्र में आता है लेकिन सूची में नहीं दिख रहा, तो अपनी संबंधित गन्ना विकास समिति (Sambhal/Bahjoi Cane Society) से संपर्क कर अपना रकबा और कोड अपडेट करवाएं।
+
+### Q4. गन्ना पर्ची न आने पर शिकायत कहां दर्ज करें?
+गन्ना पर्ची या तौल से जुड़ी किसी भी समस्या के लिए टोल-फ्री हेल्पलाइन नंबर **`1800-121-3203`** पर संपर्क करें या CaneUp पोर्टल पर शिकायत दर्ज कराएं।
+
+---
+
+*मझावली (वीनस) शुगर मिल, गन्ना पर्ची कैलेंडर 2026-27 और eGanna App की सटीक खबरों के लिए [CaneUp.xyz](/) से जुड़े रहें!*
