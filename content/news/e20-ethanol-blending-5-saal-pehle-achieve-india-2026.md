@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["E20", "ethanol blending", "गन्ना किसान", "इथेनॉल", "2026"]
 categories: ["Government Policy", "Breaking News"]
 description: "भारत ने 20% इथेनॉल ब्लेंडिंग का लक्ष्य 2030 से 5 साल पहले 2026 में ही पूरा कर लिया। गन्ना किसानों को होगा फायदा, जानिए पूरी खबर।"
+featured_image: /images/news/chini-bhav-august-2026.webp
+image: /images/news/chini-bhav-august-2026.webp
 ---
 
 वाह भाई वाह! सरकार ने कमाल कर दिया! भारत ने E20 यानी 20% इथेनॉल ब्लेंडिंग का टारगेट 2030 से पूरे 5 साल पहले ही हासिल कर लिया है। ये गन्ना किसानों के लिए बेहद शानदार खबर है!

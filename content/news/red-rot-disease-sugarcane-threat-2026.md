@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["red rot disease", "गन्ना बीमारी", "रेड रॉट", "किसान सलाह", "2026"]
 categories: ["Agriculture", "Farming Tips", "Alert"]
 description: "गन्ने की फसल में रेड रॉट बीमारी का खतरा बढ़ गया है। चीनी के भाव बढ़ने की एक बड़ी वजह यही बीमारी है। जानिए लक्षण, बचाव और इलाज की पूरी जानकारी।"
+featured_image: /images/news/ethanol-vs-chini-2026.webp
+image: /images/news/ethanol-vs-chini-2026.webp
 ---
 
 अरे भाई साहब, खेती में एक नई मुसीबत आ गई है! गन्ने की फसल में **रेड रॉट (Red Rot) बीमारी** तेजी से फैल रही है। कई इलाकों में किसानों की फसल बर्बाद हो गई है। अगर आप गन्ना किसान हो तो ये खबर बहुत जरूरी है!

@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["stock limit", "चीनी स्टॉक", "जमाखोरी", "2026"]
 categories: ["Market News", "Government Policy", "Breaking News"]
 description: "1 सितंबर 2026 से चीनी पर स्टॉक लिमिट लागू हो रही है। यूपी समेत सभी जिलों में चेकिंग शुरू होगी। जमाखोरी पर सख्त कार्रवाई की तैयारी।"
+featured_image: /images/news/bombay-hc-export-ban-2026.webp
+image: /images/news/bombay-hc-export-ban-2026.webp
 ---
 
 अरे भाई लोग, बड़ी खबर आ गई है! चीनी के बढ़ते भाव को कंट्रोल करने के लिए सरकार ने बड़ा फैसला लिया है। **1 सितंबर 2026 से चीनी पर स्टॉक लिमिट** लगाई जा रही है। जिला स्तर पर पूरे देश में चेकिंग होगी!

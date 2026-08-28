@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["CaneUP", "registration", "login", "ganna farmer", "UP", "2026"]
 categories: ["CaneUP Guide", "How To", "Farmer Help"]
 description: "CaneUP portal par registration aur login kaise karen? UP ke ganna kisano ke liye complete step-by-step guide. Mobile aur computer dono par CaneUP account banane ka tarika."
+featured_image: /images/news/bareilly-parchi-priority-2026.webp
+image: /images/news/bareilly-parchi-priority-2026.webp
 ---
 
 अरे भाई, अगर आप उत्तर प्रदेश के गन्ना किसान हैं तो **CaneUP Portal** पर registration करना बहुत जरूरी है! इस पोर्टल पर अपना गन्ना पर्ची, भुगतान, सर्वे - सब कुछ ऑनलाइन देख सकते हो। चलो आज पूरी जानकारी दे देते हैं!

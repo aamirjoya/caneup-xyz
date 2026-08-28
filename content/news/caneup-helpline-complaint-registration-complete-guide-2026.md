@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["CaneUP helpline", "complaint registration", "ganna kisan", "helpline number", "grievance", "2026"]
 categories: ["CaneUP Guide", "Help & Support", "Complaint"]
 description: "CaneUP helpline number, complaint kaise register karen, tracking, resolution - complete guide. Ganna farmers ke liye har problem ka solution yahan."
+featured_image: /images/news/agristack-farmer-id-2026.webp
+image: /images/news/agristack-farmer-id-2026.webp
 ---
 
 अरे भाई, **CaneUP** से related कोई problem है? Payment delay, parchi error, survey issue - कुछ भी हो? तो tension मत लो! **CaneUP Helpline** और **Complaint System** है ना! आज पूरी जानकारी दे रहे हैं कि कैसे अपनी problem solve करवाओ।

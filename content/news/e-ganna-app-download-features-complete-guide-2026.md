@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["e-Ganna app", "CaneUP", "mobile app", "download", "गन्ना किसान", "2026"]
 categories: ["CaneUP Guide", "Mobile App", "How To"]
 description: "e-Ganna mobile app kaise download karen? Features, login, parchi check, payment status - sab kuch ek app mein. UP ke ganna kisano ke liye complete guide."
+featured_image: /images/news/chini-4000-quintal-2026.webp
+image: /images/news/chini-4000-quintal-2026.webp
 ---
 
 अरे भाई, अब **e-Ganna App** से गन्ना किसानों की जिंदगी और भी आसान हो गई है! Mobile में ही सब काम - पर्ची देखो, payment check करो, complaint करो। चलो आज इस app की पूरी जानकारी दे देते हैं!

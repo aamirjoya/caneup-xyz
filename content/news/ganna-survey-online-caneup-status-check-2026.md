@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["ganna survey", "CaneUP", "survey status", "online check", "UP", "2026"]
 categories: ["CaneUP Guide", "Survey", "How To"]
 description: "CaneUP portal par ganna survey status kaise check karen? Survey hua ya nahi, area kitna registered hai, mill assignment - sab kuch online dekhen."
+featured_image: /images/news/digital-agri-farmer-id-2026.webp
+image: /images/news/digital-agri-farmer-id-2026.webp
 ---
 
 अरे भाई, हर season से पहले **गन्ना सर्वे** होता है ना? अब ये जानने के लिए कि आपका survey हुआ या नहीं, **CaneUP Portal** पर online check कर सकते हो! चलो आज पूरा तरीका बताते हैं।

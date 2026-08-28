@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["PM Kisan", "24th installment", "किसान योजना", "2026"]
 categories: ["Government Scheme", "Farmer Welfare", "Breaking News"]
 description: "PM किसान योजना की 24वीं किस्त कब आएगी? अक्टूबर 2026 में ₹2000 मिलने की संभावना। रक्षाबंधन पर ₹4000 की खबर फेक है।"
+featured_image: /images/news/ethanol-revenue-kisan-2026.webp
+image: /images/news/ethanol-revenue-kisan-2026.webp
 ---
 
 अरे भाई, **PM किसान योजना की 24वीं किस्त** का इंतजार कर रहे हो? सोशल मीडिया पर तरह-तरह की खबरें घूम रही हैं। कुछ कह रहे हैं रक्षाबंधन पर ₹4000 मिलेंगे, कुछ और कह रहे हैं। चलो आज सही जानकारी दे देते हैं!

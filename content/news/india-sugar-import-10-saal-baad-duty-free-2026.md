@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["sugar import", "चीनी आयात", "India", "2026"]
 categories: ["Market News", "Breaking News", "Policy"]
 description: "भारत को लगभग 10 साल बाद चीनी आयात करनी पड़ेगी। सरकार 10 लाख टन चीनी बिना ड्यूटी के मंगाने की तैयारी में। क्या है वजह और किसान पर क्या असर होगा?"
+featured_image: /images/news/e20-ethanol-achieved-2026.webp
+image: /images/news/e20-ethanol-achieved-2026.webp
 ---
 
 अरे भाई, ये क्या हो गया! भारत जो दुनिया का दूसरा सबसे बड़ा चीनी उत्पादक देश है, उसे **10 साल बाद फिर से चीनी आयात** करनी पड़ रही है। सरकार ने **10 लाख टन चीनी** बिना ड्यूटी के इंपोर्ट करने का फैसला लिया है।

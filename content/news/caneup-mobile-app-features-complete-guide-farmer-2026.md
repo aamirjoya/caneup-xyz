@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["CaneUP app", "mobile app", "e-Ganna", "features", "गन्ना किसान", "2026"]
 categories: ["CaneUP Guide", "Mobile App", "Technology"]
 description: "CaneUP mobile app ke sab features ki complete guide. Dashboard se lekar complaint registration tak - sab kuch detail mein. Ganna farmers ke liye must-read."
+featured_image: /images/news/andhra-drought-crisis-2026.webp
+image: /images/news/andhra-drought-crisis-2026.webp
 ---
 
 अरे भाई, **CaneUP Mobile App** (e-Ganna) तो है ही, पर सारे features का पूरा फायदा कैसे उठाएं? आज एक-एक feature की complete guide दे रहे हैं। सब समझ में आ जाएगा!

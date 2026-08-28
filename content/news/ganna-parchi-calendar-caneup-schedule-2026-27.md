@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["ganna calendar", "parchi calendar", "CaneUP", "season schedule", "2026-27"]
 categories: ["CaneUP Guide", "Calendar", "Planning"]
 description: "CaneUP par ganna parchi calendar kaise dekhen? 2026-27 season ka pura schedule, mill opening dates, token booking, payment dates - sab kuch ek jagah."
+featured_image: /images/news/chini-price-crisis-aug-2026.webp
+image: /images/news/chini-price-crisis-aug-2026.webp
 ---
 
 अरे भाई, **Ganna Parchi Calendar** का मतलब समझते हो? पूरे season का schedule एक जगह! **CaneUP Portal** पर ये calendar देखकर अपनी ganna supply plan कर सकते हो। आज पूरी जानकारी दे रहे हैं!

@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["CaneUP payment", "ganna bhugtan", "payment status", "online check", "2026"]
 categories: ["CaneUP Guide", "Payment", "How To"]
 description: "CaneUP portal par ganna payment status kaise check karen? Mobile aur computer par bhugtan details dekhne ka asan tarika. Pending amount, paid amount sab kuch online."
+featured_image: /images/news/balrampur-biopolymer-2026.webp
+image: /images/news/balrampur-biopolymer-2026.webp
 ---
 
 अरे भाई, गन्ना तो supply कर दिया, अब पैसा कब आएगा? **CaneUP Portal** पर घर बैठे अपना **payment status** check कर सकते हो! चलो आज पूरा तरीका बताते हैं।

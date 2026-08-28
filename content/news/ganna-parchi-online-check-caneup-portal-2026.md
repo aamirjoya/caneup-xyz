@@ -6,6 +6,8 @@ author: "Randhir Patil"
 tags: ["ganna parchi", "CaneUP", "online slip check", "UP ganna", "2026"]
 categories: ["CaneUP Guide", "How To", "Farmer Help"]
 description: "CaneUP portal par ganna parchi online kaise check karen? Mobile aur computer dono par slip dekhne ka complete tarika. Date-wise parchi list, payment details sab kuch."
+featured_image: /images/news/chini-stock-limit-sept-2026.webp
+image: /images/news/chini-stock-limit-sept-2026.webp
 ---
 
 अरे भाई, क्या आप भी मिल के चक्कर काट-काट के थक गए हो गन्ना पर्ची देखने के लिए? अब तो **CaneUP Portal** पर घर बैठे **ऑनलाइन गन्ना पर्ची** चेक कर सकते हो! चलो आज पूरा तरीका बताते हैं।
