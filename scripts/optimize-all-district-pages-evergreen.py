@@ -1,4 +1,53 @@
----
+import os
+import sys
+import re
+from PIL import Image
+
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
+base_dir = r'c:\Users\caneu\Downloads\caneup-xyz-restore'
+
+def process_image(src_path, dst_path):
+    with Image.open(src_path) as img:
+        img = img.convert('RGB')
+        target_w, target_h = 1200, 675
+        src_w, src_h = img.size
+        target_ratio = target_w / target_h
+        src_ratio = src_w / src_h
+        
+        if src_ratio > target_ratio:
+            new_w = int(src_h * target_ratio)
+            left = (src_w - new_w) // 2
+            img = img.crop((left, 0, left + new_w, src_h))
+        else:
+            new_h = int(src_w / target_ratio)
+            top = (src_h - new_h) // 2
+            img = img.crop((0, top, src_w, top + new_h))
+            
+        img = img.resize((target_w, target_h), Image.Resampling.LANCZOS)
+        
+        quality = 85
+        img.save(dst_path, 'WEBP', quality=quality, optimize=True)
+        kb = os.path.getsize(dst_path) / 1024.0
+        while kb > 98.0 and quality > 35:
+            quality -= 5
+            img.save(dst_path, 'WEBP', quality=quality, optimize=True)
+            kb = os.path.getsize(dst_path) / 1024.0
+            
+    print(f"Processed image {dst_path}: {kb:.1f} KB")
+
+# 1. Process Amroha Image
+amroha_brain_img = r'C:\Users\caneu\.gemini\antigravity\brain\f0566670-25ee-4739-bb10-e53286d68160\amroha_discover_cover_1787940550032.jpg'
+amroha_site_img = os.path.join(base_dir, 'static', 'images', 'blog', 'amroha-district-sugar-mills-2026.webp')
+process_image(amroha_brain_img, amroha_site_img)
+
+# 2. Write Ultra-Evergreen Amroha Post
+amroha_post = os.path.join(base_dir, 'content', 'posts', 'amroha-district-sugar-mills-farmers-2026.md')
+amroha_content = """---
 title: "अमरोहा जिला चीनी मिल 2026-27: 16 चीनी मिलों की लिस्ट, CaneUp पर्ची कैलेंडर व भुगतान स्टेटस"
 date: 2026-08-28T23:35:00+05:30
 lastmod: 2026-08-28T23:35:00+05:30
@@ -111,3 +160,127 @@ By
 ---
 
 *अमरोहा जिले की सभी 16 चीनी मिलों के गांववार कोड, पर्ची कैलेंडर 2026-27 और eGanna App की हर ताजा अपडेट के लिए [CaneUp.xyz](/) विजिट करते रहें!*
+"""
+
+with open(amroha_post, 'w', encoding='utf-8') as f:
+    f.write(amroha_content)
+
+print("Updated Amroha District Post with Ultra High-CTR Evergreen Content!")
+
+# 3. Update Ambedkar Nagar District Post with Ultra High-CTR Evergreen Content
+ambedkar_brain_img = r'C:\Users\caneu\.gemini\antigravity\brain\f0566670-25ee-4739-bb10-e53286d68160\ambedkar_nagar_mills_cover_1787928683975.jpg'
+ambedkar_site_img = os.path.join(base_dir, 'static', 'images', 'blog', 'ambedkar-nagar-district-sugar-mills-2026.webp')
+process_image(ambedkar_brain_img, ambedkar_site_img)
+
+ambedkar_post = os.path.join(base_dir, 'content', 'posts', 'ambedkar-nagar-district-sugar-mills-farmers-2026.md')
+ambedkar_content = """---
+title: "अम्बेडकर नगर जिला चीनी मिल 2026-27: अकबरपुर व मुंडेरवा चीनी मिल, CaneUp पर्ची कैलेंडर व गांव कोड"
+date: 2026-08-28T23:35:00+05:30
+lastmod: 2026-08-28T23:35:00+05:30
+description: "अम्बेडकर नगर जिले (Ambedkar Nagar District) के गन्ना किसानों के लिए CaneUp 2026-27 का बड़ा अपडेट। अकबरपुर (Akbarpur) व मुंडेरवा (Munderwa) चीनी मिल की क्षमता, पेराई शेड्यूल, eGanna पर्ची कैलेंडर, गांव कोड व डीबीटी भुगतान स्थिति।"
+categories:
+- Sugar Mills
+- Ganna Bhugtan
+tags:
+- अम्बेडकर नगर चीनी मिल
+- Akbarpur Sugar Mill
+- Munderwa Sugar Mill
+- Ambedkar Nagar Farmers Guide
+- eGanna Parchi Calendar
+- CaneUp Ambedkar Nagar
+- मुंडेरवा चीनी मिल
+- अकबरपुर शुगर मिल
+slug: ambedkar-nagar-district-sugar-mills-farmers-2026
+ShowToc: true
+author: "Randhir Patil"
+authors:
+- "Randhir Patil"
+author_name: "Randhir Patil"
+author_image: "/images/authors/randhir-patil.webp"
+featured_image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.webp"
+image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.webp"
+---
+
+# अम्बेडकर नगर जिला चीनी मिल 2026-27: अकबरपुर व मुंडेरवा चीनी मिल, CaneUp पर्ची कैलेंडर व गांव कोड
+
+By  
+[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+
+**अम्बेडकर नगर / अकबरपुर / जलालपुर / मुंडेरवा / आलापुर :** उत्तर प्रदेश के अयोध्या मंडल में स्थित **अम्बेडकर नगर जिला (Ambedkar Nagar District)** पूर्वी यूपी का एक प्रमुख गन्ना उत्पादक केंद्र है। जिले के हजारों किसान अपनी गन्ने की फसल पेराई के लिए मुख्य रूप से दो विशाल चीनी मिलों— **[अकबरपुर चीनी मिल (Akbarpur Sugar Mill)](/posts/akbarpur-sugar-factory-2026/)** (बलरामपुर चिनी मिल्स समूह) और **[मुंडेरवा सहकारी चीनी मिल (Munderwa Cooperative Sugar Mill)](/posts/munderwa-sugar-factory-2026/)** पर निर्भर रहते हैं।
+
+आगामी पेराई सत्र **2026-27** के लिए यदि आप अम्बेडकर नगर जिले के गन्ना किसान हैं और **[enquiry.caneup.in](https://enquiry.caneup.in/)** अथवा **[eGanna App 2026](/posts/eganna-app-download-2026/)** के माध्यम से अपने गांव का **CaneUp Village Code (गांव कोड)**, सप्लाय पर्ची कैलेंडर और **[गन्ना भुगतान स्टेटस](/posts/ganna-bhugtan-status-kaise-check-kare-2026/)** देखना चाहते हैं, तो यह विस्तृत गाइड पूरी जानकारी प्रदान करती है।
+
+---
+
+## 🏢 अम्बेडकर नगर जिले की प्रमुख चीनी मिलें (Sugar Mills Overview 2026-27)
+
+अम्बेडकर नगर जिले के किसानों का गन्ना मुख्य रूप से निम्नलिखित दो अत्याधुनिक चीनी मिलों द्वारा पेरा जाता है:
+
+| चीनी मिल का नाम (Factory Name) | स्थान व क्षेत्र (Location) | पेराई क्षमता (TCD) | प्रबंधन प्रकार (Management) | मुख्य विशेषता व डायरेक्ट लिंक |
+|---|---|---|---|---|
+| **1. अकबरपुर शुगर मिल (Akbarpur Sugar Mill)** | मिज़वां/अकबरपुर, अम्बेडकर नगर | 7,500 TCD | बलरामपुर चिनी मिल्स ग्रुप | [3,606 गांवों की लिस्ट व कोड देखें](/posts/akbarpur-sugar-factory-2026/) |
+| **2. मुंडेरवा शुगर मिल (Munderwa Sugar Mill)** | मुंडेरवा (बस्ती-अम्बेडकर नगर सीमा) | 5,000 TCD | यूपी सहकारी चीनी मिल संघ | [3,312 गांवों की लिस्ट व कोड देखें](/posts/munderwa-sugar-factory-2026/) |
+
+---
+
+## 🏭 1. अकबरपुर चीनी मिल (Akbarpur Sugar Mill, Ambedkar Nagar)
+
+अकबरपुर चीनी मिल देश के सबसे बड़े चीनी उत्पादक समूहों में से एक **बलरामपुर चिनी मिल्स लिमिटेड (Balrampur Chini Mills Ltd)** की एक अत्याधुनिक इकाई है। 
+
+- **संबद्ध क्षेत्र:** अकबरपुर, जलालपुर, टांडा, कटेहरी और भीटी के 3,600 से अधिक पंजीकृत गांव।
+- **पेराई क्षमता:** 7,500 टन प्रति दिन (TCD)।
+- **विशेषताएं:** अत्याधुनिक ऑटोमैटिक तौल कांटा, 14 दिनों में एस्क्रो खाते द्वारा डीबीटी बैंक ट्रांसफर।
+- **गांववार लिस्ट:** **[अकबरपुर चीनी मिल के 3606 गांवों की सूची व कोड देखें](/posts/akbarpur-sugar-factory-2026/)**।
+
+---
+
+## 🏭 2. मुंडेरवा सहकारी चीनी मिल (Munderwa Cooperative Sugar Mill)
+
+मुंडेरवा सहकारी चीनी मिल प्रशासनिक रूप से बस्ती-अम्बेडकर नगर सीमा पर स्थित है, लेकिन अम्बेडकर नगर जिले की आलापुर, राजेसुल्तानपुर और जलालपुर तहसीलों के हजारों किसान इसी मिल को गन्ना आपूर्ति करते हैं।
+
+- **संबद्ध क्षेत्र:** आलापुर, राजेसुल्तानपुर, जहांगीरगंज और जलालपुर के उत्तरी 3,300+ गांव।
+- **क्षमता व तकनीक:** 5,000 TCD पेराई क्षमता के साथ 27 मेगावाट का बायोमास पावर प्लांट।
+- **विशेषताएं:** 100% सल्फरलेस रिफाइंड शुगर (Refined Sugar) का उत्पादन।
+- **गांववार लिस्ट:** **[मुंडेरवा चीनी मिल के 3312 गांवों की सूची व कोड देखें](/posts/munderwa-sugar-factory-2026/)**।
+
+---
+
+## 📱 CaneUp Portal (enquiry.caneup.in) पर पर्ची कैलेंडर कैसे देखें?
+
+अम्बेडकर नगर जिले के किसान भाई मोबाइल पर सप्लाय पर्ची देखने के लिए इन आसान चरणों का पालन करें:
+
+1. **पोर्टल पर जाएं:** अपने ब्राउज़र में **[enquiry.caneup.in](https://enquiry.caneup.in/)** लिंक खोलें।
+2. **Captcha दर्ज करें:** स्क्रीन पर प्रदर्शित कैप्चा कोड भरें।
+3. **जिला व चीनी मिल चुनें:**
+   - **District:** Ambedkar Nagar (अम्बेडकर नगर) या Basti (मुंडेरवा के लिए)
+   - **Factory:** Akbarpur (अकबरपुर) या Munderwa (मुंडेरवा)
+4. **गांव व किसान कोड डालें:**
+   - अपनी समिति पासबुक से अपना **CaneUp Village Code** और **Grower Code** दर्ज करें।
+5. **कैलेंडर व भुगतान देखें:** आपकी पर्चियों का 12 पखवाड़ों का कैलेंडर और डीबीटी भुगतान स्थिति स्क्रीन पर आ जाएगी। एंड्रॉइड यूजर **[eGanna App Download](/posts/eganna-app-download-2026/)** करके भी जानकारी प्राप्त कर सकते हैं।
+
+---
+
+## 💳 गन्ना भुगतान नियम व हेल्पलाइन (Payment Rules & Helpline)
+
+- **14 दिनों में डीबीटी ट्रांसफर:** शासन के आदेशानुसार चीनी बिक्री से प्राप्त 85% धनराशि सीधे किसानों के खातों में डीबीटी (DBT) द्वारा भेजी जाती है।
+- **हेल्पलाइन सहायता:** किसी भी समस्या के लिए हमारे **[गन्ना विभाग हेल्पलाइन गाइड](/posts/ganna-vibhag-helpline-number-jilewar/)** के माध्यम से टोल-फ्री नंबर **`1800-121-3203`** पर संपर्क करें।
+
+---
+
+## ❓ अक्सर पूछे जाने वाले सवाल (Frequently Asked Questions)
+
+### Q1. अम्बेडकर नगर जिले में कौन सी चीनी मिलें स्थित हैं?
+अम्बेडकर नगर जिले में मुख्य रूप से **अकबरपुर चीनी मिल** और **मुंडेरवा सहकारी चीनी मिल** स्थित हैं।
+
+### Q2. अकबरपुर और मुंडेरवा चीनी मिल का पेराई सत्र कब शुरू होगा?
+पेराई सत्र 2026-27 की शुरुआत 20 अक्टूबर से 25 अक्टूबर 2026 के मध्य प्रस्तावित है।
+
+---
+
+*अम्बेडकर नगर जिले की अकबरपुर व मुंडेरवा चीनी मिलों के गांववार कोड, पर्ची कैलेंडर 2026-27 और eGanna App की हर अपडेट के लिए [CaneUp.xyz](/) से जुड़े रहें!*
+"""
+
+with open(ambedkar_post, 'w', encoding='utf-8') as f:
+    f.write(ambedkar_content)
+
+print("Updated Ambedkar Nagar District Post with Ultra High-CTR Evergreen Content!")
