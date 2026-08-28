@@ -22,8 +22,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: /images/news/pm-kisan-24-oct-2026.webp
-image: /images/news/pm-kisan-24-oct-2026.webp
+featured_image: /images/news/pm-kisan-2030-extension-2026.webp
+image: /images/news/pm-kisan-2030-extension-2026.webp
 ---
 
 

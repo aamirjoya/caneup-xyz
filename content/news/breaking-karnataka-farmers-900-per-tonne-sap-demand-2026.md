@@ -22,8 +22,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: /images/news/frp-365-naraz-2026.webp
-image: /images/news/frp-365-naraz-2026.webp
+featured_image: /images/news/karnataka-sap-bonus-2026.webp
+image: /images/news/karnataka-sap-bonus-2026.webp
 ---
 
 

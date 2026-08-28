@@ -22,8 +22,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: /images/news/maharashtra-protest-7000-2026.webp
-image: /images/news/maharashtra-protest-7000-2026.webp
+featured_image: /images/news/lakhimpur-protest-28aug-2026.webp
+image: /images/news/lakhimpur-protest-28aug-2026.webp
 ---
 
 

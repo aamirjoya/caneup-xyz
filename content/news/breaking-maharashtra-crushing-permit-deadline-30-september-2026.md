@@ -22,8 +22,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.jpg"
-featured_image: /images/news/perai-15-oct-early-2026.webp
-image: /images/news/perai-15-oct-early-2026.webp
+featured_image: /images/news/maharashtra-crushing-permit-2026.webp
+image: /images/news/maharashtra-crushing-permit-2026.webp
 ---
 
 
