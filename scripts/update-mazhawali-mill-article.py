@@ -637,16 +637,18 @@ for val, text in matches:
         code = val.strip()
     villages.append((name, code))
 
-# Generate HTML table rows
 rows_html = ""
 for idx, (vname, vcode) in enumerate(villages, 1):
     rows_html += f'  <tr class="vrow"><td>{idx}</td><td class="vname"><strong>{vname}</strong></td><td class="vcode"><code style="background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-weight:700;">{vcode}</code></td><td>मझावली वीनस शुगर मिल समिति</td></tr>\n'
 
+seo_title = "मझावली (वीनस) शुगर मिल 2026-27: 604 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Mazhawali Venus Sugar Mill"
+seo_desc = "मझावली (वीनस) शुगर मिल (Mazhawali Venus Sugar Mill Bahjoi Sambhal Aligarh) 2026-27 के सभी 604 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व भुगतान स्थिति।"
+
 article_content = f"""---
-title: "मझावली (वीनस) शुगर मिल (Mazhawali Venus Sugar Mill) 2026-27: 604 गांवों की लिस्ट, कोड व पर्ची कैलेंडर गाइड"
-date: 2026-08-28T18:50:00+05:30
-lastmod: 2026-08-28T18:50:00+05:30
-description: "मझावली (वीनस) शुगर मिल (संभल/बहजोई/अलीगढ़) से जुड़े सभी 604 गांवों की आधिकारिक लिस्ट और कोड। ऑनलाइन गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व गन्ना भुगतान स्थिति।"
+title: "{seo_title}"
+date: 2026-08-28T18:55:00+05:30
+lastmod: 2026-08-28T18:55:00+05:30
+description: "{seo_desc}"
 categories:
 - Sugar Mills
 tags:
@@ -656,6 +658,7 @@ tags:
 - बहजोई गन्ना पर्ची
 - eGanna Village List
 - CaneUp Village Code
+- अलीगढ़ शुगर मिल
 slug: mazhawali-venus-sugar-factory-2026
 ShowToc: true
 author: "Randhir Patil"
@@ -667,25 +670,25 @@ featured_image: "/images/blog/mazhawali-sugar-factory-2026.webp"
 image: "/images/blog/mazhawali-sugar-factory-2026.webp"
 ---
 
-मझावली (वीनस) शुगर मिल (Mazhawali Venus Sugar Mill) 2026-27: 604 गांवों की लिस्ट, कोड व पर्ची कैलेंडर गाइड
+{seo_title}
 
 By  
 [Randhir Patil](https://caneup.xyz/) - August 28, 2026
 
-**संभल/बहजोई/अलीगढ़ :** मझावली शुगर मिल (जिसे वीनस शुगर लिमिटेड / Venus Sugar Factory के नाम से भी जाना जाता है) संभल, बहजोई, चंदौसी और अलीगढ़ सीमा क्षेत्र की सबसे प्रमुख चीनी मिलों में से एक है। यह आधुनिक चीनी मिल आगामी पेराई सत्र 2026-27 में लगभग **604 से अधिक गांवों** के किसानों का गन्ना पेराई के लिए स्वीकार करती है।
+**संभल / बहजोई / अलीगढ़ :** उत्तर प्रदेश के संभल, बहजोई, चंदौसी और अलीगढ़ जिले की सीमा पर स्थित **मझावली शुगर मिल (Venus Sugar Ltd / वीनस शुगर मिल)** आगामी पेराई सत्र 2026-27 के लिए पूरी तरह तैयार है। इस आधुनिक चीनी मिल में आसपास के **604 से अधिक गांवों** के गन्ना किसानों का गन्ना पेराई के लिए आपूर्ति किया जाता है।
 
-यदि आप मझावली (वीनस) चीनी मिल से जुड़े गन्ना किसान हैं और अपने गांव का आधिकारिक **Village Code (गांव कोड)** खोज रहे हैं, तो नीचे दी गई डायरेक्ट सर्च टेबल का उपयोग करके तुरंत अपना गांव और कोड जांच सकते हैं।
+यदि आप मझावली (वीनस) शुगर मिल से जुड़े किसान हैं और अपने गांव का आधिकारिक **Village Code (गांव कोड)** खोज रहे हैं, तो नीचे दी गई डायरेक्ट लाइव सर्च टेबल से अपने गांव का नाम या कोड 1 सेकंड में खोज सकते हैं।
 
 ---
 
-## 🔍 मझावली (वीनस) शुगर मिल — गांव और कोड तुरंत खोजें (Live Village Search)
+## 🔍 मझावली (वीनस) शुगर मिल — सभी 604 गांव व कोड लाइव खोजें (Live Search Tool)
 
-नीचे दिए गए सर्च बॉक्स में अपने **गांव का नाम (जैसे: BAHAJOI, CHANDAUSI, AKRAULI, MAZHAWALI, NARAULI, TAPPAL)** या **गांव कोड (जैसे: 41, 65, 164, 5001, 4385)** टाइप करें:
+नीचे दिए गए सर्च बॉक्स में अपने **गांव का नाम (उदा. BAHAJOI, CHANDAUSI, AKRAULI, MAZHAWALI, NARAULI, TAPPAL)** या **गांव कोड (उदा. 41, 65, 164, 5001, 4385)** दर्ज करें:
 
 <div style="margin:20px 0;background:#f0fdf4;border:2px solid #bbf7d0;border-radius:12px;padding:16px;">
-  <label for="vsearch" style="font-weight:700;color:#15803d;display:block;margin-bottom:8px;font-size:15px;">🔎 अपने गांव का नाम या कोड लिखें:</label>
-  <input type="text" id="vsearch" placeholder="उदा. BAHAJOI, CHANDAUSI, MAZHAWALI, 41..." onkeyup="filterVillages()" style="width:100%;padding:10px 14px;border:1px solid #15803d;border-radius:8px;font-size:15px;outline:none;">
-  <small style="color:#6b7280;display:block;margin-top:6px;">कुल 604 गांव सूचीबद्ध हैं। टाइप करते ही परिणाम नीचे दिखेंगे।</small>
+  <label for="vsearch" style="font-weight:700;color:#15803d;display:block;margin-bottom:8px;font-size:16px;">🔎 अपने गांव का नाम या गांव कोड टाइप करें:</label>
+  <input type="text" id="vsearch" placeholder="उदा. BAHAJOI, CHANDAUSI, MAZHAWALI, 41..." onkeyup="filterVillages()" style="width:100%;padding:12px 16px;border:2px solid #15803d;border-radius:8px;font-size:16px;outline:none;">
+  <small style="color:#6b7280;display:block;margin-top:6px;">कुल 604 गांव सूचीबद्ध हैं। टाइप करते ही परिणाम नीचे ऑटोमेटिक दिखेंगे।</small>
 </div>
 
 <div class="tbl-wrap">
@@ -732,7 +735,7 @@ function filterVillages() {{
 
 | विवरण (Parameter) | आधिकारिक जानकारी (Official Details) |
 |---|---|
-| **मिल का नाम** | मझावली शुगर मिल (Venus Sugar Ltd, Mazhawali) |
+| **मिल का नाम** | मझावली शुगर मिल (Venus Sugar Ltd) |
 | **स्थान व जिला** | मझावली (बहजोई), जिला संभल / अलीगढ़ सीमा, उत्तर प्रदेश |
 | **प्रतिदिन पेराई क्षमता (Crushing Capacity)** | 5,500 TCD (टन प्रति दिन) |
 | **संबद्ध कुल गांव (Total Villages)** | **604 गांव** |
@@ -789,4 +792,4 @@ function filterVillages() {{
 with open(post_file, 'w', encoding='utf-8') as f:
     f.write(article_content)
 
-print(f"Successfully updated Mazhawali (Venus) Mill Article with 604 villages & live search box!")
+print(f"Successfully generated SEO-optimized Mazhawali Venus Mill Article with all 604 villages!")
