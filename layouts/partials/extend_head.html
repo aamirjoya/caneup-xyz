@@ -3,13 +3,32 @@
   <link rel="preload" as="image" href="{{ .Params.featured_image }}" fetchpriority="high">
 {{ end }}
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C81ZDJ296Z"></script>
+<!-- Google Analytics (Optimized) -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-C81ZDJ296Z');
+
+  (function() {
+    var loaded = false;
+    function loadGtag() {
+      if (loaded) return;
+      loaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-C81ZDJ296Z';
+      document.head.appendChild(s);
+    }
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(loadGtag, { timeout: 3500 });
+    } else {
+      window.addEventListener('load', function() { setTimeout(loadGtag, 2000); });
+    }
+    ['scroll', 'touchstart', 'mousemove', 'click', 'keydown'].forEach(function(ev) {
+      window.addEventListener(ev, loadGtag, { once: true, passive: true });
+    });
+  })();
 </script>
 
 <!-- Hreflang for bilingual content -->

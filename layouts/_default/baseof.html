@@ -92,7 +92,7 @@
     .ftr{background:#052e16;color:#fff;padding:50px 20px 24px}
     .ftr-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr 1fr;gap:32px}
     .ftr-brand p{font-size:13px;opacity:.7;line-height:1.7;margin-bottom:12px}
-    .ftr h4{font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px}
+    .ftr h4,.ftr .ftr-h{font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px}
     .ftr ul{list-style:none}
     .ftr li{margin-bottom:8px}
     .ftr a{color:#fff;opacity:.7;text-decoration:none;font-size:13px;transition:opacity .2s}
@@ -160,7 +160,9 @@
     </div>
   </header>
 
+  <main id="main-content">
   {{ block "main" . }}{{ end }}
+  </main>
 
   <!-- Newsletter -->
   <section class="newsletter">
@@ -183,12 +185,12 @@
           <span style="font-size:18px;font-weight:700;">CaneUp</span>
         </div>
         <p>CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
-        <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#f59e0b;">CaneUp.xyz</a></p>
+        <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#fef08a;text-decoration:underline;">CaneUp.xyz</a></p>
       </div>
 
       <!-- RSS & Sitemap -->
       <div>
-        <h4>फीड</h4>
+        <div class="ftr-h">फीड</div>
         <ul>
           <li><a href="/index.xml">📰 RSS Feed</a></li>
           <li><a href="/sitemap.xml">🗺️ XML Sitemap</a></li>
@@ -200,7 +202,7 @@
 
       <!-- Popular -->
       <div>
-        <h4>लोकप्रिय</h4>
+        <div class="ftr-h">लोकप्रिय</div>
         <ul>
           <li><a href="/categories/parchi-calendar/">📋 पर्ची कैलेंडर</a></li>
           <li><a href="/categories/msp-rate/">💰 MSP रेट</a></li>
@@ -212,7 +214,7 @@
 
       <!-- Tools -->
       <div>
-        <h4>टूल्स</h4>
+        <div class="ftr-h">टूल्स</div>
         <ul>
           <li><a href="/tools/">🔧 CaneUp टूल्स</a></li>
           <li><a href="/categories/eganna-app/">📱 eGanna App</a></li>
@@ -223,7 +225,7 @@
 
       <!-- Quick Links -->
       <div>
-        <h4>क्विक लिंक</h4>
+        <div class="ftr-h">क्विक लिंक</div>
         <ul>
           <li><a href="/about/">ℹ️ हमारे बारे में</a></li>
           <li><a href="/contact/">📞 संपर्क</a></li>
@@ -235,7 +237,7 @@
 
       <!-- Contact -->
       <div>
-        <h4>संपर्क</h4>
+        <div class="ftr-h">संपर्क</div>
         <ul>
           <li><a href="mailto:info@caneup.xyz">📧 info@caneup.xyz</a></li>
           <li><a href="https://youtube.com/@caneup" target="_blank">▶️ YouTube</a></li>
@@ -251,14 +253,14 @@
         <span style="font-size:18px;">🌾</span>
         <span style="font-size:14px;font-weight:700;">CaneUp</span>
       </div>
-      <div style="font-size:12px;opacity:.5;text-align:center;">
+      <div style="font-size:12px;opacity:.85;text-align:center;">
         &copy; 2026 CaneUp — गन्ना किसान पोर्टल. All rights reserved.<br>
         <small>Informational portal, not affiliated with UP Cane Department or any government body.</small>
         <br><small>
-          <a href="/about/" style="color:rgba(255,255,255,.5);">About</a> ·
-          <a href="/contact/" style="color:rgba(255,255,255,.5);">Contact</a> ·
-          <a href="/privacy-policy/" style="color:rgba(255,255,255,.5);">Privacy</a> ·
-          <a href="/disclaimer/" style="color:rgba(255,255,255,.5);">Disclaimer</a>
+          <a href="/about/" style="color:rgba(255,255,255,.9);text-decoration:underline;">About</a> ·
+          <a href="/contact/" style="color:rgba(255,255,255,.9);text-decoration:underline;">Contact</a> ·
+          <a href="/privacy-policy/" style="color:rgba(255,255,255,.9);text-decoration:underline;">Privacy</a> ·
+          <a href="/disclaimer/" style="color:rgba(255,255,255,.9);text-decoration:underline;">Disclaimer</a>
         </small>
       </div>
       <div class="ftr-social">
@@ -295,17 +297,19 @@
       }
     });
 
-    // CWV: Lazy load all images except first (LCP)
+    // CWV: Lazy load all images except LCP / featured images
     (function() {
       document.addEventListener('DOMContentLoaded', function() {
         var images = document.querySelectorAll('img');
         for (var i = 0; i < images.length; i++) {
           var img = images[i];
-          if (i === 0) {
-            img.setAttribute('fetchpriority', 'high');
+          if (img.getAttribute('fetchpriority') === 'high' || img.closest('.feat-img')) {
             img.removeAttribute('loading');
+            img.setAttribute('fetchpriority', 'high');
           } else {
-            img.setAttribute('loading', 'lazy');
+            if (!img.hasAttribute('loading')) {
+              img.setAttribute('loading', 'lazy');
+            }
             img.setAttribute('decoding', 'async');
           }
         }

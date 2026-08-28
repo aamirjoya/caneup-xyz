@@ -3,10 +3,10 @@
 .art-hero{background:#dcfce7;padding:24px 16px;min-height:80px}
 @media(min-width:768px){.art-hero{padding:40px 20px}}
 .art-hero-inner{max-width:1000px;margin:0 auto}
-.art-crumb{font-size:12px;color:#6b7280;margin-bottom:10px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
-.art-crumb a{color:#6b7280;text-decoration:none}
+.art-crumb{font-size:12px;color:#374151;margin-bottom:10px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.art-crumb a{color:#166534;text-decoration:underline;text-underline-offset:2px;font-weight:500}
 .art-crumb a:hover{color:#15803d}
-.art-crumb span{color:#9ca3af}
+.art-crumb span{color:#4b5563}
 .art-title{font-size:22px;font-weight:700;color:#000;line-height:1.3;margin-bottom:10px}
 @media(min-width:768px){.art-title{font-size:28px}}
 .art-meta{font-size:13px;color:#6b7280;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
@@ -33,7 +33,7 @@
 .art-body ul,.art-body ol{margin-bottom:12px;padding-left:20px}
 .art-body li{margin-bottom:5px}
 .art-body strong{color:#111}
-.art-body a{color:#15803d;text-decoration:none}
+.art-body a{color:#15803d;text-decoration:underline;text-underline-offset:2px}
 .tbl-wrap{width:100%;overflow-x:auto;margin:14px 0;border:1px solid #dedede;border-radius:8px}
 .tbl-wrap table{width:100%;min-width:500px;border-collapse:collapse;font-size:13px;text-align:center;margin:0}
 @media(min-width:768px){.tbl-wrap table{min-width:auto;font-size:14px}}
@@ -436,7 +436,7 @@ div.innerHTML='<button class="faq-q" onclick="toggleFaq(this)">'+'<span class="f
 list.appendChild(div);
 });
 faqBox.appendChild(list);
-body.appendChild(faqBox);
+artBodyElem.appendChild(faqBox);
 }
 }
 });
@@ -460,7 +460,9 @@ var relatedArticles=[
 {{ end }}
 ];
 if(relatedArticles.length>0){
-var h2s=body.querySelectorAll('h2');
+var targetBody=document.getElementById('artBody');
+if(targetBody){
+var h2s=targetBody.querySelectorAll('h2');
 var insertCount=0;
 var maxInserts=Math.min(3,Math.floor(h2s.length/2));
 for(var i=1;i<h2s.length&&insertCount<maxInserts;i+=2){
@@ -473,6 +475,7 @@ var imgHtml=card.img?'<div style="width:100px;height:70px;border-radius:8px;back
 div.innerHTML=imgHtml+'<div><span style="display:inline-block;background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:4px;">और पढ़ें</span><h4 style="font-size:14px;font-weight:600;color:#111;margin:0;line-height:1.4;">'+card.title+'</h4><span style="font-size:12px;color:#15803d;font-weight:600;">पढ़ें →</span></div>';
 h2s[i].parentNode.insertBefore(div,h2s[i]);
 insertCount++;
+}
 }
 }
 function fb(n){
