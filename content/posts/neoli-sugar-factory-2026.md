@@ -20,8 +20,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/neoli-sugar-factory-2026.webp"
-image: "/images/blog/neoli-sugar-factory-2026.webp"
+featured_image: "/images/blog/neoli-sugar-factory-2026.jpg"
+image: "/images/blog/neoli-sugar-factory-2026.jpg"
 ---
 
 नियोली शुगर मिल 2026-27: 1496 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Neoli Sugar Mill Kasganj Aligarh

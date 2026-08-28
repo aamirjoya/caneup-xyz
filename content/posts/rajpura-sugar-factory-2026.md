@@ -20,8 +20,8 @@ authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
 author_image: "/images/authors/randhir-patil.webp"
-featured_image: "/images/blog/rajpura-sugar-factory-2026.webp"
-image: "/images/blog/rajpura-sugar-factory-2026.webp"
+featured_image: "/images/blog/rajpura-sugar-factory-2026.jpg"
+image: "/images/blog/rajpura-sugar-factory-2026.jpg"
 ---
 
 राजपुरा शुगर मिल 2026-27: 916 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Rajpura Sugar Mill Sambhal Aligarh
