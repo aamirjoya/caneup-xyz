@@ -9,6 +9,9 @@ wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
 tar -xzf /tmp/hugo.tar.gz -C /tmp/
 chmod +x /tmp/hugo
 
+# Generate WebStory XML Sitemap
+python3 scripts/generate-webstory-sitemap.py
+
 # Build site
 /tmp/hugo --minify
 
