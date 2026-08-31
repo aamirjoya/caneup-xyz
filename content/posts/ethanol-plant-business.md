@@ -1,7 +1,7 @@
 ﻿---
 title: "इथेनॉल प्लांट बिज़नेस 2026 — गन्ने से इथेनॉल, लागत, मुनाफ़ा, सब्सिडी"
-date: 2026-08-20 15:30:00+05:30
-lastmod: 2026-08-21 15:30:00+05:30
+date: 2026-08-31T06:25:07+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "इथेनॉल प्लांट बिज़नेस 2026 — गन्ने से इथेनॉल बनाने की पूरी प्रक्रिया, लागत, मुनाफ़ा, सब्सिडी और सरकारी योजनाएँ।"
 categories: [Business]
 tags: ["इथेनॉल प्लांट बिज़नेस", "गन्ने से इथेनॉल", "Ethanol business India", "इथेनॉल सब्सिडी", "E20 नीति"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ethanol-plant-business.webp
 image: /images/blog/ethanol-plant-business.webp
 ---

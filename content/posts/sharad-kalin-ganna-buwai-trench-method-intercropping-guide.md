@@ -1,7 +1,7 @@
 ---
 title: "शरदकालीन गन्ना बुवाई 2026: ट्रेंच विधि और सह-फसली खेती से पाएं 25% ज्यादा पैदावार — पूरी गाइड"
-date: 2026-08-24T12:00:00+05:30
-lastmod: 2026-08-24T12:00:00+05:30
+date: 2026-08-31T20:14:27+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "शरदकालीन गन्ना बुवाई (Autumn Sugarcane Planting 2026) की संपूर्ण वैज्ञानिक विधि। ट्रेंच विधि से बुवाई, गन्ने के साथ सरसों, आलू, लहसुन और धनिया की सह-फसली खेती, खाद की मात्रा और सिंचाई शेड्यूल।"
 categories:
 - Ganna Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/sharad-kalin-ganna-buwai-trench-2026.webp
 image: /images/blog/sharad-kalin-ganna-buwai-trench-2026.webp
 ---

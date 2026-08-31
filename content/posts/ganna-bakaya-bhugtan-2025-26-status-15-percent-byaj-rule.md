@@ -1,7 +1,7 @@
 ---
 title: "गन्ना बकाया भुगतान 2025-26 स्टेटस: 15% ब्याज का नियम, टॉप 10 भुगतान करने वाली और डिफॉल्टर मिलों की सूची"
-date: 2026-08-24T11:30:00+05:30
-lastmod: 2026-08-24T11:30:00+05:30
+date: 2026-08-31T06:47:44+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "यूपी में पिछले सीजन (2025-26) का बकाया गन्ना भुगतान कब मिलेगा? 14 दिन के बाद 15% ब्याज का हाई कोर्ट नियम, 100% भुगतान करने वाली टॉप चीनी मिलें और डिफॉल्टर मिलों पर सरकार की कार्रवाई।"
 categories:
 - CaneUp Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-bakaya-bhugtan-byaj-2026.webp
 image: /images/blog/ganna-bakaya-bhugtan-byaj-2026.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना MSP रेट 2026-27 — सभी राज्यों का ताज़ा भाव | FRP, SAP रेट की पूरी जानकारी"
-date: 2026-08-19 15:30:00+05:30
-lastmod: 2026-08-21 15:30:00+05:30
+date: 2026-08-30T22:37:41+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना MSP रेट 2026-27 — FRP, SAP और MSP में क्या फर्क है? सभी राज्यों का ताज़ा गन्ना भाव, ₹340-370/क्विंटल। जानें कितना पैसा मिलेगा।"
 categories:
 - MSP Rate
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-msp-rate-2026-27.webp
 image: /images/blog/ganna-msp-rate-2026-27.webp
 ---

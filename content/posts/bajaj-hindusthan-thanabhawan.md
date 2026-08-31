@@ -1,6 +1,7 @@
 ﻿---
 title: "बजाज हिंदुस्थान शुगर मिल थानाभवन 2026 — शामली"
-date: 2026-08-06 17:28:00+05:30
+date: 2026-08-31T01:38:38+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बजाज हिंदुस्थान शुगर मिल थानाभवन 2026 — शामली की पूरी जानकारी। पेराई क्षमता, पर्ची कैलेंडर, भुगतान स्थिति, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags:
@@ -26,7 +27,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bajaj-hindusthan-thanabhawan.webp
 image: /images/blog/bajaj-hindusthan-thanabhawan.webp
 ---

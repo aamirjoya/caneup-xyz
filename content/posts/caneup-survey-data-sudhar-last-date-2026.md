@@ -1,7 +1,7 @@
 ---
 title: "CaneUp सर्वे डेटा सुधार 2026: रकबा व पौधा/पेड़ी प्रविष्टि ठीक कराने का आखिरी मौका"
-date: 2026-08-25T06:40:00+05:30
-lastmod: 2026-08-25T06:40:00+05:30
+date: 2026-08-31T03:54:20+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "CaneUp portal पर गन्ना सर्वे डेटा में गलती सुधारने की पूरी प्रक्रिया। 30 अगस्त से पहले ऑनलाइन व ऑफलाइन आपत्ति दर्ज कराएं।"
 categories:
 - CaneUp Guide
@@ -21,7 +21,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-enquiry-guide-2026.webp
 image: /images/blog/caneup-enquiry-guide-2026.webp
 ---

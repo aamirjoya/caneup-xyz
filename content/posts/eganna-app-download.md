@@ -1,7 +1,7 @@
 ﻿---
 title: "eGanna App Download 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी"
-date: 2026-08-19 18:30:00+05:30
-lastmod: 2026-08-21 18:30:00+05:30
+date: 2026-08-31T05:54:58+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "eGanna App Download 2026 कैसे करें? eGANNA CANE UP App से गन्ना पर्ची कैलेंडर, सप्लाई टिकट, गन्ना भुगतान स्थिति, टॉल डिटेल — सब कुछ एक जगह। पूरी जानकारी हिंदी में।"
 categories:
 - caneup
@@ -30,7 +30,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/eganna-app-download.webp
 image: /images/blog/eganna-app-download.webp
 ---

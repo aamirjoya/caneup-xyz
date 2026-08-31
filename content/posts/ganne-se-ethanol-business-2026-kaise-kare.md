@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने से एथेनॉल बिज़नेस 2026 — किसान अब गन्ने से पेट्रोल बनाकर करोड़ों कमा रहे हैं"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T16:13:11+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने से एथेनॉल बनाने का बिज़नेस 2026 — सरकार का 20% ब्लेंडिंग लक्ष्य, किसानों की आमदनी दोगुनी। ₹50 लाख निवेश, ₹1 करोड़+ सालाना कमाई। पूरा प्रोसेस और लाइसेंस गाइड।"
 categories:
 - Ganna Business
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-se-ethanol-business-2026-kaise-kare.webp
 image: "/images/blog/ganne-se-ethanol-business-2026-kaise-kare.webp"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "गन्ना बेसिक कोटा (Basic Quota) कैसे बनता है? जानिए 3 साल के सप्लाई का गणित"
-date: 2026-08-25T08:00:00+05:30
-lastmod: 2026-08-25T08:00:00+05:30
+date: 2026-08-31T06:55:17+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना बेसिक कोटा की गणना का सरकारी फार्मूला। पिछले 3 साल की औसत आपूर्ति और नए सट्टे की पूरी जानकारी।"
 categories:
 - CaneUp Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-satta-pre-calendar-2026.webp
 image: /images/blog/ganna-satta-pre-calendar-2026.webp
 ---

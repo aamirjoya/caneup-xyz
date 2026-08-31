@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की पैदावार प्रति एकड़ 2026 — औसत उत्पादन और आमदनी"
-date: 2026-08-20 08:00:00+05:30
-lastmod: 2026-08-21 08:00:00+05:30
+date: 2026-08-31T13:19:47+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की पैदावार प्रति एकड़ 2026 में कितनी होती है? जानिए औसत उत्पादन, आमदनी का गणित, बढ़ाने के तरीके और राज्यवार आंकड़े।"
 categories:
   - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-paidwar-per-acre.webp
 image: /images/blog/ganne-ki-paidwar-per-acre.webp
 ---

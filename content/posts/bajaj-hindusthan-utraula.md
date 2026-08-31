@@ -1,6 +1,7 @@
 ﻿---
 title: "बजाज हिंदुस्थान शुगर मिल उतरौला 2026 — बलरामपुर"
-date: 2026-08-05 08:19:00+05:30
+date: 2026-08-31T01:46:10+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बजाज हिंदुस्थान शुगर मिल उतरौला 2026 — बलरामपुर की पूरी जानकारी। पेराई क्षमता, पर्ची कैलेंडर, भुगतान स्थिति, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags:
@@ -26,7 +27,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bajaj-hindusthan-utraula.webp
 image: /images/blog/bajaj-hindusthan-utraula.webp
 ---

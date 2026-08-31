@@ -1,7 +1,7 @@
 ---
 title: "CaneUp ऑनलाइन शिकायत का स्टेटस मोबाइल से कैसे ट्रैक करें? Token Number गाइड"
-date: 2026-08-25T14:40:00+05:30
-lastmod: 2026-08-25T14:40:00+05:30
+date: 2026-08-31T03:24:11+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "दर्ज की गई शिकायत पर अधिकारी द्वारा क्या कार्रवाई की गई, यह ऑनलाइन मोबाइल से ट्रैक करने की आसान विधि।"
 categories:
 - CaneUp Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-online-grievance-complaint-2026.webp
 image: /images/blog/caneup-online-grievance-complaint-2026.webp
 ---

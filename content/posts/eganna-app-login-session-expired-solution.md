@@ -1,7 +1,7 @@
 ---
 title: "eGanna App 'Session Expired' और 'Server Error' कैसे ठीक करें? 100% सटीक ट्रिक"
-date: 2026-08-25T07:20:00+05:30
-lastmod: 2026-08-25T07:20:00+05:30
+date: 2026-08-31T06:02:30+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "e-Ganna App में बार-बार आ रहे Session Expired और Server Error का 1 मिनट में आसान समाधान।"
 categories:
 - eGanna App
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/eganna-app-v6-update-2026.webp
 image: /images/blog/eganna-app-v6-update-2026.webp
 ---

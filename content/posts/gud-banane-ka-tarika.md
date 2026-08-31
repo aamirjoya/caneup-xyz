@@ -1,7 +1,7 @@
 ﻿---
 title: "गुड़ कैसे बनाएं 2026 — गन्ने से गुड़ बनाने का पूरा तरीका"
-date: 2026-08-19 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-31T16:50:53+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने से गुड़ बनाने का पूरा तरीका 2026 में जानें। घरेलू और व्यावसायिक दोनों तरीके, आधुनिक मशीनें, खर्च और मुनाफे की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गुड़ बनाने का तरीका, गन्ने से गुड़, गुड़ उत्पादन, गन्ने का रस, गुड़ बनाने की विधि, jaggery making in hindi, gud banane ka tarika]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/gud-banane-ka-tarika.webp
 image: /images/blog/gud-banane-ka-tarika.webp
 ---

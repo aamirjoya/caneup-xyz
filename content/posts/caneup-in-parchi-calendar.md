@@ -1,7 +1,7 @@
 ﻿---
 title: "CaneUp Enquiry 2026 — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट — पूरी जानकारी"
-date: 2026-08-20 15:00:00+05:30
-lastmod: 2026-08-21 15:00:00+05:30
+date: 2026-08-31T03:31:43+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "CaneUp Enquiry (enquiry.caneup.in) पर गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट और तौल विवरण कैसे देखें — 2026 अपडेटेड स्टेप-बाय-स्टेप गाइड। UP, Bihar, Maharashtra के किसानों के लिए।"
 categories:
 - caneup
@@ -32,7 +32,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-in-parchi-calendar.webp
 image: /images/blog/caneup-in-parchi-calendar.webp
 ---

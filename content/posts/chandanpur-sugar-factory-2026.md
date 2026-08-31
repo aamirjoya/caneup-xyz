@@ -1,7 +1,7 @@
 ---
 title: "चंदनपुर चीनी मिल 2026-27: 343 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Chandanpur Sugar Mill Amroha Hasanpur"
-date: 2026-08-29T01:25:00+05:30
-lastmod: 2026-08-29T01:25:00+05:30
+date: 2026-08-31T04:09:25+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "चंदनपुर चीनी मिल (Chandanpur Sugar Mill Code 142 Amroha Hasanpur) 2026-27 के सभी 343 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, eGanna पर्ची कैलेंडर व डीबीटी भुगतान स्थिति।"
 categories:
 - Sugar Mills

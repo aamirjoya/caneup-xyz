@@ -1,7 +1,7 @@
 ---
 title: "अगवानपुर चीनी मिल 2026-27: 204 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Agwanpur Sugar Mill Amroha Moradabad"
-date: 2026-08-28T23:45:00+05:30
-lastmod: 2026-08-28T23:45:00+05:30
+date: 2026-08-30T23:15:23+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "अगवानपुर चीनी मिल (Agwanpur Dewan Sugar Mill Code 14 Amroha Moradabad) 2026-27 के सभी 204 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, eGanna पर्ची कैलेंडर व डीबीटी भुगतान स्थिति।"
 categories:
 - Sugar Mills

@@ -1,7 +1,7 @@
 ﻿---
 title: "बजाज हिंदुस्थान शुगर मिल पलिया कलां 2026 — लखीमपुर खीरी"
-date: 2026-08-20 18:00:00+05:30
-lastmod: 2026-08-21 18:00:00+05:30
+date: 2026-08-31T01:16:01+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बजाज हिंदुस्थान शुगर मिल पलिया कलां 2026 — लखीमपुर खीरी की पूरी जानकारी। पेराई क्षमता, पर्ची कैलेंडर, भुगतान स्थिति, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags:
@@ -27,7 +27,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bajaj-hindusthan-palia-kalan.webp
 image: /images/blog/bajaj-hindusthan-palia-kalan.webp
 ---

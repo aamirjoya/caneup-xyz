@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना फसल बीमा 2026 — ₹500 में ₹50,000 तक का बीमा, ऐसे करें आवेदन"
-date: 2026-08-20 10:00:00+05:30
-lastmod: 2026-08-21 10:00:00+05:30
+date: 2026-08-31T07:40:31+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना फसल बीमा 2026 — PM फसल बीमा योजना में ₹500 प्रीमियम पर ₹50,000 तक का बीमा। सूखा, बाढ़, कीट हमला — सब कवर। ऑनलाइन आवेदन CaneUp पर।"
 categories:
 - Sarkari Yojana
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-fasal-bima-2026-apply-online.webp
 image: "/images/blog/ganna-fasal-bima-2026-apply-online.webp"
 ---

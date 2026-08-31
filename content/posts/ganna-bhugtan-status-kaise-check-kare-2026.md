@@ -1,7 +1,7 @@
 ---
 title: "गन्ना भुगतान स्टेटस कैसे चेक करें 2026 — 4 आसान तरीके (Online, App, SMS, Helpline)"
-date: 2026-08-24T15:30:00+05:30
-lastmod: 2026-08-24T15:30:00+05:30
+date: 2026-08-31T07:32:59+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना भुगतान स्टेटस 2026 ऑनलाइन कैसे चेक करें? CaneUp पोर्टल, eGanna ऐप, SMS और टोल फ्री हेल्पलाइन से पेमेंट स्टेटस देखने के 4 आसान तरीके और 15% ब्याज नियम।"
 categories:
   - CaneUp Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bhugtan-status-check-2026.webp
 image: "/images/blog/bhugtan-status-check-2026.webp"
 ---

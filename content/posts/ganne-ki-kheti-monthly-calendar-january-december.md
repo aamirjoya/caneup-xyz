@@ -1,7 +1,7 @@
 ---
 title: "गन्ने की खेती का महीने-वार कैलेंडर (January to December) — यूपी के किसानों के लिए सम्पूर्ण गाइड"
-date: 2026-08-24T13:00:00+05:30
-lastmod: 2026-08-24T13:00:00+05:30
+date: 2026-08-31T12:34:33+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की खेती का सम्पूर्ण 12 महीने का कृषि कैलेंडर। जनवरी से दिसंबर तक बुवाई, खाद, सिंचाई, कीट प्रबंधन और कटाई की पूरी समय सारिणी व वैज्ञानिक तरीके।"
 categories:
   - Ganna Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-kheti-calendar-2026.webp
 image: /images/blog/ganne-ki-kheti-calendar-2026.webp
 ---

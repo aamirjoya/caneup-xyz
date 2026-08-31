@@ -1,7 +1,7 @@
 ---
 title: "अकबरपुर चीनी मिल 2026-27: 3606 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Akbarpur Sugar Mill Ambedkar Nagar"
-date: 2026-08-28T22:55:00+05:30
-lastmod: 2026-08-28T22:55:00+05:30
+date: 2026-08-30T23:22:55+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "अकबरपुर चीनी मिल (Balrampur Chini Mills Akbarpur Ambedkar Nagar) 2026-27 के सभी 3606 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व भुगतान स्थिति।"
 categories:
 - Sugar Mills

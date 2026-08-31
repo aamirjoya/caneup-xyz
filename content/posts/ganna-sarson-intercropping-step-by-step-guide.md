@@ -1,7 +1,7 @@
 ---
 title: "गन्ने के साथ सरसों की सह-फसली खेती: ₹50,000 प्रति एकड़ अतिरिक्त कमाई की पूरी गाइड"
-date: 2026-08-25T12:40:00+05:30
-lastmod: 2026-08-25T12:40:00+05:30
+date: 2026-08-31T10:03:46+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "अक्टूबर में गन्ने की नालियों के बीच पीली सरसों की बुवाई की विधि। खाद, सिंचाई और खरपतवार नियंत्रण का टाइमटेबल।"
 categories:
 - Ganna Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/sharad-kalin-ganna-buwai-trench-2026.webp
 image: /images/blog/sharad-kalin-ganna-buwai-trench-2026.webp
 ---

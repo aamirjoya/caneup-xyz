@@ -1,7 +1,7 @@
 ---
 title: "घोषणा पत्र में खसरा-खतौनी और खाता संख्या गलत दर्ज हो गई? ऐसे करें ऑनलाइन सुधार"
-date: 2026-08-25T10:40:00+05:30
-lastmod: 2026-08-25T10:40:00+05:30
+date: 2026-08-31T08:10:40+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना घोषणा पत्र में गलत रकबा या गाटा संख्या दर्ज होने पर ऑनलाइन एडिट और करेक्शन की स्टेप-बाय-स्टेप प्रक्रिया।"
 categories:
 - CaneUp Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-ghosna-patra-guide-2026.webp
 image: /images/blog/ganna-ghosna-patra-guide-2026.webp
 ---

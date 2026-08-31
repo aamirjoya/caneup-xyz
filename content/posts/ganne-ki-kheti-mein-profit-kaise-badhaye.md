@@ -1,9 +1,9 @@
 ﻿---
 title: "गन्ने की खेती में मुनाफा कैसे बढ़ाएं 2026 — लागत कम, कमाई ज्यादा के 8 तरीके"
-date: 2026-08-19 13:00:00+05:30
-lastmod: 2026-08-21 13:00:00+05:30
+date: 2026-08-31T12:27:00+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 description: "गन्ने की खेती में मुनाफा बढ़ाने के 8 तरीके 2026 — लागत कम करें, उपज बढ़ाएं, वैल्यू एडिशन करें, सरकारी सब्सिडी लें। ₹1 लाख/एकड़ तक नेट प्रॉफिट — CaneUp पर पूरी गाइड।"
 categories:
 - Ganna Kheti
@@ -29,7 +29,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 ---
 
 

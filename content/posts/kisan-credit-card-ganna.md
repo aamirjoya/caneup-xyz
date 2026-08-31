@@ -1,7 +1,7 @@
 ﻿---
 title: "किसान क्रेडिट कार्ड (KCC) 2026 — गन्ना किसानों के लिए पूरी गाइड"
-date: 2026-08-19 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-31T17:13:30+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "किसान क्रेडिट कार्ड (KCC) 2026 में गन्ना किसानों के लिए पूरी जानकारी। 4% ब्याज पर लोन, अप्लाई कैसे करें, लिमिट कितनी मिलेगी।"
 categories: [KCC Loan]
 tags: ["किसान क्रेडिट कार्ड", "KCC", "गन्ना किसान लोन", "KCC 2026", "kisan credit card ganna"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/kisan-credit-card-ganna.webp
 image: /images/blog/kisan-credit-card-ganna.webp
 ---

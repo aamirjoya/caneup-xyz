@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में जैविक खाद 2026 — गोबर की खाद, वर्मीकम्पोस्ट"
-date: 2026-08-21 16:00:00+05:30
-lastmod: 2026-08-21 16:00:00+05:30
+date: 2026-08-31T14:27:38+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में जैविक खाद 2026 — गोबर की खाद, वर्मीकम्पोस्ट, नीम खाद, जैविक खाद बनाने का तरीका, मात्रा और डालने का समय।"
 categories: [Ganna Kheti]
 tags: [गन्ने में जैविक खाद, गोबर की खाद, वर्मीकम्पोस्ट, गन्ने में खाद, organic manure for sugarcane]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-jaivik-khaad.webp
 image: /images/blog/ganne-mein-jaivik-khaad.webp
 ---

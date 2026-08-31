@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की फसल में खरपतवार नियंत्रण 2026 — 7 असरदार तरीके"
-date: 2026-08-19 14:32:00+05:30
-lastmod: 2026-08-21 14:32:00+05:30
+date: 2026-08-30T22:00:00+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की फसल में खरपत्वर नियंत्रण के 7 असरदार तरीके — रासायनिक, जैविक और मैनुअल विधियां। खरपतवार से गन्ने की उपज 30-40% तक घट सकती है, इसलिए सही समय पर नियंत्रण जरूरी है।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-kharpatwar-niyantran.webp
 image: /images/blog/ganne-mein-kharpatwar-niyantran.webp
 ---

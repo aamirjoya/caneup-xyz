@@ -1,7 +1,7 @@
 ﻿---
 title: "धामपुर शुगर मिल्स 2026 — बिजनौर | जानकारी, क्षमता, पर्ची कैलेंडर"
-date: 2026-08-19 18:00:00+05:30
-lastmod: 2026-08-21 18:00:00+05:30
+date: 2026-08-31T05:09:44+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "धामपुर शुगर मिल्स 2026 की पूरी जानकारी — TCD क्षमता, पर्ची कैलेंडर, गन्ना मूल्य भुगतान, किसान सुविधाएं और संपर्क विवरण।"
 categories: [Sugar Mill]
 tags: [धामपुर शुगर मिल्स, बिजनौर चिनी मिल, गन्ना पर्ची कैलेंडर 2026, धामपुर शुगर मिल क्षमता, गन्ना मूल्य भुगतान 2026, बिजनौर गन्ना किसान, UP शुगर मिल धामपुर]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/dhampur-sugar-mills.webp
 image: /images/blog/dhampur-sugar-mills.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की फसल में अगस्त का महीना सबसे जरूरी — ये 5 काम करो, 30% ज्यादा उपज पाओ"
-date: 2026-08-19 15:00:00+05:30
-lastmod: 2026-08-21 15:00:00+05:30
+date: 2026-08-31T11:26:42+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "अगस्त 2026 में गन्ने की फसल में कौन से जरूरी काम करें? सिंचाई, खाद, निराई, कीट नियंत्रण और मल्चिंग — इन 5 कामों से 30% ज्यादा उपज पाएं।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-fasal-agust-2026-5-kaam.webp
 image: "/images/blog/ganne-ki-fasal-agust-2026-5-kaam.webp"
 ---

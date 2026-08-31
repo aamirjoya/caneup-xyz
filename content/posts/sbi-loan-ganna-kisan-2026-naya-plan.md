@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसानों के लिए SBI का नया लोन — ₹10 लाख तक, बिना गारंटी, 7% ब्याज"
-date: 2026-08-20 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T19:51:49+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "SBI ने गन्ना किसानों के लिए नया लोन प्लान लॉन्च किया — ₹10 लाख तक, बिना गारंटी, 7% ब्याज। ऑनलाइन आवेदन, जरूरी दस्तावेज, और पूरा प्रोसेस।"
 categories:
 - Sarkari Yojana
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp
 image: "/images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp"
 ---

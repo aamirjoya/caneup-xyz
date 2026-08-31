@@ -1,7 +1,7 @@
 ﻿---
 title: "बजाज हिंदुस्थान शुगर मिल बुढ़ाना 2026 — मुजफ्फरनगर | जानकारी, क्षमता, पर्ची कैलेंडर"
-date: 2026-08-21 10:30:00+05:30
-lastmod: 2026-08-21 10:30:00+05:30
+date: 2026-08-31T00:23:14+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बजाज हिंदुस्थान शुगर मिल बुढ़ाना मुजफ्फरनगर की पूरी जानकारी — क्षमता, पर्ची कैलेंडर 2026, भुगतान स्थिति, एमएसपी दर और किसान टिप्स।"
 categories:
 - Sugar Mill
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bajaj-hindusthan-budhana.webp
 image: /images/blog/bajaj-hindusthan-budhana.webp
 ---

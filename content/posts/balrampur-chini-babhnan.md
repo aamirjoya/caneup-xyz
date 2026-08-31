@@ -1,7 +1,7 @@
 ﻿---
 title: "बलरामपुर चिनी मिल्स बभनान 2026 — बस्ती"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T02:01:15+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बलरामपुर चिनी मिल्स बभनान 2026 — बस्ती की पूरी जानकारी। पेराई क्षमता, पर्ची कैलेंडर, भुगतान स्थिति, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags:
@@ -27,7 +27,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/balrampur-chini-babhnan.webp
 image: /images/blog/balrampur-chini-babhnan.webp
 ---

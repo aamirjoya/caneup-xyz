@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना पर्ची कैलेंडर 2025-26 कैसे देखें — पूरी जानकारी"
-date: 2026-08-20 08:00:00+05:30
-lastmod: 2026-08-21 08:00:00+05:30
+date: 2026-08-31T09:18:32+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना पर्ची कैलेंडर 2025-26 कैसे देखें — ऑनलाइन पर्ची कैलेंडर, गन्ना तौल, भुगतान स्थिति की पूरी जानकारी यहां जानें।"
 categories: [Parchi Calendar]
 tags: [गन्ना पर्ची कैलेंडर, गन्ना पर्ची 2025-26, गन्ना तौल, गन्ना भुगतान, पर्ची कैलेंडर ऑनलाइन]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-parchi-calendar-2025-26.webp
 image: /images/blog/ganna-parchi-calendar-2025-26.webp
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CaneUp Enquiry 2026-27 — गन्ना पर्ची, भुगतान, सर्वे सब कैसे चेक करें (Complete Guide)"
-date: 2026-08-24T12:00:00+05:30
-lastmod: 2026-08-24T12:00:00+05:30
+date: 2026-08-31T03:09:06+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "CaneUp Enquiry 2026-27 की पूरी गाइड। गन्ना पर्ची कैलेंडर, भुगतान स्टेटस, सर्वे डेटा, सोसायटी कोड — सब कुछ step-by-step सीखें। eGanna App और caneup.in दोनों के लिए।"
 categories:
 - CaneUp Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-enquiry-guide-2026.webp
 image: /images/blog/caneup-enquiry-guide-2026.webp
 ---

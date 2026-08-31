@@ -1,7 +1,7 @@
 ---
 title: "गन्ना भुगतान में विलंब का 15% ब्याज कैसे क्लेम करें? जानिए कानूनी प्रक्रिया"
-date: 2026-08-25T12:00:00+05:30
-lastmod: 2026-08-25T12:00:00+05:30
+date: 2026-08-31T06:40:12+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "14 दिन के बाद बकाया गन्ना मूल्य पर 15% प्रतिवर्ष की दर से ब्याज का दावा करने का प्रार्थना पत्र प्रारूप और कानूनी तरीका।"
 categories:
 - CaneUp Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-bakaya-bhugtan-byaj-2026.webp
 image: /images/blog/ganna-bakaya-bhugtan-byaj-2026.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की फसल में पत्ती जलने की समस्या — अगस्त 2026 में क्यों हो रही है और कैसे बचें"
-date: 2026-08-20 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T15:20:25+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "अगस्त 2026 में गन्ने की पत्तियां जलने की समस्या बढ़ गई है। क्यों हो रही है, कैसे पहचानें, और कैसे बचें — पूरी जानकारी CaneUp पर।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-patti-jalne-ki-samasya-2026.webp
 image: "/images/blog/ganne-mein-patti-jalne-ki-samasya-2026.webp"
 ---

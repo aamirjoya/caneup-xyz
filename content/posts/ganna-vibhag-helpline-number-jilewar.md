@@ -1,7 +1,7 @@
 ---
 title: "गन्ना विभाग Helpline Numbers — टोल-फ्री नंबर, शिकायत पोर्टल और आपातकालीन संपर्क"
-date: 2026-08-24T16:00:00+05:30
-lastmod: 2026-08-24T16:00:00+05:30
+date: 2026-08-31T10:33:55+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "उत्तर प्रदेश गन्ना विभाग हेल्पलाइन नंबर (1800-121-3203), किसान कॉल सेंटर, गन्ना पर्ची, सर्वे व भुगतान शिकायत पोर्टल और जिलावार आपातकालीन संपर्क सूची।"
 categories:
   - CaneUp Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-helpline-2026.webp
 image: "/images/blog/ganna-helpline-2026.webp"
 ---

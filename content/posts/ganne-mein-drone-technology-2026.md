@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की खेती में ड्रोन — अब ड्रोन से छिड़काव, 10 गुना तेज, 50% सस्ता"
-date: 2026-08-21 18:00:00+05:30
-lastmod: 2026-08-21 18:00:00+05:30
+date: 2026-08-31T14:20:06+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की खेती में ड्रोन तकनीक 2026 — ड्रोन से छिड़काव, निगरानी, और मैपिंग। 10 गुना तेज, 50% सस्ता। सरकारी सब्सिडी भी मिलती है।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-drone-technology-2026.webp
 image: "/images/blog/ganne-mein-drone-technology-2026.webp"
 ---

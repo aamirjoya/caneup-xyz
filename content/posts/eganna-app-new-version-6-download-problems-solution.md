@@ -1,7 +1,7 @@
 ---
 title: "e-Ganna App Download 2026 नया वर्जन 6.0: Multiple Farmers ऐड करने और Login Error का पूरा समाधान"
-date: 2026-08-24T08:30:00+05:30
-lastmod: 2026-08-24T08:30:00+05:30
+date: 2026-08-31T06:10:03+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "e-Ganna App Download 2026 नया वर्जन 6.0 कैसे डाउनलोड करें? Multiple Farmers जोड़ने में आने वाली समस्या, Login Error, Session Expired और डेटा ट्रांसफर का 100% सटीक समाधान जानें।"
 categories:
 - CaneUp Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/eganna-app-v6-update-2026.webp
 image: /images/blog/eganna-app-v6-update-2026.webp
 ---

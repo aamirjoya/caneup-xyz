@@ -1,7 +1,7 @@
 ---
 title: "गन्ने में Red Rot (लाल सड़न) से कैसे बचें — 7 अचूक उपाय और उपचार"
-date: 2026-08-24T16:30:00+05:30
-lastmod: 2026-08-24T16:30:00+05:30
+date: 2026-08-31T19:06:35+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "यूपी में गन्ने की फसल पर रेड रॉट (लाल सड़न) का भयंकर प्रकोप। जानिए लाल सड़न के लक्षण, 7 बचाव के उपाय, उपचार और नुकसान से बचने की पूरी जानकारी।"
 categories:
   - Ganna Guide
@@ -27,7 +27,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/red-rot-prevention-2026.webp
 image: "/images/blog/red-rot-prevention-2026.webp"
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने का भाव कैसे चेक करें 2026 — MSP, FRP, SAP रेट ऑनलाइन देखें"
-date: 2026-08-19 10:00:00+05:30
-lastmod: 2026-08-21 10:00:00+05:30
+date: 2026-08-31T10:41:27+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने का भाव कैसे चेक करें 2026। MSP, FRP, SAP रेट ऑनलाइन देखें। गन्ने का ताजा भाव और रेट बढ़ोतरी की पूरी जानकारी।"
 categories: [MSP Rate]
 tags: ["गन्ने का भाव", "MSP रेट", "FRP रेट", "SAP रेट", "गन्ना रेट 2026", "ganne ka bhav"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ka-bhav-kaise-check-kare.webp
 image: /images/blog/ganne-ka-bhav-kaise-check-kare.webp
 ---

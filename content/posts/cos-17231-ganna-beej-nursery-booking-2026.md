@@ -1,7 +1,7 @@
 ---
 title: "CoS 17231 प्रमाणित बीज की बुकिंग कैसे करें? शाहजहांपुर शोध संस्थान व मिल नर्सरी गाइड"
-date: 2026-08-25T09:20:00+05:30
-lastmod: 2026-08-25T09:20:00+05:30
+date: 2026-08-31T04:54:39+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "लाल सड़न मुक्त CoS 17231 गन्ना बीज की ऑनलाइन व ऑफलाइन बुकिंग। मात्र ₹1.50 में नर्सरी पौध प्राप्त करें।"
 categories:
 - Ganna Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/co-0238-replacement-cos-17231-2026.webp
 image: /images/blog/co-0238-replacement-cos-17231-2026.webp
 ---

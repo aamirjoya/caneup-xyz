@@ -1,7 +1,7 @@
 ---
 title: "UP Ganna Satta Pre-Calendar 2026-27: ऑनलाइन सट्टा प्री-कैलेंडर और बेसिक कोटा कैसे देखें?"
-date: 2026-08-24T08:00:00+05:30
-lastmod: 2026-08-24T08:00:00+05:30
+date: 2026-08-31T21:29:50+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "UP Ganna Satta Pre-Calendar 2026-27 ऑनलाइन कैसे देखें? caneup.in और eGanna App पर अपना रकबा, बेसिक कोटा, सट्टा बॉन्डिंग और प्री-कैलेंडर पर्ची चेक करने का पूरा तरीका स्टेप-बाय-स्टेप जानें।"
 categories:
 - CaneUp Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-satta-pre-calendar-2026.webp
 image: /images/blog/ganna-satta-pre-calendar-2026.webp
 ---

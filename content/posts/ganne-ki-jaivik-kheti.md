@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की जैविक खेती 2026 — पूरा तरीका, फायदे, लागत"
-date: 2026-08-21 20:00:00+05:30
-lastmod: 2026-08-21 20:00:00+05:30
+date: 2026-08-31T11:41:46+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की जैविक खेती 2026 — पूरा तरीका, फायदे, लागत, प्रमाणन, मार्केटिंग और आमदनी की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने की जैविक खेती, जैविक गन्ना, ऑर्गेनिक गन्ना, organic sugarcane farming India]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-jaivik-kheti.webp
 image: /images/blog/ganne-ki-jaivik-kheti.webp
 ---

@@ -1,6 +1,7 @@
 ﻿---
 title: "गन्ने का रस बेचकर ₹5,000/दिन कमाओ — गन्ने का जूस बिज़नेस 2026"
-date: 2026-08-04 20:19:00+05:30
+date: 2026-08-31T10:49:00+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने का जूस बिज़नेस 2026 — ₹10,000 निवेश, ₹5,000/दिन कमाई। गर्मियों में सबसे ज्यादा डिमांड। कैसे शुरू करें, कितना मुनाफा होगा।"
 categories:
 - Business
@@ -23,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ka-juice-business-5000-per-day-2026.webp
 image: "/images/blog/ganne-ka-juice-business-5000-per-day-2026.webp"
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "सहारनपुर की सभी शुगर मिल्स 2026 — जिलेवार लिस्ट"
-date: 2026-08-20 16:00:00+05:30
-lastmod: 2026-08-21 16:00:00+05:30
+date: 2026-08-31T19:29:12+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "सहारनपुर जिले की सभी चीनी मिलों की पूरी लिस्ट 2026 — TCD क्षमता, स्थान, पर्ची कैलेंडर, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags: [सहारनपुर चीनी मिल, सहारनपुर शुगर मिल लिस्ट, UP sugar mills 2026, गन्ना पर्ची कैलेंडर, सहारनपुर गन्ना MSP]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/saharanpur-sugar-mills.webp
 image: /images/blog/saharanpur-sugar-mills.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में यूरिया कब डालें 2026 — सही समय, मात्रा और तरीका"
-date: 2026-08-20 16:00:00+05:30
-lastmod: 2026-08-21 16:00:00+05:30
+date: 2026-08-31T15:58:06+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में यूरिया डालने का सही समय, मात्रा और तरीका जानें। यूरिया के साथ DAP, पोटाश और जिंक सल्फेट का संतुलित उपयोग करें।"
 categories: [Ganna Kheti]
 tags: [गन्ने में यूरिया, गन्ने की खाद, यूरिया डालने का समय, DAP, पोटाश, जिंक सल्फेट]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-urea-kab-dale.webp
 image: /images/blog/ganne-mein-urea-kab-dale.webp
 ---

@@ -1,7 +1,7 @@
 ---
 title: "लाल सड़न (Red Rot) और टॉप बोरर का मानसून उपचार: गन्ने का कैंसर कैसे रोकें? स्ट्रेप्टोसाइक्लिन छिड़काव विधि"
-date: 2026-08-24T09:30:00+05:30
-lastmod: 2026-08-24T09:30:00+05:30
+date: 2026-08-31T19:14:08+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में लाल सड़न (Red Rot) और टॉप बोरर (Top Borer) का मानसून में पक्का इलाज। लक्षण पहचान, स्ट्रेप्टोसाइक्लिन, कॉपर ऑक्सीक्लोराइड और कोराजन का सही डोज, खेत से जल निकासी और ड्रोन स्प्रे गाइड।"
 categories:
 - Ganna Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/red-rot-monsoon-treatment-2026.webp
 image: /images/blog/red-rot-monsoon-treatment-2026.webp
 ---

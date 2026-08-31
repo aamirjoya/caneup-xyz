@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में DAP कब डालें 2026 — सही मात्रा, समय, तरीका"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T14:05:01+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में DAP खाद कब और कैसे डालें 2026। सही मात्रा, समय और तरीका जानें ताकि फसल अच्छी हो और ज्यादा उपज मिले।"
 categories: [Ganna Kheti]
 tags: ["गन्ने में DAP", "DAP खाद", "गन्ना खाद", "गन्ना खेती 2026", "dap khad ganne mein"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-dap-kab-dale.webp
 image: /images/blog/ganne-mein-dap-kab-dale.webp
 ---

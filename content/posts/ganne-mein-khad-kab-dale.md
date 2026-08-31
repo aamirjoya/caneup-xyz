@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में खाद कब डालें 2026 — NPK शेड्यूल, मात्रा"
-date: 2026-08-20 10:00:00+05:30
-lastmod: 2026-08-21 10:00:00+05:30
+date: 2026-08-31T14:42:43+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में खाद कब डालें 2026 — NPK शेड्यूल, मात्रा, समय, यूरिया, DAP, पोटाश की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में खाद, गन्ने में NPK, गन्ने में यूरिया, गन्ने में DAP, गन्ने में पोटाश, sugarcane fertilizer schedule]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-khad-kab-dale.webp
 image: /images/blog/ganne-mein-khad-kab-dale.webp
 ---

@@ -1,7 +1,7 @@
 ---
 title: "गन्ने में ड्रिप सिंचाई (Drip Irrigation) पर 90% सब्सिडी: 40% कम पानी में दोगुनी पैदावार"
-date: 2026-08-25T15:20:00+05:30
-lastmod: 2026-08-25T15:20:00+05:30
+date: 2026-08-31T05:17:16+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "उत्तर प्रदेश कृषि विभाग की टपक सिंचाई योजना (Drip Subsidy) में आवेदन की पूरी ऑनलाइन प्रक्रिया व लागत विवरण।"
 categories:
 - Sarkari Yojana
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-sept-oct-tips-2026.webp
 image: /images/blog/ganne-sept-oct-tips-2026.webp
 ---

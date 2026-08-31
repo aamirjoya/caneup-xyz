@@ -1,7 +1,7 @@
 ---
 title: "यूपी शुगर मिलें कब चलेंगी? पेराई सत्र 2026-27: बजाज, त्रिवेणी, बलरामपुर मिलों की चलने की संभावित तारीखें"
-date: 2026-08-24T10:00:00+05:30
-lastmod: 2026-08-24T10:00:00+05:30
+date: 2026-08-31T21:52:27+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "यूपी में 120+ चीनी मिलें कब से शुरू होंगी? Early Crushing Season 2026-27 के तहत 15 अक्टूबर से पेराई शुरू। बजाज, त्रिवेणी, बलरामपुर, डीसीएम श्रीराम, मोदी और धामपुर मिलों की संभावित तारीखों की पूरी सूची।"
 categories:
 - Ganna Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/up-sugar-mills-chalne-ki-tarikh-2026.webp
 image: /images/blog/up-sugar-mills-chalne-ki-tarikh-2026.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में धब्बा रोग 2026 — पहचान, इलाज और बचाव"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T14:12:33+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में धब्बा रोग (Leaf Spot Disease) की पहचान, इलाज और बचाव की पूरी जानकारी 2026। जानें कौन सी दवाई डालें और कैसे बचाव करें।"
 categories: [Ganna Kheti]
 tags: ["गन्ने का रोग", "धब्बा रोग", "गन्ना बीमारी", "Leaf Spot Disease", "ganne mein dhabba rog"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-dhabba-rog.webp
 image: /images/blog/ganne-mein-dhabba-rog.webp
 ---

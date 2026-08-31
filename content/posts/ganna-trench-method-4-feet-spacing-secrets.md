@@ -1,7 +1,7 @@
 ---
 title: "ट्रेंच विधि में 4 फीट की दूरी का रहस्य — 500 क्विंटल/एकड़ पैदावार का सीक्रेट"
-date: 2026-08-25T11:20:00+05:30
-lastmod: 2026-08-25T11:20:00+05:30
+date: 2026-08-31T10:26:23+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "ट्रेंच विधि से 4 से 5 फीट की दूरी पर गन्ने की बुवाई क्यों करें? धूप, हवा और पानी के सही उपयोग से पैदावार दोगुनी करने का सीक्रेट।"
 categories:
 - Ganna Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/sharad-kalin-ganna-buwai-trench-2026.webp
 image: /images/blog/sharad-kalin-ganna-buwai-trench-2026.webp
 ---

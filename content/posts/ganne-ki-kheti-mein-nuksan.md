@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की खेती में नुकसान से कैसे बचें 2026 — 10 बड़ी गलतियां"
-date: 2026-08-20 15:00:00+05:30
-lastmod: 2026-08-21 15:00:00+05:30
+date: 2026-08-31T12:19:28+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की खेती में नुकसान से कैसे बचें 2026 — बुआई से कटाई तक 10 बड़ी गलतियां जो उपज घटाती हैं। किसान भाई इन्हें जरूर जानें।"
 categories:
   - Ganna Kheti
@@ -23,7 +23,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-kheti-mein-nuksan.webp
 image: /images/blog/ganne-ki-kheti-mein-nuksan.webp
 ---

@@ -1,9 +1,9 @@
 ﻿---
 title: "गन्ने की खेती कैसे करें 2026 — सम्पूर्ण गाइड (मिट्टी तैयारी से कटाई तक)"
-date: 2026-08-19 11:00:00+05:30
-lastmod: 2026-08-21 11:00:00+05:30
+date: 2026-08-31T12:04:23+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 description: "गन्ने की खेती की सम्पूर्ण जानकारी 2026 — मिट्टी तैयारी, बीज चयन, बुआई विधि, खाद शेड्यूल, सिंचाई, कीट नियंत्रण, कटाई और लागत-मुनाफ़े का पूरा हिसाब।"
 categories:
 - Ganna Kheti
@@ -35,7 +35,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 ---
 
 

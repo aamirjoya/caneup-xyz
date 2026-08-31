@@ -1,7 +1,7 @@
 ---
 title: "साबितगढ़ शुगर मिल 2026-27: 1327 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Sabitgarh Sugar Mill Bulandshahr Aligarh"
-date: 2026-08-28T19:35:00+05:30
-lastmod: 2026-08-28T19:35:00+05:30
+date: 2026-08-31T19:21:40+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "साबितगढ़ शुगर मिल (Sabitgarh Sugar Mill Bulandshahr Aligarh Mathura) 2026-27 के सभी 1327 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व भुगतान स्थिति।"
 categories:
 - Sugar Mills

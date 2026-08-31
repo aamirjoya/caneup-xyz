@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसानों के लिए YouTube चैनल — CaneUp पर वीडियो में देखें खेती के टिप्स"
-date: 2026-08-21 08:00:00+05:30
-lastmod: 2026-08-21 08:00:00+05:30
+date: 2026-08-31T04:01:53+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "CaneUp YouTube चैनल — गन्ना किसानों के लिए वीडियो गाइड। खेती के टिप्स, MSP रेट, सरकारी योजनाएं, eGanna App — सब वीडियो में।"
 categories:
 - CaneUp
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-youtube-channel-ganna-kisan.webp
 image: "/images/blog/caneup-youtube-channel-ganna-kisan.webp"
 ---

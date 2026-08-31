@@ -1,7 +1,7 @@
 ---
 title: "गन्ना पर्ची कैलेंडर 2026-27 कैसे देखें — 3 आसान तरीके"
-date: 2026-08-24T15:00:00+05:30
-lastmod: 2026-08-24T15:00:00+05:30
+date: 2026-08-31T09:26:04+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना पर्ची कैलेंडर 2026-27 ऑनलाइन देखने के 3 आसान तरीके — CaneUp पोर्टल, eGanna ऐप और SMS। पर्ची तिथि संशोधन, पक्ष बदलाव और टोल-फ्री हेल्पलाइन की पूरी जानकारी।"
 categories:
   - CaneUp Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/parchi-calendar-guide-2026.webp
 image: /images/blog/parchi-calendar-guide-2026.webp
 ---

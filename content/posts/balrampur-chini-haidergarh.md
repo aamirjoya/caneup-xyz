@@ -1,7 +1,7 @@
 ﻿---
 title: "बलरामपुर चिनी मिल्स हैदरगढ़ 2026 — बाराबंकी | जानकारी, क्षमता, पर्ची कैलेंडर"
-date: 2026-08-20 15:00:00+05:30
-lastmod: 2026-08-21 15:00:00+05:30
+date: 2026-08-31T02:16:20+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बलरामपुर चिनी मिल्स हैदरगढ़ 2026 की पूरी जानकारी — TCD क्षमता, पर्ची कैलेंडर, गन्ना मूल्य भुगतान, किसान सुविधाएं और संपर्क विवरण।"
 categories: [Sugar Mill]
 tags: [बलरामपुर चिनी मिल्स हैदरगढ़, बाराबंकी शुगर मिल, गन्ना पर्ची कैलेंडर 2026, हैदरगढ़ चिनी मिल, गन्ना मूल्य भुगतान 2026, बाराबंकी गन्ना किसान, UP शुगर मिल हैदरगढ़]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/balrampur-chini-haidergarh.webp
 image: /images/blog/balrampur-chini-haidergarh.webp
 ---

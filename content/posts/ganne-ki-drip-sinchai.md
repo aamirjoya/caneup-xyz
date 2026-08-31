@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में ड्रिप सिंचाई 2026 — कैसे लगाएं, फायदे, खर्च, सब्सिडी"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T11:19:09+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में ड्रिप सिंचाई कैसे लगाएं, फायदे, खर्च और सब्सिडी की पूरी जानकारी 2026 में जानें। पानी की बचत, बढ़ता उत्पादन।"
 categories: [Ganna Kheti]
 tags: [गन्ने में ड्रिप सिंचाई, ड्रिप इरिगेशन, गन्ना सिंचाई, पानी की बचत, गन्ना खेती 2026, drip irrigation sugarcane, ganne ki sinchai]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-drip-sinchai.webp
 image: /images/blog/ganne-ki-drip-sinchai.webp
 ---

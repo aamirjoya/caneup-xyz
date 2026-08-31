@@ -1,7 +1,7 @@
 ---
 title: "स्ट्रेप्टोसाइक्लिन + कॉपर ऑक्सीक्लोराइड: गन्ने की लाल सड़न का सबसे पक्का स्प्रे"
-date: 2026-08-25T08:40:00+05:30
-lastmod: 2026-08-25T08:40:00+05:30
+date: 2026-08-31T20:37:04+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में लाल सड़न रोकने के लिए ब्लीचिंग पाउडर, स्ट्रेप्टोसाइक्लिन और कॉपर ऑक्सीक्लोराइड का सही डोज और नहलाकर स्प्रे की विधि।"
 categories:
 - Ganna Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/red-rot-monsoon-treatment-2026.webp
 image: /images/blog/red-rot-monsoon-treatment-2026.webp
 ---

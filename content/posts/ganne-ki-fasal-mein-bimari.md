@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की फसल में बीमारियां 2026 — पहचान, इलाज और बचाव"
-date: 2026-08-21 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T11:34:14+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की फसल में लगने वाली सभी प्रमुख बीमारियों की पहचान, इलाज और बचाव के तरीके 2026 में जानें। लाल सड़न, पत्ता झुलसा, धारीदार धब्बा और अन्य रोग।"
 categories: [Ganna Kheti]
 tags: [गन्ने की बीमारियां, गन्ना रोग, गन्ना खेती, गन्ने में फफूंद, गन्ने की फसल, sugarcane diseases in hindi, ganne ki bimari]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-fasal-mein-bimari.webp
 image: /images/blog/ganne-ki-fasal-mein-bimari.webp
 ---

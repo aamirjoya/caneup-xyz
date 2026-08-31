@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसानों के लिए बड़ा फैसला — UP सरकार ने 3 मिलों का लाइसेंस सस्पेंड किया"
-date: 2026-08-20 08:00:00+05:30
-lastmod: 2026-08-21 08:00:00+05:30
+date: 2026-08-31T21:37:22+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "UP सरकार ने गन्ना भुगतान न करने वाली 3 चीनी मिलों का लाइसेंस सस्पेंड किया। कौन सी मिलें हैं, कितना बकाया है, और किसानों को क्या फायदा होगा।"
 categories:
 - Ganna News
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/up-sarkar-ne-3-milon-ka-license-suspend-kiya.webp
 image: "/images/blog/up-sarkar-ne-3-milon-ka-license-suspend-kiya.webp"
 ---

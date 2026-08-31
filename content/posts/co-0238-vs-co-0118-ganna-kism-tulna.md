@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की नई किस्म Co-0238 vs Co-0118 — कौन सी है किसानों के लिए सबसे अच्छी?"
-date: 2026-08-19 10:00:00+05:30
-lastmod: 2026-08-21 10:00:00+05:30
+date: 2026-08-31T04:47:07+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की दो सबसे लोकप्रिय किस्में Co-0238 और Co-0118 — उपज, चीनी, रोग प्रतिरोध और मुनाफे की तुलना। कौन सी किस्म आपके खेत के लिए सही है?"
 categories:
 - Ganna Kheti
@@ -32,7 +32,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp
 image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
 ---

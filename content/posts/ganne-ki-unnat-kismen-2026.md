@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की उन्नत किस्में 2026 — सबसे अच्छी और ज़्यादा उत्पादन देने वाली किस्में"
-date: 2026-08-19 10:00:00+05:30
-lastmod: 2026-08-21 10:00:00+05:30
+date: 2026-08-31T13:57:29+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की उन्नत किस्में 2026 में जानें। Co-0238, Co-0118, Co-86032 जैसी अधिक उत्पादन देने वाली और रोग प्रतिरोधी किस्मों की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने की किस्में, उन्नत किस्में, गन्ना खेती 2026, Co-0238, Co-0118, गन्ने की अच्छी किस्म, sugarcane varieties in hindi]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-unnat-kismen-2026.webp
 image: /images/blog/ganne-ki-unnat-kismen-2026.webp
 ---

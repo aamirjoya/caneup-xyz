@@ -1,7 +1,7 @@
 ﻿---
 title: "बजाज हिंदुस्थान शुगर मिल रुदौली 2026 — बाराबंी"
-date: 2026-08-20 17:00:00+05:30
-lastmod: 2026-08-21 17:00:00+05:30
+date: 2026-08-31T01:31:05+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बजाज हिंदुस्थान शुगर मिल रुदौली 2026 — बाराबंकी की पूरी जानकारी। पेराई क्षमता, पर्ची कैलेंडर, भुगतान स्थिति, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags:
@@ -27,7 +27,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bajaj-hindusthan-rudauli.webp
 image: /images/blog/bajaj-hindusthan-rudauli.webp
 ---

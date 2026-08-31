@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना भुगतान 2026 — किसानों का ₹50,000 करोड़ बकाया, कब मिलेगा पैसा?"
-date: 2026-08-19 08:00:00+05:30
-lastmod: 2026-08-21 08:00:00+05:30
+date: 2026-08-31T07:10:21+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना भुगतान 2026 — UP, पंजाब, महाराष्ट्र में किसानों का ₹50,000 करोड़ बकाया है। किस मिल ने कितना दिया, किसने नहीं, और कब मिलेगा पैसा — पूरी लिस्ट।"
 categories:
 - Ganna News
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-bhugtan-2026-bakaya-list.webp
 image: "/images/blog/ganna-bhugtan-2026-bakaya-list.webp"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Co-0238 की जगह लगाएं नई प्रजातियां: CoS 17231 और CoLk 16202 — पैदावार, रिकवरी और बीज उपलब्धता की पूरी जानकारी"
-date: 2026-08-24T10:30:00+05:30
-lastmod: 2026-08-24T10:30:00+05:30
+date: 2026-08-31T04:39:34+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना किस्म Co-0238 की जगह CoS 17231, CoLk 16202, Co 15023 और Co 0118 की खेती क्यों करें? लाल सड़न रोधी नई किस्मों की पैदावार, चीनी रिकवरी और प्रमाणित बीज प्राप्त करने का पूरा तरीका।"
 categories:
 - Ganna Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/co-0238-replacement-cos-17231-2026.webp
 image: /images/blog/co-0238-replacement-cos-17231-2026.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में तना छेदक 2026 — पहचान, इलाज और बचाव के उपाय"
-date: 2026-08-19 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-31T15:50:34+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में तना छेदक की पहचान, इलाज और बचाव के सभी उपाय जानें। क्लोरैंट्रानिलिप्रोल, फिप्रोनिल और जैविक नियंत्रण की पूरी जानकारी 2026।"
 categories: [Ganna Kheti]
 tags: [गन्ने में तना छेदक, तना छेदक, स्टेम बोरर, कीट नियंत्रण, गन्ने का कीट]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-tana-chhedak.webp
 image: /images/blog/ganne-mein-tana-chhedak.webp
 ---

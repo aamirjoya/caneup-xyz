@@ -1,7 +1,7 @@
 ﻿---
 title: "त्रिवेणी इंजीनियरिंग अमरोहा 2026 — अमरोहा"
-date: 2026-08-19 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-31T21:14:45+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "त्रिवेणी इंजीनियरिंग अमरोहा शुगर मिल 2026 — क्रशिंग कैपेसिटी, इतिहास, उत्पादन और किसानों की पूरी जानकारी।"
 categories: [Sugar Mill]
 tags: ["त्रिवेणी इंजीनियरिंग", "अमरोहा शुगर मिल", "Triveni Engineering", "UP शुगर मिल", "अमरोहा चीनी मिल"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/triveni-engineering-amroha.webp
 image: /images/blog/triveni-engineering-amroha.webp
 ---

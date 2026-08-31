@@ -1,7 +1,7 @@
 ---
 title: "गन्ना किसानों के लिए 10 सरकारी योजनाएं 2026 — पूरी लिस्ट, लाभ और आवेदन का तरीका"
-date: 2026-08-24T13:30:00+05:30
-lastmod: 2026-08-24T13:30:00+05:30
+date: 2026-08-31T08:25:45+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना किसानों के लिए 10 सरकारी योजनाएं 2026 — PM Kisan, KCC लोन, ड्रिप सिंचाई (90% सब्सिडी), कुसुम सोलर पंप, फसल बीमा और पेंशन योजना। पात्रता, लाभ और आवेदन की पूरी लिस्ट CaneUp पर।"
 categories:
   - Sarkari Yojana
@@ -28,7 +28,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-sarkari-yojana-2026.webp
 image: "/images/blog/ganna-sarkari-yojana-2026.webp"
 ---

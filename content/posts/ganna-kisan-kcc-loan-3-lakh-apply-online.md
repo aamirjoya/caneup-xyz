@@ -1,7 +1,7 @@
 ---
 title: "गन्ना किसान क्रेडिट कार्ड (KCC Loan): 3 लाख का लोन मात्र 4% ब्याज पर कैसे लें?"
-date: 2026-08-25T14:00:00+05:30
-lastmod: 2026-08-25T14:00:00+05:30
+date: 2026-08-31T08:40:50+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना सट्टे के आधार पर KCC लोन की सीमा तय कराने, ब्याज छूट (Interest Subvention) पाने और ऑनलाइन अप्लाई करने की गाइड।"
 categories:
 - Sarkari Yojana
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-sarkari-yojana-2026.webp
 image: /images/blog/ganna-sarkari-yojana-2026.webp
 ---

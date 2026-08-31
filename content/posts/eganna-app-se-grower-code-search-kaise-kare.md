@@ -1,7 +1,7 @@
 ---
 title: "बिना किसान कोड के eGanna App और CaneUp पर सट्टा कैसे खोजें? नाम व गांव से सर्च करें"
-date: 2026-08-25T13:20:00+05:30
-lastmod: 2026-08-25T13:20:00+05:30
+date: 2026-08-31T06:17:35+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "यदि आपका किसान कोड या सट्टा नंबर खो गया है, तो नाम और गांव के नाम से 1 मिनट में कोड ढूंढने की आसान ट्रिक।"
 categories:
 - eGanna App
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/eganna-app-v6-update-2026.webp
 image: /images/blog/eganna-app-v6-update-2026.webp
 ---

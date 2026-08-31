@@ -1,7 +1,7 @@
 ---
 title: "नियोली शुगर मिल 2026-27: 1496 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Neoli Sugar Mill Kasganj Aligarh"
-date: 2026-08-28T19:00:00+05:30
-lastmod: 2026-08-28T19:00:00+05:30
+date: 2026-08-31T18:06:16+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "नियोली शुगर मिल (Neoli Sugar Mill Kasganj Aligarh Etah) 2026-27 के सभी 1496 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व भुगतान स्थिति।"
 categories:
 - Sugar Mills

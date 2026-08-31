@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसानों के लिए ₹50,000 का मुफ्त बीमा — PM जीवन ज्योति बीमा योजना 2026"
-date: 2026-08-19 16:00:00+05:30
-lastmod: 2026-08-21 16:00:00+05:30
+date: 2026-08-31T18:21:21+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "PM जीवन ज्योति बीमा योजना 2026 — ₹436/साल में ₹2 लाख का लाइफ इंश्योरेंस। गन्ना किसानों के लिए जरूरी। ऑनलाइन आवेदन CaneUp पर।"
 categories:
 - Sarkari Yojana
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/pm-jeevan-jyoti-bima-yojana-ganna-kisan-2026.webp
 image: "/images/blog/pm-jeevan-jyoti-bima-yojana-ganna-kisan-2026.webp"
 ---

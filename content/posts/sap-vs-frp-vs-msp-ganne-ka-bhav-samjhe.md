@@ -1,7 +1,7 @@
 ---
 title: "SAP vs FRP vs MSP — क्या फर्क है? गन्ने का भाव कैसे तय होता है? आसान भाषा में समझें"
-date: 2026-08-24T12:30:00+05:30
-lastmod: 2026-08-24T12:30:00+05:30
+date: 2026-08-31T19:36:45+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "SAP, FRP और MSP में क्या अंतर है? गन्ने का भाव कैसे तय होता है? 2010 से 2026 तक SAP Rate History। आसान भाषा में पूरा explainer — हर गन्ना किसान को पता होना चाहिए।"
 categories:
 - Ganna Guide
@@ -22,7 +22,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/sap-vs-frp-vs-msp-2026.webp
 image: /images/blog/sap-vs-frp-vs-msp-2026.webp
 ---

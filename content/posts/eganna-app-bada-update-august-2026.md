@@ -1,7 +1,7 @@
 ﻿---
 title: "eGanna App में बड़ा अपडेट — अब एक क्लिक में गन्ना पर्ची, भुगतान और शिकायत सब कुछ"
-date: 2026-08-19 16:00:00+05:30
-lastmod: 2026-08-21 16:00:00+05:30
+date: 2026-08-31T05:39:53+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "eGanna App 2026 में बड़ा अपडेट — अब गन्ना पर्ची कैलेंडर, भुगतान स्थिति, शिकायत दर्ज, और मिल रजिस्ट्रेशन एक ही ऐप में। डाउनलोड करें और सभी सुविधाएं पाएं।"
 categories:
 - Ganna Digital
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/eganna-app-bada-update-august-2026.webp
 image: "/images/blog/eganna-app-bada-update-august-2026.webp"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "साथा शुगर मिल 2026-27: 3417 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Satha Sugar Mill Aligarh"
-date: 2026-08-28T19:48:00+05:30
-lastmod: 2026-08-28T19:48:00+05:30
+date: 2026-08-31T19:44:17+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "साथा शुगर मिल (Satha Sahkari Sugar Mill Aligarh Mathura Hathras) 2026-27 के सभी 3417 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व भुगतान स्थिति।"
 categories:
 - Sugar Mills

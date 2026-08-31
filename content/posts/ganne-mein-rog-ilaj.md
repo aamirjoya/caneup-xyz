@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में रोग और इलाज 2026 — सभी बीमारियों की पहचान और इलाज"
-date: 2026-08-19 16:00:00+05:30
-lastmod: 2026-08-21 16:00:00+05:30
+date: 2026-08-31T15:27:57+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में लगने वाले सभी प्रमुख रोगों की पहचान, इलाज और बचाव के उपाय जानें। लाल सड़न, धब्बा रोग, पत्ती झुलसा, मोज़ेक रोग की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में रोग, गन्ने की बीमारी, लाल सड़न, धब्बा रोग, पत्ती झुलसा, मोज़ेक रोग, गन्ने का इलाज]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-rog-ilaj.webp
 image: /images/blog/ganne-mein-rog-ilaj.webp
 ---

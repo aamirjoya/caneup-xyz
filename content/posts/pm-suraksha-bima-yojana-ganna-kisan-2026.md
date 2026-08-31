@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसानों के लिए ₹2 लाख का मुफ्त बीमा — PM सुरक्षा बीमा योजना 2026"
-date: 2026-08-20 17:00:00+05:30
-lastmod: 2026-08-21 17:00:00+05:30
+date: 2026-08-31T18:43:58+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "PM सुरक्षा बीमा योजना 2026 — गन्ना किसानों को ₹2 लाख का दुर्घटना बीमा सिर्फ ₹20/साल में। ऑनलाइन आवेदन, जरूरी दस्तावेज, और क्लेम प्रोसेस।"
 categories:
 - Sarkari Yojana
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/pm-suraksha-bima-yojana-ganna-kisan-2026.webp
 image: "/images/blog/pm-suraksha-bima-yojana-ganna-kisan-2026.webp"
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "CaneUp 2026 — गन्ना किसानों का #1 पोर्टल | पर्ची कैलेंडर, MSP रेट, eGanna App"
-date: 2026-08-19 13:00:00+05:30
-lastmod: 2026-08-21 13:00:00+05:30
+date: 2026-08-31T03:39:16+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "CaneUp 2026 — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, ऑनलाइन शिकायत की पूरी जानकारी।"
 categories: [CaneUp]
 tags: ["CaneUp", "CaneUp.in", "eGanna App", "गन्ना पोर्टल", "CaneUp 2026"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-keywords-target.webp
 image: /images/blog/caneup-keywords-target.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसानों के लिए बड़ी खुशखबरी — अगस्त 2026 में SAP रेट बढ़ने की पूरी संभावना"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T09:56:13+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "UP सरकार अगस्त 2026 में गन्ने का SAP रेट बढ़ा सकती है। ₹400 से ₹430+ होने की उम्मीद। किसानों को कितना फायदा होगा, कब ऐलान होगा, और बाकी राज्यों का क्या हाल है — पूरी जानकारी।"
 categories:
 - Ganna Kheti
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp
 image: "/images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp"
 ---

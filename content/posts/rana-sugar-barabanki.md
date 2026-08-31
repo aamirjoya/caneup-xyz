@@ -1,7 +1,7 @@
 ﻿---
 title: "राणा शुगर बाराबंकी 2026 — बाराबंकी"
-date: 2026-08-19 10:30:00+05:30
-lastmod: 2026-08-21 10:30:00+05:30
+date: 2026-08-31T18:59:03+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "राणा शुगर बाराबंकी 2026 — क्रशिंग कैपेसिटी, इतिहास, उत्पादन, इथेनॉल प्लांट और किसानों की पूरी जानकारी।"
 categories: [Sugar Mill]
 tags: ["राणा शुगर", "बाराबंकी चीनी मिल", "Rana Sugar", "UP शुगर मिल", "बाराबंकी गन्ना"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/rana-sugar-barabanki.webp
 image: /images/blog/rana-sugar-barabanki.webp
 ---

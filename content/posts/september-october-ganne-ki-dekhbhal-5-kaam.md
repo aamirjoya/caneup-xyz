@@ -1,7 +1,7 @@
 ---
 title: "सितंबर-अक्टूबर में गन्ने की 5 ज़रूरी देखभाल — अधिक पैदावार के लिए अभी करें ये काम"
-date: 2026-08-24T14:00:00+05:30
-lastmod: 2026-08-24T14:00:00+05:30
+date: 2026-08-31T19:59:22+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "सितंबर और अक्टूबर में गन्ने की फसल की 5 सबसे महत्वपूर्ण देखभाल। सिंचाई प्रबंधन, रेड रॉट व टॉप बोरर से बचाव, पोटाश की आखिरी खुराक, मिल रजिस्ट्रेशन और पर्ची कैलेंडर की पूरी जानकारी।"
 categories:
 - Ganna Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-sept-oct-tips-2026.webp
 image: "/images/blog/ganne-sept-oct-tips-2026.webp"
 ---

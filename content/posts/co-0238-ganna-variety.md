@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की किस्म Co-0238 2026 — विशेषताएं, उत्पादन, रिकवरी"
-date: 2026-08-19 12:00:00+05:30
-lastmod: 2026-08-21 12:00:00+05:30
+date: 2026-08-31T04:32:02+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की किस्म Co-0238 2026 — विशेषताएं, उत्पादन, रिकवरी, बुआई का समय, और देखभाल की पूरी जानकारी यहां जानें।"
 categories: [Ganna Kheti]
 tags: [Co-0238, गन्ने की किस्म, गन्ना उत्पादन, गन्ना रिकवरी, गन्ना खेती, गन्ना किस्म 2026]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/co-0238-ganna-variety.webp
 image: /images/blog/co-0238-ganna-variety.webp
 ---

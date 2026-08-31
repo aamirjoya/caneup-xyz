@@ -1,7 +1,7 @@
 ﻿---
 title: "सिम्भावली शुगर मिल्स 2026 — बिजनौर"
-date: 2026-08-19 14:00:00+05:30
-lastmod: 2026-08-21 14:00:00+05:30
+date: 2026-08-31T20:21:59+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "सिम्भावली शुगर मिल्स बिजनौर 2026 — क्रशिंग कैपेसिटी, इतिहास, उत्पादन और किसानों की पूरी जानकारी।"
 categories: [Sugar Mill]
 tags: ["सिम्भावली शुगर मिल", "बिजनौर चीनी मिल", "Simbhaoli sugar mill", "UP शुगर मिल", "बिजनौर गन्ना"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/simbhaoli-sugar-mills.webp
 image: /images/blog/simbhaoli-sugar-mills.webp
 ---

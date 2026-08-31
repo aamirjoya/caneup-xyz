@@ -1,7 +1,7 @@
 ---
 title: "गन्ना घोषणा पत्र 2026-27 (Ghosna Patra): ऑनलाइन कैसे भरें? आखिरी तारीख, नियम और स्टेप-बाय-स्टेप मोबाइल गाइड"
-date: 2026-08-24T11:00:00+05:30
-lastmod: 2026-08-24T11:00:00+05:30
+date: 2026-08-31T08:03:08+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना घोषणा पत्र 2026-27 (Declaration Form) ऑनलाइन मोबाइल से कैसे भरें? आखिरी तारीख, खसरा-खतौनी और आधार सीडिंग, सट्टा चालू रखने के जरूरी नियम और त्रुटि सुधार का पूरा तरीका।"
 categories:
 - CaneUp Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-ghosna-patra-guide-2026.webp
 image: /images/blog/ganna-ghosna-patra-guide-2026.webp
 ---

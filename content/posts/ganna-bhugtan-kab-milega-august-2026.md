@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना भुगतान 2026 — कब मिलेगा पैसा? सरकार ने बताया, यहां चेक करें"
-date: 2026-08-20 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-31T07:17:54+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना भुगतान 2026 — कब मिलेगा पैसा? सरकार ने बताया कि 14 दिनों के अंदर भुगतान होगा। यहां अपनी भुगतान स्थिति ऑनलाइन चेक करें।"
 categories: [Parchi Calendar]
 tags: [गन्ना भुगतान, ganna bhugtan, गन्ना भुगतान स्थिति]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-bhugtan-kab-milega-august-2026.webp
 image: /images/blog/ganna-bhugtan-kab-milega-august-2026.webp
 ---

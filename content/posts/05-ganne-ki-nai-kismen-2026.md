@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की नई किस्में 2026 — Co-0238, Co-0118 और बेहतरीन किस्मों की तुलना"
-date: 2026-08-19 17:00:00+05:30
-lastmod: 2026-08-21 17:00:00+05:30
+date: 2026-08-30T22:30:09+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की नई किस्में 2026 — Co-0238, Co-0118 समेत सभी उन्नत किस्मों की तुलना। रिकवरी दर, उपज, मिट्टी और क्षेत्र के अनुसार सही किस्म चुनने की पूरी जानकारी।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-nai-kismen-2026.webp
 image: /images/blog/ganne-ki-nai-kismen-2026.webp
 ---

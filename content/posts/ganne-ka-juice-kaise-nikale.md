@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने का जूस कैसे निकालें 2026 — घर पर, मशीन से"
-date: 2026-08-19 09:30:00+05:30
-lastmod: 2026-08-21 09:30:00+05:30
+date: 2026-08-31T11:04:05+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने का जूस कैसे निकालें 2026 — घर पर बिना मशीन, मशीन से, मिक्सर ग्राइंडर में, और ब्लेंडर में गन्ने का रस निकालने का पूरा तरीका।"
 categories: [Ganna Kheti]
 tags: [गन्ने का जूस कैसे निकालें, गन्ने का रस निकालने का तरीका, घर पर गन्ने का जूस, sugarcane juice at home]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ka-juice-kaise-nikale.webp
 image: /images/blog/ganne-ka-juice-kaise-nikale.webp
 ---

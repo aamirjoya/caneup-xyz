@@ -1,7 +1,7 @@
 ---
 title: "मुंडेरवा चीनी मिल 2026-27: 3312 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Munderwa Sugar Mill Basti Ambedkar Nagar"
-date: 2026-08-28T23:05:00+05:30
-lastmod: 2026-08-28T23:05:00+05:30
+date: 2026-08-31T17:51:12+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "मुंडेरवा चीनी मिल (Munderwa Cooperative Sugar Mill Basti Ambedkar Nagar) 2026-27 के सभी 3312 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, पर्ची कैलेंडर, eGanna App डाउनलोड व भुगतान स्थिति।"
 categories:
 - Sugar Mills

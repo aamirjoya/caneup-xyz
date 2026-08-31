@@ -1,7 +1,7 @@
 ---
 title: "गन्ना पर्ची पखवाड़ा (Fortnight) और कॉलम कैलेंडर समझें — कौन सी पर्ची कब आएगी?"
-date: 2026-08-25T10:00:00+05:30
-lastmod: 2026-08-25T10:00:00+05:30
+date: 2026-08-31T09:48:41+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना पर्ची कैलेंडर के 12 पखवाड़ों और 9 कॉलमों का पूरा हिसाब। जानिए आपकी पर्ची कब जारी होगी और तारे का क्या मतलब है।"
 categories:
 - CaneUp Guide
@@ -20,7 +20,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/parchi-calendar-guide-2026.webp
 image: /images/blog/parchi-calendar-guide-2026.webp
 ---

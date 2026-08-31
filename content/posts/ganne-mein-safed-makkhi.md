@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में सफेद मक्खी 2026 — पहचान, इलाज और बचाव"
-date: 2026-08-20 11:00:00+05:30
-lastmod: 2026-08-21 11:00:00+05:30
+date: 2026-08-31T15:35:29+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में सफेद मक्खी की पहचान, इलाज और बचाव के सभी उपाय जानें। पीला मोज़ेक रोग से बचाव, कीटनाशक दवा और जैविक नियंत्रण की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में सफेद मक्खी, सफेद मक्खी, पीला मोज़ेक, कीट नियंत्रण, गन्ने की बीमारी]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-safed-makkhi.webp
 image: /images/blog/ganne-mein-safed-makkhi.webp
 ---

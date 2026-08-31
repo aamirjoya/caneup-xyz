@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना किसान WhatsApp ग्रुप — रोज ताजा अपडेट पाएं, जुड़ें CaneUp से"
-date: 2026-08-21 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-31T09:03:27+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना किसान WhatsApp ग्रुप — CaneUp से जुड़ें और रोज गन्ना पर्ची, भुगतान, MSP रेट, सरकारी योजनाओं की ताजा जानकारी पाएं।"
 categories:
 - CaneUp
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-kisan-whatsapp-group-caneup.webp
 image: "/images/blog/ganna-kisan-whatsapp-group-caneup.webp"
 ---

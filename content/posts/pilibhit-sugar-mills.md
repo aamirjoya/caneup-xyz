@@ -1,7 +1,7 @@
 ﻿---
 title: "पीलीभीत की सभी शुगर मिल्स 2026 — जिलेवार लिस्ट"
-date: 2026-08-19 18:15:00+05:30
-lastmod: 2026-08-21 18:15:00+05:30
+date: 2026-08-31T18:13:49+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "पीलीभीत जिले की सभी चीनी मिलों की पूरी लिस्ट 2026 — TCD क्षमता, स्थान, पर्ची कैलेंडर, MSP दर और किसान टिप्स।"
 categories: [Sugar Mill]
 tags: [पीलीभीत चीनी मिल, पीलीभीत शुगर मिल लिस्ट, UP sugar mills 2026, गन्ना पर्ची कैलेंडर, पीलीभीत गन्ना MSP]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/pilibhit-sugar-mills.webp
 image: /images/blog/pilibhit-sugar-mills.webp
 ---

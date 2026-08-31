@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में लाल सड़न 2026 — पहचान, इलाज और बचाव"
-date: 2026-08-19 11:00:00+05:30
-lastmod: 2026-08-21 11:00:00+05:30
+date: 2026-08-31T14:50:15+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में लाल सड़न (Red Rot) की पहचान, इलाज और बचाव के सभी तरीके 2026 में जानें। लक्षण, कारण, उपचार और रोकथाम की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में लाल सड़न, गन्ने की बीमारी, रेड रॉट, गन्ना रोग, गन्ना खेती 2026, गन्ने में फफूंद, sugarcane red rot, ganne ki bimari]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-lal-saran.webp
 image: /images/blog/ganne-mein-lal-saran.webp
 ---

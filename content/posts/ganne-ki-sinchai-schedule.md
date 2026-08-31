@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने की सिंचाई का शेड्यूल 2026 — किस महीने में कितना पानी दें"
-date: 2026-08-20 14:30:00+05:30
-lastmod: 2026-08-21 14:30:00+05:30
+date: 2026-08-31T13:42:24+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की सिंचाई का पूरा शेड्यूल 2026 में जानें। किस महीने में कितना पानी दें, सिंचाई का सही समय और तरीका।"
 categories: [Ganna Kheti]
 tags: [गन्ने की सिंचाई, सिंचाई शेड्यूल, गन्ना पानी, गन्ना खेती 2026, sugarcane irrigation, ganne ki sinchai]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-ki-sinchai-schedule.webp
 image: /images/blog/ganne-ki-sinchai-schedule.webp
 ---

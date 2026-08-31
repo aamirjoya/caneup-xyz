@@ -1,7 +1,7 @@
 ﻿---
 title: "FRP/SAP रेट 2026: किसान को कितना मिलेगा? ₹355 का सीक्रेट उघाड़ें"
-date: 2026-08-22 14:00:00+05:30
-lastmod: 2026-08-22 14:00:00+05:30
+date: 2026-08-31T06:32:40+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "FRP और SAP रेट 2026 में गन्ना किसान को कितना मिलेगा - पूरी जानकारी केंद्र और राज्य सरकार की अधिसूचना के अनुसार। FRP ₹355, SAP उत्तर प्रदेश ₹370, रिकवरी आधारित भाव और भुगतान नियम।"
 categories:
 - MSP Rate
@@ -39,7 +39,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 ---
 
 **गन्ना किसान के रूप में, आपको यह जानना जरूरी है कि सरकार आपके गन्ने के लिए कितना भाव तय करती है।** केंद्र और राज्य सरकारें हर सीज़न में FRP (Fair & Remunerative Price) और SAP (State Advised Price) अधिसूचित करती हैं, और ये भाव आपकी कमाई तय करते हैं। 2026 में क्या बदलाव हुए हैं, और आपको वास्तव में कितना मिलेगा - यहाँ पूरी सरल भाषा में जानकारी दी गई है।

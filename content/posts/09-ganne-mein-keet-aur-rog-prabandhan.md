@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में कीट और रोग प्रबंधन 2026 — 10 सबसे आम बीमारियां और उनका इलाज"
-date: 2026-08-20 09:00:00+05:30
-lastmod: 2026-08-21 09:00:00+05:30
+date: 2026-08-30T23:00:18+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में कीट और रोग प्रबंधन 2026 — लाल सड़न, तना छेदक, धब्बा रोग समेत 10 आम बीमारियों की पहचान और इलाज। फसल बचाने के असरदार तरीके।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 ---

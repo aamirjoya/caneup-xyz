@@ -1,7 +1,7 @@
 ﻿---
 title: "केसर एंटरप्राइजेज बहेरी 2026 — बरेली"
-date: 2026-08-19 11:30:00+05:30
-lastmod: 2026-08-21 11:30:00+05:30
+date: 2026-08-31T16:58:25+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "केसर एंटरप्राइजेज बहेरी शुगर मिल 2026 — क्रशिंग कैपेसिटी, इतिहास, उत्पादन और किसानों की पूरी जानकारी।"
 categories: [Sugar Mill]
 tags: ["केसर एंटरप्राइजेज", "बहेरी शुगर मिल", "बरेली चीनी मिल", "Kesar Enterprises", "UP sugar mill"]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/kesar-enterprises-baheri.webp
 image: /images/blog/kesar-enterprises-baheri.webp
 ---

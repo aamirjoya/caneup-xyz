@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना फसल बीमा 2026 — कैसे कराएं, प्रीमियम, क्लेम, लिस्ट"
-date: 2026-08-21 15:30:00+05:30
-lastmod: 2026-08-21 15:30:00+05:30
+date: 2026-08-31T07:48:03+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना फसल बीमा 2026 की पूरी जानकारी — ऑनलाइन आवेदन, प्रीमियम दर, क्लेम प्रक्रिया, लिस्ट चेक करें। PMFBY के तहत गन्ना किसानों को सुरक्षा।"
 categories: [Sarkari Yojana]
 tags: [गन्ना फसल बीमा, PMFBY, फसल बीमा 2026, गन्ना किसान, सरकारी योजना, गन्ना बीमा क्लेम]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-fasal-bima.webp
 image: /images/blog/ganna-fasal-bima.webp
 ---

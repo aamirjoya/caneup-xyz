@@ -1,11 +1,12 @@
 ﻿---
 title: "गन्ने की खेती में मेहनत कैसे कम करें 2026 — 10 स्मार्ट तरीके जो हर किसान को पता होने चाहिए"
-date: 2026-08-07 20:21:00+05:30
+date: 2026-08-31T12:11:56+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 description: "गन्ने की खेती में मेहनत कम करने के 10 स्मार्ट तरीके 2026 — मशीनरी, मल्चिंग, ऑर्गेनिक तरीके, और आधुनिक तकनीक। कम मेहनत, ज्यादा मुनाफा — CaneUp पर पूरी गाइड।"
 categories:
 - Ganna Kheti

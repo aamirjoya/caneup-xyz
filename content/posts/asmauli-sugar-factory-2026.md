@@ -1,7 +1,7 @@
 ---
 title: "असमौली चीनी मिल 2026-27: 521 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Asmauli Sugar Mill Amroha Sambhal"
-date: 2026-08-28T23:55:00+05:30
-lastmod: 2026-08-28T23:55:00+05:30
+date: 2026-08-31T00:00:37+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "असमौली चीनी मिल (Asmauli Sugar Mill Code 183 Amroha Sambhal) 2026-27 के सभी 521 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, eGanna पर्ची कैलेंडर व डीबीटी भुगतान स्थिति।"
 categories:
 - Sugar Mills

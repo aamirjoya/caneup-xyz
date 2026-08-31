@@ -1,7 +1,7 @@
 ﻿---
 title: "बरेली शुगर मिल्स 2026 — बरेली | जानकारी, क्षमता, पर्ची कैलेंडर"
-date: 2026-08-19 12:00:00+05:30
-lastmod: 2026-08-21 12:00:00+05:30
+date: 2026-08-31T02:31:24+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बरेली शुगर मिल्स 2026 की पूरी जानकारी — TCD क्षमता, पर्ची कैलेंडर, गन्ना मूल्य भुगतान, किसान सुविधाएं और संपर्क विवरण।"
 categories: [Sugar Mill]
 tags: [बरेली शुगर मिल्स, बरेली चिनी मिल, गन्ना पर्ची कैलेंडर 2026, बरेली शुगर मिल क्षमता, गन्ना मूल्य भुगतान 2026, बरेली गन्ना किसान, UP शुगर मिल बरेली]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/bareilly-sugar-mills.webp
 image: /images/blog/bareilly-sugar-mills.webp
 ---

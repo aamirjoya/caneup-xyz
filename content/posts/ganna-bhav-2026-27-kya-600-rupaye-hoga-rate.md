@@ -1,7 +1,7 @@
 ---
 title: "गन्ने का भाव 2026-27: क्या ₹600 प्रति क्विंटल होगा रेट? जानिए UP SAP, FRP और सरकार की तैयारी"
-date: 2026-08-24T09:00:00+05:30
-lastmod: 2026-08-24T09:00:00+05:30
+date: 2026-08-31T07:02:49+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने का भाव 2026-27 क्या ₹600 प्रति क्विंटल होगा? किसान संगठनों की ₹600 की मांग, यूपी एसएपी (SAP) में संभावित बढ़ोतरी, लागत का गणित और चीनी मिलों के मुनाफे का पूरा विश्लेषण।"
 categories:
 - Ganna Guide
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-bhav-600-maang-2026.webp
 image: /images/blog/ganna-bhav-600-maang-2026.webp
 ---

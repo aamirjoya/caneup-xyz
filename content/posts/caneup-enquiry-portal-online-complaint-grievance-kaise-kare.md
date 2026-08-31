@@ -1,7 +1,7 @@
 ---
 title: "CaneUp Enquiry पोर्टल पर ऑनलाइन शिकायत (Grievance) कैसे दर्ज करें? सर्वे, पर्ची और सट्टा सुधार की पूरी प्रक्रिया"
-date: 2026-08-24T12:30:00+05:30
-lastmod: 2026-08-24T12:30:00+05:30
+date: 2026-08-31T03:16:38+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "CaneUp Enquiry पोर्टल (enquiry.caneup.in) पर ऑनलाइन शिकायत (Grievance) कैसे दर्ज करें? सर्वे में रकबा कम चढ़ना, बेसिक कोटा कटना, पर्ची न आना और तौल धोखाधड़ी के समाधान की स्टेप-बाय-स्टेप गाइड।"
 categories:
 - CaneUp Guide
@@ -25,7 +25,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/caneup-online-grievance-complaint-2026.webp
 image: /images/blog/caneup-online-grievance-complaint-2026.webp
 ---

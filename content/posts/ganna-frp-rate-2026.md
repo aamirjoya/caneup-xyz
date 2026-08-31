@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ना FRP रेट 2026 — केंद्र सरकार ने ₹10 बढ़ाया"
-date: 2026-08-19 12:00:00+05:30
-lastmod: 2026-08-21 12:00:00+05:30
+date: 2026-08-31T07:55:36+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ना FRP रेट 2026 — केंद्र सरकार ने ₹10 बढ़ाया। FRP, SAP, MSP की पूरी जानकारी, राज्यवार रेट, और गन्ना मूल्य तालिका यहां जानें।"
 categories: [MSP Rate]
 tags: [गन्ना FRP, FRP रेट 2026, गन्ना MSP, SAP रेट, गन्ना मूल्य 2026, गन्ना FRP बढ़ा]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganna-frp-rate-2026.webp
 image: /images/blog/ganna-frp-rate-2026.webp
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में पत्ता झुलसा 2026 — पहचान, इलाज और बचाव"
-date: 2026-08-20 13:00:00+05:30
-lastmod: 2026-08-21 13:00:00+05:30
+date: 2026-08-31T15:12:52+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने में पत्ता झुलसा (Smut) रोग की पहचान, इलाज और बचाव के सभी तरीके 2026 में जानें। लक्षण, कारण, उपचार और रोकथाम की पूरी जानकारी।"
 categories: [Ganna Kheti]
 tags: [गन्ने में पत्ता झुलसा, स्मट रोग, गन्ना रोग, गन्ने में काला झंझर, गन्ना खेती 2026, sugarcane smut, ganne ka rog]
@@ -12,7 +12,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-patta-jhulsa.webp
 image: /images/blog/ganne-mein-patta-jhulsa.webp
 ---

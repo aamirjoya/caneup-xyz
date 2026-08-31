@@ -1,7 +1,7 @@
 ---
 title: "बेलवाड़ा चीनी मिल 2026-27: 618 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Belwara Sugar Mill Amroha Bijnor"
-date: 2026-08-29T01:00:00+05:30
-lastmod: 2026-08-29T01:00:00+05:30
+date: 2026-08-31T02:38:57+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "बेलवाड़ा चीनी मिल (Belwara Sugar Mill Code 321 Amroha Bijnor) 2026-27 के सभी 618 गांवों की आधिकारिक सूची व Village Code। 1 सेकंड में गांव खोजें, eGanna पर्ची कैलेंडर व डीबीटी भुगतान स्थिति।"
 categories:
 - Sugar Mills

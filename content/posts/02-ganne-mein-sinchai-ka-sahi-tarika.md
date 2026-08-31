@@ -1,7 +1,7 @@
 ﻿---
 title: "गन्ने में सिंचाई का सही तरीका 2026 — कब, कितना और कैसे पानी दें?"
-date: 2026-08-19 07:30:00+05:30
-lastmod: 2026-08-21 07:30:00+05:30
+date: 2026-08-30T22:07:32+05:30
+lastmod: 2026-08-31T22:10:00+05:30
 description: "गन्ने की फसल में सिंचाई का सही तरीका — बाढ़ सिंचाई, ड्रिप सिंचाई और छिड़काव विधि की तुलना। पानी बचाने के टिप्स।"
 categories:
 - Ganna Kheti
@@ -24,7 +24,7 @@ author: "Randhir Patil"
 authors:
 - "Randhir Patil"
 author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+author_image: "/images/authors/randhir-patil.webp"
 featured_image: /images/blog/ganne-mein-sinchai-ka-sahi-tarika.webp
 image: /images/blog/ganne-mein-sinchai-ka-sahi-tarika.webp
 ---
