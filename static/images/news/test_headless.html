@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@700&family=Khand:wght@700&family=Mukta:wght@800&family=Noto+Sans+Devanagari:wght@900&display=swap');
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    width: 1200px;
+    height: 675px;
+    overflow: hidden;
+    background: #000;
+    font-family: 'Khand', 'Mukta', 'Nirmala UI', sans-serif;
+    position: relative;
+}
+
+.canvas-container {
+    width: 1200px;
+    height: 675px;
+    position: relative;
+    border: 6px solid #ffe600;
+    background: #000;
+    overflow: hidden;
+}
+
+.bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1200px;
+    height: 480px;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.red-flare {
+    position: absolute;
+    top: -80px;
+    left: -80px;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(235, 20, 20, 0.95) 0%, rgba(200, 10, 10, 0.6) 40%, rgba(0,0,0,0) 70%);
+    z-index: 2;
+}
+
+.badge-wrapper {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    z-index: 10;
+    transform: rotate(-11deg);
+}
+
+.badge-poly {
+    width: 250px;
+    height: 220px;
+    background: #ffe600;
+    clip-path: polygon(0% 25%, 100% 0%, 55% 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 28px;
+    filter: drop-shadow(0 0 0 6px #ffffff) drop-shadow(4px 6px 12px rgba(0,0,0,0.8));
+    border: 6px solid #fff;
+}
+
+.badge-text-caneup {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-size: 52px;
+    line-height: 0.9;
+    color: #111;
+    letter-spacing: 1px;
+}
+
+.badge-text-news {
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    font-size: 62px;
+    line-height: 0.9;
+    color: #111;
+    letter-spacing: 1px;
+    margin-top: 4px;
+}
+
+.bottom-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 1200px;
+    height: 310px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.95) 22%, #000000 35%, #000000 100%);
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    padding-bottom: 32px;
+}
+
+.headline-line1 {
+    font-family: 'Khand', 'Mukta', 'Noto Sans Devanagari', sans-serif;
+    font-size: 82px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.05;
+    letter-spacing: 0.5px;
+    text-shadow: 
+        0 0 12px #f59e0b,
+        0 0 24px #d97706,
+        3px 4px 0px #000000,
+        -2px -2px 0px #000000,
+        2px -2px 0px #000000,
+        -2px 2px 0px #000000,
+        4px 6px 10px rgba(0,0,0,0.9);
+}
+
+.headline-line2 {
+    font-family: 'Khand', 'Mukta', 'Noto Sans Devanagari', sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.1;
+    margin-top: 6px;
+    text-shadow: 2px 3px 6px rgba(0,0,0,0.95), 0 0 2px #000;
+}
+
+.sub-yellow {
+    color: #ffeb3b;
+}
+
+.sub-white {
+    color: #ffffff;
+}
+
+</style>
+</head>
+<body>
+<div class='canvas-container'>
+    <div class='red-flare'></div>
+    <div class='badge-wrapper'>
+        <div class='badge-poly'>
+            <div class='badge-text-caneup'>CANEUP</div>
+            <div class='badge-text-news'>NEWS</div>
+        </div>
+    </div>
+    
+    <div class='bottom-container'>
+        <div class='headline-line1'>सहारनपुर में 36 ड्रोन से छिड़काव</div>
+        <div class='headline-line2'>
+            <span class='sub-yellow'>5 मिनट में 1 एकड़ में स्प्रे</span>
+            <span class='sub-white'> | CaneUp</span>
+        </div>
+    </div>
+</div>
+</body>
+</html>
