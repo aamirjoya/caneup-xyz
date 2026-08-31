@@ -58,6 +58,16 @@
 .news-list-card-read{color:#dc2626;font-weight:700;text-decoration:none;font-size:12px}
 .news-list-card-read:hover{text-decoration:underline}
 
+/* Pagination Styles */
+.news-pagination{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:36px;flex-wrap:wrap}
+.news-page-btn{padding:10px 18px;background:#fff;border:1.5px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#1f2937;font-size:14px;font-weight:700;transition:all .2s ease;box-shadow:0 2px 6px rgba(0,0,0,.04)}
+.news-page-btn:hover{background:#fef2f2;border-color:#fecaca;color:#dc2626;transform:translateY(-1px)}
+.news-page-numbers{display:flex;align-items:center;gap:6px}
+.news-page-num{padding:10px 16px;background:#fff;border:1.5px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#374151;font-size:14px;font-weight:700;transition:all .2s ease;min-width:42px;text-align:center}
+.news-page-num:hover{background:#fef2f2;border-color:#fecaca;color:#dc2626}
+.news-page-num.active{background:#dc2626;border-color:#dc2626;color:#fff;box-shadow:0 4px 12px rgba(220,38,38,.3)}
+.news-page-info{text-align:center;font-size:13px;color:#6b7280;margin-top:12px;font-weight:500}
+
 /* Sidebar */
 .news-sidebar{display:flex;flex-direction:column;gap:20px}
 .news-sidebar-card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);border:1px solid #f3f4f6}
@@ -94,8 +104,7 @@
 
 {{ $allNews := where .Site.RegularPages "Section" "news" }}
 {{ $newsCount := len $allNews }}
-{{ $latest := first 1 $allNews }}
-{{ $rest := after 1 $allNews }}
+{{ $paginator := .Paginate $allNews 20 }}
 
 <!-- Hero -->
 <div class="news-hero">
@@ -112,47 +121,56 @@
 <!-- Breadcrumb -->
 <div class="news-breadcrumb">
   <a href="/">होम</a> › <strong>ताज़ा खबरें</strong>
+  {{ if gt $paginator.PageNumber 1 }} › <span>पेज {{ $paginator.PageNumber }}</span>{{ end }}
 </div>
 
 <div class="news-container">
   <!-- Main Content -->
   <div>
-    <!-- Featured / Latest -->
-    {{ range $latest }}
-    {{ $featured := .Params.featured_image }}
-    <a href="{{ .Permalink }}" style="text-decoration:none;color:inherit;display:block;">
-      <div class="news-featured">
-        <div class="news-featured-img">
-          {{ if $featured }}
-          <img src="{{ $featured }}" alt="{{ .Title }}" loading="lazy">
-          {{ else }}
-          📰
-          {{ end }}
-          <span class="news-featured-badge">🔴 LATEST</span>
-        </div>
-        <div class="news-featured-body">
-          <span class="news-featured-cat">{{ with .Params.categories }}{{ index . 0 }}{{ else }}Breaking News{{ end }}</span>
-          <div class="news-featured-title">{{ .Title }}</div>
-          <div class="news-featured-excerpt">{{ .Description | truncate 160 }}</div>
-          <div class="news-featured-meta">
-            <span>📅 {{ .Date.Format "02 Aug 2006" }}</span>
-            <span>⏱ {{ .ReadingTime }} min read</span>
-            {{ with .Params.author_name }}<span>✍️ {{ . }}</span>{{ end }}
+    <!-- Featured / Latest (Only on Page 1) -->
+    {{ if eq $paginator.PageNumber 1 }}
+      {{ range first 1 $paginator.Pages }}
+      {{ $featured := .Params.featured_image }}
+      <a href="{{ .Permalink }}" style="text-decoration:none;color:inherit;display:block;">
+        <div class="news-featured">
+          <div class="news-featured-img">
+            {{ if $featured }}
+            <img src="{{ $featured }}" alt="{{ .Title }}" loading="lazy">
+            {{ else }}
+            📰
+            {{ end }}
+            <span class="news-featured-badge">🔴 LATEST</span>
           </div>
-          <span class="news-featured-readmore">पूरी खबर पढ़ें →</span>
+          <div class="news-featured-body">
+            <span class="news-featured-cat">{{ with .Params.categories }}{{ index . 0 }}{{ else }}Breaking News{{ end }}</span>
+            <div class="news-featured-title">{{ .Title }}</div>
+            <div class="news-featured-excerpt">{{ .Description | truncate 160 }}</div>
+            <div class="news-featured-meta">
+              <span>📅 {{ .Date.Format "02 Jan 2006" }}</span>
+              <span>⏱ {{ .ReadingTime }} min read</span>
+              {{ with .Params.author_name }}<span>✍️ {{ . }}</span>{{ end }}
+            </div>
+            <span class="news-featured-readmore">पूरी खबर पढ़ें →</span>
+          </div>
         </div>
-      </div>
-    </a>
+      </a>
+      {{ end }}
     {{ end }}
 
-    <!-- All News -->
-    {{ if $rest }}
+    <!-- News Grid Section Header -->
     <div class="news-section-header">
-      <h2>📰 सभी खबरें</h2>
-      <span class="news-section-count">{{ $newsCount }} खबरें</span>
+      <h2>📰 {{ if eq $paginator.PageNumber 1 }}सभी ताज़ा खबरें{{ else }}ताज़ा खबरें — पेज {{ $paginator.PageNumber }}{{ end }}</h2>
+      <span class="news-section-count">{{ $newsCount }} कुल खबरें</span>
     </div>
+
+    <!-- News Grid Cards -->
     <div class="news-list-grid">
-      {{ range $i, $p := $rest }}
+      {{ $displayPages := $paginator.Pages }}
+      {{ if eq $paginator.PageNumber 1 }}
+        {{ $displayPages = after 1 $paginator.Pages }}
+      {{ end }}
+
+      {{ range $i, $p := $displayPages }}
       {{ $featured := $p.Params.featured_image }}
       <div class="news-list-card">
         <a href="{{ $p.Permalink }}" style="text-decoration:none;color:inherit;display:block;">
@@ -169,7 +187,7 @@
             <div class="news-list-card-title">{{ $p.Title }}</div>
             <div class="news-list-card-desc">{{ $p.Description | truncate 120 }}</div>
             <div class="news-list-card-footer">
-              <span>{{ $p.Date.Format "02 Aug 2006" }} · {{ $p.ReadingTime }} min</span>
+              <span>{{ $p.Date.Format "02 Jan 2006" }} · {{ $p.ReadingTime }} min</span>
               <span class="news-list-card-read">पढ़ें →</span>
             </div>
           </div>
@@ -177,7 +195,31 @@
       </div>
       {{ end }}
     </div>
+
+    <!-- Pagination Controls -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <div class="news-pagination">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="news-page-btn">← पिछला पेज</a>
+      {{ end }}
+      
+      <div class="news-page-numbers">
+        {{ range $paginator.Pagers }}
+          {{ if eq . $paginator }}
+          <span class="news-page-num active">{{ .PageNumber }}</span>
+          {{ else }}
+          <a href="{{ .URL }}" class="news-page-num">{{ .PageNumber }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="news-page-btn">अगला पेज →</a>
+      {{ end }}
+    </div>
+    <p class="news-page-info">पेज {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }} (कुल {{ $newsCount }} खबरें)</p>
     {{ end }}
+
   </div>
 
   <!-- Sidebar -->
@@ -194,7 +236,7 @@
             <span class="news-trending-num">{{ add $i 1 }}</span>
             <div class="news-trending-info">
               <h4>{{ $p.Title | truncate 60 }}</h4>
-              <p>{{ $p.Date.Format "02 Aug 2006" }}</p>
+              <p>{{ $p.Date.Format "02 Jan 2006" }}</p>
             </div>
           </a>
           {{ end }}
@@ -241,3 +283,4 @@
 </div>
 
 {{ end }}
+
