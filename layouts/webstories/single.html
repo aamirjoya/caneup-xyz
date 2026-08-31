@@ -191,19 +191,19 @@
       </amp-img>
     </amp-story-grid-layer>
     <amp-story-grid-layer template="vertical">
-      <div class="cover-logo">
+      <div class="cover-logo" animate-in="fade-in" animate-in-duration="0.4s">
         <amp-img width="44" height="44" layout="fixed" class="logo"
             src="https://caneup.xyz/images/logo.png"
             alt="CaneUp">
         </amp-img>
       </div>
     </amp-story-grid-layer>
-    <amp-story-grid-layer class="cover-bottom" template="vertical">
-      <div class="fade-in">
-        {{ with .Params.category }}<span class="cover-category">{{ . }}</span>{{ end }}
-        <h1>{{ .Title }}</h1>
-        <p class="cover-date">{{ .Date.Format "Jan 2, 2006" }}</p>
-        <span class="cover-author">{{ .Params.author_name | default "Randhir Patil" }}</span>
+    <amp-story-grid-layer class="cover-bottom gradient-overlay" template="vertical">
+      <div>
+        {{ with .Params.category }}<span class="cover-category" animate-in="fly-in-left" animate-in-duration="0.5s">{{ . }}</span>{{ end }}
+        <h1 animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.15s">{{ .Title }}</h1>
+        <p class="cover-date" animate-in="fade-in" animate-in-duration="0.5s" animate-in-delay="0.3s">📅 {{ .Date.Format "Jan 2, 2006" }}</p>
+        <span class="cover-author" animate-in="fade-in" animate-in-duration="0.5s" animate-in-delay="0.4s">✍️ {{ .Params.author_name | default "Randhir Patil" }}</span>
       </div>
     </amp-story-grid-layer>
   </amp-story-page>
@@ -219,9 +219,9 @@
       </amp-story-grid-layer>
       {{ if or $slide.title $slide.subtitle }}
       <amp-story-grid-layer class="slide-bottom gradient-overlay" template="vertical">
-        <div class="fade-in">
-          {{ if $slide.title }}<h2>{{ $slide.title }}</h2>{{ end }}
-          {{ if $slide.subtitle }}<p class="summary">{{ $slide.subtitle }}</p>{{ end }}
+        <div>
+          {{ if $slide.title }}<h2 animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.15s">{{ $slide.title }}</h2>{{ end }}
+          {{ if $slide.subtitle }}<p class="summary" animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="0.3s">{{ $slide.subtitle }}</p>{{ end }}
         </div>
       </amp-story-grid-layer>
       {{ end }}
@@ -239,9 +239,9 @@
       </amp-story-grid-layer>
       {{ if or $slide.title $slide.subtitle }}
       <amp-story-grid-layer class="slide-bottom gradient-overlay" template="vertical">
-        <div class="fade-in">
-          {{ if $slide.title }}<h2>{{ $slide.title }}</h2>{{ end }}
-          {{ if $slide.subtitle }}<p class="summary">{{ $slide.subtitle }}</p>{{ end }}
+        <div>
+          {{ if $slide.title }}<h2 animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.15s">{{ $slide.title }}</h2>{{ end }}
+          {{ if $slide.subtitle }}<p class="summary" animate-in="fade-in" animate-in-duration="0.6s" animate-in-delay="0.3s">{{ $slide.subtitle }}</p>{{ end }}
         </div>
       </amp-story-grid-layer>
       {{ end }}
