@@ -1,6 +1,7 @@
 ---
 title: "गन्ने की लाल सड़न (Red Rot) से फसल बचाने के 5 उपाय"
-date: 2026-08-24 14:45:00+05:30
+date: 2026-09-04T04:36:15+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "मानसून में गन्ने के कैंसर यानी लाल सड़न (Red Rot) और टॉप बोरर से बचाव के 5 अचूक उपाय। स्ट्रेप्टोसाइक्लिन छिड़काव और जल निकासी।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-red-rot-cover.webp"

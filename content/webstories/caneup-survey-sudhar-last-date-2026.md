@@ -1,6 +1,7 @@
 ---
 title: "CaneUp सर्वे डेटा सुधार अंतिम तिथि: ऐसे ठीक कराएं रकबा"
-date: 2026-08-28 13:00:00+05:30
+date: 2026-09-03T11:18:20+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "30 अगस्त 2026 से पहले CaneUp पोर्टल पर अपने गन्ना सर्वे का रकबा और पौधे/पेड़ी प्रविष्टि ऑनलाइन ठीक कराने की विधि।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-survey-sudhar-cover.webp"

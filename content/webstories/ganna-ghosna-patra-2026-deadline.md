@@ -1,6 +1,7 @@
 ---
 title: "गन्ना घोषणा पत्र 2026-27 — 30 सितंबर तक भरें"
-date: 2026-08-24 15:30:00+05:30
+date: 2026-09-03T18:29:10+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना घोषणा पत्र (Declaration Form) ऑनलाइन भरने की अंतिम तिथि 30 सितंबर 2026। बिना भरे सट्टा ब्लॉक हो जाएगा। मोबाइल से भरें 5 मिनट में।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-ghosna-patra-cover.webp"

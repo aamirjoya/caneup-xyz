@@ -1,6 +1,7 @@
 ---
 title: "गन्ना MSP रेट में बड़ा बदलाव — अगस्त 2026"
-date: 2026-08-04 16:42:00+05:30
+date: 2026-09-03T20:46:15+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना MSP रेट 2026-27 में बड़ा बदलाव। FRP ₹365/क्विंटल, UP में SAP ₹400/क्विंटल। सभी राज्यों का ताज़ा भाव जानें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ganna-msp-rate-badla-august-2026.webp"

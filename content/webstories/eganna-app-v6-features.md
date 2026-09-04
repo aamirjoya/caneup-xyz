@@ -1,6 +1,7 @@
 ---
 title: "e-Ganna App 6.0 नया अपडेट — नए फीचर्स व एरर हल"
-date: 2026-08-24 14:15:00+05:30
+date: 2026-09-03T16:31:40+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "e-Ganna App नया वर्जन 6.0 डाउनलोड करें। Multiple Farmers जोड़ने की समस्या और Login Error दूर करने का आसान तरीका।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-eganna-v6-cover.webp"

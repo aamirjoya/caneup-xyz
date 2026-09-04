@@ -1,7 +1,7 @@
 ---
 title: "गन्ना पर्ची कैलेंडर 2026-27 कैसे देखें — 3 सबसे आसान तरीके"
-date: 2026-08-31T20:00:00+05:30
-lastmod: 2026-08-31T22:45:00+05:30
+date: 2026-09-03T21:25:25+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "enquiry.caneup.in पोर्टल, eGanna App और SMS के जरिए 12 पखवाड़े का गन्ना पर्ची कैलेंडर और बेसिक सट्टा कोटा चेक करने की पूरी विधि।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws_ganna_parchi_cover.webp"

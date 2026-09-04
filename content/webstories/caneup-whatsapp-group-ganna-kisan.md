@@ -1,6 +1,7 @@
 ---
 title: "गन्ना किसान WhatsApp ग्रुप — रोज ताजा अपडेट पाएं"
-date: 2026-07-11 14:29:00+05:30
+date: 2026-09-03T11:37:55+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "CaneUp का WhatsApp ग्रुप — गन्ना किसानों के लिए रोज MSP रेट, पर्ची कैलेंडर, सरकारी योजना की जानकारी। अभी जुड़ें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/farmer-happy.webp"

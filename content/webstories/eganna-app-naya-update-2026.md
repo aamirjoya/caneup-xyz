@@ -1,6 +1,7 @@
 ---
 title: "eGanna App में नया अपडेट — एक क्लिक में सब कुछ"
-date: 2026-07-02 17:15:00+05:30
+date: 2026-09-03T15:52:30+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "eGanna App में अगस्त 2026 में बड़ा अपडेट। अब डैशबोर्ड व्यू, रियल-टाइम नोटिफिकेशन और ऑफलाइन मोड मिलेगा।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/eganna-app-naya-update-2026.webp"

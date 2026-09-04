@@ -1,6 +1,7 @@
 ---
 title: "गन्ने के रोग गाइड 2026 — लाल सड़न, कंडुआ, म्लानि और अन्य"
-date: 2026-07-22 18:56:00+05:30
+date: 2026-09-04T06:33:45+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने के रोग 2026 — लाल सड़न, कंडुआ, म्लानि, रस्ट और मोज़ेक। पहचान, उपचार और बचाव की पूरी जानकारी CaneUp पर।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/pest-control.webp"

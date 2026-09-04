@@ -1,6 +1,7 @@
 ---
 title: "SBI का नया लोन — ₹10 लाख तक, बिना गारंटी, 7% ब्याज"
-date: 2026-07-04 16:57:00+05:30
+date: 2026-09-04T04:55:50+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "SBI ने गन्ना किसानों के लिए नया लोन लॉन्च किया — ₹10 लाख तक, बिना गारंटी, सिर्फ 7% ब्याज। अगस्त 2026। CaneUp पर जानें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/payment-status.webp"

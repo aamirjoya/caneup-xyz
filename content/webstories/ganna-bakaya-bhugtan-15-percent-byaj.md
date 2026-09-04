@@ -1,6 +1,7 @@
 ---
 title: "गन्ना बकाया भुगतान — 14 दिन नियम व 15% ब्याज"
-date: 2026-08-24 15:45:00+05:30
+date: 2026-09-03T16:51:15+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "यूपी में पिछले सत्र का बकाया गन्ना भुगतान स्टेटस। 14 दिन के अंदर भुगतान न होने पर हाई कोर्ट का 15% ब्याज नियम।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-bakaya-bhugtan-cover.webp"

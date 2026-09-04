@@ -1,6 +1,7 @@
 ---
 title: "Digital Farmer ID ऑनलाइन आवेदन: 31 अगस्त अंतिम तिथि"
-date: 2026-08-28 13:00:00+05:30
+date: 2026-09-03T14:14:35+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "AgriStack डिजिटल फार्मर आईडी ऑनलाइन बनाने की पूरी स्टेप-बाय-स्टेप गाइड। 31 अगस्त से पहले upfr.agristack.gov.in पर आवेदन करें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-farmer-id-cover.webp"

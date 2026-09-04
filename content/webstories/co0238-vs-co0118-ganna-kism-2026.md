@@ -1,6 +1,7 @@
 ---
 title: "गन्ने की नई किस्म Co-0238 vs Co-0118 — कौन सी है बेस्ट?"
-date: 2026-07-12 15:59:00+05:30
+date: 2026-09-03T13:35:25+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की दो लोकप्रिय किस्मों Co-0238 और Co-0118 की तुलना — उपज, चीनी मात्रा, रोग प्रतिरोध। CaneUp पर जानें।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/sugarcane-field.webp"

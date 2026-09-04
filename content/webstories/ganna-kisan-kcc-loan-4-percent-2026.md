@@ -1,6 +1,7 @@
 ---
 title: "गन्ना किसान क्रेडिट कार्ड (KCC): 3 लाख का लोन 4% ब्याज पर"
-date: 2026-08-28 13:00:00+05:30
+date: 2026-09-03T19:47:30+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना सट्टे के आधार पर ₹3 लाख तक का KCC लोन मात्र 4% प्रभावी ब्याज दर पर प्राप्त करने की पूरी प्रक्रिया व जरूरी कागजात।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-kcc-loan-cover.webp"

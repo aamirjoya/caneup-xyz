@@ -1,6 +1,7 @@
 ---
 title: "गन्ने पर ₹900/टन बोनस मांग: कर्नाटक में किसानों का हल्लाबोल"
-date: 2026-08-28 13:00:00+05:30
+date: 2026-09-04T00:21:40+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "केंद्र के ₹365 FRP से नाखुश किसानों का आंदोलन। कर्नाटक सरकार से ₹900/टन (₹90/कुं) अतिरिक्त राज्य बोनस (SAP) की मांग।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-karnataka-bonus-cover.webp"

@@ -1,6 +1,7 @@
 ---
 title: "Co-0238 की जगह लगाएं CoS 17231 — बंपर पैदावार"
-date: 2026-08-24 15:15:00+05:30
+date: 2026-09-03T13:55:00+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "Co-0238 गन्ना फेल होने के बाद लगाएं CoS 17231 और CoLk 16202। 450 कुं/एकड़ पैदावार, लाल सड़न से 100% सुरक्षा।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-cos17231-cover.webp"

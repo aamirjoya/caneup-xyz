@@ -1,6 +1,7 @@
 ---
 title: "महाराष्ट्र चीनी मिलों के लिए 30 सितंबर क्रशिंग परमिट डेडलाइन"
-date: 2026-08-28 13:00:00+05:30
+date: 2026-09-04T01:59:35+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "महाराष्ट्र शर्करा आयुक्त का कड़ा आदेश। 30 सितंबर तक 100% FRP चुकता न करने वाली मिलों का क्रशिंग लाइसेंस खारिज होगा।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-maharashtra-permit-cover.webp"

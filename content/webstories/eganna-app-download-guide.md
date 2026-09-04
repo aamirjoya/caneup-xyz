@@ -1,6 +1,7 @@
 ---
 title: "eGanna App डाउनलोड — गन्ना किसानों का सुपर ऐप"
-date: 2026-07-08 09:54:00+05:30
+date: 2026-09-03T15:32:55+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "eGanna App 2026 डाउनलोड करें — गन्ना पर्ची कैलेंडर, भुगतान स्थिति, सप्लाई टिकट और किसान कोड एक ही ऐप में चेक करें। Step-by-step गाइड: रजिस्ट्रेशन से पर्ची देखने तक। CaneUp पर पूरी जानकारी।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/eganna-app.webp"

@@ -1,7 +1,7 @@
 ---
 title: "यूपी में गन्ने का नया भाव 2026-27 — क्या ₹400 पार होगा SAP Rate?"
-date: 2026-08-31T20:30:00+05:30
-lastmod: 2026-08-31T22:45:00+05:30
+date: 2026-09-04T08:50:50+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "पेराई सत्र 2026-27 के लिए उत्तर प्रदेश में गन्ने के नए भाव की स्थिति, सीएसीपी लागत और किसान मांग।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws_sap_rate_cover.webp"

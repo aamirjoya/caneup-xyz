@@ -1,6 +1,7 @@
 ---
 title: "CaneUp पोर्टल पर ऑनलाइन शिकायत दर्ज कैसे करें?"
-date: 2026-08-24 16:15:00+05:30
+date: 2026-09-03T10:58:45+05:30
+lastmod: 2026-09-04T09:35:00+05:30
 description: "enquiry.caneup.in पर घर बैठे शिकायत (Grievance) दर्ज कराने का आसान तरीका। सर्वे त्रुटि, कोटा कटौती, पर्ची समस्या का 7 से 15 दिनों में समाधान।"
 author_name: "Randhir Patil"
 featured_image: "/images/webstories/ws-grievance-cover.webp"
