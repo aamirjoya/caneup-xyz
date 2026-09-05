@@ -36,6 +36,10 @@ image: /images/blog/eganna-app-v6-2-complete-login-password-reset-guide-2026.web
 
 ---
 
+{{< tweet name="Department of Sugar Industry and Cane Dev, UP" handle="UPCaneDept" avatar="/images/avatars/up-cane-dept.webp" date="3 Sep 2026" reposts="1.4K" quotes="180" likes="4.9K" >}}
+गन्ना किसानों की सुविधा हेतु eGanna App का नया वर्जन v6.2 जारी कर दिया गया है। किसान भाई अब मोबाइल से लाइव तौल, पर्ची ट्रैकिंग और मिल यार्ड में कतार की स्थिति सीधे देख सकते हैं। किसी भी असुविधा पर टोल-फ्री 1800-121-3203 पर संपर्क करें। #eGanna #DigitalAgriculture
+{{< /tweet >}}
+
 ### 1. eGanna App v6.2 डाउनलोड और नया रजिस्ट्रेशन कैसे करें?
 
 1. **Google Play Store से इंस्टॉल करें:** प्ले स्टोर पर जाएं, 'eGanna App' टाइप करें और आधिकारिक 'U.P. Sugarcane Department' वाला ऐप डाउनलोड करें।

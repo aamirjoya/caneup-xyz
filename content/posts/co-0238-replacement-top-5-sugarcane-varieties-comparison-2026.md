@@ -36,6 +36,10 @@ image: /images/blog/co-0238-replacement-top-5-sugarcane-varieties-comparison-202
 
 ---
 
+{{< tweet name="UP Council of Sugarcane Research" handle="UPCSR_Shahjahan" avatar="/images/avatars/up-cane-dept.webp" date="2 Sep 2026" reposts="1.8K" quotes="195" likes="4.3K" >}}
+🔬 यूपी गन्ना शोध परिषद शाहजहांपुर द्वारा एडवाइजरी: रेड रॉट (Red Rot) प्रभावित Co 0238 के स्थान पर Co 15023, CoS 13235, CoLk 14201 व CoS 17231 की शरदकालीन बुवाई करें। प्रमाणित बीज पर प्रति क्विंटल ₹50 का अनुदान उपलब्ध है। #SugarcaneResearch #Co15023
+{{< /tweet >}}
+
 ### 1. टॉप-5 नई गन्ना किस्मों का संपूर्ण तुलनात्मक विश्लेषण
 
 | गन्ना प्रजाति | परिपक्वता वर्ग | चीनी रिकवरी (%) | औसत पैदावार (क्विंटल/एकड़) | लाल सड़न प्रतिरोधकता | किस मिट्टी के लिए बेस्ट? |

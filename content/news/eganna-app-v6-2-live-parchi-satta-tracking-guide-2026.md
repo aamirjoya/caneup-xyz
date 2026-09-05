@@ -34,6 +34,10 @@ image: /images/news/eganna-app-v6-2-live-parchi-satta-tracking-guide-2026.webp
 
 यदि आपके मोबाइल में पुराना ऐप चल रहा है या आप अपना लॉगिन पासवर्ड / एमपिन भूल गए हैं, तो नीचे दिए गए 4 आसान चरणों का पालन करके अपना ऐप तुरंत एक्टिवेट कर सकते हैं।
 
+{{< tweet name="Department of Sugar Industry and Cane Dev, UP" handle="UPCaneDept" avatar="/images/avatars/up-cane-dept.webp" date="3 Sep 2026" reposts="1.4K" quotes="180" likes="4.9K" >}}
+गन्ना किसानों की सुविधा हेतु eGanna App का नया वर्जन v6.2 जारी कर दिया गया है। किसान भाई अब मोबाइल से लाइव तौल, पर्ची ट्रैकिंग और मिल यार्ड में कतार की स्थिति सीधे देख सकते हैं। किसी भी असुविधा पर टोल-फ्री 1800-121-3203 पर संपर्क करें। #eGanna #DigitalAgriculture
+{{< /tweet >}}
+
 ### eGanna App v6.2 डाउनलोड व नया लॉगिन करने के 4 चरण
 
 1. **Google Play Store से अपडेट करें:** सबसे पहले प्ले स्टोर पर 'eGanna App' सर्च करें और 'Update' बटन दबाकर वर्जन 6.2 इंस्टॉल करें।

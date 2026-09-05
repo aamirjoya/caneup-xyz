@@ -36,6 +36,10 @@ image: /images/blog/pm-kusum-solar-pump-70-percent-subsidy-up-tubewell-booking-2
 
 ---
 
+{{< tweet name="Department of Agriculture, UP" handle="DeptofAgriUP" avatar="/images/avatars/up-cane-dept.webp" date="3 Sep 2026" reposts="2.7K" quotes="380" likes="8.4K" >}}
+☀️ पीएम कुसुम योजना (PM-KUSUM): गन्ना किसान भाइयों के लिए 2 HP से 10 HP तक के सोलर पंप पर 70% तक भारी अनुदान उपलब्ध है। डीजल पंप से मुक्ति पाएं और सिंचाई का खर्च शून्य करें। upagriculture.com पर ऑनलाइन बुकिंग जारी है। #PMKusum #SolarPump
+{{< /tweet >}}
+
 ### 1. सोलर पंप क्षमता, कुल लागत और किसान अंशदान (Subsidy Chart)
 
 | पंप क्षमता (HP) | सोलर पैनल क्षमता | बाजार मूल्य | 70% सरकारी सब्सिडी | किसान को देना होगा (अंशदान) | किस गहराई के लिए उपयुक्त? |

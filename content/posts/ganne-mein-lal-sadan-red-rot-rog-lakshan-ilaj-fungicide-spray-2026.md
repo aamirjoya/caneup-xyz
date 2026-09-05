@@ -36,6 +36,10 @@ image: /images/blog/ganne-mein-lal-sadan-red-rot-rog-lakshan-ilaj-fungicide-spra
 
 ---
 
+{{< tweet name="UP Council of Sugarcane Research" handle="UPCSR_Shahjahan" avatar="/images/avatars/up-cane-dept.webp" date="1 Sep 2026" reposts="1.3K" quotes="110" likes="3.2K" >}}
+चेतावनी: गन्ने में लाल सड़न (Red Rot) रोग दिखने पर तुरंत संक्रमित पौधे को उखाड़कर नष्ट करें और कार्बेंडाजिम अथवा थायोफेनेट मिथाइल का स्प्रे करें। रोगग्रस्त खेत से अगले वर्ष बीज न लें। #PlantProtection #RedRotAlert
+{{< /tweet >}}
+
 ### 1. लाल सड़न (Red Rot) के 4 प्रमुख लक्षण
 
 1. **तीसरी और चौथी पत्ती का पीला पड़ना:** पौधे के ऊपरी हिस्से की पत्तियां किनारों से सूखने लगती हैं और मध्य शिरा (Midrib) पर लाल रंग के लंबे धब्बे पड़ जाते हैं।

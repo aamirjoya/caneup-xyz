@@ -36,6 +36,10 @@ image: /images/blog/ganna-satta-naam-bank-khata-transfer-warasat-guide-2026.webp
 
 ---
 
+{{< tweet name="Cane Commissioner Uttar Pradesh" handle="Canecommission1" avatar="/images/avatars/up-cane-dept.webp" date="1 Sep 2026" reposts="1.5K" quotes="160" likes="4.2K" >}}
+गन्ना सट्टा नामांतरण (वरासत) व बैंक खाता संशोधन की प्रक्रिया को पूर्णतः पारदर्शी बना दिया गया है। किसान भाई 15 सितंबर तक अपनी समिति में आवेदन कर मृतक पूर्वज का सट्टा अपने नाम दर्ज करा सकते हैं। #Warasat #SattaSanshodhan
+{{< /tweet >}}
+
 ### 1. वरासत (मृत्यु के बाद सट्टा ट्रांसफर) कराने के नियम
 
 यदि सट्टा धारक (पिता/दादा) का निधन हो गया है:

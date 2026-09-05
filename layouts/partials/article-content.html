@@ -102,13 +102,30 @@
 .author-box-img{width:64px;height:64px}
 .author-box-name{font-size:17px}
 .author-box-bio{font-size:12px}
-.author-box-links{justify-content:center}
+/* Twitter / X Tweet Embed Card */
+.x-tweet-card{margin:24px 0;background:#ffffff;border:1px solid #cfd9de;border-radius:16px;padding:16px 18px;box-shadow:0 2px 8px rgba(0,0,0,.04);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;transition:border-color .2s}
+.x-tweet-card:hover{border-color:#8bc34a}
+.x-tweet-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px}
+.x-tweet-author{display:flex;align-items:center;gap:12px}
+.x-tweet-avatar{width:44px;height:44px;border-radius:50%;object-fit:cover}
+.x-tweet-meta{display:flex;flex-direction:column}
+.x-tweet-name-row{display:flex;align-items:center;gap:4px}
+.x-tweet-name{font-size:15px;font-weight:700;color:#0f1419;line-height:1.2}
+.x-tweet-badge{width:16px;height:16px;flex-shrink:0}
+.x-tweet-handle{font-size:13px;color:#536471}
+.x-tweet-content{font-size:15px;line-height:1.5;color:#0f1419;margin-bottom:12px}
+.x-tweet-content p{margin-bottom:8px;font-size:15px}
+.x-tweet-content p:last-child{margin-bottom:0}
+.x-tweet-footer{border-top:1px solid #eff3f4;padding-top:10px;font-size:13px;color:#536471}
+.x-tweet-date{margin-bottom:6px}
+.x-tweet-metrics{display:flex;gap:16px}
+.x-tweet-metrics span strong{color:#0f1419;font-weight:700}
+@media(max-width:768px){
+.x-tweet-card{padding:12px 14px}
+.x-tweet-content{font-size:14px}
+.x-tweet-content p{font-size:14px}
 }
 
-
-
-
-@media(max-width:768px){
 .art-hero{padding:18px 12px}
 .art-title{font-size:19px}
 .art-meta{font-size:11px;gap:4px}

@@ -36,6 +36,10 @@ image: /images/blog/ganna-kisan-kcc-loan-4-percent-byaj-apply-guide-2026.webp
 
 ---
 
+{{< tweet name="Cane Commissioner Uttar Pradesh" handle="Canecommission1" avatar="/images/avatars/up-cane-dept.webp" date="2 Sep 2026" reposts="1.9K" quotes="220" likes="5.8K" >}}
+सभी पंजीकृत गन्ना किसानों को समय पर सस्ता ऋण उपलब्ध कराने हेतु विशेष किसान क्रेडिट कार्ड (KCC) संतृप्ति अभियान चलाया जा रहा है। मात्र 4% ब्याज दर पर ₹3 लाख तक का फसली ऋण सीधे बैंक से प्राप्त करें। #KisanCreditCard #KCCDrive
+{{< /tweet >}}
+
 ### 1. KCC पर 4% ब्याज का जादुई गणित समझें
 
 - **मानक ब्याज दर:** बैंक सामान्यतः कृषि ऋण पर **7% वार्षिक ब्याज** लेते हैं।

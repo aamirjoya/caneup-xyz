@@ -36,6 +36,10 @@ image: /images/blog/ganna-toul-ghattoli-roktham-kisan-kanuni-adhikar-2026.webp
 
 ---
 
+{{< tweet name="Cane Commissioner Uttar Pradesh" handle="Canecommission1" avatar="/images/avatars/up-cane-dept.webp" date="4 Sep 2026" reposts="1.6K" quotes="210" likes="5.1K" >}}
+क्रय केंद्रों पर घटतौली रोकने के लिए विधिक माप विज्ञान विभाग व गन्ना विभाग द्वारा डिजिटल वे-ब्रिज की सीलिंग का कार्य युद्धस्तर पर जारी है। किसी भी केंद्र पर गड़बड़ी मिलने पर तत्काल लाइसेंस रद्द कर एफआईआर दर्ज की जाएगी। #ZeroTolerance #FarmerFirst
+{{< /tweet >}}
+
 ### 1. किसान के 5 बड़े कानूनी अधिकार (Your 5 Legal Rights)
 
 1. **कांटे का शून्य (0.00) बैलेंस देखना:** ट्रॉली कांटे पर चढ़ने से पहले डिस्प्ले स्क्रीन पर शून्य वजन देखना किसान का पहला वैधानिक अधिकार है।

@@ -36,6 +36,10 @@ image: /images/blog/ganna-parchi-calendar-12-pakhwada-basic-quota-samjhe-2026.we
 
 ---
 
+{{< tweet name="Department of Sugar Industry and Cane Dev, UP" handle="UPCaneDept" avatar="/images/avatars/up-cane-dept.webp" date="1 Sep 2026" reposts="2.3K" quotes="310" likes="6.7K" >}}
+पेराई सत्र 2026-27 का 12 पखवाड़े का सट्टा व प्री-कैलेंडर enquiry.caneup.in तथा eGanna ऐप पर लाइव है। किसान भाई अपने पिछले 3 वर्षों के औसत आपूर्ति के आधार पर निर्धारित बेसिक कोटे की जांच कर लें। #GannaParchi #CaneUpPortal
+{{< /tweet >}}
+
 ### 1. 'बेसिक कोटा' (Basic Quota) क्या है और इसकी गणना कैसे होती है?
 
 बेसिक कोटा वह न्यूनतम गन्ने की मात्रा (क्विंटल में) है जो चीनी मिल द्वारा आपके सट्टे के लिए आरक्षित की जाती है:
