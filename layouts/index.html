@@ -11,21 +11,49 @@
 <style>
 /* Hero */
 .hero{background:linear-gradient(135deg,#052e16 0%,#15803d 50%,#052e16 100%);color:#fff;padding:0}
-.hero-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1.1fr .9fr;min-height:480px;align-items:center}
-.hero-text{padding:48px 40px}
-.hero-text h1{font-size:32px;font-weight:800;line-height:1.25;margin-bottom:14px}
+.hero-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;min-height:480px;align-items:center;gap:20px}
+.hero-text{padding:36px 20px}
+.hero-text h1{font-size:30px;font-weight:800;line-height:1.25;margin-bottom:12px}
 .hero-text h1 span{color:#f59e0b}
-.hero-text p{font-size:15px;opacity:.9;margin-bottom:20px;max-width:520px;line-height:1.6}
-.hero-btns{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
-.btn-h{padding:11px 22px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;transition:transform .2s;display:inline-flex;align-items:center;gap:6px}
+.hero-text p{font-size:14px;opacity:.92;margin-bottom:18px;max-width:520px;line-height:1.6}
+.hero-btns{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+.btn-h{padding:9px 18px;border-radius:8px;font-weight:600;font-size:13px;text-decoration:none;transition:transform .2s;display:inline-flex;align-items:center;gap:6px}
 .btn-h:hover{transform:translateY(-2px)}
 .btn-h-gold{background:#f59e0b;color:#111}
 .btn-h-green{background:#16a34a;color:#fff}
 .btn-h-outline{background:0 0;border:2px solid rgba(255,255,255,.3);color:#fff}
-.hero-stats{display:flex;gap:28px}
+.hero-stats{display:flex;gap:20px}
 .h-stat{text-align:center}
-.h-stat b{display:block;font-size:26px;font-weight:800;color:#f59e0b}
+.h-stat b{display:block;font-size:22px;font-weight:800;color:#f59e0b}
 .h-stat small{font-size:11px;opacity:.8}
+
+/* Hero Samasya Form Card */
+.hero-form-wrap{padding:20px 16px;display:flex;align-items:center;justify-content:center}
+.hero-form-card{background:#fff;border-radius:16px;width:100%;max-width:480px;box-shadow:0 16px 40px rgba(0,0,0,.28);overflow:hidden;color:#111}
+.hfc-hdr{background:linear-gradient(135deg,#052e16,#15803d);color:#fff;padding:14px 18px;text-align:center}
+.hfc-badge{display:inline-block;background:#f59e0b;color:#111;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-bottom:4px;text-transform:uppercase}
+.hfc-hdr h3{font-size:16px;font-weight:800;margin:0 0 2px;color:#fff}
+.hfc-hdr p{font-size:11px;opacity:.9;margin:0;color:#dcfce7}
+.hfc-body{padding:16px 18px}
+.hfc-row{display:flex;gap:10px;margin-bottom:10px}
+.hfc-grp{flex:1;display:flex;flex-direction:column}
+.hfc-grp label{font-size:11.5px;font-weight:700;color:#374151;margin-bottom:3px}
+.hfc-grp label .req{color:#dc2626}
+.hfc-ctrl{width:100%;padding:8px 10px;font-size:13px;border:1.5px solid #d1d5db;border-radius:8px;outline:none;background:#f9fafb;box-sizing:border-box;font-family:inherit;transition:all .2s}
+.hfc-ctrl:focus{border-color:#15803d;background:#fff;box-shadow:0 0 0 2px rgba(21,128,61,.15)}
+textarea.hfc-ctrl{min-height:50px;resize:none}
+.hfc-consent{background:#f0fdf4;border:1.5px solid #86efac;border-radius:8px;padding:9px 11px;margin:10px 0;display:flex;align-items:flex-start;gap:8px;cursor:pointer}
+.hfc-consent:hover{background:#dcfce7}
+.hfc-consent input[type="checkbox"]{width:18px;height:18px;accent-color:#15803d;margin-top:2px;flex-shrink:0;cursor:pointer}
+.hfc-consent-text{font-size:11px;line-height:1.45;color:#14532d;font-weight:600;user-select:none}
+.btn-hfc{width:100%;padding:11px;background:linear-gradient(135deg,#15803d,#166534);color:#fff;border:none;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px;box-shadow:0 3px 10px rgba(21,128,61,.3);transition:all .2s}
+.btn-hfc:hover{background:#14532d;transform:translateY(-1px)}
+.hfc-success{display:none;background:#f0fdf4;border:1.5px solid #22c55e;border-radius:8px;padding:14px;text-align:center;margin-top:10px}
+.hfc-success.active{display:block}
+.hfc-success h4{color:#15803d;margin:0 0 4px;font-size:14px}
+.hfc-success p{color:#1f2937;margin:0 0 8px;font-size:11px;line-height:1.5}
+.btn-wa-hfc{display:inline-flex;align-items:center;gap:6px;background:#25d366;color:#fff;padding:8px 16px;border-radius:50px;font-size:12px;font-weight:700;text-decoration:none}
+
 
 /* Stats */
 .stats-bar{background:#f0fdf4;padding:28px 20px}
@@ -110,14 +138,11 @@
   <div class="hero-inner">
     <div class="hero-text">
       <h1 itemprop="headline">गन्ना पर्ची कैलेंडर 2026-27 | <span>eGanna App</span> | गन्ना भुगतान स्थिति</h1>
-      <div class="ai-summary">
-        <p>CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 87+ आर्टिकल्स। हम 5+ वर्षों से गन्ना किसानों की मदद कर रहे हैं।</p>
-      </div>
-      <p itemprop="description">CaneUp पर गन्ना पर्ची कैलेंडर, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह।</p>
+      <p itemprop="description">CaneUp — उत्तर प्रदेश के 50 लाख गन्ना किसानों का #1 सूचना एवं सहायता पोर्टल। पर्ची कैलेंडर, सट्टा संशोधन, सर्वे और चीनी मिल से जुड़े सभी समाधान एक जगह।</p>
       <div class="hero-btns">
-        <a href="/ganna-parchi-calendar-caneup/" class="btn-h btn-h-gold">गन्ना पर्ची देखें</a>
-        <a href="https://cane.up.gov.in/site/farmer_survey_form.aspx" target="_blank" rel="noopener" class="btn-h btn-h-green">गन्ना सर्वे करें</a>
-        <a href="/categories/msp-rate/" class="btn-h btn-h-outline">MSP रेट 2026</a>
+        <a href="/ganna-parchi-calendar-caneup/" class="btn-h btn-h-gold">🗓 गन्ना पर्ची देखें</a>
+        <a href="/ganna-bhugtan-status/" class="btn-h btn-h-green">💳 भुगतान स्थिति</a>
+        <a href="https://cane.up.gov.in/site/farmer_survey_form.aspx" target="_blank" rel="noopener" class="btn-h btn-h-outline">📋 गन्ना सर्वे करें</a>
       </div>
       <div class="hero-stats">
         <div class="h-stat"><b>149+</b><small>आर्टिकल्स</small></div>
@@ -126,47 +151,93 @@
         <div class="h-stat"><b>50L+</b><small>किसान</small></div>
       </div>
     </div>
-    <div style="padding:40px;display:flex;align-items:center;justify-content:center;">
-      <div style="background:#fff;border-radius:16px;width:100%;max-width:380px;box-shadow:0 16px 48px rgba(0,0,0,.25);overflow:hidden;">
-        <div style="background:linear-gradient(135deg,#052e16,#15803d);color:#fff;padding:18px 22px;text-align:center;">
-          <h3 style="font-size:17px;font-weight:700;margin-bottom:3px;">गन्ना किसान — जरूरी काम</h3>
-          <p style="font-size:11px;opacity:.85;">पर्ची, भुगतान, सर्वे — सब एक जगह</p>
+
+    <!-- Hero Kisan Samasya Form -->
+    <div class="hero-form-wrap">
+      <div class="hero-form-card">
+        <div class="hfc-hdr">
+          <span class="hfc-badge">🌾 किसान सहायता सेवा</span>
+          <h3>अपनी समस्या या सवाल दर्ज करें</h3>
+          <p>अपनी मिल चुनें और सीधे व्हाट्सएप पर सहायता पाएं</p>
         </div>
-        <div style="padding:16px 20px;display:flex;flex-direction:column;gap:10px;">
-          <a href="/ganna-parchi-calendar-caneup/" style="display:flex;align-items:center;gap:12px;background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:12px 14px;text-decoration:none;">
-            <span style="font-size:22px;">🗓</span>
-            <div>
-              <div style="font-size:13px;font-weight:700;color:#15803d;">गन्ना पर्ची देखें</div>
-              <div style="font-size:11px;color:#6b7280;">तारीख, गेट नंबर चेक करें</div>
+        <div class="hfc-body">
+          <form id="heroKisanForm" onsubmit="handleHeroKisanSubmit(event)">
+            <!-- District & Mill -->
+            <div class="hfc-row">
+              <div class="hfc-grp">
+                <label for="heroDistrict">📍 1. जिला चुनें <span class="req">*</span></label>
+                <select id="heroDistrict" class="hfc-ctrl" required onchange="onHeroDistrictChange()">
+                  <option value="">-- जिला चुनें --</option>
+                </select>
+              </div>
+              <div class="hfc-grp">
+                <label for="heroMill">🏭 2. चीनी मिल चुनें <span class="req">*</span></label>
+                <select id="heroMill" class="hfc-ctrl" required onchange="onHeroMillChange()">
+                  <option value="">-- पहले जिला चुनें --</option>
+                </select>
+              </div>
             </div>
-            <span style="margin-left:auto;color:#15803d;font-weight:700;">→</span>
-          </a>
-          <a href="/ganna-bhugtan-status/" style="display:flex;align-items:center;gap:12px;background:#fffbeb;border:1px solid #fde68a;border-radius:10px;padding:12px 14px;text-decoration:none;">
-            <span style="font-size:22px;">💳</span>
-            <div>
-              <div style="font-size:13px;font-weight:700;color:#d97706;">भुगतान स्थिति</div>
-              <div style="font-size:11px;color:#6b7280;">पैसा कब आएगा जानें</div>
+
+            <!-- Other Mill Input if selected -->
+            <div class="hfc-row" id="heroOtherMillRow" style="display:none;">
+              <div class="hfc-grp">
+                <label for="heroOtherMill">🏭 चीनी मिल का नाम लिखें <span class="req">*</span></label>
+                <input type="text" id="heroOtherMill" class="hfc-ctrl" placeholder="अपनी चीनी मिल का नाम लिखें">
+              </div>
             </div>
-            <span style="margin-left:auto;color:#d97706;font-weight:700;">→</span>
-          </a>
-          <a href="/ganna-survey/" style="display:flex;align-items:center;gap:12px;background:#eff6ff;border:1px solid #bfdbfe;border-radius:10px;padding:12px 14px;text-decoration:none;">
-            <span style="font-size:22px;">📋</span>
-            <div>
-              <div style="font-size:13px;font-weight:700;color:#2563eb;">गन्ना सर्वे करें</div>
-              <div style="font-size:11px;color:#6b7280;">UP पोर्टल पर ऑनलाइन</div>
+
+            <!-- Village & Farmer Name -->
+            <div class="hfc-row">
+              <div class="hfc-grp">
+                <label for="heroVillage">🏡 3. गांव का नाम <span class="req">*</span></label>
+                <input type="text" id="heroVillage" class="hfc-ctrl" placeholder="गांव का नाम" required>
+              </div>
+              <div class="hfc-grp">
+                <label for="heroName">👤 4. किसान का नाम <span class="req">*</span></label>
+                <input type="text" id="heroName" class="hfc-ctrl" placeholder="अपना नाम" required>
+              </div>
             </div>
-            <span style="margin-left:auto;color:#2563eb;font-weight:700;">→</span>
-          </a>
-          <a href="/eganna/" style="display:flex;align-items:center;gap:12px;background:#fdf4ff;border:1px solid #e9d5ff;border-radius:10px;padding:12px 14px;text-decoration:none;">
-            <span style="font-size:22px;">📲</span>
-            <div>
-              <div style="font-size:13px;font-weight:700;color:#7c3aed;">eGanna App</div>
-              <div style="font-size:11px;color:#6b7280;">डाउनलोड करें — फ्री</div>
+
+            <!-- Phone Number -->
+            <div class="hfc-row">
+              <div class="hfc-grp">
+                <label for="heroPhone">📱 5. मोबाइल नंबर (व्हाट्सएप) <span class="req">*</span></label>
+                <input type="tel" id="heroPhone" class="hfc-ctrl" placeholder="10-अंकीय मोबाइल नंबर (उदा० 9876543210)" pattern="[6-9][0-9]{9}" maxlength="10" required>
+              </div>
             </div>
-            <span style="margin-left:auto;color:#7c3aed;font-weight:700;">→</span>
-          </a>
+
+            <!-- Message / Query -->
+            <div class="hfc-row">
+              <div class="hfc-grp">
+                <label for="heroMessage">📝 6. अपनी समस्या या सवाल लिखें <span class="req">*</span></label>
+                <textarea id="heroMessage" class="hfc-ctrl" placeholder="पर्ची, सर्वे, सट्टा, ई-गन्ना ऐप या भुगतान संबंधी समस्या..." required></textarea>
+              </div>
+            </div>
+
+            <!-- Consent Checkbox -->
+            <label class="hfc-consent" for="heroConsent">
+              <input type="checkbox" id="heroConsent" required>
+              <span class="hfc-consent-text">
+                मैं अपनी चीनी मिल से जुड़े गन्ना पर्ची, सर्वे और भुगतान के दैनिक अपडेट्स व्हाट्सएप पर पाने के लिए caneup.xyz को अपनी सहमति देता हूँ। <span class="req">*</span>
+              </span>
+            </label>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn-hfc" id="heroSubmitBtn">
+              <span>📩 समस्या दर्ज करें एवं सहायता पाएं</span>
+            </button>
+          </form>
+
+          <!-- Success Box -->
+          <div class="hfc-success" id="heroSuccessBox">
+            <h4>🎉 आपकी समस्या दर्ज हो गई है!</h4>
+            <p id="heroSuccessMsg"></p>
+            <a href="#" id="heroWaBtn" target="_blank" class="btn-wa-hfc">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.771-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.312.045-.632.063-.996-.063-.591-.205-1.393-.574-2.434-1.503-1.309-1.168-2.031-2.493-2.18-2.738-.149-.245-.015-.378.107-.5.11-.11.244-.286.366-.429.123-.143.163-.245.244-.408.082-.163.041-.306-.02-.429-.061-.122-.55-1.327-.755-1.817-.199-.479-.403-.414-.55-.422h-.47c-.163 0-.428.061-.652.306s-.857.837-.857 2.041c0 1.204.877 2.367 1 2.53.122.163 1.724 2.632 4.177 3.689.583.251 1.038.401 1.393.514.586.186 1.12.16 1.543.097.472-.071 1.448-.592 1.653-1.163.204-.571.204-1.061.143-1.163-.061-.102-.224-.163-.469-.286zM12 2C6.477 2 2 6.477 2 12c0 1.891.524 3.662 1.436 5.179L2 22l4.981-1.308A9.957 9.957 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18.2a8.163 8.163 0 01-4.218-1.174l-.302-.18-2.97.779.792-2.894-.197-.314A8.164 8.164 0 1112 20.2z"/></svg>
+              <span>व्हाट्सएप पर सहायता मैसेज भेजें</span>
+            </a>
+          </div>
         </div>
-        <div style="padding:0 20px 14px;text-align:center;font-size:10px;color:#9ca3af;">कोई रजिस्ट्रेशन जरूरी नहीं — पूरी तरह मुफ्त</div>
       </div>
     </div>
   </div>
@@ -634,6 +705,127 @@
       }
     }
   ]
+}
+</script>
+
+<script>
+// Hero Form UP District to Sugar Mill Mapping
+var heroDistrictMills = {
+  "मुजफ्फरनगर": ["खतौली (त्रिवेणी)", "तितावी (उत्तम)", "मंसूरपुर (सर शादीलाल)", "मोरना (सहकारी)", "रोहाना कलां", "टिकौला शुगर मिल", "खाईखेड़ी शुगर मिल", "अन्य / लिस्ट में नहीं"],
+  "शामली": ["अपर दोआब शामली", "थानाभवन (बजाज)", "ऊन (सुपीरियर)", "अन्य / लिस्ट में नहीं"],
+  "मेरठ": ["मवाना (उषा)", "दौराला (डीसीएम श्रीराम)", "किनौनी (बजाज)", "मोहिउद्दीनपुर (निगम)", "सकौती टांडा", "अन्य / लिस्ट में नहीं"],
+  "सहारनपुर": ["देवबंद (त्रिवेणी)", "सरसावा (सहकारी)", "गांगनौली (बजाज)", "नानौता (सहकारी)", "शेरमऊ (राणा)", "अन्य / लिस्ट में नहीं"],
+  "बिजनौर": ["धामपुर शुगर मिल", "बरकातपुर (उत्तम)", "चांदपुर शुगर मिल", "स्योहारा (अवध)", "बिलाई (बजाज)", "बुंदकी शुगर मिल", "नजीबाबाद (सहकारी)", "बहादुरपुर", "अन्य / लिस्ट में नहीं"],
+  "बागपत": ["बागपत (सहकारी)", "मलकपुर (राणा)", "रमाला (सहकारी)", "अन्य / लिस्ट में नहीं"],
+  "बुलंदशहर": ["अनूपशहर (सहकारी)", "साबितगढ़ (वेव)", "जहांगीराबाद", "बुलंदशहर", "अन्य / लिस्ट में नहीं"],
+  "हापुड़": ["सिंभावली शुगर मिल", "बृजनाथपुर शुगर मिल", "अन्य / लिस्ट में नहीं"],
+  "अमरोहा": ["धनौरा (वेव)", "चंदनपुर (त्रिवेणी)", "हसनपुर (सहकारी)", "गजरौला शुगर मिल", "अन्य / लिस्ट में नहीं"],
+  "संभल": ["असमौली (डीएसएम)", "राजा का सहसपुर (राणा)", "संभल", "अन्य / लिस्ट में नहीं"],
+  "मुरादाबाद": ["बिलारी (गोविंद)", "रानी नांगल (त्रिवेणी)", "अगवानपुर (दीवान)", "अन्य / लिस्ट में नहीं"],
+  "रामपुर": ["रुद्र-बिलास (सहकारी)", "मिलक नारायणपुर (त्रिवेणी)", "बिलासपुर शुगर मिल", "अन्य / लिस्ट में नहीं"],
+  "बरेली": ["बहेड़ी (केसर)", "नवाबगंज (ओसवाल)", "फरीदपुर (द्वारिकेश)", "मीरगंज (द्वारिकेश)", "सेमीखेड़ा (सहकारी)", "अन्य / लिस्ट में नहीं"],
+  "पीलीभीत": ["पीलीभीत (एलएच शुगर्स)", "बीसलपुर (सहकारी)", "पूरनपुर (सहकारी)", "बरखेड़ा (बजाज)", "अन्य / लिस्ट में नहीं"],
+  "शाहजहांपुर": ["रोजा शुगर मिल", "पुवायां (सहकारी)", "तिलहर (सहकारी)", "मकसूदापुर (बजाज)", "निगोही (डालमिया)", "अन्य / लिस्ट में नहीं"],
+  "बदायूं": ["बिल्सी (सहकारी)", "शेखूपुर (सहकारी)", "दातागंज", "अन्य / लिस्ट में नहीं"],
+  "लखीमपुर खीरी": ["गोला गोकर्णनाथ (बजाज)", "पलिया कलां (बजाज)", "खंभारखेड़ा (बजाज)", "ऐरा (गोविंद)", "कुंभी (बलरामपुर)", "गुलरिया (बलरामपुर)", "बेलरायां (सहकारी)", "अन्य / लिस्ट में नहीं"],
+  "सीतापुर": ["हरगांव (अवध)", "बिसवां (डालमिया)", "महोली (निगम)", "रामगढ़ (डालमिया)", "जवाहरपुर (डालमिया)", "अन्य / लिस्ट में नहीं"],
+  "हरदोई": ["रूपापुर (डीएसएम)", "लोनी (डीएसएम)", "हरियावां (डीएसएम)", "अन्य / लिस्ट में नहीं"],
+  "बहराइच": ["नानपारा (सहकारी)", "जरवल रोड (निगम)", "चिलवरिया (सिंभावली)", "अन्य / लिस्ट में नहीं"],
+  "बलरामपुर": ["बलरामपुर चीनी मिल", "तुलसीपुर चीनी मिल", "इटई मैदा", "अन्य / लिस्ट में नहीं"],
+  "गोंडा": ["मनकापुर (बलरामपुर)", "कुंदनपुर / बभनान", "मैजापुर (बजाज)", "अन्य / लिस्ट में नहीं"],
+  "बस्ती": ["बभनान चीनी मिल", "रुधौली (बजाज)", "मुंडेरवा (निगम)", "अन्य / लिस्ट में नहीं"],
+  "गोरखपुर": ["पिपराइच (निगम)", "धुरियापार", "अन्य / लिस्ट में नहीं"],
+  "देवरिया": ["प्रतापपुर (बजाज)", "बैतालपुर", "भाटपार रानी", "अन्य / लिस्ट में नहीं"],
+  "कुशीनगर": ["कप्तानगंज शुगर मिल", "रामकोला (त्रिवेणी)", "सेवरही शुगर मिल", "ढाढा (हटा)", "खड्डा (सहकारी)", "अन्य / लिस्ट में नहीं"],
+  "अयोध्या": ["रौजागांव (डीएसएम)", "मसौधा (केएम शुगर्स)", "अन्य / लिस्ट में नहीं"],
+  "बाराबंकी": ["हैदरगढ़ (बलरामपुर)", "रामनगर शुगर मिल", "अन्य / लिस्ट में नहीं"],
+  "अन्य जिला / यूपी के बाहर": ["अन्य चीनी मिल / लिस्ट में नहीं"]
+};
+
+document.addEventListener('DOMContentLoaded', function() {
+  var distSelect = document.getElementById('heroDistrict');
+  if (distSelect) {
+    for (var dist in heroDistrictMills) {
+      var opt = document.createElement('option');
+      opt.value = dist;
+      opt.textContent = dist;
+      distSelect.appendChild(opt);
+    }
+  }
+});
+
+function onHeroDistrictChange() {
+  var dist = document.getElementById('heroDistrict').value;
+  var millSelect = document.getElementById('heroMill');
+  var otherRow = document.getElementById('heroOtherMillRow');
+  
+  millSelect.innerHTML = '<option value="">-- चीनी मिल चुनें --</option>';
+  if (otherRow) otherRow.style.display = 'none';
+
+  if (dist && heroDistrictMills[dist]) {
+    heroDistrictMills[dist].forEach(function(mill) {
+      var opt = document.createElement('option');
+      opt.value = mill;
+      opt.textContent = mill;
+      millSelect.appendChild(opt);
+    });
+  }
+}
+
+function onHeroMillChange() {
+  var millVal = document.getElementById('heroMill').value;
+  var otherRow = document.getElementById('heroOtherMillRow');
+  var otherInput = document.getElementById('heroOtherMill');
+  if (millVal.indexOf('अन्य') !== -1) {
+    otherRow.style.display = 'flex';
+    otherInput.required = true;
+  } else {
+    otherRow.style.display = 'none';
+    otherInput.required = false;
+  }
+}
+
+function handleHeroKisanSubmit(e) {
+  e.preventDefault();
+
+  var dist = document.getElementById('heroDistrict').value;
+  var mill = document.getElementById('heroMill').value;
+  if (mill.indexOf('अन्य') !== -1) {
+    mill = document.getElementById('heroOtherMill').value.trim() || 'अन्य मिल';
+  }
+  var village = document.getElementById('heroVillage').value.trim();
+  var name = document.getElementById('heroName').value.trim();
+  var phone = document.getElementById('heroPhone').value.trim();
+  var message = document.getElementById('heroMessage').value.trim();
+  var consent = document.getElementById('heroConsent').checked;
+
+  if (!consent) {
+    alert('कृपया व्हाट्सएप दैनिक अपडेट्स के लिए सहमति चेकबॉक्स पर टिक करें।');
+    return;
+  }
+
+  var waText = "🌾 *गन्ना किसान समस्या / सहायता फॉर्म - CaneUp*\n" +
+               "----------------------------------\n" +
+               "👤 *किसान का नाम:* " + name + "\n" +
+               "📱 *मोबाइल नंबर:* " + phone + "\n" +
+               "📍 *जिला:* " + dist + "\n" +
+               "🏭 *चीनी मिल:* " + mill + "\n" +
+               "🏡 *गांव का नाम:* " + village + "\n" +
+               "----------------------------------\n" +
+               "📝 *समस्या / सवाल:*\n" + message + "\n" +
+               "----------------------------------\n" +
+               "✅ *सहमति:* मैं अपनी चीनी मिल से जुड़े दैनिक अपडेट्स व्हाट्सएप पर पाने के लिए सहमत हूँ।";
+
+  var waUrl = "https://api.whatsapp.com/send?phone=917017208945&text=" + encodeURIComponent(waText);
+
+  var msg = "प्रिय <strong>" + name + "</strong> जी, आपकी समस्या (जिला: " + dist + ", मिल: " + mill + ") सफलतापूर्वक दर्ज कर ली गई है। <strong>" + phone + "</strong> पर हमारी टीम आपसे जल्द संपर्क करेगी।";
+  document.getElementById('heroSuccessMsg').innerHTML = msg;
+  document.getElementById('heroWaBtn').href = waUrl;
+  document.getElementById('heroSuccessBox').classList.add('active');
+
+  setTimeout(function() {
+    window.open(waUrl, '_blank');
+  }, 1000);
 }
 </script>
 
