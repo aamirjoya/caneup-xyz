@@ -1,45 +1,46 @@
 /**
- * CaneUp — Google Sheets Apps Script for Kisan Samasya Form
- * -----------------------------------------------------------
- * यह कोड आपके Google Sheet में सभी किसानों का डेटा (नाम, फोन, जिला, मिल, गांव, समस्या)
- * रियल-टाइम में ऑटोमैटिकली सेव करने के लिए है।
- * 
- * 📌 सेटअप कैसे करें (सिर्फ 2 मिनट):
- * 1. https://sheets.google.com पर जाएं और एक नई Google Sheet बनाएं।
- * 2. Sheet का नाम रखें: "CaneUp Kisan Samasya Leads"
- * 3. पहली Row (Header) में ये कॉलम लिखें:
- *    A1: तारीख (Timestamp)
- *    B1: किसान का नाम
- *    C1: मोबाइल नंबर
- *    D1: जिला
- *    E1: चीनी मिल
- *    F1: गांव का नाम
- *    G1: समस्या / सवाल
- *    H1: व्हाट्सएप सहमति
- * 4. ऊपर मेनू में जाएं: Extensions > Apps Script
- * 5. वहां पुराना कोड हटाकर नीचे दिया गया पूरा कोड पेस्ट करें।
- * 6. ऊपर Deploy > New deployment पर क्लिक करें।
- * 7. Select type में 'Web app' चुनें।
- *    - Description: "CaneUp Form Webhook"
- *    - Execute as: "Me"
- *    - Who has access: "Anyone" (ताकि वेबसाइट से डेटा बिना लॉगिन सेव हो सके)
- * 8. 'Deploy' दबाएं और 'Authorize access' पर क्लिक करके अपना गूगल अकाउंट सिलेक्ट करें।
- * 9. आपको एक "Web app URL" मिलेगा (जैसे: https://script.google.com/macros/s/.../exec)
- * 10. उस URL को hugo.toml में params.kisan_sheet_url में पेस्ट कर दें।
+ * CaneUp — Bulletproof Google Sheets Apps Script for Kisan Samasya Form
+ * ----------------------------------------------------------------------
+ * यह स्क्रिप्ट POST और GET दोनों तरह के अनुरोधों से डेटा को सीधे Google Sheet में जोड़ती है।
  */
 
 function doPost(e) {
+  return handleData(e);
+}
+
+function doGet(e) {
+  // अगर GET रिक्वेस्ट में डेटा आया है, तो भी Sheet में जोड़ें
+  if (e && e.parameter && (e.parameter.name || e.parameter.phone)) {
+    return handleData(e);
+  }
+  return ContentService
+    .createTextOutput("CaneUp Google Sheets Webhook is active and running!")
+    .setMimeType(ContentService.MimeType.TEXT);
+}
+
+function handleData(e) {
   var lock = LockService.getScriptLock();
   lock.tryLock(10000);
 
   try {
     var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
-    var rawData = e.postData.contents;
-    var data = JSON.parse(rawData);
+    var data = {};
 
-    // भारत का स्थानीय समय (IST)
+    // 1. JSON बॉडी से डेटा निकालें
+    if (e && e.postData && e.postData.contents) {
+      try {
+        data = JSON.parse(e.postData.contents);
+      } catch (err) {
+        data = e.parameter || {};
+      }
+    } else if (e && e.parameter) {
+      data = e.parameter;
+    }
+
+    // 2. भारत का स्थानीय समय (IST)
     var timestamp = Utilities.formatDate(new Date(), "Asia/Kolkata", "dd/MM/yyyy HH:mm:ss");
 
+    // 3. Google Sheet में नई पंक्ति (Row) जोड़ें
     sheet.appendRow([
       timestamp,
       data.name || "",
@@ -48,7 +49,7 @@ function doPost(e) {
       data.mill || "",
       data.village || "",
       data.message || "",
-      data.consent ? "हाँ (सहमति प्राप्त)" : "नहीं"
+      data.consent || "हाँ (सहमति प्राप्त)"
     ]);
 
     return ContentService
@@ -63,10 +64,4 @@ function doPost(e) {
   } finally {
     lock.releaseLock();
   }
-}
-
-function doGet(e) {
-  return ContentService
-    .createTextOutput("CaneUp Google Sheets Webhook is active and running!")
-    .setMimeType(ContentService.MimeType.TEXT);
 }

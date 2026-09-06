@@ -824,16 +824,27 @@ function handleHeroKisanSubmit(e) {
     console.error('LocalStorage error:', err);
   }
 
-  // 2. Background sync to Google Sheets Webhook (if configured)
-  var sheetWebhookUrl = '{{ .Site.Params.kisan_sheet_url }}';
+  // 2. Background sync to Google Sheets Webhook
+  var sheetWebhookUrl = '{{ .Site.Params.kisan_sheet_url }}' || 'https://script.google.com/macros/s/AKfycbw4CHEk9Mi2kPVkrIyC4i0YTpQkG5BSgsNl3mMvdtFYAeSKqKW7_Dmdc_qSZ-qfONz9sA/exec';
   if (sheetWebhookUrl) {
     try {
+      // POST attempt (JSON payload)
       fetch(sheetWebhookUrl, {
         method: 'POST',
         mode: 'no-cors',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify(leadObj)
-      }).catch(function(e){ console.log('Sheet sync error', e); });
+      }).catch(function(e){});
+
+      // Backup GET ping (Guaranteed no-preflight query params)
+      var qParams = 'name=' + encodeURIComponent(name) +
+                    '&phone=' + encodeURIComponent(phone) +
+                    '&district=' + encodeURIComponent(dist) +
+                    '&mill=' + encodeURIComponent(mill) +
+                    '&village=' + encodeURIComponent(village) +
+                    '&message=' + encodeURIComponent(message) +
+                    '&consent=हाँ';
+      new Image().src = sheetWebhookUrl + '?' + qParams;
     } catch(e) {}
   }
 
