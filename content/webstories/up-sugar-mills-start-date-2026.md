@@ -3,7 +3,7 @@ title: "15 अक्टूबर से यूपी चीनी मिले�
 date: 2026-09-04T09:30:00+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "यूपी में चीनी मिलें कब चलेंगी? 15 अक्टूबर से अर्ली क्रशिंग शुरू। बजाज, त्रिवेणी, बलरामपुर, डीसीएम श्रीराम मिलों की तारीखें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-sugar-mills-cover.webp"
 story_type: "image"
 category: "चीनी मिल"

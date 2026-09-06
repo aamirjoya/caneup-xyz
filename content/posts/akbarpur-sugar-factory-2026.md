@@ -17,11 +17,11 @@ slug: akbarpur-sugar-factory-2026
 aliases:
 - /posts/balrampur-chini-akbarpur/
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/akbarpur-sugar-factory-2026.webp"
 image: "/images/blog/akbarpur-sugar-factory-2026.webp"
 ---
@@ -29,7 +29,7 @@ image: "/images/blog/akbarpur-sugar-factory-2026.webp"
 अकबरपुर चीनी मिल 2026-27: 3606 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Akbarpur Sugar Mill Ambedkar Nagar
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **अम्बेडकर नगर / अकबरपुर / जलालपुर / टांडा / कटेहरी / भीटी :** बलरामपुर चिनी मिल्स समूह की प्रमुख इकाई **अकबरपुर चीनी मिल (Akbarpur Sugar Mill, Ambedkar Nagar)** उत्तर प्रदेश के अयोध्या मंडल के अम्बेडकर नगर जिले की सबसे बड़ी निजी चीनी मिल है। आगामी पेराई सत्र 2026-27 के लिए यह चीनी मिल अम्बेडकर नगर, अयोध्या, सुल्तानपुर और आसपास के **3606 से अधिक पंजीकृत गांवों** से गन्ने की सीधी खरीद करेगी।
 

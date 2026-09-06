@@ -16,11 +16,11 @@ keywords:
 - पर्ची कैलेंडर
 - Fortnight Calendar
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/parchi-calendar-guide-2026.webp
 image: /images/blog/parchi-calendar-guide-2026.webp
 ---

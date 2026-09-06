@@ -17,11 +17,11 @@ tags:
 - Asmauli Mill Village List
 slug: asmauli-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/asmauli-sugar-factory-2026.webp"
 image: "/images/blog/asmauli-sugar-factory-2026.webp"
 ---
@@ -29,7 +29,7 @@ image: "/images/blog/asmauli-sugar-factory-2026.webp"
 # असमौली चीनी मिल 2026-27: 521 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Asmauli Sugar Mill Amroha Sambhal
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **अमरोहा / संभल / असमौली / जोया / हसनपुर :** धामपुर शुगर मिल्स लिमिटेड (Dhampur Sugar Mills Ltd) द्वारा संचालित **असमौली चीनी मिल (Asmauli Sugar Mill - CaneUp Mill Code 183)** पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)** और संभल जिले की सीमा पर स्थित एक विशाल और अत्याधुनिक निजी चीनी मिल है। पेराई सत्र **2026-27** के लिए उत्तर प्रदेश गन्ना विकास विभाग (Cane Development Department UP) ने अमरोहा (जोया, हसनपुर, अमरोहा सदर) और संभल क्षेत्र के **521 से अधिक पंजीकृत गांवों** का गन्ना आवंटन असमौली चीनी मिल को किया है।
 

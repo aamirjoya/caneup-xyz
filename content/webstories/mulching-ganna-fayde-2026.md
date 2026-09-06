@@ -3,7 +3,7 @@ title: "गन्ने में मल्चिंग — ₹2,000 खर्�
 date: 2026-09-04T02:19:10+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की फसल में मल्चिंग कैसे करें? अगस्त 2026 में मल्चिंग से पानी, खाद और खरपतवार की बचत। CaneUp पर जानें पूरा तरीका।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/mulching-sugarcane.webp"
 story_type: "image"
 category: "गन्ना खेती"

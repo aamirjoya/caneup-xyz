@@ -3,7 +3,7 @@ title: "गन्ने से गुड़ का बिज़नेस 2026 �
 date: 2026-09-04T07:32:30+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने से गुड़ बनाने का बिज़नेस 2026 — ₹2 लाख निवेश, ₹8 लाख सालाना कमाई। मशीनरी, प्रोसेस और मार्केटिंग की पूरी जानकारी।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/jaggery-making.webp"
 story_type: "image"
 category: "बिज़नेस"

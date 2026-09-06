@@ -19,11 +19,11 @@ keywords:
 - how to check parchi calendar eganna app up
 - eganna app download latest version upcane
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/eganna-app-v6-2-live-parchi-satta-tracking-guide-2026.webp
 image: /images/news/eganna-app-v6-2-live-parchi-satta-tracking-guide-2026.webp
 ---

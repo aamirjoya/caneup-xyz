@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: amroha-moradabad-meerut-muzaffarnagar-perai-15-october-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/amroha-moradabad-meerut-muzaffarnagar-perai-15-october-2026.webp"
 image: "/images/news/amroha-moradabad-meerut-muzaffarnagar-perai-15-october-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/amroha-moradabad-meerut-muzaffarnagar-perai-15-october-2026
 # अमरोहा, मुरादाबाद, मेरठ व मुजफ्फरनगर चीनी मिलें 15 अक्टूबर से शुरू! गन्ना आयुक्त का नया आदेश जारी
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **मेरठ / मुजफ्फरनगर / अमरोहा / मुरादाबाद (विशेष ब्यूरो):** उत्तर प्रदेश के चीनी उद्योग एवं गन्ना विकास विभाग (Cane Development Department UP) ने आगामी पेराई सत्र **2026-27** के लिए पश्चिमी उत्तर प्रदेश की चीनी मिलों का आधिकारिक पेराई कैलेंडर और शुरुआत की समयसीमा घोषित कर दी है। उत्तर प्रदेश गन्ना आयुक्त (Cane Commissioner Lucknow) द्वारा जारी नए दिशा-निर्देशों के अनुसार अमरोहा, मुरादाबाद, मेरठ, मुजफ्फरनगर, शामली और बिजनौर जिलों की अगेती चीनी मिलों में **15 अक्टूबर से 25 अक्टूबर 2026** के मध्य बॉयलर पूजन और गन्ने की पेराई विधिवत प्रारंभ कर दी जाएगी।
 

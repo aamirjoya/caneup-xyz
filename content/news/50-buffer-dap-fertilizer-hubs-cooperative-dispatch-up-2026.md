@@ -19,11 +19,11 @@ keywords:
 - iffco kribhco dap truck dispatch western up
 - ganna samiti dap distribution pos machine biometric
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/50-buffer-dap-fertilizer-hubs-cooperative-dispatch-up-2026.webp
 image: /images/news/50-buffer-dap-fertilizer-hubs-cooperative-dispatch-up-2026.webp
 ---

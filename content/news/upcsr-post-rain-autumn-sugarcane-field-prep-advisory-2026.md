@@ -19,11 +19,11 @@ keywords:
 - trichoderma gobar khad application sugarcane
 - september ganna buwai khet jutai
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/upcsr-post-rain-autumn-sugarcane-field-prep-advisory-2026.webp
 image: /images/news/upcsr-post-rain-autumn-sugarcane-field-prep-advisory-2026.webp
 ---

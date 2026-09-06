@@ -3,7 +3,7 @@ title: "बरेली में महिला व दिव्यांग �
 date: 2026-09-03T10:19:35+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "बरेली DCO का ऐतिहासिक आदेश। सत्र 2026-27 के लिए महिला, बुजुर्ग और दिव्यांग गन्ना किसानों को सप्लाय पर्ची और तौल में पहली प्राथमिकता।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-bareilly-priority-cover.webp"
 story_type: "image"
 category: "CaneUp Guide"

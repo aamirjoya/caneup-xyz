@@ -19,11 +19,11 @@ keywords:
 - pressmud green manure recommendation up
 - free soil health card sugar mill up
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/soil-health-card-camps-cover-45000-farmers-sugar-belt-up-2026.webp
 image: /images/news/soil-health-card-camps-cover-45000-farmers-sugar-belt-up-2026.webp
 ---

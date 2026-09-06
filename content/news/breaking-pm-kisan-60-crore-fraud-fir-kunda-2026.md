@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-pm-kisan-60-crore-fraud-fir-kunda-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pm-kisan-24-oct-2026.webp"
 image: "/images/news/pm-kisan-24-oct-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/pm-kisan-24-oct-2026.webp"
 PM Kisan घोटाला: कुंडा तहसील लॉगिन से ₹60 करोड़ का फर्जीवाड़ा, FIR दर्ज होते ही अधिकारियों में हड़कंप
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **प्रयागराज/कुंडा :** प्रधानमंत्री किसान सम्मान निधि योजना (PM-KISAN) में उत्तर प्रदेश के प्रतापगढ़ जिले की ऐतिहासिक कुंडा तहसील से एक चौंकाने वाला वित्तीय घोटाला सामने आया है। 28 अगस्त 2026 को कृषि विभाग और प्रशासनिक अधिकारियों की संयुक्त जांच के बाद अज्ञात जालसाजों और तत्कालीन विभागीय कर्मचारियों के खिलाफ ₹60 करोड़ से अधिक के गबन की प्राथमिकी (FIR) दर्ज कराई गई है। जांच एजेंसियों के अनुसार, तहसील स्तर के आधिकारिक यूजर आईडी और पासवर्ड का गलत इस्तेमाल करके हज़ारों ऐसे अपात्र व्यक्तियों के खातों में सरकारी धनराशि ट्रांसफर कर दी गई, जिनके पास एक बित्ता भी कृषि भूमि नहीं है।
 

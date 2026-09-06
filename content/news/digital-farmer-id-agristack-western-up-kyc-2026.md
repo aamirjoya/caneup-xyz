@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: digital-farmer-id-agristack-western-up-kyc-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/digital-farmer-id-agristack-western-up-kyc-2026.webp"
 image: "/images/news/digital-farmer-id-agristack-western-up-kyc-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/digital-farmer-id-agristack-western-up-kyc-2026.webp"
 # डिजिटल किसान आईडी अनिवार्य! मेरठ, मुजफ्फरनगर, अमरोहा किसानों को मुफ्त खाद व सब्सिडी के लिए तुरंत कराएं KYC
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / मेरठ / मुरादाबाद / मुजफ्फरनगर (विशेष संवाददाता):** भारत सरकार के कृषि एवं किसान कल्याण मंत्रालय और उत्तर प्रदेश सरकार के डिजिटल एग्रीकल्चर मिशन (Digital Agriculture Mission) के तहत राज्य के सभी भू-स्वामियों और गन्ना किसानों के लिए 12 अंकों की **डिजिटल किसान आईडी (AgriStack Farmer ID)** बनाना अनिवार्य कर दिया गया है। पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)**, मेरठ, मुरादाबाद और मुजफ्फरनगर के जिलाधिकारियों ने सभी गन्ना किसानों से तुरंत eKYC कराने का आह्वान किया है।
 

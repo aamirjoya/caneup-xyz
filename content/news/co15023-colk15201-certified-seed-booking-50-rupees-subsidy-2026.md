@@ -19,11 +19,11 @@ keywords:
 - co 15023 karan 15 seed rate subsidy up
 - red rot resistant sugarcane varieties autumn 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/co15023-colk15201-certified-seed-booking-50-rupees-subsidy-2026.webp
 image: /images/news/co15023-colk15201-certified-seed-booking-50-rupees-subsidy-2026.webp
 ---

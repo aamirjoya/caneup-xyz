@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-bareilly-dco-order-mahila-divyang-parchi-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/bareilly-parchi-priority-2026.webp"
 image: "/images/news/bareilly-parchi-priority-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/bareilly-parchi-priority-2026.webp"
 बरेली DCO का ऐतिहासिक आदेश: महिला व दिव्यांग गन्ना किसानों को सप्लाय पर्ची और तौल में मिलेगी पहली वरीयता
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **बरेली :** जिला गन्ना अधिकारी (DCO) बरेली ने आगामी पेराई सत्र 2026-27 के सुचारू संचालन और किसानों की सुविधा के लिए एक अनूठी और संवेदनशील प्रशासनिक व्यवस्था लागू की है। 28 अगस्त 2026 को जारी आधिकारिक आदेश के अनुसार, बरेली जिले की सभी 5 चीनी मिलों (फरीदपुर, बहेड़ी, नवाबगंज, सेमीखेड़ा व मीरगंज) तथा 150 से अधिक गन्ना क्रय केंद्रों पर महिला, वरिष्ठ नागरिक और दिव्यांग (Differently Abled) गन्ना किसानों को सप्लाय पर्ची (Supply Ticket) निर्गमन और गन्ना तौल में पहली प्राथमिकता (Priority) दी जाएगी।
 

@@ -3,7 +3,7 @@ title: "गन्ना पराली जलाने के नुकसा�
 date: 2026-09-03T21:05:50+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना पराली जलाने के नुकसान और बेहतर विकल्प 2026 — मल्चिंग, कंपोस्ट, बायोएनर्जी और स्ट्रॉ मैनेजर मशीन। पराली प्रबंधन से मिट्टी की उपज 15-20% बढ़ती है। CaneUp पर सरकारी सब्सिडी जानें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/stubble-burning.webp"
 story_type: "image"
 category: "गन्ना खेती"

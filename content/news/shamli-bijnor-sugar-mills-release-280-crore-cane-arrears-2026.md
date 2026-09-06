@@ -19,11 +19,11 @@ keywords:
 - bijnor mill payment clear dm order
 - ganna bakaya 2026 up
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/shamli-bijnor-sugar-mills-release-280-crore-cane-arrears-2026.webp
 image: /images/news/shamli-bijnor-sugar-mills-release-280-crore-cane-arrears-2026.webp
 ---

@@ -3,7 +3,7 @@ title: "गन्ना भुगतान 2026 — 14 दिन नियम �
 date: 2026-09-03T17:30:25+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना आपूर्ति के 14 दिन में भुगतान न मिलने पर 15% वार्षिक साधारण ब्याज क्लेम करने का कानूनी प्रावधान।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_bhugtan_cover.webp"
 story_type: "image"
 category: "गन्ना भुगतान"

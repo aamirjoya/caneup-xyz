@@ -23,11 +23,11 @@ keywords:
   - caneup गन्ना पर्ची
   - उत्तर प्रदेश चीनी मिल 2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/bajaj-hindusthan-thanabhawan.webp
 image: /images/blog/bajaj-hindusthan-thanabhawan.webp
 ---

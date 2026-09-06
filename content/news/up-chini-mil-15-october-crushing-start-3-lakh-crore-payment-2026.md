@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: up-chini-mil-15-october-crushing-start-3-lakh-crore-payment-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-chini-mil-15-october-crushing-start-3-lakh-crore-payment-2026.webp"
 image: "/images/news/up-chini-mil-15-october-crushing-start-3-lakh-crore-payment-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/up-chini-mil-15-october-crushing-start-3-lakh-crore-payment
 # 15 अक्टूबर से शुरू होंगी यूपी की चीनी मिलें, 99 मिलों ने किया शत-प्रतिशत भुगतान
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश में पेराई सत्र 2026-27 का बिगुल बज चुका है। शासन ने पश्चिमी उत्तर प्रदेश समेत राज्य की सभी अगेती चीनी मिलों को 15 से 25 अक्टूबर के मध्य पेराई शुरू करने का निर्देश जारी किया है। इसके साथ ही, चालू सत्र में राज्य की 120 चीनी मिलों में से 99 मिलों ने किसानों का शत-प्रतिशत गन्ना मूल्य भुगतान पूरा कर लिया है।
 

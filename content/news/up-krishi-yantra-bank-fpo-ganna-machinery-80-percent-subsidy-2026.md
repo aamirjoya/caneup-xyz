@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: up-krishi-yantra-bank-fpo-ganna-machinery-80-percent-subsidy-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-krishi-yantra-bank-fpo-ganna-machinery-80-percent-subsidy-2026.webp"
 image: "/images/news/up-krishi-yantra-bank-fpo-ganna-machinery-80-percent-subsidy-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/up-krishi-yantra-bank-fpo-ganna-machinery-80-percent-subsid
 # गन्ना कृषि यंत्र बैंक पर FPO और समितियों को 80 प्रतिशत अनुदान, 15 लाख तक के आधुनिक उपकरण मिलेंगे
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/सहारनपुर (विशेष संवाददाता)।** उत्तर प्रदेश के गन्ना किसानों को महंगे कृषि उपकरणों की खरीद के आर्थिक बोझ से बचाने और ग्रामीण युवाओं को रोजगार उपलब्ध कराने के लिए राज्य सरकार के कृषि विभाग ने 'फार्म मशीनरी बैंक' (Custom Hiring Center - CHC) योजना के तहत 80 प्रतिशत तक का भारी अनुदान जारी किया है।
 

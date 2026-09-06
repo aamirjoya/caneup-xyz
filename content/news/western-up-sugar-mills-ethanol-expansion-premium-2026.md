@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: western-up-sugar-mills-ethanol-expansion-premium-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/western-up-sugar-mills-ethanol-expansion-premium-2026.webp"
 image: "/images/news/western-up-sugar-mills-ethanol-expansion-premium-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/western-up-sugar-mills-ethanol-expansion-premium-2026.webp"
 # वेस्टर्न यूपी की 4 बड़ी चीनी मिलों (धामपुर, वेव, सिंभावली, टिकौला) का बिज़नेस विस्तार: किसानों को मिलेगा एथेनॉल प्रीमियम!
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / बिजनौर / हापुड़ / मुजफ्फरनगर (विशेष आर्थिक संवाददाता):** भारत सरकार के राष्ट्रीय एथेनॉल ब्लेंडिंग कार्यक्रम (E20 Ethanol Blending Target) के तहत पश्चिमी उत्तर प्रदेश की चार दिग्गज चीनी मिल समूहों— **धामपुर शुगर मिल्स (Dhampur Sugar)**, **वेव इंडस्ट्रीज (Wave Industries)**, **सिंभावली शुगर (Simbhaoli Sugar)** और **टिकौला शुगर मिल्स (Tikaula Sugar)** ने पेराई सत्र 2026-27 के लिए ₹1,200 करोड़ से अधिक के नए बायो-एथेनॉल डिस्टिलरी (Bio-Ethanol Distillery Plant) और ग्रीन एनर्जी प्लांट स्थापित कर लिए हैं।
 

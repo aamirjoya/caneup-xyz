@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: lakhimpur-kheri-ganna-bhugtan-byaj-andolan-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/lakhimpur-kheri-ganna-bhugtan-byaj-andolan-2026.webp"
 image: "/images/news/lakhimpur-kheri-ganna-bhugtan-byaj-andolan-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/lakhimpur-kheri-ganna-bhugtan-byaj-andolan-2026.webp"
 # लखीमपुर खीरी में 30 साल के बकाया गन्ना भुगतान ब्याज पर बड़ा आंदोलन, हाईकोर्ट के आदेश के बाद RKMS का अनिश्चितकालीन धरना
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखीमपुर खीरी/लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश के तराई क्षेत्र के प्रमुख गन्ना उत्पादक जिले लखीमपुर खीरी में गन्ना किसानों का आंदोलन तेज हो गया है। राष्ट्रीय किसान मजदूर संगठन (आरकेएमएस) के नेतृत्व में सैकड़ों किसानों ने जिला गन्ना अधिकारी कार्यालय के सामने अनिश्चितकालीन धरना शुरू कर दिया है। किसानों का कहना है कि चीनी मिलों ने बीते तीन दशकों में गन्ने का भुगतान महीनों की देरी से किया, लेकिन कानून सम्मत 15 प्रतिशत वार्षिक ब्याज दबाकर बैठ गईं।
 

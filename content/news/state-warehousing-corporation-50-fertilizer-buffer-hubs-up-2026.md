@@ -19,11 +19,11 @@ keywords:
 - upswc 24 hour fertilizer supply pacs
 - sharadkalin ganna khad buffer stock
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/state-warehousing-corporation-50-fertilizer-buffer-hubs-up-2026.webp
 image: /images/news/state-warehousing-corporation-50-fertilizer-buffer-hubs-up-2026.webp
 ---

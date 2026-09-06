@@ -3,7 +3,7 @@ title: "गन्ना सट्टा संशोधन 2026-27 — 15 सि
 date: 2026-09-04T10:00:00+05:30
 lastmod: 2026-09-04T10:00:00+05:30
 description: "गन्ना सर्वे रकबा, अगेती प्रजाति, बैंक खाता और बेसिक कोटा सुधारने के लिए 15 सितंबर की अंतिम तिथि से पहले आपत्ति दर्ज कराने की पूरी गाइड।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_satta_cover.webp"
 story_type: "image"
 category: "सट्टा संशोधन"

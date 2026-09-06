@@ -2,7 +2,7 @@
 title: "PM किसान 24वीं किस्त का इंतजार! अक्टूबर 2026 में आ सकते हैं ₹2000 - फेक न्यूज से रहें सावधान"
 date: 2026-08-26T09:45:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["PM Kisan", "24th installment", "किसान योजना", "2026"]
 categories: ["Government Scheme", "Farmer Welfare", "Breaking News"]
 description: "PM किसान योजना की 24वीं किस्त कब आएगी? अक्टूबर 2026 में ₹2000 मिलने की संभावना। रक्षाबंधन पर ₹4000 की खबर फेक है।"

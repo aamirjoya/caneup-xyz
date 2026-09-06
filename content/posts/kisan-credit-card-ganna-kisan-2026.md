@@ -20,11 +20,11 @@ keywords:
 - KCC online apply 2026
 - गन्ना किसान लोन 4%
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/kisan-credit-card-ganna-kisan-2026.webp
 image: "/images/blog/kisan-credit-card-ganna-kisan-2026.webp"
 ---

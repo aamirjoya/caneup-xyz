@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: agristack-digital-farmer-id-ganna-satta-pm-kisan-mandatory-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/agristack-digital-farmer-id-ganna-satta-pm-kisan-mandatory-2026.webp"
 image: "/images/news/agristack-digital-farmer-id-ganna-satta-pm-kisan-mandatory-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/agristack-digital-farmer-id-ganna-satta-pm-kisan-mandatory-
 # गन्ना सट्टा और पर्ची के लिए AgriStack डिजिटल किसान आईडी अनिवार्य, ई-केवाईसी न होने पर रुकेंगी सुविधाएं
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/अमरोहा (विशेष संवाददाता)।** ### हेल्पलाइन और समाधान व्यवस्था
 

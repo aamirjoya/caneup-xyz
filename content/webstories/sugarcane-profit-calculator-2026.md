@@ -3,7 +3,7 @@ title: "गन्ना खेती में कितना मुनाफ�
 date: 2026-09-04T08:11:40+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना खेती का मुनाफा 2026 — खेती की लागत, अपेक्षित उपज, MSP रेट, और प्रति हेक्टेयर नेट प्रॉफिट। UP, महाराष्ट्र और कर्नाटक के किसानों से असली आंकड़े।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/farmer-happy.webp"
 story_type: "image"
 category: "मुनाफा विश्लेषण"

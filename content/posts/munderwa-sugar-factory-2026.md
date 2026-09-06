@@ -16,11 +16,11 @@ tags:
 - Munderwa Mill Village List
 slug: munderwa-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/munderwa-sugar-factory-2026.webp"
 image: "/images/blog/munderwa-sugar-factory-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/blog/munderwa-sugar-factory-2026.webp"
 मुंडेरवा चीनी मिल 2026-27: 3312 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Munderwa Sugar Mill Basti Ambedkar Nagar
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **बस्ती / अम्बेडकर नगर / आलापुर / राजेसुल्तानपुर / जलालपुर :** किसान सहकारी चीनी मिल लिमिटेड, मुंडेरवा (**Munderwa Cooperative Sugar Mill, Basti / Ambedkar Nagar**) उत्तर प्रदेश के बस्ती और अम्बेडकर नगर जिले की सीमा पर स्थित एक प्रमुख अत्याधुनिक सहकारी चीनी मिल है। आगामी पेराई सत्र 2026-27 के लिए यह चीनी मिल अम्बेडकर नगर (आलापुर, राजेसुल्तानपुर, जलालपुर) और बस्ती जिले के **3312 से अधिक पंजीकृत गांवों** से गन्ने की सीधी खरीद करेगी।
 

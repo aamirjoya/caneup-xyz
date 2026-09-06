@@ -35,11 +35,11 @@ keywords:
 - एफआरपी एसपी की पूरी जानकारी
 featured_image: /images/blog/frap-sap-rate-2026-farmer-benefit.webp
 image: /images/blog/frap-sap-rate-2026-farmer-benefit.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **गन्ना किसान के रूप में, आपको यह जानना जरूरी है कि सरकार आपके गन्ने के लिए कितना भाव तय करती है।** केंद्र और राज्य सरकारें हर सीज़न में FRP (Fair & Remunerative Price) और SAP (State Advised Price) अधिसूचित करती हैं, और ये भाव आपकी कमाई तय करते हैं। 2026 में क्या बदलाव हुए हैं, और आपको वास्तव में कितना मिलेगा - यहाँ पूरी सरल भाषा में जानकारी दी गई है।

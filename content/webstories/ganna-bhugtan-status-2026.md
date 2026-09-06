@@ -3,7 +3,7 @@ title: "गन्ना भुगतान 2026 — कब मिलेगा �
 date: 2026-09-03T17:50:00+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना भुगतान 2026 — शुगर मिल से पैसा कब मिलेगा? CaneUp पोर्टल और eGanna App से भुगतान स्थिति, बकाया राशि और मिल-वाइज भुगतान रिकॉर्ड ऑनलाइन चेक करें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ganna-bhugtan.webp"
 story_type: "image"
 category: "भुगतान"

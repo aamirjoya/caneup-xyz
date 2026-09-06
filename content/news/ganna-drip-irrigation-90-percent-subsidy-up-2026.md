@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: ganna-drip-irrigation-90-percent-subsidy-up-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-drip-irrigation-90-percent-subsidy-up-2026.webp"
 image: "/images/news/ganna-drip-irrigation-90-percent-subsidy-up-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/ganna-drip-irrigation-90-percent-subsidy-up-2026.webp"
 # गन्ने की ड्रिप सिंचाई पर 90% सब्सिडी: अमरोहा, मुरादाबाद व मेरठ के किसान ऐसे करें ऑनलाइन आवेदन
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / मुरादाबाद / मेरठ / बिजनौर (विशेष संवाददाता):** उत्तर प्रदेश कृषि विभाग और उद्यान एवं खाद्य प्रसंस्करण विभाग द्वारा राज्य में गिरते भूजल स्तर को बचाने और गन्ने की पैदावार में वृद्धि के लिए **परम्परागत कृषि विकास योजना व ड्रिप इरिगेशन प्रोत्साहन योजना 2026** के तहत गन्ने की ड्रिप सिंचाई (Micro Drip Irrigation System) पर 90% तक भारी सब्सिडी दी जा रही है। 
 

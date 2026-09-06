@@ -3,7 +3,7 @@ title: "चीनी के दामों में 36% का उछाल: �
 date: 2026-09-03T12:36:40+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "थोक बाजार में चीनी के दाम ₹65/kg तक पहुंचे। केंद्र सरकार का 10 लाख मीट्रिक टन ड्यूटी-फ्री आयात व 400 टन स्टॉक लिमिट का फैसला।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-chini-bhav-cover.webp"
 story_type: "image"
 category: "CaneUp Guide"

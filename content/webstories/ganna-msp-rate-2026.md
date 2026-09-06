@@ -3,7 +3,7 @@ title: "गन्ना MSP रेट 2026-27 — सभी राज्यो�
 date: 2026-09-03T20:26:40+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना MSP रेट 2026-27 — FRP ₹365/क्विंटल, UP में SAP ₹400/क्विंटल। सभी राज्यों का ताज़ा भाव, FRP vs SAP फर्क, और किसानों को कितना भुगतान मिलेगा — पूरी लिस्ट CaneUp पर।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/msp-rate.webp"
 story_type: "image"
 category: "MSP रेट"

@@ -30,9 +30,9 @@ keywords:
 - "sugarcane payment status online"
 - "online payment check kare"
 - "ganna payment dekhna"
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
+- "Aamir Raza"
 ShowToc: true
 ---
 

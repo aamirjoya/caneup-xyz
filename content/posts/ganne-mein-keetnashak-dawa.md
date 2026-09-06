@@ -8,11 +8,11 @@ tags: [गन्ने में कीटनाशक, तना छेदक, 
 slug: ganne-mein-keetnashak-dawa
 keywords: [गन्ने में कीटनाशक दवा, गन्ने में तना छेदक, गन्ने में एफिड्स, गन्ने में ऊनी माहू, गन्ने में सफेद मक्खी, गन्ने की कीटनाशक दवा 2026]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-mein-keetnashak-dawa.webp
 image: /images/blog/ganne-mein-keetnashak-dawa.webp
 ---

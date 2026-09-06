@@ -19,11 +19,11 @@ keywords:
 - 1500 mw biomass green power crushing season
 - sugar mill power purchase agreement uperc
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/uperc-reviews-sugar-mill-green-cogeneration-tariff-2026.webp
 image: /images/news/uperc-reviews-sugar-mill-green-cogeneration-tariff-2026.webp
 ---

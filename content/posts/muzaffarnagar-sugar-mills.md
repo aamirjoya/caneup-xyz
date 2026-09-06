@@ -8,11 +8,11 @@ tags: [मुजफ्फरनगर चीनी मिल, मुजफ्फ
 slug: muzaffarnagar-sugar-mills
 keywords: [मुजफ्फरनगर चीनी मिल, मुजफ्फरनगर शुगर मिल्स 2026, Muzaffarnagar sugar mills list, खतौली चीनी मिल, बुढ़ाना चीनी मिल, तितावी चीनी मिल, मुजफ्फरनगर गन्ना मिल]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/muzaffarnagar-sugar-mills.webp
 image: /images/blog/muzaffarnagar-sugar-mills.webp
 ---

@@ -19,11 +19,11 @@ keywords:
 - haryana ganna supply bond 405 quintal
 - sugarfed haryana crushing preparation
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/haryana-sugarfed-14-mills-ready-25-october-crushing-start-2026.webp
 image: /images/news/haryana-sugarfed-14-mills-ready-25-october-crushing-start-2026.webp
 ---

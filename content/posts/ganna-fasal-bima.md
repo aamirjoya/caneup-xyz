@@ -8,11 +8,11 @@ tags: [गन्ना फसल बीमा, PMFBY, फसल बीमा 202
 slug: ganna-fasal-bima
 keywords: [गन्ना फसल बीमा, गन्ना बीमा 2026, PMFBY गन्ना, "फसल बीमा कैसे कराएं", "गन्ना बीमा प्रीमियम", "गन्ना बीमा क्लेम", "गन्ना बीमा लिस्ट", "PMFBY ऑनलाइन आवेदन", "फसल बीमा योजना 2026", "किसान फसल बीमा", "गन्ना बीमा ऑनलाइन", "बीमा क्लेम प्रक्रिया", "PMFBY पंजीकरण", "गन्ना बीमा दावा", "फसल बीमा के लिए आवेदन", "PM Kisan Bima Yojana"]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-fasal-bima.webp
 image: /images/blog/ganna-fasal-bima.webp
 ---

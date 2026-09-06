@@ -3,7 +3,7 @@ title: "हाईकोर्ट का सख्त आदेश — ₹1,936 �
 date: 2026-09-04T10:15:00+05:30
 lastmod: 2026-09-04T10:15:00+05:30
 description: "इलाहाबाद उच्च न्यायालय द्वारा सभी जिलाधिकारियों को चीनी मिलों के गोदाम सील कर किसानों का ₹1,936 करोड़ बकाया 15 अक्टूबर तक चुकाने का कड़ा निर्देश।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_court_cover.webp"
 story_type: "image"
 category: "गन्ना भुगतान"

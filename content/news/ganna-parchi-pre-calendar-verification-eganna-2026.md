@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: ganna-parchi-pre-calendar-verification-eganna-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-parchi-pre-calendar-verification-eganna-2026.webp"
 image: "/images/news/ganna-parchi-pre-calendar-verification-eganna-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/ganna-parchi-pre-calendar-verification-eganna-2026.webp"
 # गन्ना पर्ची प्री-कैलेंडर जारी! अमरोहा, मेरठ, मुजफ्फरनगर के किसान eGanna App पर 12 पखवाड़ों का ब्योरा तुरंत देखें
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / मुरादाबाद / मेरठ / मुजफ्फरनगर (विशेष संवाददाता):** उत्तर प्रदेश के लगभग 50 लाख पंजीकृत गन्ना किसानों के लिए पेराई सत्र **2026-27** की सबसे महत्वपूर्ण खबर है। उत्तर प्रदेश गन्ना विकास एवं चीनी उद्योग विभाग (Cane Development UP) ने आधिकारिक वेब पोर्टल **[enquiry.caneup.in](https://enquiry.caneup.in/)** और मोबाइल एप्लीकेशन **eGanna App** पर गन्ना पर्ची प्री-कैलेंडर (Sugarcane Pre-Calendar 2026-27) लाइव कर दिया है।
 

@@ -19,11 +19,11 @@ keywords:
 - dco dm review sugarcane payment up
 - sugar mill 100 percent clearance order 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/cm-yogi-cane-review-zero-arrears-order-september-20-2026.webp
 image: /images/news/cm-yogi-cane-review-zero-arrears-order-september-20-2026.webp
 ---

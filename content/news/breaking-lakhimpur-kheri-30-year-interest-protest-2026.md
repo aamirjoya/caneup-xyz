@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-lakhimpur-kheri-30-year-interest-protest-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/lakhimpur-protest-28aug-2026.webp"
 image: "/images/news/lakhimpur-protest-28aug-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/lakhimpur-protest-28aug-2026.webp"
 29 अगस्त से लखीमपुर खीरी में किसानों का अनिश्चितकालीन महाआंदोलन — 30 साल के बकाया ब्याज की मांग!
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **लखीमपुर खीरी :** उत्तर प्रदेश के सबसे बड़े गन्ना उत्पादक जिले लखीमपुर खीरी में किसान आंदोलनों का नया इतिहास रचने जा रहा है। संयुक्त किसान मोर्चा (SKM), भारतीय किसान यूनियन (टिकैत) और राष्ट्रीय किसान मजदूर संगठन के बैनर तले हजारों गन्ना किसानों ने 29 अगस्त 2026 से कलेक्ट्रेट परिसर और बजाज चीनी मिलों के सामने अनिश्चितकालीन महाधरना शुरू करने का शंखनाद किया है। किसानों की मुख्य मांग पिछले 30 वर्षों के दौरान बजाज ग्रुप की चीनी मिलों (गोला गोकर्णनाथ, पलिया कलां व खंभारखेड़ा) द्वारा किए गए विलंबित गन्ना मूल्य भुगतान पर 15% प्रतिवर्ष की दर से बकाया ब्याज (Interest Amount) का तत्काल भुगतान करना है।
 

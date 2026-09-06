@@ -20,11 +20,11 @@ keywords:
 - गन्ना अपडेट WhatsApp group
 - caneup telegram group
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-kisan-whatsapp-group-caneup.webp
 image: "/images/blog/ganna-kisan-whatsapp-group-caneup.webp"
 ---
@@ -93,7 +93,7 @@ image: "/images/blog/ganna-kisan-whatsapp-group-caneup.webp"
 | **WhatsApp** | ग्रुप लिंक |
 | **Telegram** | @caneup |
 | **YouTube** | @caneup |
-| **Twitter** | @caneupxyz |
+| **Twitter** | @caneupupdates |
 | **Facebook** | CaneUp |
 
 ## निष्कर्ष

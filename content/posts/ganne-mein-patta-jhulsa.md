@@ -8,11 +8,11 @@ tags: [गन्ने में पत्ता झुलसा, स्मट �
 slug: ganne-mein-patta-jhulsa
 keywords: [गन्ने में पत्ता झुलसा, गन्ने में स्मट, गन्ने में काला झंझर, पत्ता झुलसा रोग, गन्ने की बीमारी, sugarcane smut in hindi, ganne mein patta jhulsa]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-mein-patta-jhulsa.webp
 image: /images/blog/ganne-mein-patta-jhulsa.webp
 ---

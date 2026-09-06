@@ -19,11 +19,11 @@ keywords:
 - food ministry sugar dispatch strict order
 - ex mill sugar prices fall 20 percent
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/dfpd-sugar-mills-7-day-quota-liquidation-mandate-2026.webp
 image: /images/news/dfpd-sugar-mills-7-day-quota-liquidation-mandate-2026.webp
 ---

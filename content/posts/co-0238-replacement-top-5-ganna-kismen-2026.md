@@ -19,11 +19,11 @@ keywords:
 - cos 17231 beej nursery booking
 - colk 14201 vs co 0118
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/co-0238-replacement-top-5-varieties-2026.webp
 image: /images/blog/co-0238-replacement-top-5-varieties-2026.webp
 ---

@@ -18,11 +18,11 @@ keywords:
 - चीनी क्यों महंगी हुई
 - मक्का एथेनॉल
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/ethanol-vs-chini-2026.webp
 image: /images/news/ethanol-vs-chini-2026.webp
 ---

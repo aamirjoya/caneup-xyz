@@ -25,9 +25,9 @@ keywords:
 - "cane up app"
 - "ganna app"
 - "eganna app install"
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
+- "Aamir Raza"
 ShowToc: true
 ---
 

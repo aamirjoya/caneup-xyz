@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-agristack-farmer-id-31-august-deadline-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/agristack-farmer-id-2026.webp"
 image: "/images/news/agristack-farmer-id-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/agristack-farmer-id-2026.webp"
 31 अगस्त अंतिम तिथि! AgriStack Digital Farmer ID तुरंत बनवाएं वरना रुकेंगे PM Kisan व बीमा लाभ
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **लखनऊ/चंडीगढ़ :** डिजिटल एग्रीकल्चर मिशन (Digital Agriculture Mission) को देश भर में 100% लागू करने के लिए केंद्र और राज्य सरकारों ने सख्त रुख अपना लिया है। उत्तर प्रदेश, हरियाणा, मध्य प्रदेश और बिहार सरकार ने सभी कृषि भूमि धारक किसानों के लिए डिजिटल फार्मर आईडी (AgriStack Farmer ID) पंजीकृत कराने की अंतिम तिथि 31 अगस्त 2026 निर्धारित की है। 28 अगस्त 2026 को जारी उच्च स्तरीय समीक्षा बैठक के बाद कृषि सचिव ने स्पष्ट चेतावनी दी है कि 1 सितंबर से बिना फार्मर आईडी वाले किसानों का डेटा फ्रीज कर दिया जाएगा, जिससे उन्हें PM Kisan सम्मान निधि, पीएम फसल बीमा योजना (PMFBY) और न्यूनतम समर्थन मूल्य (MSP) पर सरकारी खरीद का लाभ नहीं मिल पाएगा।
 

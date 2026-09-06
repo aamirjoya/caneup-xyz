@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: haryana-up-ganna-sap-405-demand-comparison-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/haryana-up-ganna-sap-405-demand-comparison-2026.webp"
 image: "/images/news/haryana-up-ganna-sap-405-demand-comparison-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/haryana-up-ganna-sap-405-demand-comparison-2026.webp"
 # हरियाणा में गन्ने का भाव 405 रुपये करने की तैयारी, यूपी के किसान संगठनों ने एसएपी 400 से 600 रुपये करने की मांग तेज की
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **चंडीगढ़/लखनऊ (विशेष संवाददाता)।** पेराई सत्र 2026-27 की शुरुआत से ठीक पहले उत्तर भारत के प्रमुख गन्ना उत्पादक राज्यों हरियाणा और उत्तर प्रदेश में गन्ने के राज्य परामर्शित मूल्य (एसएपी) को लेकर सरगर्मियां तेज हो गई हैं। हरियाणा कृषि विभाग और गन्ना नियंत्रण बोर्ड की आंतरिक बैठकों में आगामी सत्र के लिए अगेती प्रजाति के गन्ने का भाव वर्तमान 386 रुपये से 19 रुपये बढ़ाकर **₹405 प्रति क्विंटल** करने का प्रस्ताव तैयार किया गया है।
 

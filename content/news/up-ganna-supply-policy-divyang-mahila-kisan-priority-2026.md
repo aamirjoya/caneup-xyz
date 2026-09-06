@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: up-ganna-supply-policy-divyang-mahila-kisan-priority-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-ganna-supply-policy-divyang-mahila-kisan-priority-2026.webp"
 image: "/images/news/up-ganna-supply-policy-divyang-mahila-kisan-priority-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/up-ganna-supply-policy-divyang-mahila-kisan-priority-2026.w
 # उत्तर प्रदेश नई गन्ना आपूर्ति नीति 2026-27 जारी, दिव्यांग और महिला किसानों को पर्चियों में मिलेगी विशेष प्राथमिकता
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश शासन ने आगामी पेराई सत्र 2026-27 के लिए नई गन्ना आपूर्ति एवं कैलेण्डरिंग नीति (Sugarcane Supply Policy 2026-27) को औपचारिक मंजूरी दे दी है। इस बार की नीति में पहली बार दिव्यांग लघु किसानों और महिला काश्तकारों को लाइन में लगने की झंझट से मुक्ति दिलाने के लिए विशेष प्राथमिकता वाले प्रावधान किए गए हैं।
 

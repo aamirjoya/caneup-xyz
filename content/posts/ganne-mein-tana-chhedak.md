@@ -8,11 +8,11 @@ tags: [गन्ने में तना छेदक, तना छेदक,
 slug: ganne-mein-tana-chhedak
 keywords: [गन्ने में तना छेदक, तना छेदक का इलाज, तना छेदक कीटनाशक, गन्ने में स्टेम बोरर, तना छेदक नियंत्रण]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-mein-tana-chhedak.webp
 image: /images/blog/ganne-mein-tana-chhedak.webp
 ---

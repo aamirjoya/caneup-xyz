@@ -3,7 +3,7 @@ title: "गन्ने की खेती में मिट्टी जा�
 date: 2026-09-04T05:54:35+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की खेती में मिट्टी जांच 2026 — क्यों जरूरी है, कैसे कराएं, कौन से पोषक तत्व देखें, और रिपोर्ट से खाद कैसे तय करें। मुफ्त मिट्टी जांच उपलब्ध।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/soil-testing.webp"
 story_type: "image"
 category: "मिट्टी स्वास्थ्य"

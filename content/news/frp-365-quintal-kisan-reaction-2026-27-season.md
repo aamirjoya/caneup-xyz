@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: frp-365-quintal-kisan-reaction-2026-27-season
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/chini-import-10-lmt-2026.webp
 image: /images/news/chini-import-10-lmt-2026.webp
 ---
@@ -25,7 +25,7 @@ image: /images/news/chini-import-10-lmt-2026.webp
 CCEA ने गन्ने का FRP ₹365 किया स्वीकृत, उत्तर भारत के किसान संगठनों ने SAP में भारी वृद्धि की उठाई मांग
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **नई दिल्ली :** आर्थिक मामलों की मंत्रिमंडलीय समिति (CCEA) ने पेराई सत्र 2026-27 के लिए गन्ने का न्यूनतम लाभकारी मूल्य (FRP - Fair and Remunerative Price) ₹365 प्रति क्विंटल स्वीकृत कर दिया है। यह मूल्य 10.25 प्रतिशत की आधारभूत चीनी रिकवरी (Basic Recovery Rate) पर आधारित है। हालांकि, उत्तर प्रदेश, पंजाब और हरियाणा के किसान संगठनों ने FRP को नाकाफी बताते हुए राज्य सरकारों से SAP (State Advised Price) में भारी बढ़ोतरी की मांग की है।
 

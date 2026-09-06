@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: saharanpur-mandal-36-drones-ganna-spraying-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/saharanpur-mandal-36-drones-ganna-spraying-2026.webp"
 image: "/images/news/saharanpur-mandal-36-drones-ganna-spraying-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/saharanpur-mandal-36-drones-ganna-spraying-2026.webp"
 # सहारनपुर मंडल में गन्ने की फसल पर 36 ड्रोन से छिड़काव शुरू, जलभराव के बीच 5 मिनट में 1 एकड़ में दवा का छिड़काव
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **सहारनपुर/मुजफ्फरनगर (विशेष संवाददाता)।** मानसून की भारी बारिश और खेतों में जलभराव के बीच गन्ने की फसल को फफूंद जनित रोगों और कीटों से बचाने के लिए उत्तर प्रदेश गन्ना विकास विभाग ने सहारनपुर मंडल में बड़ा तकनीकी अभियान शुरू किया है। मंडल के तीन प्रमुख गन्ना उत्पादक जिलों सहारनपुर, मुजफ्फरनगर और शामली की सहकारी गन्ना विकास समितियों के माध्यम से 36 आधुनिक किसान ड्रोन तैनात किए गए हैं।
 

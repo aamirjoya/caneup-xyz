@@ -19,11 +19,11 @@ keywords:
 - kcc online apply sbi pnb cooperative bank
 - scale of finance sugarcane
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/kcc-loan-ganna-kisan-4-percent-2026.webp
 image: /images/blog/kcc-loan-ganna-kisan-4-percent-2026.webp
 ---

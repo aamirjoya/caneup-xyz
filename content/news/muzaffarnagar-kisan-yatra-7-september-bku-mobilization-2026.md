@@ -19,11 +19,11 @@ keywords:
 - kisan sandesh yatra tractor march western up
 - bku rakesh tikait ganna bhav 450
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/muzaffarnagar-kisan-yatra-7-september-bku-mobilization-2026.webp
 image: /images/news/muzaffarnagar-kisan-yatra-7-september-bku-mobilization-2026.webp
 ---

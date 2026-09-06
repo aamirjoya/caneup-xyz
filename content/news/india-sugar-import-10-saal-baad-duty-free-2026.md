@@ -2,7 +2,7 @@
 title: "बड़ा झटका! भारत 10 साल बाद फिर से चीनी इंपोर्ट करेगा - 10 लाख टन बिना ड्यूटी"
 date: 2026-08-26T13:30:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["sugar import", "चीनी आयात", "India", "2026"]
 categories: ["Market News", "Breaking News", "Policy"]
 description: "भारत को लगभग 10 साल बाद चीनी आयात करनी पड़ेगी। सरकार 10 लाख टन चीनी बिना ड्यूटी के मंगाने की तैयारी में। क्या है वजह और किसान पर क्या असर होगा?"

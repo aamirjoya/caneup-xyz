@@ -8,11 +8,11 @@ tags: [गन्ना FRP, FRP रेट 2026, गन्ना MSP, SAP रे�
 slug: ganna-frp-rate-2026
 keywords: [गन्ना FRP रेट 2026, FRP गन्ना 2026, गन्ना MSP 2026, SAP रेट गन्ना, गन्ना मूल्य 2026, गन्ना FRP बढ़ा]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-frp-rate-2026.webp
 image: /images/blog/ganna-frp-rate-2026.webp
 ---

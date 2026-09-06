@@ -3,7 +3,7 @@ title: "लखीमपुर खीरी: 30 साल के गन्ना 
 date: 2026-09-03T20:07:05+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "लखीमपुर खीरी में 29 अगस्त से अनिश्चितकालीन किसान धरना। जानिए 30 वर्षों के विलंबित गन्ना भुगतान पर 15% ब्याज की पूरी मांग।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-lakhimpur-protest-cover.webp"
 story_type: "image"
 category: "CaneUp Guide"

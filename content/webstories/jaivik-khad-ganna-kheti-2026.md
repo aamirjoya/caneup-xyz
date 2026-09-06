@@ -3,7 +3,7 @@ title: "गन्ने की खेती में जैविक खाद 
 date: 2026-09-04T00:02:05+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की खेती में जैविक खाद का उपयोग — वर्मी कम्पोस्ट, गोबर खाद, नीम खाद। अगस्त 2026 में जैविक खेती के फायदे।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/fertilizer.webp"
 story_type: "image"
 category: "गन्ना खेती"

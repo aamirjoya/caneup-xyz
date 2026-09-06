@@ -3,7 +3,7 @@ title: "चीनी का भाव ₹4,000/क्विंटल पार �
 date: 2026-09-03T12:17:05+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "अगस्त 2026 में चीनी का भाव ₹4,000/क्विंटल पार। गन्ना किसानों को क्या फायदा होगा? CaneUp पर जानें पूरा विश्लेषण।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/sugarcane-harvest.webp"
 story_type: "image"
 category: "गन्ना न्यूज़"

@@ -19,11 +19,11 @@ keywords:
 - dco shamli escrow account release
 - shamli ganna kisan payment news 3 september
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/shamli-upper-doab-deposits-45-crore-escrow-account-2026.webp
 image: /images/news/shamli-upper-doab-deposits-45-crore-escrow-account-2026.webp
 ---

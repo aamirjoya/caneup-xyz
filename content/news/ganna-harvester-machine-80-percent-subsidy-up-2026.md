@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: ganna-harvester-machine-80-percent-subsidy-up-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-harvester-machine-80-percent-subsidy-up-2026.webp"
 image: "/images/news/ganna-harvester-machine-80-percent-subsidy-up-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/ganna-harvester-machine-80-percent-subsidy-up-2026.webp"
 # गन्ना कटाई मशीन पर 80% छूट! पश्चिमी यूपी के किसानों के लिए Krishi Yantra Token टोकन प्रक्रिया शुरू
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **मेरठ / मुजफ्फरनगर / अमरोहा / मुरादाबाद (विशेष प्रतिनिधि):** पेराई सत्र 2026-27 के दौरान कृषि मजदूरों की कमी और कटाई लागत को कम करने के उद्देश्य से उत्तर प्रदेश कृषि विभाग ने **कृषि यंत्रीकरण प्रोत्साहन योजना 2026** के तहत गन्ना कटाई मशीन (Sugarcane Combined Harvester), मिनी हार्वेस्टर, पावर वीडर, रैटून मनेजर (RMP) और ट्रेंच प्लांटर पर **80% तक भारी सब्सिडी** देने की घोषणा की है।
 

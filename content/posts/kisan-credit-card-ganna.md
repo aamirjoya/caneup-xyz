@@ -8,11 +8,11 @@ tags: ["किसान क्रेडिट कार्ड", "KCC", "गन�
 slug: kisan-credit-card-ganna
 keywords: ["किसान क्रेडिट कार्ड गन्ना किसान", "KCC 2026", "KCC कैसे बनवाएं", "गन्ना किसान लोन", "kisan credit card ganna kisan"]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/kisan-credit-card-ganna.webp
 image: /images/blog/kisan-credit-card-ganna.webp
 ---

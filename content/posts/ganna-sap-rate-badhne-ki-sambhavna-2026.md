@@ -21,11 +21,11 @@ keywords:
 - sugarcane SAP rate increase August 2026
 - गन्ना MSP रेट अगस्त 2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp
 image: "/images/blog/ganna-sap-rate-badhne-ki-sambhavna-2026.webp"
 ---

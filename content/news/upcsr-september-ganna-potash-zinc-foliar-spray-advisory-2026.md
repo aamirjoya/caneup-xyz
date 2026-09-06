@@ -19,11 +19,11 @@ keywords:
 - zinc spray sugarcane sugar recovery boost
 - september ganne ki dekhbhal
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/upcsr-september-ganna-potash-zinc-foliar-spray-advisory-2026.webp
 image: /images/news/upcsr-september-ganna-potash-zinc-foliar-spray-advisory-2026.webp
 ---

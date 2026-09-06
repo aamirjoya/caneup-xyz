@@ -3,7 +3,7 @@ title: "PM सुरक्षा बीमा योजना — ₹2 लाख
 date: 2026-09-04T04:16:40+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "PM सुरक्षा बीमा योजना 2026 — गन्ना किसानों के लिए ₹2 लाख का मुफ्त दुर्घटना बीमा। ₹12/साल में। CaneUp पर जानें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/farmer-happy.webp"
 story_type: "image"
 category: "सरकारी योजनाएं"

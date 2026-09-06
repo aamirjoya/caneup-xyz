@@ -3,7 +3,7 @@ title: "गन्ना किसानों को KCC लोन मात्�
 date: 2026-09-04T01:20:25+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना किसानों को ₹3 लाख तक किसान क्रेडिट कार्ड लोन मात्र 4% प्रभावी ब्याज दर पर, स्केल ऑफ फाइनेंस फॉर्मूला।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_kcc_cover.webp"
 story_type: "image"
 category: "किसान ऋण"

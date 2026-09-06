@@ -20,11 +20,11 @@ keywords:
 - ganna calendar 12 pakhwada
 - ganna pre calendar 2026-27
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-parchi-calendar-2026-27-guide.webp
 image: /images/blog/ganna-parchi-calendar-2026-27-guide.webp
 ---

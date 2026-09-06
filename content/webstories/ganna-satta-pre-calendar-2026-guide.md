@@ -3,7 +3,7 @@ title: "गन्ना सट्टा प्री-कैलेंडर 2026-
 date: 2026-09-03T22:24:10+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "UP Ganna Satta Pre-Calendar 2026-27 की पूरी जानकारी। caneup.in पर अपना रकबा, बेसिक कोटा और पर्ची सट्टा ऑनलाइन चेक करने के 5 आसान स्टेप्स।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-satta-precal-cover.webp"
 story_type: "image"
 category: "CaneUp Guide"

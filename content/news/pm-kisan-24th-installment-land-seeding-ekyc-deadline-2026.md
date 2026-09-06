@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: pm-kisan-24th-installment-land-seeding-ekyc-deadline-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pm-kisan-24th-installment-land-seeding-ekyc-deadline-2026.webp"
 image: "/images/news/pm-kisan-24th-installment-land-seeding-ekyc-deadline-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/pm-kisan-24th-installment-land-seeding-ekyc-deadline-2026.w
 # PM किसान की 24वीं किश्त के लिए 10 सितंबर तक ई-केवाईसी अनिवार्य, यूपी के 40 लाख किसानों की लैंड सीडिंग प्रक्रिया तेज
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **लखनऊ (विशेष संवाददाता)।** प्रधानमंत्री किसान सम्मान निधि योजना (PM-KISAN) के अंतर्गत पंजीकृत देश के करोड़ों किसानों और उत्तर प्रदेश के 2.5 करोड़ से अधिक लाभार्थी कृषकों के लिए 24वीं किश्त जारी होने की उल्टी गिनती शुरू हो गई है। केंद्रीय कृषि मंत्रालय और उत्तर प्रदेश कृषि निदेशालय ने स्पष्ट निर्देश जारी किया है कि जिन किसानों की **आधार ई-केवाईसी (e-KYC), भूलेख अंकन (Land Seeding) और बैंक खाता डीबीटी सत्यापन (Aadhaar Seeding)** 10 सितंबर 2026 तक पूरा नहीं होगा, उनकी आगामी 24वीं किश्त रोक दी जाएगी।
 

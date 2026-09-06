@@ -8,11 +8,11 @@ tags: [गन्ने में सफेद मक्खी, सफेद म�
 slug: ganne-mein-safed-makkhi
 keywords: [गन्ने में सफेद मक्खी, सफेद मक्खी का इलाज, गन्ने में पीला मोज़ेक रोग, सफेद मक्खी कीटनाशक, गन्ने में सफेद मक्खी नियंत्रण]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-mein-safed-makkhi.webp
 image: /images/blog/ganne-mein-safed-makkhi.webp
 ---

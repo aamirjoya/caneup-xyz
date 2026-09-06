@@ -19,11 +19,11 @@ keywords:
 - high court dm 15 october sugarcane payment order
 - sugar warehouse auction district magistrate up
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/shamli-hapur-bijnor-sugar-mills-1936-crore-high-court-recovery-2026.webp
 image: /images/news/shamli-hapur-bijnor-sugar-mills-1936-crore-high-court-recovery-2026.webp
 ---

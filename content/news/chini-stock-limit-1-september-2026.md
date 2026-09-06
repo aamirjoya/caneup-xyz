@@ -20,11 +20,11 @@ keywords:
   - sugar price control UP 2026
   - CM Yogi on sugar hoarding
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/chini-stock-limit-sept-2026.webp
 image: /images/news/chini-stock-limit-sept-2026.webp
 ---

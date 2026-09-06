@@ -19,11 +19,11 @@ keywords:
 - haryana ganna bhav cabinet approval september 2026
 - yamunanagar sugar mill crushing price
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/haryana-ministerial-panel-clears-405-ganna-sap-2026.webp
 image: /images/news/haryana-ministerial-panel-clears-405-ganna-sap-2026.webp
 ---

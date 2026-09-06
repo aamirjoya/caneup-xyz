@@ -27,9 +27,9 @@ keywords:
 - "ganna kisan portal"
 - "cane up portal"
 - "caneup 2026"
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
+- "Aamir Raza"
 ShowToc: true
 ---
 

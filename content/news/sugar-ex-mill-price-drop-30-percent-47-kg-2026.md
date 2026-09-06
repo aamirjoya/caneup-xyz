@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: sugar-ex-mill-price-drop-30-percent-47-kg-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/sugar-ex-mill-price-drop-30-percent-47-kg-2026.webp"
 image: "/images/news/sugar-ex-mill-price-drop-30-percent-47-kg-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/sugar-ex-mill-price-drop-30-percent-47-kg-2026.webp"
 # चीनी के एक्स-मिल भाव में 30 प्रतिशत की भारी गिरावट, 47 रुपये किलो पहुंचे दाम, खुदरा बाजार में जल्द दिखेगा असर
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **नई दिल्ली/लखनऊ (विशेष संवाददाता)।** घरेलू बाजार में चीनी की आसमान छूती कीमतों पर लगाम कसने के लिए केंद्र सरकार और राज्य प्रशासनों द्वारा उठाए गए सख्त कदमों का बड़ा असर दिखने लगा है। देश के प्रमुख चीनी उत्पादक राज्यों उत्तर प्रदेश और महाराष्ट्र की चीनी मिलों में चीनी के एक्स-मिल (थोक कारखाना दर) मूल्यों में लगभग 30 प्रतिशत की भारी गिरावट दर्ज की गई है। 
 

@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: pilibhit-ganna-bhawan-protest-14-days-payment-rule-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pilibhit-ganna-bhawan-protest-14-days-payment-rule-2026.webp"
 image: "/images/news/pilibhit-ganna-bhawan-protest-14-days-payment-rule-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/pilibhit-ganna-bhawan-protest-14-days-payment-rule-2026.web
 # पीलीभीत में 14 दिन में भुगतान न होने पर गन्ना भवन पर धरना, 31 अगस्त तक समाधान न होने पर अनिश्चितकालीन आंदोलन
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **पीलीभीत/बरेली (विशेष संवाददाता)।** उत्तर प्रदेश के रुहेलखंड और तराई बेल्ट में गन्ना मूल्य भुगतान को लेकर किसानों का गुस्सा बढ़ता जा रहा है। लखीमपुर खीरी के बाद अब पीलीभीत जिले में भी किसानों ने जिला गन्ना अधिकारी कार्यालय (गन्ना भवन) के समक्ष जोरदार धरना-प्रदर्शन किया। भारतीय किसान यूनियन (टिकैत) और स्थानीय किसान संघर्ष समिति के नेतृत्व में आयोजित इस धरने में चीनी मिलों द्वारा 14 दिनों की वैधानिक समयसीमा में भुगतान न करने पर कड़ा रोष जताया गया।
 

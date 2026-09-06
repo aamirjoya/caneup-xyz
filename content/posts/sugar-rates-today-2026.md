@@ -29,11 +29,11 @@ keywords:
 - sweetener price hike
 featured_image: /images/blog/sugar-rates-today-2026.webp
 image: /images/blog/sugar-rates-today-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **त्योहारी सीजन और गन्ना crushिंग के बढ़ते मौसम के साथ, चीनी के दाम रोजाना बदल रहे हैं।** अगर आप यह जानना चाहते हैं कि आज चीनी का रेट क्या है, और आने वाले दिनों में भाव कितना रह सकता है, तो यह लेख आपके लिए है। यहां हम 2026 की अपडेटेड चीनी दरें, त्योहारी मांग और सप्लाई स्थिति की पूरी जानकारी देंगे।

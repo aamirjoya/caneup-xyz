@@ -21,11 +21,11 @@ tags:
 - eGanna App 2026
 slug: ganna-jaivik-keet-niyantran-trichoderma-distribution-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-jaivik-keet-niyantran-trichoderma-distribution-2026.webp"
 image: "/images/news/ganna-jaivik-keet-niyantran-trichoderma-distribution-2026.webp"
 ---
@@ -33,7 +33,7 @@ image: "/images/news/ganna-jaivik-keet-niyantran-trichoderma-distribution-2026.w
 # गन्ने में जैविक कीट नियंत्रण अभियान शुरू, 1.5 लाख किसानों को फ्री बांटे जा रहे ट्राइकोग्रामा कार्ड और ट्राइकोडर्मा
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **शाहजहांपुर/मेरठ (विशेष संवाददाता)।** उत्तर प्रदेश के गन्ना किसानों को महंगे और जहरीले रासायनिक कीटनाशकों के भारी खर्च से बचाने और गन्ने की फसल को लाल सड़न (रेड रॉट) तथा चोटी बेधक (टॉप बोरर) कीट से सुरक्षित रखने के लिए गन्ना विकास विभाग और यूपी गन्ना शोध परिषद ने राज्यव्यापी 'जैविक कीट नियंत्रण अभियान' (Biological Pest Control Campaign 2026) शुरू किया है।
 

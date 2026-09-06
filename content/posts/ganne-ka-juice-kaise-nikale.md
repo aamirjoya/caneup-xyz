@@ -8,11 +8,11 @@ tags: [गन्ने का जूस कैसे निकालें, ग�
 slug: ganne-ka-juice-kaise-nikale
 keywords: [गन्ने का जूस कैसे निकालें, घर पर गन्ने का रस कैसे निकालें, गन्ने का रस निकालने की मशीन, बिना मशीन गन्ने का जूस, sugarcane juice extraction methods]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-ka-juice-kaise-nikale.webp
 image: /images/blog/ganne-ka-juice-kaise-nikale.webp
 ---

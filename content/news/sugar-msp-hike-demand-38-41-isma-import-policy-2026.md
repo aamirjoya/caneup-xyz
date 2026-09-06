@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: sugar-msp-hike-demand-38-41-isma-import-policy-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/sugar-msp-hike-demand-38-41-isma-import-policy-2026.webp"
 image: "/images/news/sugar-msp-hike-demand-38-41-isma-import-policy-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/sugar-msp-hike-demand-38-41-isma-import-policy-2026.webp"
 # चीनी MSP 31 से बढ़ाकर 41 रुपये करने की मांग पर तकरार, मिलों की दलील बनाम सरकार का 10 लाख टन आयात फॉर्मूला
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **नई दिल्ली/लखनऊ (विशेष संवाददाता)।** देश के चीनी उद्योग और केंद्र सरकार के बीच चीनी के न्यूनतम बिक्री मूल्य (एमएसपी) को लेकर रस्साकशी जारी है। इंडियन शुगर एंड बायो-एनर्जी मैन्युफैक्चरर्स एसोसिएशन (इस्मा) और राष्ट्रीय सहकारी चीनी कारखाना महासंघ ने सरकार से चीनी का न्यूनतम एक्स-मिल भाव 31 रुपये से बढ़ाकर 38 से 41 रुपये प्रति किलो तय करने की मांग की है। 
 

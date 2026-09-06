@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: ganna-patti-prabandhan-1000-rupaye-anudan-up-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-patti-prabandhan-1000-rupaye-anudan-up-2026.webp"
 image: "/images/news/ganna-patti-prabandhan-1000-rupaye-anudan-up-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/ganna-patti-prabandhan-1000-rupaye-anudan-up-2026.webp"
 # गन्ने की पत्ती न जलाने वाले किसानों को 1000 रुपये प्रति एकड़ अनुदान, मल्चिंग से जैविक खाद बनाने का अभियान
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **मेरठ/बुलंदशहर/अमरोहा (विशेष संवाददाता)।** पश्चिमी उत्तर प्रदेश में सर्दी के मौसम में वायु प्रदूषण (स्मॉग) पर नियंत्रण पाने और मिट्टी की उर्वरा शक्ति को नष्ट होने से बचाने के लिए उत्तर प्रदेश सरकार के पर्यावरण एवं कृषि विभाग ने 'गन्ना पत्ती अवशेष प्रबंधन प्रोत्साहन योजना' (Sugarcane Trash In-situ Management Scheme 2026) लागू की है।
 

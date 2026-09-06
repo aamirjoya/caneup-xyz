@@ -17,11 +17,11 @@ tags:
 - CaneUp Amroha 2026
 slug: amroha-district-sugar-mills-farmers-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/amroha-district-sugar-mills-2026.webp"
 image: "/images/blog/amroha-district-sugar-mills-2026.webp"
 ---
@@ -29,7 +29,7 @@ image: "/images/blog/amroha-district-sugar-mills-2026.webp"
 # अमरोहा जिला चीनी मिल 2026-27: 16 चीनी मिलों की लिस्ट, CaneUp पर्ची कैलेंडर व भुगतान स्टेटस
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **अमरोहा / गजरौला / धनौरा / हसनपुर / जोया :** पश्चिमी उत्तर प्रदेश का **अमरोहा जिला (Amroha District / ज्योतिबा फुले नगर)** राज्य के सबसे बड़े और समृद्ध गन्ना उत्पादक बेल्ट में से एक है। अमरोहा जिले की उपजाऊ भूमि में हर साल लाखों मीट्रिक टन उच्च गुणवत्ता वाले गन्ने (जैसे CO-0238, CO-15023, CO-0118) की पैदावार होती है। पेराई सत्र **2026-27** के लिए उत्तर प्रदेश सरकार के गन्ना विकास एवं चीनी उद्योग विभाग (Cane Development Department UP) ने अमरोहा जिले के किसानों के लिए कुल **16 प्रमुख चीनी मिलों (Sugar Mills / Sugar Factories)** का आधिकारिक क्रशिंग कोटा और मिल मैपिंग जारी कर दिया है।
 

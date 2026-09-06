@@ -20,11 +20,11 @@ keywords:
 - गन्ना भाव कितना है
 - sugarcane price 2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-msp-rate-2026-27.webp
 image: /images/blog/ganna-msp-rate-2026-27.webp
 ---

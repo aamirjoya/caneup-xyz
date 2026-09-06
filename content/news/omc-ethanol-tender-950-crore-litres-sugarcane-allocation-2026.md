@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: omc-ethanol-tender-950-crore-litres-sugarcane-allocation-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/omc-ethanol-tender-950-crore-litres-sugarcane-allocation-2026.webp"
 image: "/images/news/omc-ethanol-tender-950-crore-litres-sugarcane-allocation-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/omc-ethanol-tender-950-crore-litres-sugarcane-allocation-20
 # तेल कंपनियों ने जारी किया 950 करोड़ लीटर एथेनॉल का महा-टेंडर, गन्ने के रस से बने एथेनॉल को मिला सर्वोच्च आवंटन
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **नई दिल्ली/मुंबई (विशेष संवाददाता)।** भारत सरकार के 20 प्रतिशत एथेनॉल ब्लेंडिंग लक्ष्य (E20 Program) को देश के सभी पेट्रोल पंपों पर 100 प्रतिशत प्रभावी बनाए रखने के लिए सार्वजनिक क्षेत्र की प्रमुख तेल विपणन कंपनियों (OMCs - इंडियन ऑयल, भारत पेट्रोलियम, हिंदुस्तान पेट्रोलियम) ने आगामी एथेनॉल आपूर्ति वर्ष (ESY 2026-27) के लिए **950 करोड़ लीटर एथेनॉल खरीद का ऐतिहासिक महा-टेंडर** जारी कर दिया है।
 

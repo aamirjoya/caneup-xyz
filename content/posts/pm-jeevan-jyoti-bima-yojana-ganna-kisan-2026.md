@@ -20,11 +20,11 @@ keywords:
 - PM jeevan jyoti bima apply online
 - गन्ना किसान लाइफ इंश्योरेंस
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/pm-jeevan-jyoti-bima-yojana-ganna-kisan-2026.webp
 image: "/images/blog/pm-jeevan-jyoti-bima-yojana-ganna-kisan-2026.webp"
 ---

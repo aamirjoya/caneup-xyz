@@ -20,11 +20,11 @@ keywords:
 - गन्ने में तना छेदक
 - गन्ने की बीमारियां
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 image: /images/blog/ganne-mein-keet-aur-rog-prabandhan.webp
 ---

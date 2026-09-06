@@ -8,11 +8,11 @@ tags: [गन्ने की कटाई मशीन, गन्ना हा�
 slug: ganne-ki-katai-machine
 keywords: [गन्ने की कटाई मशीन, गन्ना हार्वेस्टर मशीन, गन्ना कटाई मशीन कीमत, गन्ना कटाई मशीन सब्सिडी, sugarcane harvester machine price India 2026]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-ki-katai-machine.webp
 image: /images/blog/ganne-ki-katai-machine.webp
 ---

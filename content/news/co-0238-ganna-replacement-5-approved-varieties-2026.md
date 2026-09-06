@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: co-0238-ganna-replacement-5-approved-varieties-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/co-0238-ganna-replacement-5-approved-varieties-2026.webp"
 image: "/images/news/co-0238-ganna-replacement-5-approved-varieties-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/co-0238-ganna-replacement-5-approved-varieties-2026.webp"
 # गन्ना किस्म Co-0238 की विदाई: 86 से 29 प्रतिशत पर सिमटा रकबा, 2026-27 में ये 5 किस्में होंगी अनिवार्य
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **शाहजहांपुर/लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश के गन्ना उत्पादन में क्रांति लाने वाली प्रजाति 'सीओ-0238' का दौर अब समाप्त हो रहा है। यूपी गन्ना शोध परिषद और भारतीय गन्ना अनुसंधान संस्थान (आईआईएसआर) की ताजा रिपोर्ट के मुताबिक, लाल सड़न (रेड रॉट) रोग की चपेट में आने के कारण इस किस्म का क्षेत्रफल वर्ष 2020-21 के 86 प्रतिशत से घटकर 2026 में मात्र 29 प्रतिशत रह गया है। 
 

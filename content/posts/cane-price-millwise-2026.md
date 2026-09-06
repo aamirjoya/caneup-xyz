@@ -29,11 +29,11 @@ keywords:
 - best sugar mill for cane price
 featured_image: /images/blog/cane-price-millwise-2026.webp
 image: /images/blog/cane-price-millwise-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **गन्ना किसान के रूप में, सबसे पहली और महत्वपूर्ण निर्णय है** कि आप अपनी फसल कहाँ बेचें। सही शुगर मिल का चयन न केवल आपके गन्ने का बेहतर भाव दिलाता है, बल्कि समय पर भुगतान भी सुनिश्चित करता है। 2026 में उत्तर प्रदेश और अन्य राज्यों में 100+ शुगर mill operative हैं, लेकिन सभी किसानों के लिए उपयुक्त नहीं होतीं।

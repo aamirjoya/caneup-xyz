@@ -19,11 +19,11 @@ keywords:
 - western up sugar mills early crushing schedule
 - perai satra 15 october 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/bijnor-saharanpur-sugar-mills-boiler-puja-dates-september-2026.webp
 image: /images/news/bijnor-saharanpur-sugar-mills-boiler-puja-dates-september-2026.webp
 ---

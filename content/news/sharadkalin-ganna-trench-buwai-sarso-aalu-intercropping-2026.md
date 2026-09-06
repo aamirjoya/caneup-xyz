@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: sharadkalin-ganna-trench-buwai-sarso-aalu-intercropping-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/sharadkalin-ganna-trench-buwai-sarso-aalu-intercropping-2026.webp"
 image: "/images/news/sharadkalin-ganna-trench-buwai-sarso-aalu-intercropping-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/sharadkalin-ganna-trench-buwai-sarso-aalu-intercropping-202
 # शरदकालीन गन्ने की ट्रेंच बुवाई के साथ सरसों-आलू की सह-फसली खेती, प्रति एकड़ 25 हजार अतिरिक्त आय का फॉर्मूला
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/मुजफ्फरनगर (विशेष संवाददाता)।** उत्तर प्रदेश में 15 सितंबर से शुरू होने वाली शरदकालीन गन्ना बुवाई (Autumn Cane Planting 2026) के लिए भारतीय गन्ना अनुसंधान संस्थान (आईआईएसआर लखनऊ) और यूपी गन्ना शोध परिषद ने संयुक्त वैज्ञानिक एडवाइजरी जारी की है। कृषि वैज्ञानिकों ने किसानों को पारंपरिक संकरी कतारों की जगह 'ट्रेंच विधि' (गहरी नाली विधि) अपनाकर 4 से 5 फीट की दूरी पर गन्ना बोने और बीच की खाली जगह में सरसों, आलू या मटर की सह-फसली खेती करने का सुझाव दिया है।
 

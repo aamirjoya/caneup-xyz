@@ -17,11 +17,11 @@ keywords:
 - PM Kisan Extension 2030
 - ₹3.15 लाख करोड़ बजट
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/pm-kisan-2030-extension-2026.webp
 image: /images/news/pm-kisan-2030-extension-2026.webp
 ---

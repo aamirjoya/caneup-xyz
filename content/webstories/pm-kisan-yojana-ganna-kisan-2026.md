@@ -3,7 +3,7 @@ title: "PM किसान योजना 2026 — गन्ना किसा
 date: 2026-09-04T03:37:30+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "PM किसान सम्मान निधि 2026 — गन्ना किसानों को ₹6000 सालाना (3 किस्तों में)। रजिस्ट्रेशन, 20वीं किस्त डेट, स्टेटस चेक और बेनिफिशियरी लिस्ट — सब कुछ CaneUp पर।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/pm-kisan.webp"
 story_type: "image"
 category: "सरकारी योजना"

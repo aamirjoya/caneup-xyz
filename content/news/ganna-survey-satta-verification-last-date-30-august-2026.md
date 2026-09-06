@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: ganna-survey-satta-verification-last-date-30-august-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-survey-satta-verification-last-date-30-august-2026.webp"
 image: "/images/news/ganna-survey-satta-verification-last-date-30-august-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/ganna-survey-satta-verification-last-date-30-august-2026.we
 # गन्ना सर्वे और सट्टा सत्यापन की आज 30 अगस्त अंतिम तिथि, 63 प्रकार के अभिलेखों की जांच तुरंत करें
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/मेरठ (विशेष संवाददाता)।** उत्तर प्रदेश गन्ना विकास विभाग द्वारा प्रदेश के 45 गन्ना उत्पादक जिलों में चलाए जा रहे ग्रामवार गन्ना सर्वेक्षण, सट्टा प्रदर्शन और खतौनी रिकॉर्ड सत्यापन की आज 30 अगस्त 2026 अंतिम तिथि है। विभाग ने सभी पंजीकृत गन्ना किसानों को सख्त चेतावनी दी है कि वे आज ही अपने सट्टे, क्षेत्रफल और राजस्व अभिलेखों का ऑनलाइन मिलान कर लें, क्योंकि आज मध्यरात्रि के बाद पोर्टल पर संशोधन का विकल्प लॉक कर दिया जाएगा।
 

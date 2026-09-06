@@ -8,11 +8,11 @@ tags: [मेरठ चीनी मिल, मेरठ शुगर मिल 
 slug: meerut-sugar-mills
 keywords: [मेरठ चीनी मिल, मेरठ शुगर मिल्स 2026, Meerut sugar mills list, किनौनी चीनी मिल, मवाना चीनी मिल, दौराला शुगर मिल, मेरठ गन्ना मिल]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/meerut-sugar-mills.webp
 image: /images/blog/meerut-sugar-mills.webp
 ---

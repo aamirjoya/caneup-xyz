@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: escrow-account-85-percent-auto-debit-dm-strict-monitoring-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/escrow-account-85-percent-auto-debit-dm-strict-monitoring-2026.webp"
 image: "/images/news/escrow-account-85-percent-auto-debit-dm-strict-monitoring-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/escrow-account-85-percent-auto-debit-dm-strict-monitoring-2
 # चीनी मिलों के एस्क्रो खाते पर जिलाधिकारियों की पैनी नजर, बिक्री का 85 प्रतिशत सीधे किसानों के भुगतान खाते में जाएगा
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/मेरठ (विशेष संवाददाता)।** उत्तर प्रदेश में पेराई सत्र 2026-27 की शुरुआत से पहले गन्ना किसानों के भुगतान की सुरक्षा के लिए शासन ने अभूतपूर्व वित्तीय सुरक्षा घेरा तैयार किया है। मुख्यमंत्री के निर्देश पर गन्ना विकास विभाग ने सभी जिलाधिकारियों को आदेश दिया है कि वे अपने जिले की प्रत्येक चीनी मिल के 'एस्क्रो खाता' (Escrow Account) का दैनिक ऑनलाइन ऑडिट करें।
 

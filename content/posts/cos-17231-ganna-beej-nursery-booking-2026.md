@@ -16,11 +16,11 @@ keywords:
 - CoS 17231 Seed
 - गन्ना बीज बुकिंग
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/co-0238-replacement-cos-17231-2026.webp
 image: /images/blog/co-0238-replacement-cos-17231-2026.webp
 ---

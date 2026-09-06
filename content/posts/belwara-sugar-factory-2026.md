@@ -17,11 +17,11 @@ tags:
 - Belwara Mill Village List
 slug: belwara-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/belwara-sugar-factory-2026.webp"
 image: "/images/blog/belwara-sugar-factory-2026.webp"
 ---
@@ -29,7 +29,7 @@ image: "/images/blog/belwara-sugar-factory-2026.webp"
 # बेलवाड़ा चीनी मिल 2026-27: 618 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Belwara Sugar Mill Amroha Bijnor
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / धनौरा / बिजनौर / चांदपुर / गजरौला :** वेव ग्रुप द्वारा संचालित **बेलवाड़ा चीनी मिल (Belwara Sugar Mill - CaneUp Mill Code 321)** पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)** और बिजनौर जिले की सीमा पर स्थित एक प्रमुख और आधुनिक निजी चीनी मिल है। पेराई सत्र **2026-27** के लिए उत्तर प्रदेश सरकार के गन्ना विकास एवं चीनी उद्योग विभाग (Cane Development Department UP) ने अमरोहा (मंडी धनौरा, गजरौला, अमरोहा सदर) तथा बिजनौर (चांदपुर, नूरपुर) क्षेत्र के **618 से अधिक पंजीकृत गांवों** का गन्ना आवंटन बेलवाड़ा चीनी मिल को किया है।
 

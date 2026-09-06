@@ -25,11 +25,11 @@ keywords:
 - पेराई सीजन शुरू 2026
 featured_image: /images/blog/sugar-mills-trending-2026.webp
 image: /images/blog/sugar-mills-trending-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **नए गन्ना पेराई सत्र की तैयारी चल रही है और सभी शुगर मिल्स अपने दरवाजे खोलने की तैयारी कर रही हैं।** इस ट्रेंडिंग अपडेट में हम आपको बताएंगे कि आपके क्षेत्र की शुगर मिलें कब शुरू करेंगी, नए सीजन की क्या तैयारियाँ हैं, और कैसे अपने गन्ने की आपूर्ति की योजना बनाएं।

@@ -19,11 +19,11 @@ keywords:
 - ganna ka rate kya hai 2026
 - sap vs frp rate 2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/up-ganna-sap-rate-2026-27-guide.webp
 image: /images/blog/up-ganna-sap-rate-2026-27-guide.webp
 ---

@@ -8,11 +8,11 @@ tags: ["सिम्भावली शुगर मिल", "बिजनौर
 slug: simbhaoli-sugar-mills
 keywords: ["सिम्भावली शुगर मिल्स बिजनौर", "Simbhaoli sugar mills 2026", "बिजनौर चीनी मिल", "सिम्भावली शुगर मिल क्रशिंग कैपेसिटी", "UP sugar mill Bijnor"]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/simbhaoli-sugar-mills.webp
 image: /images/blog/simbhaoli-sugar-mills.webp
 ---

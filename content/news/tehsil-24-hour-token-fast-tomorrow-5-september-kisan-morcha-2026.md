@@ -19,11 +19,11 @@ keywords:
 - smart meter nalkoop virodh bku sisauli
 - gic ground muzaffarnagar mahapanchayat trailer
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/tehsil-24-hour-token-fast-tomorrow-5-september-kisan-morcha-2026.webp
 image: /images/news/tehsil-24-hour-token-fast-tomorrow-5-september-kisan-morcha-2026.webp
 ---

@@ -3,7 +3,7 @@ title: "ऑनलाइन घोषणा पत्र कैसे भरे�
 date: 2026-09-04T12:00:00+05:30
 lastmod: 2026-09-04T12:00:00+05:30
 description: "enquiry.caneup.in पोर्टल पर वार्षिक घोषणा पत्र (Declaration Form) ऑनलाइन भरने के 5 आसान चरण और जरूरी दस्तावेजों की पूरी जानकारी।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_ghosna_cover.webp"
 story_type: "image"
 category: "घोषणा पत्र"

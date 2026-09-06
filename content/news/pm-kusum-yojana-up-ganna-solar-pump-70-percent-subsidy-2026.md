@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: pm-kusum-yojana-up-ganna-solar-pump-70-percent-subsidy-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pm-kusum-yojana-up-ganna-solar-pump-70-percent-subsidy-2026.webp"
 image: "/images/news/pm-kusum-yojana-up-ganna-solar-pump-70-percent-subsidy-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/pm-kusum-yojana-up-ganna-solar-pump-70-percent-subsidy-2026
 # गन्ना किसानों के लिए PM कुसुम योजना के तहत सोलर पंप पर 70 प्रतिशत अनुदान, डीजल खर्च से मिलेगी मुक्ति
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/अमरोहा (विशेष संवाददाता)।** उत्तर प्रदेश के गन्ना किसानों को महंगे डीजल और अनियमित बिजली सप्लाई से स्थायी मुक्ति दिलाने के लिए उत्तर प्रदेश सरकार के नवीन एवं नवीकरणीय ऊर्जा विकास अभिकरण (यूपीनेडा) और कृषि विभाग ने **प्रधानमंत्री किसान ऊर्जा सुरक्षा एवं उत्थान महाभियान (PM-KUSUM Component-B)** के तहत सोलर पंपों पर 70 प्रतिशत सब्सिडी योजना की नई आवंटन सूची जारी कर दी है।
 

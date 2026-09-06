@@ -19,11 +19,11 @@ keywords:
 - 3hp 5hp 7.5hp solar pump cost
 - upagriculture token booking
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/pm-kusum-solar-pump-70-subsidy-2026.webp
 image: /images/blog/pm-kusum-solar-pump-70-subsidy-2026.webp
 ---

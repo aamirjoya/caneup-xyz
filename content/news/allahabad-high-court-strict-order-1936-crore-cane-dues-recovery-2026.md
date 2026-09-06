@@ -19,11 +19,11 @@ keywords:
 - dm recovery certificate sugar mill up 15 october
 - ganna bhugtan high court hearing up
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/allahabad-high-court-strict-order-1936-crore-cane-dues-recovery-2026.webp
 image: /images/news/allahabad-high-court-strict-order-1936-crore-cane-dues-recovery-2026.webp
 ---

@@ -20,11 +20,11 @@ keywords:
 - गन्ना भुगतान स्थिति बिलाई
 - बिलाई शुगर मिल संपर्क नंबर
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/bajaj-hindusthan-bilai.webp
 image: /images/blog/bajaj-hindusthan-bilai.webp
 ---

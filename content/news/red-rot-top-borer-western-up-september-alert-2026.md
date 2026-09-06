@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: red-rot-top-borer-western-up-september-alert-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/red-rot-top-borer-western-up-september-alert-2026.webp"
 image: "/images/news/red-rot-top-borer-western-up-september-alert-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/red-rot-top-borer-western-up-september-alert-2026.webp"
 # ⚠️ पश्चिमी यूपी में रेड रॉट (लाल सड़न) और टॉप बोरर का अलर्ट! अमरोहा व मुजफ्फरनगर किसानों के लिए 5 उपाय
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **मुजफ्फरनगर / अमरोहा / मेरठ / शामली (विशेष कृषि संवाददाता):** पश्चिमी उत्तर प्रदेश में अगस्त और सितंबर के दौरान हुई भारी बारिश और खेतों में जलभराव के कारण गन्ने की फसल में गन्ने का कैंसर कहे जाने वाले भयंकर रोग **Red Rot (लाल सड़न रोग)** और **Top Borer (शीर्ष बेधक कीट)** का प्रकोप देखा जा रहा है। कृषि विज्ञान केंद्र (KVK) अमरोहा और गन्ना अनुसंधान परिषद शाहजहांपुर के वैज्ञानिकों ने **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)**, मुजफ्फरनगर, मेरठ, बिजनौर और सहारनपुर के गन्ना किसानों के लिए हाई-अलर्ट जारी किया है।
 

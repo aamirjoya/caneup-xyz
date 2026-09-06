@@ -3,7 +3,7 @@ title: "गन्ने में कीट नियंत्रण 2026 — 5 
 date: 2026-09-04T07:52:05+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने में कीट नियंत्रण 2026 — तना छेदक, सफेद मक्खी, टॉप बोरर, रूट बोरर और पाइरिला। रासायनिक और जैविक उपाय CaneUp पर।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/pest-control.webp"
 story_type: "image"
 category: "कीट नियंत्रण"

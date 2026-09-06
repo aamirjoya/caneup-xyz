@@ -3,7 +3,7 @@ title: "ड्रिप सिंचाई से गन्ना उपज द�
 date: 2026-09-03T14:34:10+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "ड्रिप सिंचाई सब्सिडी 2026 — PMKSY के तहत गन्ना किसानों को 55-90% सब्सिडी। 40% पानी बचता है, उपज 20-30% बढ़ती है। ऑनलाइन अप्लाई प्रोसेस और जरूरी दस्तावेज CaneUp पर।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/drip-subsidy.webp"
 story_type: "image"
 category: "सरकारी योजना"

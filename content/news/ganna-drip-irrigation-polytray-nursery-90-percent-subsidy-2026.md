@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: ganna-drip-irrigation-polytray-nursery-90-percent-subsidy-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-drip-irrigation-polytray-nursery-90-percent-subsidy-2026.webp"
 image: "/images/news/ganna-drip-irrigation-polytray-nursery-90-percent-subsidy-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/ganna-drip-irrigation-polytray-nursery-90-percent-subsidy-2
 # गन्ने की ड्रिप सिंचाई और पॉली-ट्रे नर्सरी पर 90 प्रतिशत सब्सिडी, 60 हजार का सिस्टम मात्र 6 हजार में
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **मेरठ/अमरोहा (विशेष संवाददाता)।** पश्चिमी उत्तर प्रदेश में गिरते भूजल स्तर को थामने और गन्ने की पैदावार में 30 प्रतिशत की बढ़ोतरी के लिए कृषि एवं उद्यान विभाग ने 'पर ड्रॉप मोर क्रॉप' योजना के तहत ड्रिप सिंचाई पर 90 प्रतिशत तक का अनुदान देना शुरू किया है। इसके साथ ही सिंगल बड नर्सरी तैयार करने के लिए पॉली-ट्रे पर भी विशेष छूट दी जा रही है।
 

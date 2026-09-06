@@ -25,11 +25,11 @@ keywords:
 - भुगतान न मिले तो क्या करें
 featured_image: /images/blog/ugar-mill-payment-trends-2026.webp
 image: /images/blog/ugar-mill-payment-trends-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **गन्ना भुगतान की समस्या आज हर किसान की जिंदगी का सबसे बड़ा सवाल है।** सरकार ने साफ़ किया है कि शुगर मिलों को गन्ना तौल के **14 दिन के अंदर** भुगतान करना होगा, लेकिन हक़ीक़त कुछ और है। कुछ मिलें किसानों का पैसा समय पर देती हैं, जबकि कुछ मिलें देरी करती हैं और किसानों को चक्कर काटने पड़ते हैं।

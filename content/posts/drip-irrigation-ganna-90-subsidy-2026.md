@@ -26,11 +26,11 @@ keywords:
 - गन्ने में ड्रिप सिंचाई कैसे लगाएं
 - micro irrigation subsidy India 2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/drip-irrigation-ganna-90-subsidy-2026.webp
 image: "/images/blog/drip-irrigation-ganna-90-subsidy-2026.webp"
 ---

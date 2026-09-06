@@ -19,7 +19,7 @@ ShowToc: true
 
 ### सोशल मीडिया
 - **YouTube:** [@caneup](https://youtube.com/@caneup)
-- **Twitter:** [@caneupxyz](https://twitter.com/caneupxyz)
+- **Twitter:** [@caneupupdates](https://x.com/caneupupdates)
 - **Telegram:** [@caneup](https://t.me/caneup)
 
 ### वेबसाइट

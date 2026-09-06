@@ -15,11 +15,11 @@ tags:
 - अलीगढ़ शुगर मिल
 slug: mazhawali-venus-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/mazhawali-sugar-factory-2026.webp"
 image: "/images/blog/mazhawali-sugar-factory-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/blog/mazhawali-sugar-factory-2026.webp"
 मझावली (वीनस) शुगर मिल 2026-27: 604 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Mazhawali Venus Sugar Mill
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **संभल / बहजोई / अलीगढ़ :** उत्तर प्रदेश के संभल, बहजोई, चंदौसी और अलीगढ़ जिले की सीमा पर स्थित **मझावली शुगर मिल (Venus Sugar Ltd / वीनस शुगर मिल)** आगामी पेराई सत्र 2026-27 के लिए पूरी तरह तैयार है। इस आधुनिक चीनी मिल में आसपास के **604 से अधिक गांवों** के गन्ना किसानों का गन्ना पेराई के लिए आपूर्ति किया जाता है।
 

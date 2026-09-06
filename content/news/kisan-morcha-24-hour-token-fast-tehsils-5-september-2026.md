@@ -19,11 +19,11 @@ keywords:
 - smart meter bijli virodh ganna kisan
 - muzaffarnagar shamli meerut tehsil dharna
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/kisan-morcha-24-hour-token-fast-tehsils-5-september-2026.webp
 image: /images/news/kisan-morcha-24-hour-token-fast-tehsils-5-september-2026.webp
 ---

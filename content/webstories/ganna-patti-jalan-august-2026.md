@@ -3,7 +3,7 @@ title: "गन्ने की फसल में पत्ती जलन —
 date: 2026-09-03T22:04:35+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की पत्ती में जलन के कारण और उपाय। अगस्त 2026 में गन्ने की पत्ती पीली और जली क्यों दिख रही है। CaneUp पर जानें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/sugarcane-field.webp"
 story_type: "image"
 category: "गन्ना खेती"

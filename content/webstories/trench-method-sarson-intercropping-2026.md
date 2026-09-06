@@ -3,7 +3,7 @@ title: "गन्ने के साथ सरसों की सह-फसल
 date: 2026-09-04T08:31:15+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "अक्टूबर शरदकालीन गन्ना बुवाई में ट्रेंच विधि से 4 फीट की दूरी पर पीली सरसों की अंतरफसली खेती की पूरी वैज्ञानिक विधि।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-trench-sarson-cover.webp"
 story_type: "image"
 category: "CaneUp Guide"

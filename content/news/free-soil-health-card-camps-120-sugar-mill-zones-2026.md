@@ -19,11 +19,11 @@ keywords:
 - soil testing mobile van up cane dept
 - sharadkalin ganna fertilizer balance
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/free-soil-health-card-camps-120-sugar-mill-zones-2026.webp
 image: /images/news/free-soil-health-card-camps-120-sugar-mill-zones-2026.webp
 ---

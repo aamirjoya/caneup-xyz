@@ -8,11 +8,11 @@ tags: [गन्ने की पैदावार, गन्ने की ख�
 slug: ganne-ki-paidwar-kaise-badhaye
 keywords: [गन्ने की पैदावार कैसे बढ़ाएं, गन्ने की उपज बढ़ाने के उपाय, गन्ने में खाद, गन्ने की सिंचाई, गन्ने की अच्छी किस्में]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-ki-paidwar-kaise-badhaye.webp
 image: /images/blog/ganne-ki-paidwar-kaise-badhaye.webp
 ---

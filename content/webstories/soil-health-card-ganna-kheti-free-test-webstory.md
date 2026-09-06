@@ -3,7 +3,7 @@ title: "सॉइल हेल्थ कार्ड — गन्ने की 
 date: 2026-09-04T11:00:00+05:30
 lastmod: 2026-09-04T11:00:00+05:30
 description: "120 चीनी मिलों में मुफ्त मृदा परीक्षण कैंप: खेत की मिट्टी का नमूना कैसे लें और सॉइल कार्ड से संतुलित खाद कैसे डालें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_soil_cover.webp"
 story_type: "image"
 category: "मृदा स्वास्थ्य"

@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-pm-kisan-3-lakh-crore-cabinet-approval-2030
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pm-kisan-2030-extension-2026.webp"
 image: "/images/news/pm-kisan-2030-extension-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/pm-kisan-2030-extension-2026.webp"
 कैबिनेट का ऐतिहासिक फैसला: PM Kisan योजना 2030 तक मंजूर, ₹3.15 लाख करोड़ का विशाल बजट पास
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **नई दिल्ली :** प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता में 28 अगस्त 2026 को आयोजित केंद्रीय मंत्रिमंडल की बैठक में देश के करोड़ों किसानों के हित में एक ऐतिहासिक और क्रांतिकारी फैसला लिया गया है। केंद्र सरकार ने 'प्रधानमंत्री किसान सम्मान निधि' (PM-KISAN) योजना को वर्ष 2026-27 से 2030-31 तक (आगामी 5 वर्षों के लिए) निरंतर जारी रखने की औपचारिक स्वीकृति दे दी है। इस महाविस्तार के लिए सरकार ने ₹3,15,000 करोड़ (₹3.15 Lakh Crore) का विशाल बजट पास किया है, जिससे देश के 11 करोड़ से अधिक किसान परिवारों को सीधी आय सहायता मिलती रहेगी।
 

@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: ganna-survey-gps-correction-deadline-september-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-survey-gps-correction-deadline-september-2026.webp"
 image: "/images/news/ganna-survey-gps-correction-deadline-september-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/ganna-survey-gps-correction-deadline-september-2026.webp"
 # गन्ना सर्वे 2026-27 बड़ा अपडेट: मेरठ, अमरोहा, मुरादाबाद किसानों के लिए GPS सर्वे संशोधन की तारीख बढ़ी
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / मुरादाबाद / मेरठ / मुजफ्फरनगर (विशेष प्रतिनिधि):** उत्तर प्रदेश के गन्ना विकास एवं चीनी उद्योग विभाग ने पेराई सत्र **2026-27** के लिए आयोजित किए गए डिजिटल जीपीएस गन्ना सर्वे (GPS Sugarcane Survey) में भारी बारिश और किसानों की आपत्तियों को देखते हुए रकबा और बॉन्डिंग संशोधन की अंतिम तिथि बढ़ाकर **15 सितंबर 2026** कर दी है। इस फैसले से पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)**, मुरादाबाद, मेरठ, मुजफ्फरनगर और शामली जिलों के लाखों गन्ना किसानों को बड़ी राहत मिली है।
 

@@ -3,7 +3,7 @@ title: "PM कुसुम योजना यूपी — सोलर पं�
 date: 2026-09-04T03:57:05+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "उत्तर प्रदेश में 3HP, 5HP और 7.5HP सोलर सिंचाई पंप पर 70% सरकारी अनुदान, टोकन बुकिंग व ऑनलाइन आवेदन।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_kusum_cover.webp"
 story_type: "image"
 category: "सरकारी योजना"

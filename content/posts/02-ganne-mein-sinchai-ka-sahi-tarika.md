@@ -20,11 +20,11 @@ keywords:
 - sugarcane irrigation schedule
 - गन्ने में सिंचाई का तरीका
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-mein-sinchai-ka-sahi-tarika.webp
 image: /images/blog/ganne-mein-sinchai-ka-sahi-tarika.webp
 ---

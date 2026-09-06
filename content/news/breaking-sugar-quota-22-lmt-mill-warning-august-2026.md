@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-sugar-quota-22-lmt-mill-warning-august-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/chini-stock-limit-sept-2026.webp"
 image: "/images/news/chini-stock-limit-sept-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/chini-stock-limit-sept-2026.webp"
 22.50 लाख टन चीनी मासिक कोटा जारी, केंद्र का चीनी मिलों को सख्त निर्देश—समय पर न बेचने पर होगी कड़ी कार्रवाई
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **नई दिल्ली :** त्योहारी सीजन से ठीक पहले घरेलू बाजार में चीनी की पर्याप्त उपलब्धता और कीमतों में स्थिरता बनाए रखने के लिए खाद्य एवं सार्वजनिक वितरण विभाग (DFPD) ने अगस्त 2026 के लिए 22.50 लाख मीट्रिक टन (LMT) का मासिक चीनी कोटा जारी किया है। 28 अगस्त 2026 को देश भर की 500 से अधिक चीनी मिलों को भेजे गए कड़े परिपत्र (Circular) में केंद्र सरकार ने चेतावनी दी है कि जो मिलें अपने निर्धारित बिक्री कोटे (Monthly Sales Quota) को समय सीमा के भीतर बाजार में नहीं जारी करेंगी, उनके खिलाफ आवश्यक वस्तु अधिनियम के तहत दंडात्मक कार्रवाई की जाएगी।
 

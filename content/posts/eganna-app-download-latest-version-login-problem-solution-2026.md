@@ -19,11 +19,11 @@ keywords:
 - eganna app se parchi kaise nikale
 - eganna v6 apk download
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/eganna-app-download-latest-version-2026.webp
 image: /images/blog/eganna-app-download-latest-version-2026.webp
 ---

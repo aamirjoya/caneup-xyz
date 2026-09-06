@@ -3,7 +3,7 @@ title: "गन्ना बीज बुकिंग शुरू — Co-15023 �
 date: 2026-09-04T10:30:00+05:30
 lastmod: 2026-09-04T10:30:00+05:30
 description: "शरदकालीन बुवाई 2026 के लिए यूपी गन्ना शोध परिषद से प्रमाणित रोगरोधी बीज की ऑनलाइन बुकिंग और ₹50 प्रति क्विंटल सब्सिडी की पूरी प्रक्रिया।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_seed_cover.webp"
 story_type: "image"
 category: "गन्ना बीज"

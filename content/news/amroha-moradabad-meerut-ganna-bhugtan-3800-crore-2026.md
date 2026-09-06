@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: amroha-moradabad-meerut-ganna-bhugtan-3800-crore-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/amroha-moradabad-meerut-ganna-bhugtan-3800-crore-2026.webp"
 image: "/images/news/amroha-moradabad-meerut-ganna-bhugtan-3800-crore-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/amroha-moradabad-meerut-ganna-bhugtan-3800-crore-2026.webp"
 # अमरोहा, मुरादाबाद व मेरठ चीनी मिलों ने जारी किया ₹3,800 करोड़ का रिकॉर्ड गन्ना भुगतान! ऐसे चेक करें खाता
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / मुरादाबाद / मेरठ (विशेष संवाददाता):** पश्चिमी उत्तर प्रदेश के गन्ना किसानों के लिए एक बड़ी और खुशखबरी आई है। उत्तर प्रदेश शासन के कड़े निर्देशों और गन्ना आयुक्त के निरंतर अनुश्रवण के बाद अमरोहा, मुरादाबाद, रामपुर, सम्भल, मेरठ और मुजफ्फरनगर जिलों की चीनी मिलों ने बकाया गन्ना मूल्य भुगतान के लिए कुल **₹3,800 करोड़** की रिकॉर्ड धनराशि किसानों के बैंक खातों में डीबीटी (Direct Benefit Transfer - DBT) के माध्यम से ट्रांसफर कर दी है।
 

@@ -3,7 +3,7 @@ title: "गन्ने में ड्रिप सिंचाई — 40% प
 date: 2026-09-03T14:53:45+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने में ड्रिप सिंचाई — कैसे काम करती है, लागत कितनी, 80% तक सब्सिडी, और कितना पानी और पैसा बचता है। पूरी जानकारी CaneUp पर।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/drip-irrigation.webp"
 story_type: "image"
 category: "सिंचाई"

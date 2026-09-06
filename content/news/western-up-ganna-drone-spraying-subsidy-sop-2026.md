@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: western-up-ganna-drone-spraying-subsidy-sop-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/western-up-ganna-drone-spraying-subsidy-sop-2026.webp"
 image: "/images/news/western-up-ganna-drone-spraying-subsidy-sop-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/western-up-ganna-drone-spraying-subsidy-sop-2026.webp"
 # पश्चिमी यूपी में गन्ने पर ड्रोन छिड़काव के लिए SOP जारी, टॉप बोरर नियंत्रण हेतु 100 रुपये प्रति एकड़ अनुदान
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **मेरठ/सहारनपुर (विशेष संवाददाता)।** पश्चिमी उत्तर प्रदेश में 10 से 12 फीट ऊंचे खड़े गन्ने के खेतों में टॉप बोरर (चोटी बेधक कीट) और फंगल संक्रमण से निपटने के लिए कृषि विभाग ने 'किसान ड्रोन छिड़काव मानक संचालन प्रक्रिया' (Drone Spraying SOP 2026) जारी कर दी है। इसके साथ ही गन्ने के खेतों में कीटनाशक और नैनो यूरिया के छिड़काव के लिए सरकार ने प्रति एकड़ 100 रुपये का सीधा अनुदान देने की घोषणा की है।
 

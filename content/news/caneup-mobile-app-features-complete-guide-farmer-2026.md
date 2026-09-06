@@ -2,7 +2,7 @@
 title: "CaneUP Mobile App की Complete Guide - सभी Features और Use करने का तरीका 2026"
 date: 2026-08-26T09:15:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["CaneUP app", "mobile app", "e-Ganna", "features", "गन्ना किसान", "2026"]
 categories: ["CaneUP Guide", "Mobile App", "Technology"]
 description: "CaneUP mobile app ke sab features ki complete guide. Dashboard se lekar complaint registration tak - sab kuch detail mein. Ganna farmers ke liye must-read."

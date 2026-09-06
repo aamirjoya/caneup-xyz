@@ -20,11 +20,11 @@ keywords:
 - SBI ₹10 lakh loan farmer
 - SBI KCC loan 2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp
 image: "/images/blog/sbi-loan-ganna-kisan-2026-naya-plan.webp"
 ---

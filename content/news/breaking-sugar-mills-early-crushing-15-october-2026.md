@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-sugar-mills-early-crushing-15-october-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/perai-15-oct-early-2026.webp"
 image: "/images/news/perai-15-oct-early-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/perai-15-oct-early-2026.webp"
 15 अक्टूबर से शुरू होंगी चीनी मिलें! ISMA व NFCSF का अर्ली क्रशिंग प्रस्ताव सरकार ने स्वीकार किया
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **लखनऊ/पुणे :** आगामी पेराई सत्र 2026-27 को लेकर देश के गन्ना और चीनी उद्योग से बहुत बड़ी खबर सामने आई है। भारतीय चीनी मिल संघ (ISMA) और नेशनल फेडरेशन ऑफ कोऑपरेटिव शुगर फैक्ट्रीज (NFCSF) द्वारा प्रस्तुत 'अर्ली क्रशिंग' प्रस्ताव को स्वीकार करते हुए उत्तर प्रदेश और महाराष्ट्र सरकार ने चीनी मिलों की पेराई समय से 15 दिन पहले शुरू कराने का फैसला किया है। 28 अगस्त 2026 को जारी सरकारी अधिसूचना के अनुसार, उत्तर प्रदेश की 120 से अधिक चीनी मिलों में 15 अक्टूबर 2026 से पेराई सत्र का शुभारंभ हो जाएगा।
 

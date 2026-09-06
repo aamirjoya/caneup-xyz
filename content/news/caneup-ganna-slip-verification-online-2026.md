@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: caneup-ganna-slip-verification-online-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/parchi-calendar-guide-2026.webp
 image: /images/blog/parchi-calendar-guide-2026.webp
 ---
@@ -25,7 +25,7 @@ image: /images/blog/parchi-calendar-guide-2026.webp
 पेराई सत्र से पहले गन्ने की पर्ची का सत्यापन शुरू, CaneUp पोर्टल पर 30 अगस्त तक करें ऑनलाइन चेकिंग
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **मेरठ :** आगामी पेराई सत्र 2026-27 के लिए उत्तर प्रदेश की 120 से अधिक चीनी मिल क्षेत्रों में गन्ना पर्ची (Supply Ticket) का ऑनलाइन सत्यापन तेजी से जारी है। गन्ना विकास विभाग ने किसानों से अपील की है कि वे 30 अगस्त 2026 से पहले enquiry.caneup.in पर जाकर अपने सट्टे और पर्ची कैलेंडर का ऑनलाइन सत्यापन (Verification) पूरा कर लें।
 

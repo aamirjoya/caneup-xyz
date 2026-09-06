@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: yogi-action-sugar-hoarding-esma-400-tonne-stock-limit-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/yogi-action-sugar-hoarding-esma-400-tonne-stock-limit-2026.webp"
 image: "/images/news/yogi-action-sugar-hoarding-esma-400-tonne-stock-limit-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/yogi-action-sugar-hoarding-esma-400-tonne-stock-limit-2026.
 # चीनी जमाखोरों पर योगी सरकार का सख्त एक्शन, 400 टन स्टॉक लिमिट लागू और कालाबाजारी पर लगेगा ESMA
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ (विशेष संवाददाता)।** त्योहारी सीजन में चीनी की कालाबाजारी और कृत्रिम मूल्य वृद्धि पर लगाम कसने के लिए मुख्यमंत्री योगी आदित्यनाथ ने कड़ा रुख अपनाया है। खाद्य एवं रसद विभाग ने प्रदेश के सभी चीनी व्यापारियों पर 400 मीट्रिक टन की स्टॉक लिमिट लागू कर दी है। इसके साथ ही जमाखोरी में लिप्त सिंडिकेट्स के खिलाफ आवश्यक सेवा अनुरक्षण अधिनियम (एस्मा) और आवश्यक वस्तु अधिनियम के तहत कार्रवाई के निर्देश दिए गए हैं।
 

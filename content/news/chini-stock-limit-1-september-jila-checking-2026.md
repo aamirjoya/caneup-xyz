@@ -2,7 +2,7 @@
 title: "अलर्ट! 1 सितंबर से चीनी पर स्टॉक लिमिट लागू - जिला स्तर पर शुरू होगी चेकिंग"
 date: 2026-08-26T10:30:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["stock limit", "चीनी स्टॉक", "जमाखोरी", "2026"]
 categories: ["Market News", "Government Policy", "Breaking News"]
 description: "1 सितंबर 2026 से चीनी पर स्टॉक लिमिट लागू हो रही है। यूपी समेत सभी जिलों में चेकिंग शुरू होगी। जमाखोरी पर सख्त कार्रवाई की तैयारी।"

@@ -20,11 +20,11 @@ keywords:
 - UP गन्ना रजिस्ट्रेशन
 - शुगर मिल रजिस्ट्रेशन दस्तावेज
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/sugar-mill-ganna-registration-2026.webp
 image: /images/blog/sugar-mill-ganna-registration-2026.webp
 ---

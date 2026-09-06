@@ -8,11 +8,11 @@ tags: ["त्रिवेणी इंजीनियरिंग", "अमर�
 slug: triveni-engineering-amroha
 keywords: ["त्रिवेणी इंजीनियरिंग अमरोहा", "Triveni Engineering Amroha sugar mill 2026", "अमरोहा चीनी मिल", "त्रिवेणी शुगर मिल अमरोहा", "UP sugar mill Amroha"]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/triveni-engineering-amroha.webp
 image: /images/blog/triveni-engineering-amroha.webp
 ---

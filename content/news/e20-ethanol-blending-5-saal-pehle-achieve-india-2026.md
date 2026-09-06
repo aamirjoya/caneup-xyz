@@ -2,7 +2,7 @@
 title: "धमाका! भारत ने E20 टारगेट 5 साल पहले ही हासिल कर लिया - गन्ना किसानों के लिए बड़ी खबर"
 date: 2026-08-26T13:45:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["E20", "ethanol blending", "गन्ना किसान", "इथेनॉल", "2026"]
 categories: ["Government Policy", "Breaking News"]
 description: "भारत ने 20% इथेनॉल ब्लेंडिंग का लक्ष्य 2030 से 5 साल पहले 2026 में ही पूरा कर लिया। गन्ना किसानों को होगा फायदा, जानिए पूरी खबर।"

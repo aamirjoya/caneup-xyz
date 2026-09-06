@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: kcc-loan-prompt-repayment-4-percent-interest-scheme-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/kcc-loan-prompt-repayment-4-percent-interest-scheme-2026.webp"
 image: "/images/news/kcc-loan-prompt-repayment-4-percent-interest-scheme-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/kcc-loan-prompt-repayment-4-percent-interest-scheme-2026.we
 # गन्ना किसानों के लिए KCC लोन पर 3 प्रतिशत ब्याज छूट, समय पर अदायगी पर मात्र 4 प्रतिशत लगेगा ब्याज
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश के गन्ना किसानों के लिए कृषि वित्त के मोर्चे पर राहत भरी खबर आई है। राष्ट्रीय कृषि एवं ग्रामीण विकास बैंक (नाबार्ड) और उत्तर प्रदेश राज्य सहकारी बैंक (यूपीसीबी) ने संयुक्त रूप से किसान क्रेडिट कार्ड (केसीसी) फसली ऋण पर मिलने वाली 3 प्रतिशत ब्याज सबवेंशन (ब्याज छूट) योजना को वर्ष 2026-27 के लिए नवीनीकृत कर दिया है।
 

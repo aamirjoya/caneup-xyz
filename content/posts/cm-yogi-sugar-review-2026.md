@@ -26,11 +26,11 @@ keywords:
 - yogi adityanath sugar mill action
 featured_image: /images/blog/cm-yogi-sugar-review-2026.webp
 image: /images/blog/cm-yogi-sugar-review-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने राज्य में चीनी के स्टॉक की समीक्षा की और अधिकारियों को चीनी की जमाखोरी तथा कालाबाजारी में शामिल लोगों के खिलाफ सख्त कार्रवाई करने के निर्देश दिए हैं।** इस निर्णय से न केवल बाजार में चीनी की आपूर्ति बनी रहेगी, बल्कि गन्ना किसानों को भी उनका हक़ मिलेगा। आइए इस महत्वपूर्ण फैसले की पूरी जानकारी विस्तार से जानते हैं।

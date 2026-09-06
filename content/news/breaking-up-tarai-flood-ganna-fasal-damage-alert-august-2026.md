@@ -20,11 +20,11 @@ keywords:
 - रेड रॉट रोग लाल सड़न
 - उत्तर प्रदेश गन्ना विकास विभाग एडवाइजरी
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-flood-sugarcane-damage-2026.webp"
 image: "/images/news/up-flood-sugarcane-damage-2026.webp"
 ---
@@ -32,7 +32,7 @@ image: "/images/news/up-flood-sugarcane-damage-2026.webp"
 नेपाल की बाढ़ से यूपी के तराई गन्ना बेल्ट में हाहाकार — गंडक-शारदा के उफान से 40,000 हेक्टेयर फसल डूबी, रेड रॉट का हाई अलर्ट!
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **लखनऊ/लखीमपुर खीरी/महराजगंज :** नेपाल के पहाड़ी इलाकों में पिछले 48 घंटों से जारी भीषण बारिश और बादल फटने के बाद उत्तर प्रदेश का तराई गन्ना क्षेत्र गंभीर बाढ़ संकट की चपेट में आ गया है। गंडक, शारदा, घाघरा और राप्ती नदियों के खतरे के निशान से ऊपर बहने के कारण महराजगंज, कुशीनगर, लखीमपुर खीरी, बहराइच और पीलीभीत के निचले मैदानी इलाकों में 40,000 हेक्टेयर से अधिक गन्ने की खड़ी फसल में 3 से 5 फीट तक बाढ़ का पानी भर गया है। 
 

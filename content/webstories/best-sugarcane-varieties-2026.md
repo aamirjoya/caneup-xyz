@@ -3,7 +3,7 @@ title: "गन्ने की सबसे अच्छी किस्मे�
 date: 2026-09-03T10:39:10+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की टॉप किस्में 2026 — Co-0238, Co-0118, Co-86032 और अन्य। उपज, चीनी की मात्रा और रोग प्रतिरोध तुलना। CaneUp पर पूरी जानकारी।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/co0238-variety.webp"
 story_type: "image"
 category: "गन्ना किस्में"

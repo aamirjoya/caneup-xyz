@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-chini-bhav-36-percent-badha-fmcg-margin-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/chini-price-crisis-aug-2026.webp"
 image: "/images/news/chini-price-crisis-aug-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/chini-price-crisis-aug-2026.webp"
 दो महीने में 40% बढ़े चीनी के थोक दाम: पैकेज्ड फूड कंपनियों के ऑपरेटिंग मार्जिन 4 साल के निचले स्तर पर
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **मुंबई/नई दिल्ली :** त्योहारी सीजन की शुरुआत से ठीक पहले देश के थोक और खुदरा बाजारों में चीनी की कीमतों में आई 36 से 40 प्रतिशत की तेज बढ़ोतरी ने एफएमसीजी (FMCG) और पैकेज्ड फूड निर्माण कंपनियों के वित्तीय गणित को बिगाड़ कर रख दिया है। अंतरराष्ट्रीय वित्तीय रेटिंग एजेंसी ICRA और 'मिंट' के नवीनतम कॉरपोरेट विश्लेषण के अनुसार, चीनी से जुड़े उत्पादों (बिस्कुट, कन्फेक्शनरी, सॉफ्ट ड्रिंक्स और डेरी) में बड़ा कारोबार रखने वाली 7 प्रमुख निफ्टी एफएमसीजी कंपनियों का ऑपरेटिंग मार्जिन घटकर चार वर्षों के निचले स्तर 22.2 प्रतिशत पर आ गया है। यह स्तर 2022 के रूस-यूक्रेन युद्ध के चरम संकट के समय दर्ज मार्जिन से भी कम है।
 

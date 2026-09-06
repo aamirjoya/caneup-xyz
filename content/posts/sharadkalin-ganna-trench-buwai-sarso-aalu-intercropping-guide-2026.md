@@ -19,11 +19,11 @@ keywords:
 - ganna trench vidhi 4-5 feet spacing
 - ganna paidwar per acre 500 quintal
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/sharadkalin-trench-buwai-intercropping-2026.webp
 image: /images/blog/sharadkalin-trench-buwai-intercropping-2026.webp
 ---

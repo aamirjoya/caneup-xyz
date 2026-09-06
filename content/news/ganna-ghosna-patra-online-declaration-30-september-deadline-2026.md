@@ -19,11 +19,11 @@ keywords:
 - ghosna patra mobile se kaise bhare up 2026
 - cane commissioner declaration form mandatory
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/ganna-ghosna-patra-online-declaration-30-september-deadline-2026.webp
 image: /images/news/ganna-ghosna-patra-online-declaration-30-september-deadline-2026.webp
 ---

@@ -25,9 +25,9 @@ keywords:
 - "ganna enquiry"
 - "cane up status"
 - "cane up parchi calendar"
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
+- "Aamir Raza"
 ShowToc: true
 ---
 

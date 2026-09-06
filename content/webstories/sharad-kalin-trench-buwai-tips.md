@@ -3,7 +3,7 @@ title: "शरदकालीन गन्ना बुवाई — ट्र�
 date: 2026-09-04T05:15:25+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "शरदकालीन गन्ना बुवाई (सितंबर-अक्टूबर) ट्रेंच विधि से करें। 25% अधिक पैदावार और सरसों, आलू की सह-फसली से ₹50,000 का अतिरिक्त मुनाफा।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-sharad-buwai-cover.webp"
 story_type: "image"
 category: "गन्ना खेती"

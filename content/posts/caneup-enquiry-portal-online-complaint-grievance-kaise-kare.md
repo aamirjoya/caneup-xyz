@@ -21,11 +21,11 @@ keywords:
 - up ganna vibhag toll free number
 - ganna basic quota sudhar online
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/caneup-online-grievance-complaint-2026.webp
 image: /images/blog/caneup-online-grievance-complaint-2026.webp
 ---

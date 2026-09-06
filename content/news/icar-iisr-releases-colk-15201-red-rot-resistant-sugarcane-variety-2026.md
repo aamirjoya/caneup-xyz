@@ -19,11 +19,11 @@ keywords:
 - co 0238 replacement early variety
 - sugar recovery yield colk 15201
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/icar-iisr-releases-colk-15201-red-rot-resistant-sugarcane-variety-2026.webp
 image: /images/news/icar-iisr-releases-colk-15201-red-rot-resistant-sugarcane-variety-2026.webp
 ---

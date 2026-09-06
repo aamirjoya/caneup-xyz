@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: eganna-app-pre-calendar-2026-27-live-12-fortnights-verification
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/eganna-app-pre-calendar-2026-27-live-12-fortnights-verification.webp"
 image: "/images/news/eganna-app-pre-calendar-2026-27-live-12-fortnights-verification.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/eganna-app-pre-calendar-2026-27-live-12-fortnights-verifica
 # ई-गन्ना ऐप पर जारी हुआ 2026-27 का प्री-कैलेंडर, 30 सितंबर तक दर्ज कराएं आपत्तियां
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **लखनऊ/अमरोहा (विशेष संवाददाता)।** यूपी में गन्ना पेराई सत्र 2026-27 का खाका तैयार हो गया है। गन्ना विकास एवं चीनी उद्योग विभाग ने किसानों का प्री-कैलेंडर ऑफिशियल पोर्टल और 'ई-गन्ना' ऐप पर लाइव कर दिया है। अब पश्चिमी यूपी समेत प्रदेश भर के किसान अपने सट्टे का पूरा ब्योरा ऑनलाइन देख सकेंगे। विभाग ने स्पष्ट किया है कि यदि किसी किसान के रकबे, पर्चियों की संख्या या सट्टे में कोई विसंगति है, तो वे 30 सितंबर तक हर हाल में गन्ना विकास समिति में अपनी आपत्ति दर्ज करा दें। निर्धारित तिथि के बाद सट्टे में संशोधन नहीं किया जाएगा।
 

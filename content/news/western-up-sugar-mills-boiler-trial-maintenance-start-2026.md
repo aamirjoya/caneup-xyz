@@ -19,11 +19,11 @@ keywords:
 - muzaffarnagar meerut sugar factory preparation
 - ganna perai satra 2026 27
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/western-up-sugar-mills-boiler-trial-maintenance-start-2026.webp
 image: /images/news/western-up-sugar-mills-boiler-trial-maintenance-start-2026.webp
 ---

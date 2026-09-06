@@ -26,11 +26,11 @@ keywords:
 - किसान सम्मान निधि 2026
 featured_image: /images/blog/pm-kisan-trending-2026.webp
 image: /images/blog/pm-kisan-trending-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **प्रधानमंत्री किसान सम्मान निधि योजना (PM Kisan Yojana) देश भर के करोड़ों किसानों के लिए वरदान बनी हुई है।** 2026 में इस योजना का ट्रेंडिंग अपडेट जानना प्रत्येक किसान के लिए जरूरी है। केंद्र सरकार द्वारा हर साल ₹6000 की राशि सीधे किसान के बैंक खाते में ट्रांसफर की जाती है, लेकिन बहुत से किसान ऐसे हैं जिन्हें इस योजना की सही जानकारी नहीं होती या फिर उनका नाम लिस्ट में जुड़ा नहीं होता।

@@ -19,11 +19,11 @@ keywords:
 - sugar mill ethanol tender omc september 2026
 - ethanol blending target india
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/nbcc-sugarcane-syrup-ethanol-allocation-2026-27-boost.webp
 image: /images/news/nbcc-sugarcane-syrup-ethanol-allocation-2026-27-boost.webp
 ---

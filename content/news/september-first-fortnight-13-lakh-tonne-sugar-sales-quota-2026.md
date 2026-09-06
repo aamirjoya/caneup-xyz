@@ -19,11 +19,11 @@ keywords:
 - sugar mill domestic sales quota up
 - chini quota release september 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/september-first-fortnight-13-lakh-tonne-sugar-sales-quota-2026.webp
 image: /images/news/september-first-fortnight-13-lakh-tonne-sugar-sales-quota-2026.webp
 ---

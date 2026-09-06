@@ -43,7 +43,7 @@
     },
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-    "author": { "@type": "Person", "name": "{{ .Params.author_name | default "Randhir Patil" }}" },
+    "author": { "@type": "Person", "name": "{{ .Params.author_name | default "Aamir Raza" }}" },
     "publisher": {
       "@type": "Organization",
       "name": "CaneUp — गन्ना किसान पोर्टल",
@@ -203,7 +203,7 @@
         {{ with .Params.category }}<span class="cover-category" animate-in="fly-in-left" animate-in-duration="0.5s">{{ . }}</span>{{ end }}
         <h1 animate-in="fly-in-bottom" animate-in-duration="0.6s" animate-in-delay="0.15s">{{ .Title }}</h1>
         <p class="cover-date" animate-in="fade-in" animate-in-duration="0.5s" animate-in-delay="0.3s">📅 {{ .Date.Format "Jan 2, 2006" }}</p>
-        <span class="cover-author" animate-in="fade-in" animate-in-duration="0.5s" animate-in-delay="0.4s">✍️ {{ .Params.author_name | default "Randhir Patil" }}</span>
+        <span class="cover-author" animate-in="fade-in" animate-in-duration="0.5s" animate-in-delay="0.4s">✍️ {{ .Params.author_name | default "Aamir Raza" }}</span>
       </div>
     </amp-story-grid-layer>
   </amp-story-page>

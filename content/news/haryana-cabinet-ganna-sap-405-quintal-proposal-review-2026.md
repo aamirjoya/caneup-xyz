@@ -19,11 +19,11 @@ keywords:
 - chd ganna bhav haryana assembly review
 - up haryana ganna sap rate comparison 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/haryana-cabinet-ganna-sap-405-quintal-proposal-review-2026.webp
 image: /images/news/haryana-cabinet-ganna-sap-405-quintal-proposal-review-2026.webp
 ---

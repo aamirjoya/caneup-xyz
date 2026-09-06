@@ -3,7 +3,7 @@ title: "गन्ने के साथ सरसों की सह-फसल
 date: 2026-09-04T11:30:00+05:30
 lastmod: 2026-09-04T11:30:00+05:30
 description: "ट्रेंच विधि से 4.5 फीट की दूरी पर गन्ने की बुवाई कर मेड़ों पर पूसा-31 सरसों लगाकर कम लागत में डबल कमाई का वैज्ञानिक फॉर्मूला।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_sarso_cover.webp"
 story_type: "image"
 category: "सह-फसली खेती"

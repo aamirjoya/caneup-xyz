@@ -25,9 +25,9 @@ keywords:
 - "ganna ticket"
 - "supply ticket"
 - "गन्ना आपूर्ति टिकट"
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
+- "Aamir Raza"
 ShowToc: true
 ---
 

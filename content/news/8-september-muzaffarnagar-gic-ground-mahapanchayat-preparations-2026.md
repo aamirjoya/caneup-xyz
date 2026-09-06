@@ -19,11 +19,11 @@ keywords:
 - western up khap chaudhari gic ground rally
 - kisan mahapanchayat muzaffarnagar 8 september updates
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/8-september-muzaffarnagar-gic-ground-mahapanchayat-preparations-2026.webp
 image: /images/news/8-september-muzaffarnagar-gic-ground-mahapanchayat-preparations-2026.webp
 ---

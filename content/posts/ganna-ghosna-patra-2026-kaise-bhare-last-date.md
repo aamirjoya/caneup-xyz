@@ -20,11 +20,11 @@ keywords:
 - ganna satta declaration form up
 - ganna ghosna patra mein galti sudhar
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-ghosna-patra-guide-2026.webp
 image: /images/blog/ganna-ghosna-patra-guide-2026.webp
 ---

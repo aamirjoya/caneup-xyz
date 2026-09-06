@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: sugar-bag-qr-code-track-and-trace-mandatory-october-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/sugar-bag-qr-code-track-and-trace-mandatory-october-2026.webp"
 image: "/images/news/sugar-bag-qr-code-track-and-trace-mandatory-october-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/sugar-bag-qr-code-track-and-trace-mandatory-october-2026.we
 # 1 अक्टूबर से चीनी की हर 50 किलो बोरी पर अनिवार्य होगा डिजिटल QR कोड, कालाबाजारी रोकने के लिए नया सिस्टम
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **नई दिल्ली/लखनऊ (विशेष संवाददाता)।** देश के चीनी वितरण तंत्र में पूर्ण पारदर्शिता लाने, मिलावट रोकने और जमाखोरों द्वारा की जाने वाली अवैध स्टॉक हेराफेरी को जड़ से खत्म करने के लिए केंद्रीय उपभोक्ता मामले, खाद्य एवं सार्वजनिक वितरण मंत्रालय ने ऐतिहासिक निर्णय लिया है। आगामी 1 अक्टूबर 2026 से देश की सभी निजी, सहकारी और निगम चीनी मिलों द्वारा उत्पादित प्रत्येक 50 किलोग्राम चीनी की बोरी पर 'डायनेमिक डिजिटल क्यूआर कोड' (Digital QR Code Track and Trace) प्रिंट करना अनिवार्य कर दिया गया है।
 

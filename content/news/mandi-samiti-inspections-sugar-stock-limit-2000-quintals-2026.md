@@ -19,11 +19,11 @@ keywords:
 - food safety officer chini checking up
 - sugar dealer notice essential commodities act
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/mandi-samiti-inspections-sugar-stock-limit-2000-quintals-2026.webp
 image: /images/news/mandi-samiti-inspections-sugar-stock-limit-2000-quintals-2026.webp
 ---

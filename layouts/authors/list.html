@@ -46,7 +46,7 @@
   {{ range .Data.Terms.Alphabetical }}
   <div class="author-card">
     <a href="{{ .Page.Permalink }}">
-      <img src="/images/authors/randhir-patil.jpg" alt="{{ .Page.Title }}" onerror="this.src='/images/og-default.jpg'">
+      <img src="{{ .Page.Params.author_image | default "/images/authors/aamir-raza.webp" }}" alt="{{ .Page.Title }}" onerror="this.src='/images/authors/aamir-raza.webp'">
     </a>
     <h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
     <p style="color: var(--secondary); font-size: 0.9em;">CaneUp - गन्ना किसान पोर्टल</p>

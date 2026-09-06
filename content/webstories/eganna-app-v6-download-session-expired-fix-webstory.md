@@ -3,7 +3,7 @@ title: "eGanna App Version 6.0 Download — Session Expired समाधान"
 date: 2026-09-03T16:12:05+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "eGanna App v6.0 डाउनलोड, लॉगिन एरर, Session Expired ठीक करने और पर्ची रिंगटोन सेट करने की पूरी ट्रिक।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_eganna_cover.webp"
 story_type: "image"
 category: "eGanna App"

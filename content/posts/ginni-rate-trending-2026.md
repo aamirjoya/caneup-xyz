@@ -25,11 +25,11 @@ keywords:
 - बाजार में चीनी का भाव
 featured_image: /images/blog/ginni-rate-trending-2026.webp
 image: /images/blog/ginni-rate-trending-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **दिन भर में चीनी के दाम में हो रहे बदलाव और बाजार की स्थिति।** अगर आप यह जानना चाहते हैं कि आज चीनी का रेट क्या है, और बाजार में रेट कितना रह सकता है, तो यह लेख आपके लिए है। यहां हम 2026 की अपडेटेड चीनी दरें, बाजार की स्थिति और किसान के लिए फायदेमंद जानकारी देंगे।

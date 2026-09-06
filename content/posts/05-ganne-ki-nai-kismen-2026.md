@@ -20,11 +20,11 @@ keywords:
 - ganne ki kism kaun si acchi hai
 - गन्ने की उन्नत किस्में
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-ki-nai-kismen-2026.webp
 image: /images/blog/ganne-ki-nai-kismen-2026.webp
 ---

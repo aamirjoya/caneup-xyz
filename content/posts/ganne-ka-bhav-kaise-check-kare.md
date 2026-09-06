@@ -8,11 +8,11 @@ tags: ["गन्ने का भाव", "MSP रेट", "FRP रेट", "SA
 slug: ganne-ka-bhav-kaise-check-kare
 keywords: ["गन्ने का भाव कैसे चेक करें", "MSP रेट 2026", "FRP रेट", "SAP रेट", "गन्ने का ताजा भाव", "ganne ka bhav 2026"]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-ka-bhav-kaise-check-kare.webp
 image: /images/blog/ganne-ka-bhav-kaise-check-kare.webp
 ---

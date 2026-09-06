@@ -3,7 +3,7 @@ title: "घटतौली से कैसे बचें — 2,800 गन्�
 date: 2026-09-04T11:15:00+05:30
 lastmod: 2026-09-04T11:15:00+05:30
 description: "गन्ना क्रय केंद्रों पर कम तौल रोकने के लिए नाप-तौल विभाग की बारकोड सील, क्यूआर कोड प्रमाण पत्र और किसानों के 5 कानूनी अधिकार।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_ghattoli_cover.webp"
 story_type: "image"
 category: "तौल अधिकार"

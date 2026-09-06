@@ -19,11 +19,11 @@ keywords:
 - legal metrology green certificate qr code
 - sugar mill purchase center ghattoli roktham
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/pre-crushing-digital-weighbridge-stamping-completed-800-centers-2026.webp
 image: /images/news/pre-crushing-digital-weighbridge-stamping-completed-800-centers-2026.webp
 ---

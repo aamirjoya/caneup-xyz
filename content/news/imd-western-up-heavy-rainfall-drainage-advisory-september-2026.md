@@ -19,11 +19,11 @@ keywords:
 - ganna khet waterlogging drainage advisory
 - up weather update september 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/imd-western-up-heavy-rainfall-drainage-advisory-september-2026.webp
 image: /images/news/imd-western-up-heavy-rainfall-drainage-advisory-september-2026.webp
 ---

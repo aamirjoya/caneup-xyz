@@ -3,7 +3,7 @@ title: "गन्ने की नई किस्म Co-0238 — क्यो�
 date: 2026-09-03T13:15:50+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की किस्म Co-0238 — 50-60 टन/हेक्टेयर उपज, 15% ज्यादा चीनी। ICAR द्वारा विकसित, UP-पंजाब-हरियाणा में सबसे लोकप्रिय। रोपाई, खाद और मुनाफे की पूरी जानकारी CaneUp पर।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/co0238-variety.webp"
 story_type: "image"
 category: "गन्ना खेती"

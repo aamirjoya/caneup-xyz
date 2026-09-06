@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: ganna-beej-upchar-hot-water-treatment-plant-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-beej-upchar-hot-water-treatment-plant-2026.webp"
 image: "/images/news/ganna-beej-upchar-hot-water-treatment-plant-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/ganna-beej-upchar-hot-water-treatment-plant-2026.webp"
 # गन्ना बीज शोधन के लिए 120 चीनी मिलों में हॉट वाटर ट्रीटमेंट प्लांट अनिवार्य, लाल सड़न के बीजाणु होंगे नष्ट
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **लखनऊ/शाहजहांपुर (विशेष संवाददाता)।** उत्तर प्रदेश में 15 सितंबर से शुरू होने जा रही शरदकालीन गन्ना बुवाई (Autumn Planting 2026) से पूर्व गन्ने के बीज को फंगस, वायरस और लाल सड़न (रेड रॉट) के सुप्त बीजाणुओं से 100 प्रतिशत मुक्त कराने के लिए शासन ने कड़ा प्रशासनिक कदम उठाया है। 
 

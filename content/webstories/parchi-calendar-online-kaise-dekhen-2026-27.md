@@ -3,7 +3,7 @@ title: "गन्ना पर्ची कैलेंडर 2026-27 — ऑन
 date: 2026-09-04T02:58:20+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना पर्ची कैलेंडर 2026-27 ऑनलाइन चेक करें। eGanna App और CaneUp पर पर्ची कैलेंडर देखने का पूरा तरीका।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/payment-status.webp"
 story_type: "image"
 category: "पर्ची कैलेंडर"

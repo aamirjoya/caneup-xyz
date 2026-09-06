@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: caneup-farmer-registration-benefits-online-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/caneup-enquiry-guide-2026.webp
 image: /images/blog/caneup-enquiry-guide-2026.webp
 ---
@@ -25,7 +25,7 @@ image: /images/blog/caneup-enquiry-guide-2026.webp
 CaneUp पोर्टल पर डिजिटल रजिस्ट्रेशन अनिवार्य, यूपी के 48 लाख गन्ना किसानों को मिलेंगे सीधे लाभ
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **लखनऊ :** पेराई सत्र 2026-27 के शुभारंभ से ठीक पहले उत्तर प्रदेश गन्ना विकास विभाग ने CaneUp पोर्टल (enquiry.caneup.in) पर सभी किसानों का ऑनलाइन डिजिटल रजिस्ट्रेशन अनिवार्य कर दिया है। विभाग के इस फैसले से राज्य के 48 लाख गन्ना किसानों को सरकारी योजनाओं और डायरेक्ट बेनिफिट ट्रांसफर (DBT Payment) का लाभ बिना किसी बिचौलिए के सीधे बैंक खातों में मिलेगा।
 

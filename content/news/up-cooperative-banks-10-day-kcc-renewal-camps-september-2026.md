@@ -19,11 +19,11 @@ keywords:
 - dccb branch kcc camp 45 districts up
 - ganna kisan kcc loan benefit 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/up-cooperative-banks-10-day-kcc-renewal-camps-september-2026.webp
 image: /images/news/up-cooperative-banks-10-day-kcc-renewal-camps-september-2026.webp
 ---

@@ -3,7 +3,7 @@ title: "Co-0238 छोड़ें! ये 5 नई किस्में दे
 date: 2026-09-03T12:56:15+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "भारतीय गन्ना अनुसंधान संस्थान (IISR) द्वारा प्रमाणित 5 रोगरोधी किस्में — Co-15023, CoS-17231, CoLk-14201।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_varieties_cover.webp"
 story_type: "image"
 category: "उन्नत किस्में"

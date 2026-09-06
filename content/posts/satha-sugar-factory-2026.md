@@ -15,11 +15,11 @@ tags:
 - Satha Mill Village List
 slug: satha-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/satha-sugar-factory-2026.webp"
 image: "/images/blog/satha-sugar-factory-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/blog/satha-sugar-factory-2026.webp"
 साथा शुगर मिल 2026-27: 3417 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Satha Sugar Mill Aligarh
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **अलीगढ़ / साथा / इगलास / अतरौली / हाथरस :** किसान सहकारी चीनी मिल लिमिटेड, साथा (Kisan Sahkari Chini Mills Ltd, Satha, Aligarh) उत्तर प्रदेश के अलीगढ़ जिले की एक प्रमुख सहकारी चीनी मिल है। आगामी पेराई सत्र 2026-27 के लिए यह चीनी मिल अलीगढ़, हाथरस, मथुरा और बुलंदशहर क्षेत्र के लगभग **3417 से अधिक गांवों** के पंजीकृत गन्ना किसानों से गन्ने की सीधी खरीद करेगी।
 

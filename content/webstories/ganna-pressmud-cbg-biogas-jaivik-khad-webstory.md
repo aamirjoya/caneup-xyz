@@ -3,7 +3,7 @@ title: "गन्ने की मैली से बायो-सीएनज�
 date: 2026-09-04T12:15:00+05:30
 lastmod: 2026-09-04T12:15:00+05:30
 description: "UPNEDA द्वारा 18 चीनी मिलों में कंप्रेस्ड बायोगैस (CBG) प्लांट्स की मंजूरी: वाहनों के लिए ग्रीन सीएनजी और किसानों को ₹2/किग्रा में जैविक खाद का लाभ।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_cbg_cover.webp"
 story_type: "image"
 category: "बायोगैस क्रांति"

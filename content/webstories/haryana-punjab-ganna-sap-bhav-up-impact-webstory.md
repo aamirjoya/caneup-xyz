@@ -3,7 +3,7 @@ title: "हरियाणा ₹405 व पंजाब ₹410 — यूपी
 date: 2026-09-04T11:45:00+05:30
 lastmod: 2026-09-04T11:45:00+05:30
 description: "पड़ोसी राज्यों द्वारा रिकॉर्ड गन्ना भाव की मंजूरी के बाद उत्तर प्रदेश में ₹450 की मांग और सीमावर्ती जिलों में पैदा हुए सियासी दबाव की पूरी रिपोर्ट।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_bhav_cover.webp"
 story_type: "image"
 category: "गन्ना मूल्य"

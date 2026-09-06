@@ -3,7 +3,7 @@ title: "गन्ने में लाल सड़न (Red Rot) का 100% �
 date: 2026-09-03T22:43:45+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने में लाल सड़न फंगस को खत्म करने के 7 वैज्ञानिक उपाय, हॉट वाटर बीज शोधन और ट्राइकोडर्मा का सही प्रयोग।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_red_rot_cover.webp"
 story_type: "image"
 category: "फसल सुरक्षा"

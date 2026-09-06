@@ -66,7 +66,7 @@ buildExpired = false
     "cane up app",
     "ganna app download"
   ]
-  author = "Randhir Patil"
+  author = "Aamir Raza"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -88,7 +88,7 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
-    Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में (Co-0238), ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज — 87+ आर्टिकल्स।"
+    Content = "CaneUp पर गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट — सब एक जगह। गन्ने की खेती गाइड, नई किस्में, ड्रिप सिंचाई, कीट प्रबंधन, सरकारी योजनाएं (PM किसान, KCC, सब्सिडी), बिज़नेस आइडियाज।"
 
   [[params.socialIcons]]
     name = "youtube"
@@ -96,11 +96,17 @@ buildExpired = false
 
   [[params.socialIcons]]
     name = "twitter"
-    url = "https://twitter.com/caneupxyz"
+    url = "https://x.com/caneupupdates"
 
   [[params.socialIcons]]
     name = "telegram"
     url = "https://t.me/caneup"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", "date"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
 
 [mediaTypes."application/xml"]
   suffixes = ["xml"]

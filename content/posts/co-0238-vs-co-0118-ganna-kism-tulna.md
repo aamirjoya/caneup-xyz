@@ -28,11 +28,11 @@ keywords:
 - sugarcane variety comparison 2026
 - best variety for sugarcane farming
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp
 image: "/images/blog/co-0238-vs-co-0118-ganna-kism-tulna.webp"
 ---

@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: pipraich-western-up-bio-ethanol-production-10-days-payment-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pipraich-western-up-bio-ethanol-production-10-days-payment-2026.webp"
 image: "/images/news/pipraich-western-up-bio-ethanol-production-10-days-payment-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/pipraich-western-up-bio-ethanol-production-10-days-payment-
 # एथेनॉल से बदला चीनी उद्योग का अर्थशास्त्र, गन्ने के रस से सीधे फ्यूल उत्पादन और 10 दिन में भुगतान
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **गोरखपुर/मेरठ (विशेष संवाददाता)।** राष्ट्रीय जैव ईंधन नीति और 20 प्रतिशत एथेनॉल ब्लेंडिंग लक्ष्य ने उत्तर प्रदेश की चीनी मिलों की वित्तीय सेहत सुधार दी है। गोरखपुर की पिपराइच सहकारी चीनी मिल और पश्चिमी उत्तर प्रदेश की निजी डिस्टिलरीज (धामपुर, असमौली, टिकौला, चंदनपुर) ने सीधे गन्ने के रस और बी-हैवी शीरे से रिकॉर्ड बायो-एथेनॉल बनाकर सरकारी तेल कंपनियों को आपूर्ति की है।
 

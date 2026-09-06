@@ -3,7 +3,7 @@ title: "गन्ना पर्ची कैलेंडर कैसे द�
 date: 2026-09-04T02:38:45+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना पर्ची कैलेंडर 2026-27 कैसे देखें? 3 आसान तरीके — eGanna App, upcane.gov.in और CaneUp.xyz पर चेक करें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/parchi-calendar-kaise-dekhen-2026.webp"
 story_type: "image"
 category: "पर्ची कैलेंडर"

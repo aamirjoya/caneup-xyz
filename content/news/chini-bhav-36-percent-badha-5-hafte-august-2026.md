@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: chini-bhav-36-percent-badha-5-hafte-august-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.jpg"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/chini-price-crisis-aug-2026.webp
 image: /images/news/chini-price-crisis-aug-2026.webp
 ---
@@ -25,7 +25,7 @@ image: /images/news/chini-price-crisis-aug-2026.webp
 त्योहारों से पहले चीनी के दामों में 36% का उछाल, पैकेज्ड फूड कंपनियों के ऑपरेटिंग मार्जिन पर बढ़ा दबाव
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **नई दिल्ली :** त्योहारी सीजन से ठीक पहले देश के प्रमुख थोक बाजारों में चीनी की कीमतों में 36 प्रतिशत की तेज बढ़ोतरी ने पैकेज्ड फूड और FMCG कंपनियों की चिंता बढ़ा दी है। चीनी के दाम बढ़ने से कंपनियों की उत्पादन लागत (Raw Material Cost) बढ़ने का खतरा पैदा हो गया है, जिससे उनके EBITDA Margin पर सीधा दबाव पड़ सकता है।
 

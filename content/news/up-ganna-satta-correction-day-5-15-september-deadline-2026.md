@@ -19,11 +19,11 @@ keywords:
 - ganna samiti satta sanshodhan application up
 - parchi calendar rakba sudhar 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/up-ganna-satta-correction-day-5-15-september-deadline-2026.webp
 image: /images/news/up-ganna-satta-correction-day-5-15-september-deadline-2026.webp
 ---

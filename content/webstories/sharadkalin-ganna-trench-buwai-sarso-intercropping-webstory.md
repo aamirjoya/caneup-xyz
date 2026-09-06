@@ -3,7 +3,7 @@ title: "शरदकालीन ट्रेंच बुवाई: सरस�
 date: 2026-09-04T05:35:00+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "4.5 फीट ट्रेंच विधि से गन्ना बुवाई, सिंगल बड तकनीक और सरसों-आलू सह-फसल से प्रति एकड़ ₹30,000 एक्स्ट्रा कमाई।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_trench_cover.webp"
 story_type: "image"
 category: "बुवाई तकनीक"

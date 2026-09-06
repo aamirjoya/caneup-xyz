@@ -8,11 +8,11 @@ tags: [एथेनॉल बिज़नेस, गन्ने से एथ�
 slug: ganne-se-ethanol-business-2026
 keywords: [एथेनॉल बिज़नेस 2026, गन्ने से एथेनॉल कैसे बनाएं, ethanol plant cost India, गन्ना बिज़नेस आइडिया]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-se-ethanol-business-2026.webp
 image: /images/blog/ganne-se-ethanol-business-2026.webp
 ---

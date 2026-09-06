@@ -31,11 +31,11 @@ keywords:
 - aligarh jila sugar mill
 featured_image: /images/blog/aligarh-6-sugar-mills-2026.webp
 image: /images/blog/aligarh-6-sugar-mills-2026.webp
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 ---
 
 **अलीगढ़ जिले के गन्ना किसान भाइयों, आपकी सबसे बड़ी समस्या यही है कि** अपनी फसल कहाँ बेचें और किस फैक्टरी जाएगी। आज इस पोस्ट में मैं आपको अपने जिले की 6 बडी फैक्ट्रियों की पूरी जानकारी दूंगा, आपके गांव के अनुसार कौन सी मिल जाएगी, और भुगतान की गति क्या रहेगी। मुझे पता है आप भाग-दौड़ करके थक गए हैं, तो इस पोस्ट को पूरा पढ़ें ताकि आपके समय की बचत हो और आपको सही मिल मिल सके।

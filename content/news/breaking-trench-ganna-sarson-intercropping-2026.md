@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-trench-ganna-sarson-intercropping-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/sharad-kalin-ganna-buwai-trench-2026.webp"
 image: "/images/news/sharad-kalin-ganna-buwai-trench-2026.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/sharad-kalin-ganna-buwai-trench-2026.webp"
 गन्ने के साथ सरसों की सह-फसली खेती: शरदकालीन बुवाई में प्रति एकड़ ₹50,000 का अतिरिक्त शुद्ध मुनाफा
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **शाहजहांपुर/मेरठ :** उत्तर प्रदेश गन्ना शोध परिषद (Shahjahanpur Cane Research Institute) ने आगामी शरदकालीन गन्ना बुवाई (Autumn Sugarcane Sowing) सत्र 2026-27 के लिए राज्य के किसानों हेतु एक अत्यंत लाभकारी वैज्ञानिक एडवाइजरी जारी की है। 28 अगस्त 2026 को जारी रिपोर्ट के अनुसार, ट्रेंच विधि (Trench Method) से 4 से 4.5 फीट की दूरी पर गन्ने की बुवाई करके नालियों के बीच खाली पड़ी जगह में पीली सरसों (Yellow Mustard) की सह-फसली (Intercropping) खेती करने से किसान प्रति एकड़ ₹50,000 तक का अतिरिक्त शुद्ध मुनाफा कमा सकते हैं।
 

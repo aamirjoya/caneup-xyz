@@ -20,11 +20,11 @@ keywords:
 - ganne ka juice bechkar kamai
 - ₹5000 per day juice business
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganne-ka-juice-business-5000-per-day-2026.webp
 image: "/images/blog/ganne-ka-juice-business-5000-per-day-2026.webp"
 ---

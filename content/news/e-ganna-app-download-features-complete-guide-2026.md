@@ -2,7 +2,7 @@
 title: "e-Ganna App Download कैसे करें? CaneUP Mobile App की Complete Guide 2026"
 date: 2026-08-26T14:50:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["e-Ganna app", "CaneUP", "mobile app", "download", "गन्ना किसान", "2026"]
 categories: ["CaneUP Guide", "Mobile App", "How To"]
 description: "e-Ganna mobile app kaise download karen? Features, login, parchi check, payment status - sab kuch ek app mein. UP ke ganna kisano ke liye complete guide."

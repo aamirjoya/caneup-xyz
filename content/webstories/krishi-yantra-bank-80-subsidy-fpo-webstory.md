@@ -3,7 +3,7 @@ title: "गन्ना कृषि यंत्र बैंक — FPO व �
 date: 2026-09-04T01:40:00+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना कटाई हार्वेस्टर, ट्रैश कटर, मल्चर और रोटावेटर के फार्म मशीनरी बैंक पर 80% सरकारी अनुदान गाइड।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws_machinery_cover.webp"
 story_type: "image"
 category: "मशीनरी सब्सिडी"

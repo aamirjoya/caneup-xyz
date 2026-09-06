@@ -19,11 +19,11 @@ keywords:
 - chini stock limit 2000 quintal up
 - sugar price regulation festive season 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/sugar-dealers-stock-limit-halved-2000-quintals-2026.webp
 image: /images/news/sugar-dealers-stock-limit-halved-2000-quintals-2026.webp
 ---

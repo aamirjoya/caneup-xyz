@@ -19,11 +19,11 @@ keywords:
 - upcsr shahjahanpur foundation seed rate
 - sharadkalin ganna beej booking
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/autumn-sugarcane-seed-booking-opens-co15023-cos17231-2026.webp
 image: /images/news/autumn-sugarcane-seed-booking-opens-co15023-cos17231-2026.webp
 ---

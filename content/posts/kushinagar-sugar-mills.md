@@ -8,11 +8,11 @@ tags: [कुशीनगर चीनी मिल, कुशीनगर श�
 slug: kushinagar-sugar-mills
 keywords: [कुशीनगर चीनी मिल, कुशीनगर शुगर मिल्स 2026, Kushinagar sugar mills list, कुशीनगर गन्ना मिल, UP sugar mills kushinagar, रामकोला चीनी मिल, कैप्टनगंज चीनी मिल, हाटा चीनी मिल]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/kushinagar-sugar-mills.webp
 image: /images/blog/kushinagar-sugar-mills.webp
 ---

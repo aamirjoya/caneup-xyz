@@ -3,7 +3,7 @@ title: "गन्ना किसानों के लिए सरकार�
 date: 2026-09-03T23:42:30+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ना किसानों के लिए सरकारी योजनाएं 2026 — PM-Kisan, KCC लोन, फसल बीमा, ड्रिप सिंचाई सब्सिडी और मशीनरी सब्सिडी। CaneUp पर पूरी जानकारी।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/pm-kisan.webp"
 story_type: "image"
 category: "सरकारी योजनाएं"

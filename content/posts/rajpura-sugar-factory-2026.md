@@ -15,11 +15,11 @@ tags:
 - अनूपशहर चीनी मिल
 slug: rajpura-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/rajpura-sugar-factory-2026.webp"
 image: "/images/blog/rajpura-sugar-factory-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/blog/rajpura-sugar-factory-2026.webp"
 राजपुरा शुगर मिल 2026-27: 916 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Rajpura Sugar Mill Sambhal Aligarh
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **संभल / अलीगढ़ / बुलंदशहर / बदायूं :** राजपुरा शुगर मिल (Rajpura Sugar Mill) पश्चिमी उत्तर प्रदेश के संभल, अलीगढ़, अनूपशहर (बुलंदशहर) और बदायूं जिले की सीमा पर स्थित एक प्रमुख और तेज भुगतान करने वाली चीनी मिल है। आगामी पेराई सत्र 2026-27 के लिए यह चीनी मिल क्षेत्र के लगभग **916 से अधिक गांवों** के गन्ना किसानों से सीधे गन्ने की खरीद करेगी।
 

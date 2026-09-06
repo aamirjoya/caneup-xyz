@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: up-ganna-rakba-47000-hectare-ghata-analysis-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-ganna-rakba-47000-hectare-ghata-analysis-2026.webp"
 image: "/images/news/up-ganna-rakba-47000-hectare-ghata-analysis-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/up-ganna-rakba-47000-hectare-ghata-analysis-2026.webp"
 # यूपी में गन्ने का रकबा 47,000 हेक्टेयर घटा, मक्का और धान की ओर मुड़े किसान
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://caneup.xyz/) - 2026-08-30
 
 **मेरठ/मुजफ्फरनगर (विशेष संवाददाता)।** ### चीनी उत्पादन और आपूर्ति पर संभावित प्रभाव
 

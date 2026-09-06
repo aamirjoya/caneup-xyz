@@ -19,11 +19,11 @@ keywords:
 - eganna session timeout fix 2026 27
 - mill gate live token queue status up
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/eganna-app-v6-2-update-tractor-live-queue-tracking-2026.webp
 image: /images/news/eganna-app-v6-2-update-tractor-live-queue-tracking-2026.webp
 ---

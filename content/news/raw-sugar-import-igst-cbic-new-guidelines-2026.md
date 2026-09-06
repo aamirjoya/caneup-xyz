@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: raw-sugar-import-igst-cbic-new-guidelines-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/raw-sugar-import-igst-cbic-new-guidelines-2026.webp"
 image: "/images/news/raw-sugar-import-igst-cbic-new-guidelines-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/raw-sugar-import-igst-cbic-new-guidelines-2026.webp"
 # कच्ची चीनी आयात पर IGST भुगतान प्रक्रिया आसान, CBIC ने 10 लाख टन TRQ के लिए जारी किए नए नियम
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-29
+[Aamir Raza](https://caneup.xyz/) - 2026-08-29
 
 **नई दिल्ली (विशेष संवाददाता)।** घरेलू बाजार में चीनी की पर्याप्त उपलब्धता बनाए रखने और त्योहारी सीजन में कीमतों को नियंत्रित करने के लिए केंद्र सरकार ने आयात प्रक्रिया को आसान बना दिया है। केंद्रीय अप्रत्यक्ष कर एवं सीमा शुल्क बोर्ड (सीबीआईसी) ने उन रिफाइनरियों और आयातकों के लिए एकीकृत माल एवं सेवा कर (आईजीएसटी) भुगतान के नए दिशा-निर्देश जारी किए हैं, जिन्होंने एडवांस ऑथराइजेशन योजना के तहत कच्ची चीनी का आयात किया था और अब उसे टैरिफ रेट कोटा (टीआरक्यू) व्यवस्था में परिवर्तित कर रहे हैं।
 

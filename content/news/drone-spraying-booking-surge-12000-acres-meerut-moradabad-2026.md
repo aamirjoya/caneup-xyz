@@ -19,11 +19,11 @@ keywords:
 - caneup in drone booking slot response
 - drone spray top borer red rot sugarcane
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/drone-spraying-booking-surge-12000-acres-meerut-moradabad-2026.webp
 image: /images/news/drone-spraying-booking-surge-12000-acres-meerut-moradabad-2026.webp
 ---

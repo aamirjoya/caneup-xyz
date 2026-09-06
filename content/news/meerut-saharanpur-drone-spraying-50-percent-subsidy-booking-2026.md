@@ -19,11 +19,11 @@ keywords:
 - drone spray red rot top borer sugarcane
 - caneup drone booking portal 2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/meerut-saharanpur-drone-spraying-50-percent-subsidy-booking-2026.webp
 image: /images/news/meerut-saharanpur-drone-spraying-50-percent-subsidy-booking-2026.webp
 ---

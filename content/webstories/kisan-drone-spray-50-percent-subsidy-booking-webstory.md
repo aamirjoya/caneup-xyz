@@ -3,7 +3,7 @@ title: "किसान ड्रोन छिड़काव — ₹250 मे�
 date: 2026-09-04T10:45:00+05:30
 lastmod: 2026-09-04T10:45:00+05:30
 description: "गन्ना विकास विभाग की 50% सब्सिडी वाली ड्रोन छिड़काव योजना: 10 मिनट में 1 एकड़ में पोटाश व फफूंदनाशक स्प्रे कराने की ऑनलाइन प्रक्रिया।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws2_drone_cover.webp"
 story_type: "image"
 category: "सरकारी योजना"

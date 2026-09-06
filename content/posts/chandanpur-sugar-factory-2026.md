@@ -17,11 +17,11 @@ tags:
 - Chandanpur Mill Village List
 slug: chandanpur-sugar-factory-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/blog/chandanpur-sugar-factory-2026.webp"
 image: "/images/blog/chandanpur-sugar-factory-2026.webp"
 ---
@@ -29,7 +29,7 @@ image: "/images/blog/chandanpur-sugar-factory-2026.webp"
 # चंदनपुर चीनी मिल 2026-27: 343 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Chandanpur Sugar Mill Amroha Hasanpur
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / हसनपुर / गजरौला / मंडी धनौरा / उझारी :** वेव इंडस्ट्रीज (Wave Industries) द्वारा संचालित **चंदनपुर चीनी मिल (Chandanpur Sugar Mill - CaneUp Mill Code 142)** पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)** के हसनपुर क्षेत्र की सबसे प्रमुख और विशाल चीनी मिल है। पेराई सत्र **2026-27** के लिए उत्तर प्रदेश सरकार के गन्ना विकास एवं चीनी उद्योग विभाग (Cane Development Department UP) ने हसनपुर, गजरौला, उझारी, और अमरोहा सदर क्षेत्र के **343 से अधिक पंजीकृत गांवों** का गन्ना आवंटन चंदनपुर चीनी मिल को किया है।
 

@@ -3,7 +3,7 @@ title: "गन्ने का भाव ₹600/क्विंटल मां�
 date: 2026-09-03T17:10:50+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने का भाव 2026-27: किसान संगठनों की ₹600/क्विंटल की मांग, चीनी की बढ़ती कीमतें और यूपी सरकार के SAP का पूरा विश्लेषण।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-bhav-600-cover.webp"
 story_type: "image"
 category: "गन्ना भाव"

@@ -19,11 +19,11 @@ keywords:
 - samajwadi party sugarcane policy western up
 - ganna kisan rajneeti up assembly 2027
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/sp-chief-akhilesh-yadav-promises-24-hour-cane-payment-2026.webp
 image: /images/news/sp-chief-akhilesh-yadav-promises-24-hour-cane-payment-2026.webp
 ---

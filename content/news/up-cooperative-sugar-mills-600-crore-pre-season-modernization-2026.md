@@ -19,11 +19,11 @@ keywords:
 - cooperative sugar mill crushing performance 2026 27
 - sugarfed up modernization package
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/up-cooperative-sugar-mills-600-crore-pre-season-modernization-2026.webp
 image: /images/news/up-cooperative-sugar-mills-600-crore-pre-season-modernization-2026.webp
 ---

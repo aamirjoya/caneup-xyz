@@ -19,11 +19,11 @@ keywords:
 - enquiry caneup in satta correction day 4 report
 - up cane commissioner emergency review meeting
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/news/up-ganna-satta-campaign-day-4-68000-objections-resolved-2026.webp
 image: /images/news/up-ganna-satta-campaign-day-4-68000-objections-resolved-2026.webp
 ---

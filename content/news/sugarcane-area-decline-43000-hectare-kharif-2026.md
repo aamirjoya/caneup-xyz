@@ -2,7 +2,7 @@
 title: "चिंता की बात! गन्ने का रकबा 43,000 हेक्टेयर घटा - खरीफ 2026-27 सीजन में बड़ी गिरावट"
 date: 2026-08-26T12:45:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["गन्ना क्षेत्रफल", "sugarcane area", "खरीफ 2026", "farming"]
 categories: ["Agriculture", "Breaking News"]
 description: "खरीफ 2026-27 में गन्ने की बुवाई का क्षेत्र 43,000 हेक्टेयर कम हुआ। 21 अगस्त तक 58.44 लाख हेक्टेयर में बुवाई हुई जो पिछले साल से कम है।"

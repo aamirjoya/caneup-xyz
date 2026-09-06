@@ -3,7 +3,7 @@ title: "गन्ने की कटाई गाइड — ज्यादा 
 date: 2026-09-04T07:12:55+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "गन्ने की कटाई गाइड 2026 — कब काटें, पकने के संकेत, काटने का तरीका, कटाई के बाद क्या करें, और ज्यादा चीनी कैसे निकालें।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/harvesting.webp"
 story_type: "image"
 category: "कटाई"

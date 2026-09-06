@@ -2,7 +2,7 @@
 title: "Ganna Survey Status Online कैसे Check करें? CaneUP पर Survey Details देखने का तरीका 2026"
 date: 2026-08-26T10:30:00+05:30
 draft: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 tags: ["ganna survey", "CaneUP", "survey status", "online check", "UP", "2026"]
 categories: ["CaneUP Guide", "Survey", "How To"]
 description: "CaneUP portal par ganna survey status kaise check karen? Survey hua ya nahi, area kitna registered hai, mill assignment - sab kuch online dekhen."

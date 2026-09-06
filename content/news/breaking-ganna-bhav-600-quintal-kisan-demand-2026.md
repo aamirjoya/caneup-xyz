@@ -13,11 +13,11 @@ tags:
 - UP News
 slug: breaking-ganna-bhav-600-quintal-kisan-demand-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/ganna-bhav-sap-2026-27.webp"
 image: "/images/news/ganna-bhav-sap-2026-27.webp"
 ---
@@ -25,7 +25,7 @@ image: "/images/news/ganna-bhav-sap-2026-27.webp"
 गन्ने का भाव ₹600/क्विंटल करने की मांग, किसान संगठनों ने सरकार को दिया 15 दिन का अल्टीमेटम
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://caneup.xyz/) - August 28, 2026
 
 **मेरठ/मुजफ्फरनगर :** पेराई सत्र 2026-27 के आगाज से ठीक पहले उत्तर प्रदेश में गन्ने के भाव (SAP) को लेकर किसान राजनीति उफान पर पहुंच गई है। 28 अगस्त 2026 को मुजफ्फरनगर की ऐतिहासिक तितावी चीनी मिल मैदान में आयोजित विशाल किसान महापंचायत में भारतीय किसान यूनियन (BKU) और राष्ट्रीय किसान मजदूर संगठन ने राज्य सरकार से गन्ने का राज्य परामर्शित मूल्य (SAP) ₹370 से बढ़ाकर ₹600 प्रति क्विंटल करने की जोरदार मांग उठाई है। किसान नेताओं ने सर्वसम्मति से प्रस्ताव पास कर मुख्यमंत्री योगी आदित्यनाथ को 15 दिनों का अल्टीमेटम दिया है।
 

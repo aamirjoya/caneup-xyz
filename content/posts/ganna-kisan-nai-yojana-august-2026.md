@@ -8,11 +8,11 @@ tags: [गन्ना किसान योजना, मोदी सरक�
 slug: ganna-kisan-nai-yojana-august-2026
 keywords: [गन्ना किसान योजना 2026, मोदी सरकार किसान योजना, गन्ना सब्सिडी, किसान सम्मान निधि 2026, ganna kisan yojana]
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/ganna-kisan-nai-yojana-august-2026.webp
 image: /images/blog/ganna-kisan-nai-yojana-august-2026.webp
 ---

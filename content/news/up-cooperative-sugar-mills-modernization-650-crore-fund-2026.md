@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: up-cooperative-sugar-mills-modernization-650-crore-fund-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-cooperative-sugar-mills-modernization-650-crore-fund-2026.webp"
 image: "/images/news/up-cooperative-sugar-mills-modernization-650-crore-fund-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/up-cooperative-sugar-mills-modernization-650-crore-fund-202
 # यूपी की 28 सहकारी चीनी मिलों के आधुनिकीकरण के लिए 650 करोड़ रुपये मंजूर, 15 अक्टूबर से पहले अपग्रेड होंगी मशीनें
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश की सहकारी चीनी मिलों की पेराई क्षमता बढ़ाने, रिकवरी में सुधार करने और पेराई सत्र के दौरान होने वाले बार-बार के तकनीकी ब्रेकडाउन (ब्रेकडाउन/नो-केन) को पूरी तरह समाप्त करने के लिए राज्य सरकार ने बड़ा वित्तीय कदम उठाया है। उत्तर प्रदेश सहकारी चीनी मिल संघ (UP Cooperative Sugar Factories Federation) ने प्रदेश की **28 सहकारी चीनी मिलों के आधुनिकीकरण और ओवरहॉलिंग के लिए ₹650 करोड़ का विशेष रिवॉल्विंग फंड** मंजूर किया है।
 

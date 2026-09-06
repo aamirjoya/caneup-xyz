@@ -15,11 +15,11 @@ tags:
 - eGanna App 2026
 slug: up-ganna-bhugtan-1200-crore-release-august-2026
 ShowToc: false
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/up-ganna-bhugtan-1200-crore-release-august-2026.webp"
 image: "/images/news/up-ganna-bhugtan-1200-crore-release-august-2026.webp"
 ---
@@ -27,7 +27,7 @@ image: "/images/news/up-ganna-bhugtan-1200-crore-release-august-2026.webp"
 # यूपी में गन्ने का 1200 करोड़ से अधिक का भुगतान जारी, राज्य में 97.4 प्रतिशत बकाया चुकता
 
 By  
-[Randhir Patil](https://caneup.xyz/) - 2026-08-31
+[Aamir Raza](https://caneup.xyz/) - 2026-08-31
 
 **लखनऊ (विशेष संवाददाता)।** उत्तर प्रदेश के गन्ना किसानों के लिए राहत भरी खबर है। पेराई सत्र 2025-26 के अंतिम चरण में राज्य सरकार और चीनी मिलों के संयुक्त प्रयासों से अगस्त के अंतिम सप्ताह में **1,200 करोड़ रुपये से अधिक की बकाया धनराशि** सीधे किसानों के बैंक खातों में डीबीटी के जरिए ट्रांसफर कर दी गई है। 
 

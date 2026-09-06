@@ -19,11 +19,11 @@ keywords:
 - up agriculture token booking 2026
 - custom hiring center up
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: /images/blog/krishi-yantra-bank-80-subsidy-2026.webp
 image: /images/blog/krishi-yantra-bank-80-subsidy-2026.webp
 ---

@@ -3,7 +3,7 @@ title: "PM Kisan योजना 2030 तक जारी: ₹3.15 लाख क
 date: 2026-09-04T03:17:55+05:30
 lastmod: 2026-09-04T09:35:00+05:30
 description: "केंद्रीय मंत्रिमंडल का ऐतिहासिक फैसला। पीएम किसान सम्मान निधि योजना को 2030-31 तक जारी रखने के लिए ₹3.15 लाख करोड़ का बजट स्वीकृत।"
-author_name: "Randhir Patil"
+author_name: "Aamir Raza"
 featured_image: "/images/webstories/ws-pmkisan-2030-cover.webp"
 story_type: "image"
 category: "CaneUp Guide"

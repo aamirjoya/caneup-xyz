@@ -16,11 +16,11 @@ tags:
 - eGanna Parchi News
 slug: pashchimi-up-ganna-bhav-sap-400-demand-2026
 ShowToc: true
-author: "Randhir Patil"
+author: "Aamir Raza"
 authors:
-- "Randhir Patil"
-author_name: "Randhir Patil"
-author_image: "/images/authors/randhir-patil.webp"
+- "Aamir Raza"
+author_name: "Aamir Raza"
+author_image: "/images/authors/aamir-raza.webp"
 featured_image: "/images/news/pashchimi-up-ganna-bhav-sap-400-demand-2026.webp"
 image: "/images/news/pashchimi-up-ganna-bhav-sap-400-demand-2026.webp"
 ---
@@ -28,7 +28,7 @@ image: "/images/news/pashchimi-up-ganna-bhav-sap-400-demand-2026.webp"
 # पश्चिमी यूपी गन्ना मूल्य 2026-27: अमरोहा, मेरठ, मुजफ्फरनगर किसानों की ₹400/क्विंटल मांग पर बड़ा फैसला
 
 By  
-[Randhir Patil](https://caneup.xyz/) - August 29, 2026
+[Aamir Raza](https://caneup.xyz/) - August 29, 2026
 
 **अमरोहा / मेरठ / मुजफ्फरनगर / मुरादाबाद (विशेष संवाददाता):** उत्तर प्रदेश के सबसे बड़े गन्ना उत्पादक बेल्ट पश्चिमी यूपी में आगामी पेराई सत्र **2026-27** के लिए राज्य परामर्शित मूल्य (State Advised Price - SAP Rate) को लेकर सरगर्मी अपने चरम पर पहुंच गई है। पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)**, मेरठ, मुजफ्फरनगर, शामली, सहारनपुर और मुरादाबाद के लाखों गन्ना किसानों और भारतीय किसान यूनियन (BKU) ने सरकार से गन्ने का भाव **₹400 प्रति क्विंटल** घोषित करने की जोरदार मांग की है।
 
