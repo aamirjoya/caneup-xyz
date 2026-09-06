@@ -107,6 +107,9 @@
 <!-- Body -->
 <div class="fp-body">
   {{ .Content }}
+  {{ if and (ne .Slug "kisan-samasya-form") (ne .RelPermalink "/kisan-samasya-form/") }}
+  {{ partial "kisan-form.html" . }}
+  {{ end }}
 </div>
 
 <!-- FAQ Schema if any -->

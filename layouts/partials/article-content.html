@@ -301,6 +301,11 @@
 {{ end }}
 </div>
 
+{{/* Kisan Samasya Grievance Form at the end of every article and news */}}
+{{ if and (ne .Slug "kisan-samasya-form") (ne .RelPermalink "/kisan-samasya-form/") }}
+{{ partial "kisan-form.html" . }}
+{{ end }}
+
 <!-- Author Box -->
 <div class="author-box">
 <div class="author-box-inner">
