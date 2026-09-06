@@ -350,15 +350,11 @@ textarea.form-control {
     <!-- Success Receipt Box -->
     <div class="success-card" id="successBox">
       <div style="width: 58px; height: 58px; background: #22c55e; color: #ffffff; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 30px; margin: 0 auto 12px; box-shadow: 0 4px 14px rgba(34,197,94,0.35);">✓</div>
-      <h3 style="color: #15803d; font-size: 22px; margin: 0 0 10px; font-weight: 800;">🎉 आपकी समस्या सफलतापूर्वक दर्ज हो गई है!</h3>
       <div id="successSummary"></div>
-      <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
-        <button type="button" onclick="resetKisanForm()" style="background: #15803d; color: #ffffff; border: none; padding: 11px 22px; border-radius: 8px; font-weight: 700; font-size: 14px; cursor: pointer; transition: background 0.2s; box-shadow: 0 2px 8px rgba(21,128,61,0.25);">
+      <div style="margin-top: 20px; text-align: center;">
+        <button type="button" onclick="resetKisanForm()" style="background: #15803d; color: #ffffff; border: none; padding: 11px 26px; border-radius: 8px; font-weight: 700; font-size: 15px; cursor: pointer; transition: background 0.2s; box-shadow: 0 2px 8px rgba(21,128,61,0.25);">
           ➕ दूसरी समस्या दर्ज करें
         </button>
-        <a href="#" id="waDirectBtn" target="_blank" style="color: #166534; font-size: 13px; text-decoration: underline; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
-          (ऐच्छिक) व्हाट्सएप पर मैसेज भेजें →
-        </a>
       </div>
     </div>
   </div>
@@ -543,23 +539,9 @@ function handleKisanSubmit(e) {
     } catch(e) {}
   }
 
-  // 3. Format WhatsApp message
-  var waText = "🌾 *गन्ना किसान समस्या / सहायता फॉर्म - CaneUp*\n" +
-               "----------------------------------\n" +
-               "👤 *किसान का नाम:* " + name + "\n" +
-               "📱 *मोबाइल नंबर:* " + phone + "\n" +
-               "📍 *जिला:* " + dist + "\n" +
-               "🏭 *चीनी मिल:* " + mill + "\n" +
-               "🏡 *गांव का नाम:* " + village + "\n" +
-               "----------------------------------\n" +
-               "📝 *समस्या / सवाल:*\n" + message + "\n" +
-               "----------------------------------\n" +
-               "✅ *सहमति:* मैं अपनी चीनी मिल से जुड़े दैनिक अपडेट्स व्हाट्सएप पर पाने के लिए सहमत हूँ।";
-
-  var waUrl = "https://api.whatsapp.com/send?phone=917017208945&text=" + encodeURIComponent(waText);
-
-  // 4. Show On-Page Success Confirmation (No auto-redirect to WhatsApp)
-  var summaryHtml = "<p style='font-size:16px; color:#14532d; font-weight:600; margin-bottom:14px;'>प्रिय <strong>" + name + "</strong> जी, आपकी शिकायत CaneUp सहायता पोर्टल पर दर्ज कर ली गई है।</p>" +
+  // 3. Show On-Page Success Confirmation (100% on-page, no WhatsApp link/redirect)
+  var summaryHtml = "<h3 style='color:#15803d; font-size:22px; margin:0 0 10px; font-weight:800;'>🎉 आपकी समस्या सफलतापूर्वक दर्ज हो गई है!</h3>" +
+                    "<p style='font-size:16px; color:#14532d; font-weight:600; margin-bottom:14px;'>प्रिय <strong>" + name + "</strong> जी, आपकी शिकायत CaneUp सहायता पोर्टल पर दर्ज कर ली गई है।</p>" +
                     "<div style='background:#ffffff; border:1px solid #bbf7d0; border-radius:10px; padding:14px; margin-bottom:16px; text-align:left; font-size:14px; line-height:1.8; color:#374151; box-shadow:inset 0 1px 3px rgba(0,0,0,0.02);'>" +
                     "<div>📍 <strong>जिला:</strong> " + dist + "</div>" +
                     "<div>🏭 <strong>चीनी मिल:</strong> " + mill + "</div>" +
@@ -572,7 +554,6 @@ function handleKisanSubmit(e) {
   if (formEl) formEl.style.display = 'none';
 
   document.getElementById('successSummary').innerHTML = summaryHtml;
-  document.getElementById('waDirectBtn').href = waUrl;
   document.getElementById('successBox').classList.add('active');
 
   // Smooth scroll to success card
