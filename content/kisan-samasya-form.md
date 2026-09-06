@@ -5,7 +5,8 @@ lastmod: 2026-09-06T13:05:00+05:30
 description: "गन्ना किसान अपनी समस्या (पर्ची कैलेंडर, सट्टा संशोधन, सर्वे रकबा, ई-गन्ना ऐप, 14 दिन भुगतान) सीधे दर्ज करें। 15 सितंबर सट्टा सुधार व चीनी मिल व्हाट्सएप अपडेट्स।"
 keywords: ["गन्ना किसान समस्या निवारण", "caneup kisan help form", "गन्ना पर्ची शिकायत कैसे करें", "सट्टा संशोधन 15 सितंबर 2026", "गन्ना भुगतान देरी शिकायत", "eGanna app हेल्प", "चीनी मिल व्हाट्सएप अपडेट"]
 slug: kisan-samasya-form
-featured_image: /images/blog/sugar-mill-list-up.webp
+featured_image: /images/blog/kisan-samasya-samadhan-banner.webp
+image: /images/blog/kisan-samasya-samadhan-banner.webp
 ShowToc: true
 author: "Aamir Raza"
 authors:
