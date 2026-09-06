@@ -349,12 +349,17 @@ textarea.form-control {
 
     <!-- Success Receipt Box -->
     <div class="success-card" id="successBox">
-      <h3>🎉 आपकी समस्या दर्ज हो गई है!</h3>
-      <p id="successSummary"></p>
-      <a href="#" id="waDirectBtn" target="_blank" class="btn-wa-direct">
-        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.771-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.312.045-.632.063-.996-.063-.591-.205-1.393-.574-2.434-1.503-1.309-1.168-2.031-2.493-2.18-2.738-.149-.245-.015-.378.107-.5.11-.11.244-.286.366-.429.123-.143.163-.245.244-.408.082-.163.041-.306-.02-.429-.061-.122-.55-1.327-.755-1.817-.199-.479-.403-.414-.55-.422h-.47c-.163 0-.428.061-.652.306s-.857.837-.857 2.041c0 1.204.877 2.367 1 2.53.122.163 1.724 2.632 4.177 3.689.583.251 1.038.401 1.393.514.586.186 1.12.16 1.543.097.472-.071 1.448-.592 1.653-1.163.204-.571.204-1.061.143-1.163-.061-.102-.224-.163-.469-.286zM12 2C6.477 2 2 6.477 2 12c0 1.891.524 3.662 1.436 5.179L2 22l4.981-1.308A9.957 9.957 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18.2a8.163 8.163 0 01-4.218-1.174l-.302-.18-2.97.779.792-2.894-.197-.314A8.164 8.164 0 1112 20.2z"/></svg>
-        <span>व्हाट्सएप पर सहायता मैसेज भेजें</span>
-      </a>
+      <div style="width: 58px; height: 58px; background: #22c55e; color: #ffffff; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 30px; margin: 0 auto 12px; box-shadow: 0 4px 14px rgba(34,197,94,0.35);">✓</div>
+      <h3 style="color: #15803d; font-size: 22px; margin: 0 0 10px; font-weight: 800;">🎉 आपकी समस्या सफलतापूर्वक दर्ज हो गई है!</h3>
+      <div id="successSummary"></div>
+      <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
+        <button type="button" onclick="resetKisanForm()" style="background: #15803d; color: #ffffff; border: none; padding: 11px 22px; border-radius: 8px; font-weight: 700; font-size: 14px; cursor: pointer; transition: background 0.2s; box-shadow: 0 2px 8px rgba(21,128,61,0.25);">
+          ➕ दूसरी समस्या दर्ज करें
+        </button>
+        <a href="#" id="waDirectBtn" target="_blank" style="color: #166534; font-size: 13px; text-decoration: underline; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
+          (ऐच्छिक) व्हाट्सएप पर मैसेज भेजें →
+        </a>
+      </div>
     </div>
   </div>
 </div>
@@ -553,18 +558,36 @@ function handleKisanSubmit(e) {
 
   var waUrl = "https://api.whatsapp.com/send?phone=917017208945&text=" + encodeURIComponent(waText);
 
-  // 4. Show Success Receipt Box
-  var summaryText = "प्रिय <strong>" + name + "</strong> जी, आपकी समस्या (जिला: " + dist + ", मिल: " + mill + ") सफलतापूर्वक दर्ज कर ली गई है। <strong>" + phone + "</strong> पर हमारी टीम आपसे जल्द संपर्क करेगी। तुरंत सहायता के लिए नीचे दिए गए बटन पर टैप करें:";
-  document.getElementById('successSummary').innerHTML = summaryText;
+  // 4. Show On-Page Success Confirmation (No auto-redirect to WhatsApp)
+  var summaryHtml = "<p style='font-size:16px; color:#14532d; font-weight:600; margin-bottom:14px;'>प्रिय <strong>" + name + "</strong> जी, आपकी शिकायत CaneUp सहायता पोर्टल पर दर्ज कर ली गई है।</p>" +
+                    "<div style='background:#ffffff; border:1px solid #bbf7d0; border-radius:10px; padding:14px; margin-bottom:16px; text-align:left; font-size:14px; line-height:1.8; color:#374151; box-shadow:inset 0 1px 3px rgba(0,0,0,0.02);'>" +
+                    "<div>📍 <strong>जिला:</strong> " + dist + "</div>" +
+                    "<div>🏭 <strong>चीनी मिल:</strong> " + mill + "</div>" +
+                    "<div>🏡 <strong>गांव:</strong> " + village + "</div>" +
+                    "<div>📱 <strong>मोबाइल नंबर:</strong> " + phone + "</div>" +
+                    "</div>" +
+                    "<p style='font-size:14px; color:#166534; font-weight:500; margin:0;'>✅ आपका डेटा सुरक्षित सेव हो चुका है। हमारी सहायता टीम आपके नंबर पर जल्द संपर्क करेगी।</p>";
+
+  var formEl = document.getElementById('kisanGrievanceForm');
+  if (formEl) formEl.style.display = 'none';
+
+  document.getElementById('successSummary').innerHTML = summaryHtml;
   document.getElementById('waDirectBtn').href = waUrl;
   document.getElementById('successBox').classList.add('active');
 
   // Smooth scroll to success card
-  document.getElementById('successBox').scrollIntoView({ behavior: 'smooth' });
+  document.getElementById('successBox').scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
 
-  // Automatically open WhatsApp in new tab after 1 second
-  setTimeout(function() {
-    window.open(waUrl, '_blank');
-  }, 1000);
+function resetKisanForm() {
+  var formEl = document.getElementById('kisanGrievanceForm');
+  if (formEl) {
+    formEl.reset();
+    formEl.style.display = 'block';
+  }
+  var successEl = document.getElementById('successBox');
+  if (successEl) successEl.classList.remove('active');
+  var otherRow = document.getElementById('otherMillRow');
+  if (otherRow) otherRow.style.display = 'none';
 }
 </script>
