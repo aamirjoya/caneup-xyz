@@ -20,7 +20,7 @@
     {{ with .Params.featured_image }}
     <image:image>
       <image:loc>{{ . | absURL }}</image:loc>
-      <image:title>{{ $.Title | htmlEscape }}</image:title>
+      <image:title>{{ .Title | htmlEscape }}</image:title>
     </image:image>
     {{ end }}
   </url>
@@ -43,7 +43,7 @@
     {{ with .Params.featured_image }}
     <image:image>
       <image:loc>{{ . | absURL }}</image:loc>
-      <image:title>{{ $.Title | htmlEscape }}</image:title>
+      <image:title>{{ .Title | htmlEscape }}</image:title>
     </image:image>
     {{ end }}
   </url>

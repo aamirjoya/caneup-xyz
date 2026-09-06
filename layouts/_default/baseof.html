@@ -25,8 +25,8 @@
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
   <meta name="twitter:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
   <meta name="twitter:image:alt" content="{{ .Title }}">
-  <meta name="twitter:site" content="@caneupxyz">
-  <meta name="twitter:creator" content="@caneupxyz">
+  <meta name="twitter:site" content="@caneupupdates">
+  <meta name="twitter:creator" content="@caneupupdates">
 
   {{ if eq .Section "tags" }}<meta name="robots" content="noindex, nofollow">{{ else }}<meta name="robots" content="index, follow, max-image-preview:large">{{ end }}
   {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">{{ end }}

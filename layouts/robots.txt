@@ -12,5 +12,4 @@ User-agent: Googlebot-Image
 Allow: /
 
 User-agent: Googlebot-News
-Allow: /news/
-Allow: /posts/
+Allow: /
