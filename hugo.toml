@@ -82,6 +82,7 @@ buildExpired = false
   hideSummary = false
   showtoc = true
   tocopen = true
+  kisan_sheet_url = "https://script.google.com/macros/s/AKfycbw4CHEk9Mi2kPVkrIyC4i0YTpQkG5BSgsNl3mMvdtFYAeSKqKW7_Dmdc_qSZ-qfONz9sA/exec"
 
   [params.assets]
     disableFingerprinting = true

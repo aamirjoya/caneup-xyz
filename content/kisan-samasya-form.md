@@ -496,7 +496,7 @@ function handleKisanSubmit(e) {
   }
 
   // 2. Background sync to Google Sheets Webhook
-  var sheetWebhookUrl = window.CANEUP_SHEET_URL || '';
+  var sheetWebhookUrl = window.CANEUP_SHEET_URL || 'https://script.google.com/macros/s/AKfycbw4CHEk9Mi2kPVkrIyC4i0YTpQkG5BSgsNl3mMvdtFYAeSKqKW7_Dmdc_qSZ-qfONz9sA/exec';
   if (sheetWebhookUrl) {
     try {
       fetch(sheetWebhookUrl, {
