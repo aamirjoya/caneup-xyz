@@ -34,9 +34,7 @@ image: /images/news/up-ganna-satta-correction-day-5-15-september-deadline-2026.w
 
 मुजफ्फरनगर, मेरठ, शामली, बिजनौर और लखीमपुर खीरी की समितियों में किसानों की भारी भीड़ को देखते हुए गन्ना आयुक्त ने स्पष्ट आदेश जारी किया है कि सभी 168 समितियों के काउंटर **प्रतिदिन शाम 7:00 बजे तक अनिवार्य रूप से खुले रहेंगे**।
 
-{{< tweet name="Department of Sugar Industry and Cane Dev, UP" handle="UPCaneDept" avatar="/images/avatars/up-cane-dept.webp" date="4 Sep 2026" reposts="1.9K" quotes="230" likes="5.6K" >}}
-📢 गन्ना किसान भाई ध्यान दें: पेराई सत्र 2026-27 के लिए सट्टा संशोधन व आपत्ति दर्ज करने की अंतिम तिथि 15 सितंबर है। किसान भाई eGanna App अथवा enquiry.caneup.in पर जाकर अपना रकबा, बैंक खाता और बेसिक कोटा समय रहते दुरुस्त करा लें। #UPCane #eGanna #FarmerFirst
-{{< /tweet >}}
+}
 
 ### सट्टे में सबसे ज्यादा होने वाली 2 गलतियां और उनका समाधान
 
