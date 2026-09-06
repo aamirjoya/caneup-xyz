@@ -475,6 +475,39 @@ function handleKisanSubmit(e) {
     return;
   }
 
+  // 1. Save data locally for 1-click Excel (.csv/.xlsx) export
+  try {
+    var leadObj = {
+      id: Date.now(),
+      date: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }),
+      name: name,
+      phone: phone,
+      district: dist,
+      mill: mill,
+      village: village,
+      message: message,
+      consent: 'हाँ (सहमति दी गई)'
+    };
+    var existingLeads = JSON.parse(localStorage.getItem('caneup_kisan_leads') || '[]');
+    existingLeads.push(leadObj);
+    localStorage.setItem('caneup_kisan_leads', JSON.stringify(existingLeads));
+  } catch (err) {
+    console.error('LocalStorage error:', err);
+  }
+
+  // 2. Background sync to Google Sheets Webhook
+  var sheetWebhookUrl = window.CANEUP_SHEET_URL || '';
+  if (sheetWebhookUrl) {
+    try {
+      fetch(sheetWebhookUrl, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(leadObj)
+      }).catch(function(e){ console.log('Sheet sync error', e); });
+    } catch(e) {}
+  }
+
   // Format WhatsApp message
   var waText = "🌾 *गन्ना किसान समस्या / सहायता फॉर्म - CaneUp*\n" +
                "----------------------------------\n" +
