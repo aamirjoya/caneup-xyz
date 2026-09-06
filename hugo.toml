@@ -143,6 +143,12 @@ buildExpired = false
     weight = 2
 
   [[menu.main]]
+    identifier = "kisan-help"
+    name = "किसान सहायता 💬"
+    url = "/kisan-samasya-form/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "parchi"
     name = "पर्ची कैलेंडर"
     url = "/categories/parchi-calendar/"
