@@ -10,7 +10,7 @@ category: "गन्ना बीज व खेती"
 tags: ['Co-15023', 'Co-0118', 'बीज सब्सिडी 2026', 'शरदकालीन बुवाई', 'UPCSR']
 keywords: ['co-15023 certified seed subsidy', 'co-0118 online booking upcsr', 'ganna beej anudan 2026']
 slides:
-  - image: "/images/webstories/farmer-field.webp"
+  - image: "/images/webstories/ws-gen-seed-cane.webp"
     title: "शरदकालीन बुवाई का सर्वश्रेष्ठ विकल्प"
     subtitle: "रेड रॉट प्रतिरोधी Co-15023 और Co-0118 किस्में 450 से 500 क्विंटल प्रति एकड़ तक भारी पैदावार देती हैं।"
     credit: "CaneUp"

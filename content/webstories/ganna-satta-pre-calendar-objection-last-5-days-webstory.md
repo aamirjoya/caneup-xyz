@@ -10,7 +10,7 @@ category: "सट्टा प्री-कैलेंडर"
 tags: ['सट्टा सुधार', 'प्री-कैलेंडर 2026', 'enquiry.caneup.in', 'गन्ना किसान', 'UP Agriculture']
 keywords: ['ganna satta pre calendar 2026', 'satta sudhar last 5 days', 'caneup enquiry objection', 'ganna parchi objection']
 slides:
-  - image: "/images/webstories/pexels-document-writing-farmer-8815849.webp"
+  - image: "/images/webstories/ws-gen-satta-office.webp"
     title: "15 सितंबर की अंतिम तारीख"
     subtitle: "सट्टा प्री-कैलेंडर में नाम, रकबा, प्रजाति या बैंक खाता गलत है तो सिर्फ 5 दिन में आपत्ति दर्ज कराएं।"
     credit: "CaneUp"

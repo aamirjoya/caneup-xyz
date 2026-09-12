@@ -10,7 +10,7 @@ category: "गन्ना भुगतान"
 tags: ['गन्ना भुगतान 2026', 'बकाया भुगतान', 'डिफॉल्टर मिल नोटिस', 'गन्ना आयुक्त', 'Cane Payment']
 keywords: ['up sugar mills 31800 crore payment', 'defaulter mills notice rc', 'ganna bhugtan status check']
 slides:
-  - image: "/images/webstories/ganna-bhugtan-status-check-2026.webp"
+  - image: "/images/webstories/ws-gen-farmer-payment.webp"
     title: "96.8% भुगतान पूरा हुआ"
     subtitle: "गन्ना विभाग ने 10 सितंबर 2026 तक रिकॉर्ड ₹31,800 करोड़ किसानों के बैंक खातों में डीबीटी से हस्तांतरित किए।"
     credit: "CaneUp"

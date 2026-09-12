@@ -10,7 +10,7 @@ category: "कृषि खाद"
 tags: ['DAP Fertilizer', 'खाद मूल्य 2026', 'कालाबाजारी रोक', 'कृषि विभाग', 'CaneUp Alert']
 keywords: ['dap fertilizer mrp 1350', 'dap overrating complaint', 'ganna buwai khad', 'fertilizer control order']
 slides:
-  - image: "/images/webstories/fertilizer.webp"
+  - image: "/images/webstories/ws-gen-dap-store.webp"
     title: "₹1350 प्रति बोरी सरकारी रेट"
     subtitle: "50 किलोग्राम DAP बोरी की MRP ठीक ₹1,350 तय है, इससे एक भी रुपया ज्यादा वसूलना दंडनीय अपराध है।"
     credit: "CaneUp"

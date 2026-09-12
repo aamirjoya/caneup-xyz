@@ -10,7 +10,7 @@ category: "ई-गन्ना ऐप गाइड"
 tags: ['eGanna App v6.2', 'बायोमेट्रिक लॉगिन', 'गन्ना पर्ची ऐप', 'मोबाइल ऐप गाइड', 'CaneUp']
 keywords: ['eganna app v6.2 download', 'eganna fingerprint biometric login', 'eganna offline slip mode']
 slides:
-  - image: "/images/webstories/eganna-app-naya-update-2026.webp"
+  - image: "/images/webstories/ws-gen-eganna-biometric.webp"
     title: "eGanna App का नया वर्जन 6.2"
     subtitle: "गन्ना किसानों की सुविधा के लिए यूपी सरकार ने गूगल प्ले स्टोर पर नया हाई-स्पीड अपडेट लाइव किया है।"
     credit: "CaneUp"

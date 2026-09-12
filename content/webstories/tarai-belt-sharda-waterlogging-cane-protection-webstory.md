@@ -10,7 +10,7 @@ category: "फसल सुरक्षा"
 tags: ['तराई जलभराव', 'गन्ना सुरक्षा', 'रेड रॉट बचाव', 'लखीमपुर खीरी', 'कृषि सलाह']
 keywords: ['tarai waterlogging ganna crop', 'sugarcane root rot remedy', 'water drainage sugarcane field']
 slides:
-  - image: "/images/webstories/canal-irrigation.webp"
+  - image: "/images/webstories/ws-gen-tarai-drainage.webp"
     title: "तराई में जलभराव की चुनौती"
     subtitle: "लगातार बारिश और नदियों के उफान से निचले खेतों में 4-5 दिनों से पानी भरा होने से जड़ें दम तोड़ रही हैं।"
     credit: "CaneUp"

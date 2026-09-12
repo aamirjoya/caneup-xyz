@@ -10,7 +10,7 @@ category: "एग्रीस्टैक मिशन"
 tags: ['Farmer ID Camp', 'CSC Special Camp', 'AgriStack UP', 'डिजिटल किसान आईडी', 'CaneUp']
 keywords: ['special farmer id camp 12 13 september', 'agristack csc free camp', 'digital farmer id ganna satta']
 slides:
-  - image: "/images/webstories/pexels-office-customer-service-phone-30472481.webp"
+  - image: "/images/webstories/ws-gen-csc-camp.webp"
     title: "12 व 13 सितंबर: विशेष महाअभियान"
     subtitle: "उत्तर प्रदेश के प्रत्येक ग्राम पंचायत सचिवालय और सीएससी केंद्र पर 2 दिवसीय निःशुल्क कैंप आयोजित होंगे।"
     credit: "CaneUp"

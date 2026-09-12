@@ -10,7 +10,7 @@ category: "चीनी मिल अपडेट"
 tags: ['बॉयलर पूजन', 'पेराई सत्र 2026-27', 'वेस्ट यूपी चीनी मिल', 'गन्ना पर्ची', 'Sugar Mill']
 keywords: ['boiler puja sugar mills 2026', 'crushing season 2026-27', 'west up chini mill chalu tithi']
 slides:
-  - image: "/images/webstories/mill-process.webp"
+  - image: "/images/webstories/ws-gen-boiler-puja.webp"
     title: "बॉयलर पूजन का शुभारंभ"
     subtitle: "दौराला, खतौली, भैसाना और मवाना शुगर मिलों में वैदिक मंत्रोच्चार के साथ बॉयलर पूजन संपन्न हुआ।"
     credit: "CaneUp"

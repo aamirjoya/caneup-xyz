@@ -10,7 +10,7 @@ category: "किसान आंदोलन"
 tags: ['BKU Protest', 'गन्ना भाव 450', 'राकेश टिकैत', 'पेराई सत्र 2026', 'Kisan News']
 keywords: ['bku sugarcane price 450', 'sap rate demand up', 'bku mahapanchayat 20 september', 'ganna kisan andolan']
 slides:
-  - image: "/images/webstories/pexels-indian-farmer-agriculture-11688197.webp"
+  - image: "/images/webstories/ws-gen-bku-rally.webp"
     title: "भाकियू का बड़ा ऐलान"
     subtitle: "मुजफ्फरनगर में किसान महापंचायत में सरकार को 20 सितंबर तक गन्ना मूल्य बढ़ाने की चेतावनी दी गई।"
     credit: "CaneUp"

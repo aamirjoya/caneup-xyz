@@ -10,7 +10,7 @@ category: "उद्योग व बाजार"
 tags: ['ISMA Report', 'चीनी उत्पादन 2026', 'एथेनॉल ब्लेंडिंग', 'गन्ना भुगतान', 'Sugar Industry']
 keywords: ['isma sugar production estimate 2026-27', 'sugar industry update india', 'ethanol blending ganna kisan']
 slides:
-  - image: "/images/webstories/mill-process.webp"
+  - image: "/images/webstories/ws-gen-mill-warehouse.webp"
     title: "333 लाख टन उत्पादन का अनुमान"
     subtitle: "ISMA के अनुसार अनुकूल मानसूनी बारिश और नए रकबे से देश में चीनी उत्पादन मजबूत स्थिति में रहेगा।"
     credit: "CaneUp"
