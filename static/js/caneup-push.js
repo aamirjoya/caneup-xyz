@@ -124,27 +124,52 @@
     document.body.appendChild(bell);
 
     bell.addEventListener('click', () => {
-      if (typeof Notification !== 'undefined' && Notification.permission === 'granted') {
-        alert('✅ आप पहले से ही CaneUp लाइव नोटिफिकेशन से जुड़े हुए हैं!');
-      } else {
-        window.OneSignalDeferred = window.OneSignalDeferred || [];
-        window.OneSignalDeferred.push(async function(OneSignal) {
-          try {
-            await OneSignal.Notifications.requestPermission();
-          } catch(e) {}
-        });
-      }
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      window.OneSignalDeferred.push(async function(OneSignal) {
+        try {
+          await OneSignal.User.PushSubscription.optIn();
+          if (typeof Notification !== 'undefined' && Notification.permission === 'granted') {
+            updateBellStatus(true);
+          }
+        } catch(e) {
+          console.warn('OneSignal optIn error:', e);
+        }
+      });
     });
+  }
+
+  // Cleanup legacy conflicting service worker if cached in visitor's browser
+  function cleanupLegacySW() {
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (var i = 0; i < registrations.length; i++) {
+          var reg = registrations[i];
+          if (reg.active && reg.active.scriptURL && reg.active.scriptURL.indexOf('caneup-sw.js') !== -1) {
+            reg.unregister().then(function(unregistered) {
+              if (unregistered) {
+                console.log('Legacy SW caneup-sw.js unregistered successfully');
+              }
+            });
+          }
+        }
+      }).catch(function() {});
+    }
   }
 
   // Connect to OneSignal SDK lifecycle
   function connectOneSignal() {
     window.OneSignalDeferred = window.OneSignalDeferred || [];
-    window.OneSignalDeferred.push(function(OneSignal) {
+    window.OneSignalDeferred.push(async function(OneSignal) {
       // Check initial state
       const isPushEnabled = OneSignal.User && OneSignal.User.PushSubscription && OneSignal.User.PushSubscription.optedIn;
-      if (isPushEnabled || (typeof Notification !== 'undefined' && Notification.permission === 'granted')) {
+      if (isPushEnabled) {
         updateBellStatus(true);
+      } else if (typeof Notification !== 'undefined' && Notification.permission === 'granted') {
+        // Permission was granted, ensure OneSignal registers the subscriber
+        try {
+          await OneSignal.User.PushSubscription.optIn();
+          updateBellStatus(true);
+        } catch (e) {}
       }
 
       // Listen for subscription changes
@@ -161,6 +186,7 @@
   }
 
   function init() {
+    cleanupLegacySW();
     injectStyles();
     createBellWidget();
     connectOneSignal();
