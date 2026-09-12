@@ -1,13 +1,9 @@
 /**
  * CaneUp Push Client (caneup-push.js)
  * -------------------------------------------------------------
- * Custom, high-CTR LaraPush-style web push notification manager.
- * Features:
- * - High-converting Hindi 2-step soft ask opt-in prompt
- * - Floating notification bell with unread badge
- * - Instant rich welcome notification
- * - Automatic Service Worker registration
- * - Offline & mobile-optimized
+ * Direct Native Web Push Permission Prompt for CaneUp.xyz.
+ * Shows the browser's native "Allow / Block" notification prompt
+ * directly to the farmer without intermediate popups.
  */
 
 (function() {
@@ -18,120 +14,14 @@
     return;
   }
 
-  const STORAGE_KEY = 'caneup_push_state'; // 'granted', 'dismissed', 'blocked'
-  const DISMISS_TIMEOUT = 24 * 60 * 60 * 1000; // Ask again after 24 hours if dismissed
-  const DISMISS_TIMESTAMP_KEY = 'caneup_push_dismiss_time';
+  const STORAGE_KEY = 'caneup_push_state';
 
-  // Inject CSS Styles for LaraPush Prompt & Floating Bell
+  // Inject Styles for Floating Bell Widget
   function injectStyles() {
     if (document.getElementById('caneup-push-styles')) return;
     const style = document.createElement('style');
     style.id = 'caneup-push-styles';
     style.textContent = `
-      /* LaraPush Style Slide-down Prompt */
-      #caneup-push-prompt {
-        position: fixed;
-        bottom: 24px;
-        right: 24px;
-        width: calc(100% - 32px);
-        max-width: 420px;
-        background: #ffffff;
-        border-radius: 16px;
-        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.22), 0 2px 10px rgba(21, 128, 61, 0.12);
-        border: 1.5px solid #86efac;
-        padding: 20px;
-        z-index: 999999;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans Devanagari', sans-serif;
-        transform: translateY(120%);
-        opacity: 0;
-        transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.3s ease;
-      }
-      #caneup-push-prompt.active {
-        transform: translateY(0);
-        opacity: 1;
-      }
-      .cpp-header {
-        display: flex;
-        align-items: flex-start;
-        gap: 14px;
-        margin-bottom: 14px;
-      }
-      .cpp-icon-wrap {
-        width: 48px;
-        height: 48px;
-        background: linear-gradient(135deg, #15803d, #166534);
-        border-radius: 12px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 24px;
-        color: #ffffff;
-        flex-shrink: 0;
-        box-shadow: 0 4px 12px rgba(21, 128, 61, 0.35);
-        animation: cpp-bell-pulse 2s infinite ease-in-out;
-      }
-      @keyframes cpp-bell-pulse {
-        0%, 100% { transform: scale(1) rotate(0deg); }
-        15% { transform: scale(1.1) rotate(-10deg); }
-        30% { transform: scale(1.1) rotate(10deg); }
-        45% { transform: scale(1) rotate(0deg); }
-      }
-      .cpp-title {
-        font-size: 15px;
-        font-weight: 800;
-        color: #111827;
-        margin: 0 0 4px;
-        line-height: 1.35;
-      }
-      .cpp-desc {
-        font-size: 13px;
-        color: #4b5563;
-        margin: 0;
-        line-height: 1.5;
-      }
-      .cpp-actions {
-        display: flex;
-        gap: 10px;
-        margin-top: 14px;
-      }
-      .cpp-btn-allow {
-        flex: 1.3;
-        background: linear-gradient(135deg, #15803d, #166534);
-        color: #ffffff;
-        border: none;
-        border-radius: 10px;
-        padding: 11px 16px;
-        font-size: 13px;
-        font-weight: 700;
-        cursor: pointer;
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        gap: 6px;
-        box-shadow: 0 4px 12px rgba(21, 128, 61, 0.3);
-        transition: transform 0.15s ease, background 0.2s ease;
-      }
-      .cpp-btn-allow:hover {
-        background: #14532d;
-        transform: translateY(-1px);
-      }
-      .cpp-btn-dismiss {
-        flex: 0.8;
-        background: #f3f4f6;
-        color: #6b7280;
-        border: 1px solid #e5e7eb;
-        border-radius: 10px;
-        padding: 11px 12px;
-        font-size: 13px;
-        font-weight: 600;
-        cursor: pointer;
-        transition: background 0.2s ease;
-      }
-      .cpp-btn-dismiss:hover {
-        background: #e5e7eb;
-        color: #374151;
-      }
-
       /* Floating Bell Widget */
       #caneup-push-bell {
         position: fixed;
@@ -174,13 +64,6 @@
       }
 
       @media (max-width: 640px) {
-        #caneup-push-prompt {
-          bottom: 16px;
-          right: 16px;
-          left: 16px;
-          width: auto;
-          padding: 16px;
-        }
         #caneup-push-bell {
           bottom: 16px;
           left: 16px;
@@ -196,9 +79,7 @@
   // Register Service Worker
   function registerServiceWorker() {
     return navigator.serviceWorker.register('/caneup-sw.js', { scope: '/' })
-      .then((reg) => {
-        return reg;
-      })
+      .then((reg) => reg)
       .catch((err) => {
         console.warn('CaneUp SW registration failed:', err);
         return null;
@@ -207,7 +88,6 @@
 
   // Show Welcome Notification immediately upon subscription
   function sendWelcomeNotification(reg) {
-    if (!reg) return;
     const title = '🎉 CaneUp किसान सेवा से जुड़ने के लिए धन्यवाद!';
     const options = {
       body: 'अब आपको गन्ना पर्ची, सट्टा संशोधन व भुगतान के दैनिक जरूरी अपडेट्स सीधे मिलते रहेंगे।',
@@ -220,99 +100,24 @@
       }
     };
     try {
-      reg.showNotification(title, options);
+      if (reg && reg.showNotification) {
+        reg.showNotification(title, options);
+      } else {
+        new Notification(title, options);
+      }
     } catch (e) {
-      new Notification(title, options);
+      console.log('Welcome notification error:', e);
     }
   }
 
-  // Create & Inject HTML DOM for Prompt and Floating Bell
-  function createPromptElements() {
-    // Prompt Box
-    const prompt = document.createElement('div');
-    prompt.id = 'caneup-push-prompt';
-    prompt.innerHTML = `
-      <div class="cpp-header">
-        <div class="cpp-icon-wrap">🔔</div>
-        <div>
-          <div class="cpp-title">गन्ना पर्ची, सट्टा व रेट्स के लाइव अलर्ट!</div>
-          <div class="cpp-desc">क्या आप आज की पर्ची, सट्टा संशोधन, और ताज़ा गन्ना भाव के लाइव नोटिफिकेशन पाना चाहते हैं?</div>
-        </div>
-      </div>
-      <div class="cpp-actions">
-        <button class="cpp-btn-allow" id="cppAllowBtn">
-          <span>🔔 हाँ, नोटिफिकेशन चालू करें</span>
-        </button>
-        <button class="cpp-btn-dismiss" id="cppDismissBtn">बाद में</button>
-      </div>
-    `;
-    document.body.appendChild(prompt);
-
-    // Floating Bell Widget
-    const bell = document.createElement('div');
-    bell.id = 'caneup-push-bell';
-    bell.title = '🔔 गन्ना अपडेट्स नोटिफिकेशन';
-    bell.innerHTML = `🔔<span class="cpp-badge" id="cppBellBadge">1</span>`;
-    document.body.appendChild(bell);
-
-    // Event Handlers
-    document.getElementById('cppAllowBtn').addEventListener('click', onAllowClick);
-    document.getElementById('cppDismissBtn').addEventListener('click', onDismissClick);
-    bell.addEventListener('click', () => {
-      prompt.classList.add('active');
-    });
-  }
-
-  // On "हाँ, नोटिफिकेशन चालू करें" Click
-  function onAllowClick() {
-    const prompt = document.getElementById('caneup-push-prompt');
-    const allowBtn = document.getElementById('cppAllowBtn');
-    if (allowBtn) allowBtn.textContent = '⏳ एक्टिवेट हो रहा है...';
-
-    Notification.requestPermission().then((permission) => {
-      if (permission === 'granted') {
-        localStorage.setItem(STORAGE_KEY, 'granted');
-        if (prompt) prompt.classList.remove('active');
-
-        // Update bell
-        const bell = document.getElementById('caneup-push-bell');
-        const badge = document.getElementById('cppBellBadge');
-        if (bell) bell.classList.add('subscribed');
-        if (badge) badge.textContent = '✓';
-
-        // Register SW & send welcome notification
-        registerServiceWorker().then((reg) => {
-          sendWelcomeNotification(reg);
-          saveSubscriberToken(reg);
-        });
-      } else if (permission === 'denied') {
-        localStorage.setItem(STORAGE_KEY, 'blocked');
-        if (prompt) prompt.classList.remove('active');
-      } else {
-        localStorage.setItem(STORAGE_KEY, 'dismissed');
-        localStorage.setItem(DISMISS_TIMESTAMP_KEY, Date.now().toString());
-        if (prompt) prompt.classList.remove('active');
-      }
-    });
-  }
-
-  // On "बाद में" Click
-  function onDismissClick() {
-    const prompt = document.getElementById('caneup-push-prompt');
-    if (prompt) prompt.classList.remove('active');
-    localStorage.setItem(STORAGE_KEY, 'dismissed');
-    localStorage.setItem(DISMISS_TIMESTAMP_KEY, Date.now().toString());
-  }
-
-  // Save subscriber endpoint/token locally and sync to storage
-  function saveSubscriberToken(reg) {
+  // Save subscriber token locally & webhook
+  function saveSubscriberToken() {
     try {
       const subscriberInfo = {
         id: 'sub_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9),
         subscribedAt: new Date().toISOString(),
         userAgent: navigator.userAgent,
         platform: navigator.platform || 'Unknown',
-        language: navigator.language || 'hi',
         status: 'active'
       };
 
@@ -320,23 +125,72 @@
       existing.push(subscriberInfo);
       localStorage.setItem('caneup_push_subscribers', JSON.stringify(existing));
 
-      // Dual Background Sync to Google Sheets / Webhook if configured
       const webhookUrl = 'https://script.google.com/macros/s/AKfycbw4CHEk9Mi2kPVkrIyC4i0YTpQkG5BSgsNl3mMvdtFYAeSKqKW7_Dmdc_qSZ-qfONz9sA/exec';
       if (webhookUrl) {
         new Image().src = webhookUrl + '?push_sub=1&sub_id=' + encodeURIComponent(subscriberInfo.id) +
                           '&platform=' + encodeURIComponent(subscriberInfo.platform);
       }
-    } catch (err) {
-      console.warn('Error saving subscriber info:', err);
+    } catch (err) {}
+  }
+
+  // Direct Native Permission Request
+  let permissionRequested = false;
+  function triggerDirectNativePrompt() {
+    if (permissionRequested || Notification.permission !== 'default') {
+      return;
     }
+    permissionRequested = true;
+
+    // Trigger Native Browser Allow/Block Prompt
+    Notification.requestPermission().then((permission) => {
+      if (permission === 'granted') {
+        localStorage.setItem(STORAGE_KEY, 'granted');
+        const bell = document.getElementById('caneup-push-bell');
+        const badge = document.getElementById('cppBellBadge');
+        if (bell) bell.classList.add('subscribed');
+        if (badge) badge.textContent = '✓';
+
+        registerServiceWorker().then((reg) => {
+          sendWelcomeNotification(reg);
+          saveSubscriberToken();
+        });
+
+        // Also notify OneSignal SDK if active
+        if (window.OneSignal && window.OneSignal.Notifications) {
+          try {
+            window.OneSignal.Notifications.requestPermission();
+          } catch(e) {}
+        }
+      } else if (permission === 'denied') {
+        localStorage.setItem(STORAGE_KEY, 'blocked');
+      }
+    });
+  }
+
+  // Create Floating Bell Widget
+  function createBellWidget() {
+    if (document.getElementById('caneup-push-bell')) return;
+    const bell = document.createElement('div');
+    bell.id = 'caneup-push-bell';
+    bell.title = '🔔 गन्ना अपडेट्स नोटिफिकेशन';
+    bell.innerHTML = `🔔<span class="cpp-badge" id="cppBellBadge">1</span>`;
+    document.body.appendChild(bell);
+
+    bell.addEventListener('click', () => {
+      if (Notification.permission === 'granted') {
+        alert('✅ आप पहले से ही CaneUp नोटिफिकेशन से जुड़े हुए हैं!');
+      } else {
+        triggerDirectNativePrompt();
+      }
+    });
   }
 
   // Initialization Logic
   function init() {
     injectStyles();
-    createPromptElements();
+    createBellWidget();
 
-    // If already granted, register SW and update bell
+    // If already granted, register SW & update bell
     if (Notification.permission === 'granted') {
       localStorage.setItem(STORAGE_KEY, 'granted');
       const bell = document.getElementById('caneup-push-bell');
@@ -348,28 +202,23 @@
     }
 
     if (Notification.permission === 'denied') {
-      return; // Respect user rejection
+      return;
     }
 
-    // Check dismissed cooldown
-    const state = localStorage.getItem(STORAGE_KEY);
-    const dismissTime = parseInt(localStorage.getItem(DISMISS_TIMESTAMP_KEY) || '0', 10);
-    const now = Date.now();
+    // Direct Native Prompt:
+    // 1. Try on page load after 1.5 seconds
+    setTimeout(triggerDirectNativePrompt, 1500);
 
-    if (state === 'dismissed' && (now - dismissTime) < DISMISS_TIMEOUT) {
-      return; // Within 24-hour cooldown
+    // 2. Also attach to the very first user interaction (tap, click, scroll)
+    // Modern browsers require a user gesture to display the prominent native prompt
+    const userGestureEvents = ['click', 'touchstart', 'scroll', 'keydown'];
+    function onFirstInteraction() {
+      triggerDirectNativePrompt();
+      userGestureEvents.forEach((ev) => window.removeEventListener(ev, onFirstInteraction));
     }
-
-    // Show prompt after 3.5 seconds of browsing
-    setTimeout(() => {
-      const prompt = document.getElementById('caneup-push-prompt');
-      if (prompt && Notification.permission !== 'granted') {
-        prompt.classList.add('active');
-      }
-    }, 3500);
+    userGestureEvents.forEach((ev) => window.addEventListener(ev, onFirstInteraction, { once: true, passive: true }));
   }
 
-  // Load after DOM is ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {

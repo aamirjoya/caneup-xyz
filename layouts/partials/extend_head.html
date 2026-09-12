@@ -40,9 +40,14 @@
       appId: "b86aeb76-438e-49d0-863a-7fb1bfb4e7da",
       safari_web_id: "web.onesignal.auto.56640081-e0ac-44c5-9d26-db4b2624f604",
       notifyButton: {
-        enable: false, // Replaced by CaneUp Custom LaraPush-Style Bell & Prompt
+        enable: false,
       },
     });
+    if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
+      try {
+        await OneSignal.Notifications.requestPermission();
+      } catch(e) {}
+    }
   });
 </script>
 
