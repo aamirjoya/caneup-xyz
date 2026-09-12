@@ -48,8 +48,9 @@ textarea.hfc-ctrl{min-height:50px;resize:none}
 .hfc-consent-text{font-size:11px;line-height:1.45;color:#14532d;font-weight:600;user-select:none}
 .btn-hfc{width:100%;padding:11px;background:linear-gradient(135deg,#15803d,#166534);color:#fff;border:none;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px;box-shadow:0 3px 10px rgba(21,128,61,.3);transition:all .2s}
 .btn-hfc:hover{background:#14532d;transform:translateY(-1px)}
-.hfc-success{display:none;background:#f0fdf4;border:1.5px solid #22c55e;border-radius:8px;padding:14px;text-align:center;margin-top:10px}
-.hfc-success.active{display:block}
+.hfc-success{display:none;background:#f0fdf4;border:1.5px solid #22c55e;border-radius:12px;padding:18px 14px;text-align:center;margin-top:10px}
+.hfc-success.active{display:block;animation:hfcPopIn .4s cubic-bezier(.175,.885,.32,1.275)}
+@keyframes hfcPopIn{0%{opacity:0;transform:scale(.92) translateY(8px)}100%{opacity:1;transform:scale(1) translateY(0)}}
 .hfc-success h4{color:#15803d;margin:0 0 4px;font-size:14px}
 .hfc-success p{color:#1f2937;margin:0 0 8px;font-size:11px;line-height:1.5}
 .btn-wa-hfc{display:inline-flex;align-items:center;gap:6px;background:#25d366;color:#fff;padding:8px 16px;border-radius:50px;font-size:12px;font-weight:700;text-decoration:none}
@@ -897,6 +898,65 @@ function handleHeroKisanSubmit(e) {
 
   document.getElementById('heroSuccessMsg').innerHTML = msg;
   document.getElementById('heroSuccessBox').classList.add('active');
+
+  // Play pleasant success sound effect (SFX) & subtle mobile vibration
+  playHeroSuccessSFX();
+}
+
+function playHeroSuccessSFX() {
+  try {
+    var AudioContextClass = window.AudioContext || window.webkitAudioContext;
+    if (AudioContextClass) {
+      var actx = new AudioContextClass();
+      if (actx.state === 'suspended') {
+        actx.resume();
+      }
+      var now = actx.currentTime;
+      // Uplifting success chime arpeggio: C5 (523.25Hz), E5 (659.25Hz), G5 (783.99Hz), C6 (1046.50Hz)
+      var notes = [
+        { f: 523.25, start: 0.00, dur: 0.22, vol: 0.22 },
+        { f: 659.25, start: 0.08, dur: 0.24, vol: 0.25 },
+        { f: 783.99, start: 0.16, dur: 0.26, vol: 0.28 },
+        { f: 1046.50, start: 0.24, dur: 0.65, vol: 0.32 }
+      ];
+      notes.forEach(function(n) {
+        // Main fundamental tone (sine)
+        var osc1 = actx.createOscillator();
+        var g1 = actx.createGain();
+        osc1.type = 'sine';
+        osc1.frequency.setValueAtTime(n.f, now + n.start);
+        g1.gain.setValueAtTime(0.0001, now + n.start);
+        g1.gain.exponentialRampToValueAtTime(n.vol, now + n.start + 0.02);
+        g1.gain.exponentialRampToValueAtTime(0.0001, now + n.start + n.dur);
+        osc1.connect(g1);
+        g1.connect(actx.destination);
+        osc1.start(now + n.start);
+        osc1.stop(now + n.start + n.dur);
+
+        // Resonant harmonic overtone (triangle)
+        var osc2 = actx.createOscillator();
+        var g2 = actx.createGain();
+        osc2.type = 'triangle';
+        osc2.frequency.setValueAtTime(n.f * 2, now + n.start);
+        g2.gain.setValueAtTime(0.0001, now + n.start);
+        g2.gain.exponentialRampToValueAtTime(n.vol * 0.22, now + n.start + 0.015);
+        g2.gain.exponentialRampToValueAtTime(0.0001, now + n.start + (n.dur * 0.6));
+        osc2.connect(g2);
+        g2.connect(actx.destination);
+        osc2.start(now + n.start);
+        osc2.stop(now + n.start + (n.dur * 0.6));
+      });
+    }
+  } catch (err) {
+    console.log('Audio SFX error:', err);
+  }
+
+  // Tactile haptic feedback for mobile devices
+  try {
+    if (navigator && navigator.vibrate) {
+      navigator.vibrate([30, 50, 60]);
+    }
+  } catch (vErr) {}
 }
 
 function resetHeroForm() {

@@ -556,8 +556,63 @@ function handleKisanSubmit(e) {
   document.getElementById('successSummary').innerHTML = summaryHtml;
   document.getElementById('successBox').classList.add('active');
 
+  // Play pleasant success sound effect (SFX) & subtle mobile vibration
+  playKisanSuccessSFX();
+
   // Smooth scroll to success card
   document.getElementById('successBox').scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function playKisanSuccessSFX() {
+  try {
+    var AudioContextClass = window.AudioContext || window.webkitAudioContext;
+    if (AudioContextClass) {
+      var actx = new AudioContextClass();
+      if (actx.state === 'suspended') {
+        actx.resume();
+      }
+      var now = actx.currentTime;
+      var notes = [
+        { f: 523.25, start: 0.00, dur: 0.22, vol: 0.22 },
+        { f: 659.25, start: 0.08, dur: 0.24, vol: 0.25 },
+        { f: 783.99, start: 0.16, dur: 0.26, vol: 0.28 },
+        { f: 1046.50, start: 0.24, dur: 0.65, vol: 0.32 }
+      ];
+      notes.forEach(function(n) {
+        var osc1 = actx.createOscillator();
+        var g1 = actx.createGain();
+        osc1.type = 'sine';
+        osc1.frequency.setValueAtTime(n.f, now + n.start);
+        g1.gain.setValueAtTime(0.0001, now + n.start);
+        g1.gain.exponentialRampToValueAtTime(n.vol, now + n.start + 0.02);
+        g1.gain.exponentialRampToValueAtTime(0.0001, now + n.start + n.dur);
+        osc1.connect(g1);
+        g1.connect(actx.destination);
+        osc1.start(now + n.start);
+        osc1.stop(now + n.start + n.dur);
+
+        var osc2 = actx.createOscillator();
+        var g2 = actx.createGain();
+        osc2.type = 'triangle';
+        osc2.frequency.setValueAtTime(n.f * 2, now + n.start);
+        g2.gain.setValueAtTime(0.0001, now + n.start);
+        g2.gain.exponentialRampToValueAtTime(n.vol * 0.22, now + n.start + 0.015);
+        g2.gain.exponentialRampToValueAtTime(0.0001, now + n.start + (n.dur * 0.6));
+        osc2.connect(g2);
+        g2.connect(actx.destination);
+        osc2.start(now + n.start);
+        osc2.stop(now + n.start + (n.dur * 0.6));
+      });
+    }
+  } catch (err) {
+    console.log('Audio SFX error:', err);
+  }
+
+  try {
+    if (navigator && navigator.vibrate) {
+      navigator.vibrate([30, 50, 60]);
+    }
+  } catch (vErr) {}
 }
 
 function resetKisanForm() {
