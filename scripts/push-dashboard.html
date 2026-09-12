@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CaneUp Push Studio — LaraPush स्टाइल नोटिफिकेशन डैशबोर्ड</title>
+  <style>
+    :root {
+      --primary: #15803d;
+      --primary-dark: #166534;
+      --accent: #f59e0b;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans Devanagari', sans-serif; }
+    body { background: var(--bg); color: var(--text); line-height: 1.5; padding: 24px 16px; }
+    .container { max-width: 1200px; margin: 0 auto; }
+
+    /* Header */
+    .header { display: flex; align-items: center; justify-content: space-between; background: linear-gradient(135deg, #052e16, #15803d); color: #fff; padding: 20px 28px; border-radius: 16px; box-shadow: 0 10px 25px rgba(21, 128, 61, 0.15); margin-bottom: 24px; }
+    .header h1 { font-size: 22px; font-weight: 800; display: flex; align-items: center; gap: 10px; }
+    .header .tag { background: #f59e0b; color: #111; font-size: 11px; font-weight: 800; padding: 3px 10px; border-radius: 20px; text-transform: uppercase; }
+
+    /* Grid Layout */
+    .grid { display: grid; grid-template-columns: 1fr 440px; gap: 24px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+
+    /* Card */
+    .card { background: var(--card-bg); border-radius: 16px; border: 1px solid var(--border); box-shadow: 0 4px 20px rgba(0,0,0,0.04); padding: 24px; }
+    .card-title { font-size: 17px; font-weight: 700; color: #0f172a; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
+
+    /* Quick Templates */
+    .templates { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+    .tpl-btn { background: #f0fdf4; border: 1px solid #bbf7d0; color: #15803d; font-size: 12px; font-weight: 600; padding: 6px 14px; border-radius: 50px; cursor: pointer; transition: all 0.2s; }
+    .tpl-btn:hover { background: #15803d; color: #fff; transform: translateY(-1px); }
+
+    /* Form Fields */
+    .form-group { margin-bottom: 16px; }
+    label { display: block; font-size: 13px; font-weight: 600; color: #334155; margin-bottom: 6px; }
+    input[type="text"], input[type="url"], textarea { width: 100%; padding: 11px 14px; border: 1.5px solid var(--border); border-radius: 10px; font-size: 14px; outline: none; transition: border-color 0.2s; background: #fff; }
+    input[type="text"]:focus, input[type="url"]:focus, textarea:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(21, 128, 61, 0.12); }
+    textarea { resize: vertical; min-height: 80px; }
+
+    /* Buttons */
+    .btn-submit { width: 100%; background: linear-gradient(135deg, #15803d, #166534); color: #fff; border: none; border-radius: 12px; padding: 14px; font-size: 15px; font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; box-shadow: 0 4px 14px rgba(21, 128, 61, 0.3); transition: all 0.2s; }
+    .btn-submit:hover { background: #14532d; transform: translateY(-2px); box-shadow: 0 6px 18px rgba(21, 128, 61, 0.4); }
+    .btn-copy { background: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; border-radius: 10px; padding: 10px 16px; font-size: 13px; font-weight: 600; cursor: pointer; margin-top: 10px; width: 100%; }
+    .btn-copy:hover { background: #e2e8f0; }
+
+    /* Mobile Preview Mockup */
+    .phone-mockup { background: #111827; border-radius: 36px; padding: 24px 14px; box-shadow: 0 20px 40px rgba(0,0,0,0.25); position: sticky; top: 24px; }
+    .phone-notch { width: 120px; height: 18px; background: #000; border-radius: 0 0 14px 14px; margin: 0 auto 16px; }
+    .phone-screen { background: #1e293b; border-radius: 24px; padding: 14px 10px; min-height: 480px; color: #fff; }
+    .phone-time { text-align: center; font-size: 12px; color: #94a3b8; margin-bottom: 20px; }
+
+    /* Android Push Card */
+    .notif-card { background: #ffffff; color: #1e293b; border-radius: 14px; padding: 14px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); }
+    .notif-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 11px; color: #64748b; font-weight: 600; }
+    .notif-icon { width: 18px; height: 18px; border-radius: 4px; object-fit: cover; }
+    .notif-title { font-size: 14px; font-weight: 700; color: #0f172a; margin-bottom: 4px; line-height: 1.3; }
+    .notif-body { font-size: 12px; color: #475569; line-height: 1.45; margin-bottom: 10px; }
+    .notif-image-wrap { width: 100%; height: 180px; border-radius: 8px; overflow: hidden; background: #f1f5f9; margin-bottom: 12px; display: none; }
+    .notif-image-wrap.has-img { display: block; }
+    .notif-image-wrap img { width: 100%; height: 100%; object-fit: cover; }
+    .notif-actions { display: flex; gap: 8px; border-top: 1px solid #f1f5f9; padding-top: 10px; }
+    .notif-act-btn { font-size: 11px; font-weight: 700; color: #15803d; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 6px; padding: 5px 12px; }
+
+    /* Success Toast */
+    .toast { display: none; background: #22c55e; color: #fff; padding: 12px 18px; border-radius: 10px; font-weight: 700; font-size: 13px; text-align: center; margin-top: 12px; animation: popIn 0.3s ease; }
+    .toast.active { display: block; }
+    @keyframes popIn { 0%{opacity:0;transform:scale(0.95)} 100%{opacity:1;transform:scale(1)} }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Header -->
+  <header class="header">
+    <div>
+      <h1>🌾 CaneUp Push Studio</h1>
+      <p style="font-size:13px; opacity:0.85; margin-top:4px;">LaraPush स्टाइल वेब पुश नोटिफिकेशन डिस्पैचर — किसानों को सीधे मोबाइल अलर्ट भेजें</p>
+    </div>
+    <span class="tag">Self-Hosted</span>
+  </header>
+
+  <div class="grid">
+    <!-- Left: Creator Form -->
+    <div class="card">
+      <h2 class="card-title">📝 नई पुश नोटिफिकेशन बनाएं</h2>
+
+      <!-- Quick 1-Click Templates -->
+      <label>त्वरित टेम्पलेट्स (1-Click Templates):</label>
+      <div class="templates">
+        <button type="button" class="tpl-btn" onclick="applyTpl(0)">⚡ सट्टा आपत्ति अंतिम 3 दिन</button>
+        <button type="button" class="tpl-btn" onclick="applyTpl(1)">🗓 पर्ची कैलेंडर 2026 जारी</button>
+        <button type="button" class="tpl-btn" onclick="applyTpl(2)">💰 गन्ना भुगतान ₹125 करोड़</button>
+        <button type="button" class="tpl-btn" onclick="applyTpl(3)">🌾 भाकियू ₹450 भाव मार्च</button>
+        <button type="button" class="tpl-btn" onclick="applyTpl(4)">🌧 भारी बारिश व आंधी अलर्ट</button>
+      </div>
+
+      <form id="pushForm" onsubmit="handleSendPush(event)">
+        <div class="form-group">
+          <label for="pTitle">शीर्षक (Notification Title) <span style="color:#ef4444">*</span></label>
+          <input type="text" id="pTitle" required placeholder="उदा० सट्टा आपत्ति के अंतिम 3 दिन शेष" oninput="updatePreview()">
+        </div>
+
+        <div class="form-group">
+          <label for="pBody">संदेश (Message / Description) <span style="color:#ef4444">*</span></label>
+          <textarea id="pBody" required placeholder="उदा० 15 सितंबर को बंद होगा पोर्टल। 168 समितियों में शनिवार-रविवार भी काउंटर खुले रहेंगे।" oninput="updatePreview()"></textarea>
+        </div>
+
+        <div class="form-group">
+          <label for="pUrl">टारगेट लिंक (Target Article URL) <span style="color:#ef4444">*</span></label>
+          <input type="url" id="pUrl" required placeholder="https://caneup.xyz/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026/" oninput="updatePreview()">
+        </div>
+
+        <div class="form-group">
+          <label for="pImage">बड़ा बैनर फोटो (Big Picture Banner URL)</label>
+          <input type="url" id="pImage" placeholder="https://caneup.xyz/images/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026.webp" oninput="updatePreview()">
+        </div>
+
+        <button type="submit" class="btn-submit" id="sendBtn">
+          <span>🚀 सभी किसानों को पुश नोटिफिकेशन भेजें (Send Push)</span>
+        </button>
+
+        <button type="button" class="btn-copy" onclick="copyCurlCommand()">📋 Copy cURL / Python Command</button>
+
+        <div id="toast" class="toast">✅ पुश नोटिफिकेशन सफलतापूर्वक तैयार हो गया!</div>
+      </form>
+    </div>
+
+    <!-- Right: Mobile Screen Mockup -->
+    <div>
+      <div class="phone-mockup">
+        <div class="phone-notch"></div>
+        <div class="phone-screen">
+          <div class="phone-time">📱 12 सितंबर, शनिवार • 17:30</div>
+
+          <!-- The Live Notification Card -->
+          <div class="notif-card" id="previewCard">
+            <div class="notif-top">
+              <img src="/images/logo-192.png" alt="CaneUp" class="notif-icon" onerror="this.src='https://caneup.xyz/images/logo-192.png'">
+              <span>CaneUp 🌾 • अभी-अभी</span>
+            </div>
+            <div class="notif-title" id="prevTitle">सट्टा आपत्ति के अंतिम 3 दिन शेष — 15 सितंबर डेडलाइन</div>
+            <div class="notif-body" id="prevBody">उत्तर प्रदेश के 50 लाख किसानों के लिए सट्टा सुधार का अंतिम मौका। शनिवार-रविवार भी खुलेंगे काउंटर।</div>
+            
+            <div class="notif-image-wrap" id="prevImgWrap">
+              <img id="prevImg" src="" alt="Banner Preview">
+            </div>
+
+            <div class="notif-actions">
+              <span class="notif-act-btn">👉 अभी देखें</span>
+              <span class="notif-act-btn" style="color:#64748b;background:#f8fafc;border-color:#e2e8f0;">बंद करें</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const templates = [
+    {
+      title: "सट्टा आपत्ति के अंतिम 3 दिन शेष — 15 सितंबर को बंद होगा पोर्टल",
+      body: "उत्तर प्रदेश की सभी 168 समितियों में शनिवार-रविवार को भी काउंटर खुले रहेंगे। रकबा व अगेती किस्म तुरंत दुरुस्त कराएं।",
+      url: "https://caneup.xyz/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026/",
+      img: "https://caneup.xyz/images/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026.webp"
+    },
+    {
+      title: "गन्ना पर्ची कैलेंडर 2026-27 लाइव जारी — ऐसे देखें अपनी पर्ची",
+      body: "e-Ganna App और enquiry.caneup.in पर 12 पखवाड़े का प्री-कैलेंडर अपलोड। अपना किसान कोड डालकर चेक करें।",
+      url: "https://caneup.xyz/ganna-parchi-calendar-caneup/",
+      img: "https://caneup.xyz/images/news/caneup-ganna-slip-verification-online-2026.webp"
+    },
+    {
+      title: "निजी चीनी मिलों ने जारी किए ₹125 करोड़ — बैंक खातों में DBT",
+      body: "शामली, मलकपुर और दौराला मिलों ने जारी किया बकाया गन्ना मूल्य। किसान अपना बैंक एडवाइस मैसेज चेक करें।",
+      url: "https://caneup.xyz/news/private-sugar-mills-release-125-crore-cane-payment-2026/",
+      img: "https://caneup.xyz/images/news/private-sugar-mills-release-125-crore-cane-payment-2026.webp"
+    },
+    {
+      title: "20 सितंबर ट्रैक्टर मार्च — 500 गांवों में भाकियू की संदेश यात्रा",
+      body: "गन्ना भाव ₹450 प्रति क्विंटल की मांग पर पश्चिमी यूपी के किसानों की बड़ी लामबंदी शुरू।",
+      url: "https://caneup.xyz/news/bku-village-panchayats-tractor-march-20-september-mobilization-2026/",
+      img: "https://caneup.xyz/images/news/bku-village-panchayats-tractor-march-20-september-mobilization-2026.webp"
+    },
+    {
+      title: "भारी बारिश व तेज आंधी का अलर्ट — गन्ने की कैंची बंधाई तुरंत करें",
+      body: "13-14 सितंबर को पश्चिमी यूपी के 12 जिलों में तेज आंधी। गन्ने को गिरने से बचाने के लिए कृषि वैज्ञानिकों की सलाह।",
+      url: "https://caneup.xyz/news/imd-heavy-rain-alert-sugarcane-propping-tying-advisory-up-2026/",
+      img: "https://caneup.xyz/images/news/imd-heavy-rain-alert-sugarcane-propping-tying-advisory-up-2026.webp"
+    }
+  ];
+
+  function applyTpl(idx) {
+    const tpl = templates[idx];
+    document.getElementById('pTitle').value = tpl.title;
+    document.getElementById('pBody').value = tpl.body;
+    document.getElementById('pUrl').value = tpl.url;
+    document.getElementById('pImage').value = tpl.img;
+    updatePreview();
+  }
+
+  function updatePreview() {
+    const title = document.getElementById('pTitle').value || 'सट्टा आपत्ति के अंतिम 3 दिन शेष';
+    const body = document.getElementById('pBody').value || 'उत्तर प्रदेश के 50 लाख किसानों के लिए सट्टा सुधार का अंतिम मौका।';
+    const imgUrl = document.getElementById('pImage').value;
+
+    document.getElementById('prevTitle').textContent = title;
+    document.getElementById('prevBody').textContent = body;
+
+    const imgWrap = document.getElementById('prevImgWrap');
+    const imgEl = document.getElementById('prevImg');
+    if (imgUrl && imgUrl.startsWith('http')) {
+      imgEl.src = imgUrl;
+      imgWrap.classList.add('has-img');
+    } else {
+      imgWrap.classList.remove('has-img');
+    }
+  }
+
+  function handleSendPush(e) {
+    e.preventDefault();
+    const title = document.getElementById('pTitle').value.trim();
+    const body = document.getElementById('pBody').value.trim();
+    const url = document.getElementById('pUrl').value.trim();
+    const image = document.getElementById('pImage').value.trim();
+
+    // Trigger local test notification if permitted
+    if ('Notification' in window && Notification.permission === 'granted') {
+      new Notification(title, {
+        body: body,
+        icon: '/images/logo-192.png',
+        image: image || undefined
+      });
+    }
+
+    const toast = document.getElementById('toast');
+    toast.textContent = `🚀 पुश कैंपेन तैयार: "${title}" — पायथन स्क्रिप्ट या API से सभी सब्सक्राइबर्स को डिस्पैच किया जा रहा है!`;
+    toast.classList.add('active');
+    setTimeout(() => toast.classList.remove('active'), 5000);
+  }
+
+  function copyCurlCommand() {
+    const title = document.getElementById('pTitle').value.trim() || 'CaneUp अलर्ट';
+    const body = document.getElementById('pBody').value.trim() || 'नया अपडेट देखें';
+    const url = document.getElementById('pUrl').value.trim() || 'https://caneup.xyz/';
+    const image = document.getElementById('pImage').value.trim();
+
+    const cmd = `python scripts/send-push.py --title "${title}" --body "${body}" --url "${url}" ${image ? '--image "' + image + '"' : ''}`;
+    navigator.clipboard.writeText(cmd).then(() => {
+      alert("✅ कमांड कॉपी हो गया!\n\nटर्मिनल में Paste करके Enter दबाएं:\n" + cmd);
+    });
+  }
+
+  // Init with default template 0
+  applyTpl(0);
+</script>
+
+</body>
+</html>
