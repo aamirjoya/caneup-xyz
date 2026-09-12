@@ -43,11 +43,17 @@
         enable: false,
       },
     });
-    if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
-      try {
-        await OneSignal.Notifications.requestPermission();
-      } catch(e) {}
+    function triggerDirectPrompt() {
+      if (typeof Notification !== 'undefined' && Notification.permission === 'default') {
+        try {
+          OneSignal.Notifications.requestPermission();
+        } catch(e) {}
+      }
     }
+    setTimeout(triggerDirectPrompt, 1500);
+    ['click', 'touchstart', 'scroll'].forEach(function(evt) {
+      window.addEventListener(evt, triggerDirectPrompt, { once: true, passive: true });
+    });
   });
 </script>
 

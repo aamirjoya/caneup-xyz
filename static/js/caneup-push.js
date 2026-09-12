@@ -1,20 +1,16 @@
 /**
  * CaneUp Push Client (caneup-push.js)
  * -------------------------------------------------------------
- * Direct Native Web Push Permission Prompt for CaneUp.xyz.
- * Shows the browser's native "Allow / Block" notification prompt
- * directly to the farmer without intermediate popups.
+ * Custom UI and helper for CaneUp Push Notifications.
+ * Integrates directly with OneSignal v16 SDK:
+ * - Floating notification bell with live subscription status
+ * - Listens for OneSignal opt-in events
+ * - Instant rich welcome notification on permission grant
+ * - Zero service worker conflicts
  */
 
 (function() {
   'use strict';
-
-  // Check Web Push & Notification support
-  if (!('serviceWorker' in navigator) || !('Notification' in window)) {
-    return;
-  }
-
-  const STORAGE_KEY = 'caneup_push_state';
 
   // Inject Styles for Floating Bell Widget
   function injectStyles() {
@@ -76,18 +72,9 @@
     document.head.appendChild(style);
   }
 
-  // Register Service Worker
-  function registerServiceWorker() {
-    return navigator.serviceWorker.register('/caneup-sw.js', { scope: '/' })
-      .then((reg) => reg)
-      .catch((err) => {
-        console.warn('CaneUp SW registration failed:', err);
-        return null;
-      });
-  }
-
-  // Show Welcome Notification immediately upon subscription
-  function sendWelcomeNotification(reg) {
+  // Show Welcome Notification on permission grant
+  function showWelcomeNotification() {
+    if (Notification.permission !== 'granted') return;
     const title = '🎉 CaneUp किसान सेवा से जुड़ने के लिए धन्यवाद!';
     const options = {
       body: 'अब आपको गन्ना पर्ची, सट्टा संशोधन व भुगतान के दैनिक जरूरी अपडेट्स सीधे मिलते रहेंगे।',
@@ -100,71 +87,31 @@
       }
     };
     try {
-      if (reg && reg.showNotification) {
-        reg.showNotification(title, options);
+      if (navigator.serviceWorker && navigator.serviceWorker.ready) {
+        navigator.serviceWorker.ready.then((reg) => {
+          reg.showNotification(title, options);
+        });
       } else {
         new Notification(title, options);
       }
-    } catch (e) {
-      console.log('Welcome notification error:', e);
-    }
+    } catch (e) {}
   }
 
-  // Save subscriber token locally & webhook
-  function saveSubscriberToken() {
-    try {
-      const subscriberInfo = {
-        id: 'sub_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9),
-        subscribedAt: new Date().toISOString(),
-        userAgent: navigator.userAgent,
-        platform: navigator.platform || 'Unknown',
-        status: 'active'
-      };
-
-      const existing = JSON.parse(localStorage.getItem('caneup_push_subscribers') || '[]');
-      existing.push(subscriberInfo);
-      localStorage.setItem('caneup_push_subscribers', JSON.stringify(existing));
-
-      const webhookUrl = 'https://script.google.com/macros/s/AKfycbw4CHEk9Mi2kPVkrIyC4i0YTpQkG5BSgsNl3mMvdtFYAeSKqKW7_Dmdc_qSZ-qfONz9sA/exec';
-      if (webhookUrl) {
-        new Image().src = webhookUrl + '?push_sub=1&sub_id=' + encodeURIComponent(subscriberInfo.id) +
-                          '&platform=' + encodeURIComponent(subscriberInfo.platform);
+  // Update Bell Status
+  function updateBellStatus(isSubscribed) {
+    const bell = document.getElementById('caneup-push-bell');
+    const badge = document.getElementById('cppBellBadge');
+    if (bell && badge) {
+      if (isSubscribed) {
+        bell.classList.add('subscribed');
+        badge.textContent = '✓';
+        bell.title = '✅ CaneUp लाइव नोटिफिकेशन सक्रिय है';
+      } else {
+        bell.classList.remove('subscribed');
+        badge.textContent = '1';
+        bell.title = '🔔 गन्ना अपडेट्स नोटिफिकेशन चालू करें';
       }
-    } catch (err) {}
-  }
-
-  // Direct Native Permission Request
-  let permissionRequested = false;
-  function triggerDirectNativePrompt() {
-    if (permissionRequested || Notification.permission !== 'default') {
-      return;
     }
-    permissionRequested = true;
-
-    // Trigger Native Browser Allow/Block Prompt
-    Notification.requestPermission().then((permission) => {
-      if (permission === 'granted') {
-        localStorage.setItem(STORAGE_KEY, 'granted');
-        const bell = document.getElementById('caneup-push-bell');
-        const badge = document.getElementById('cppBellBadge');
-        if (bell) bell.classList.add('subscribed');
-        if (badge) badge.textContent = '✓';
-
-        registerServiceWorker().then((reg) => {
-          sendWelcomeNotification(reg);
-          saveSubscriberToken();
-        });
-
-        // Also notify OneSignal SDK if active
-        if (window.OneSignal && window.OneSignal.Notifications) {
-          try {
-            window.OneSignal.Notifications.requestPermission();
-          } catch(e) {}
-        }
-      } else if (permission === 'denied') {
-        localStorage.setItem(STORAGE_KEY, 'blocked');
-      }
-    });
   }
 
   // Create Floating Bell Widget
@@ -177,46 +124,46 @@
     document.body.appendChild(bell);
 
     bell.addEventListener('click', () => {
-      if (Notification.permission === 'granted') {
-        alert('✅ आप पहले से ही CaneUp नोटिफिकेशन से जुड़े हुए हैं!');
+      if (typeof Notification !== 'undefined' && Notification.permission === 'granted') {
+        alert('✅ आप पहले से ही CaneUp लाइव नोटिफिकेशन से जुड़े हुए हैं!');
       } else {
-        triggerDirectNativePrompt();
+        window.OneSignalDeferred = window.OneSignalDeferred || [];
+        window.OneSignalDeferred.push(async function(OneSignal) {
+          try {
+            await OneSignal.Notifications.requestPermission();
+          } catch(e) {}
+        });
       }
     });
   }
 
-  // Initialization Logic
+  // Connect to OneSignal SDK lifecycle
+  function connectOneSignal() {
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    window.OneSignalDeferred.push(function(OneSignal) {
+      // Check initial state
+      const isPushEnabled = OneSignal.User && OneSignal.User.PushSubscription && OneSignal.User.PushSubscription.optedIn;
+      if (isPushEnabled || (typeof Notification !== 'undefined' && Notification.permission === 'granted')) {
+        updateBellStatus(true);
+      }
+
+      // Listen for subscription changes
+      try {
+        OneSignal.User.PushSubscription.addEventListener('change', function(changeEvent) {
+          if (changeEvent.current && changeEvent.current.optedIn) {
+            console.log('OneSignal Push Subscribed successfully! ID:', changeEvent.current.id);
+            updateBellStatus(true);
+            showWelcomeNotification();
+          }
+        });
+      } catch (err) {}
+    });
+  }
+
   function init() {
     injectStyles();
     createBellWidget();
-
-    // If already granted, register SW & update bell
-    if (Notification.permission === 'granted') {
-      localStorage.setItem(STORAGE_KEY, 'granted');
-      const bell = document.getElementById('caneup-push-bell');
-      const badge = document.getElementById('cppBellBadge');
-      if (bell) bell.classList.add('subscribed');
-      if (badge) badge.textContent = '✓';
-      registerServiceWorker();
-      return;
-    }
-
-    if (Notification.permission === 'denied') {
-      return;
-    }
-
-    // Direct Native Prompt:
-    // 1. Try on page load after 1.5 seconds
-    setTimeout(triggerDirectNativePrompt, 1500);
-
-    // 2. Also attach to the very first user interaction (tap, click, scroll)
-    // Modern browsers require a user gesture to display the prominent native prompt
-    const userGestureEvents = ['click', 'touchstart', 'scroll', 'keydown'];
-    function onFirstInteraction() {
-      triggerDirectNativePrompt();
-      userGestureEvents.forEach((ev) => window.removeEventListener(ev, onFirstInteraction));
-    }
-    userGestureEvents.forEach((ev) => window.addEventListener(ev, onFirstInteraction, { once: true, passive: true }));
+    connectOneSignal();
   }
 
   if (document.readyState === 'loading') {
