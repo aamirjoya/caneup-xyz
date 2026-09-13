@@ -1,0 +1,265 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <linearGradient id="c_greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a"/>
+      <stop offset="50%" stop-color="#15803d"/>
+      <stop offset="100%" stop-color="#14532d"/>
+    </linearGradient>
+    <linearGradient id="c_goldGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="35%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <linearGradient id="c_tractorGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#94a3b8"/>
+      <stop offset="50%" stop-color="#64748b"/>
+      <stop offset="100%" stop-color="#475569"/>
+    </linearGradient>
+    <linearGradient id="c_tireGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="1000" fill="#ffffff"/>
+
+  <g transform="translate(68, 55) scale(0.864)">
+
+    <!-- Dynamic Circular Green Frame Swoosh -->
+    <!-- Top Arc -->
+    <path d="M 125 720 C 50 510, 110 240, 360 120 C 510 50, 680 75, 760 185 C 765 192, 755 198, 748 190 C 670 95, 500 70, 370 140 C 140 255, 90 510, 155 720 C 158 730, 128 732, 125 720 Z" 
+          fill="url(#c_greenGrad)"/>
+
+    <!-- Bottom Arc -->
+    <path d="M 125 650 C 120 780, 240 925, 450 945 C 570 955, 680 900, 725 840 C 732 830, 718 820, 712 830 C 670 885, 565 930, 450 920 C 265 905, 155 780, 150 655 C 148 645, 126 642, 125 650 Z" 
+          fill="url(#c_greenGrad)"/>
+
+    <!-- Inner Green Swoop -->
+    <path d="M 125 720 C 135 600, 195 500, 290 435 C 295 432, 298 440, 292 445 C 205 510, 150 605, 140 720 Z" 
+          fill="url(#c_greenGrad)"/>
+
+    <!-- Golden Wheat Ear Arcing along Left & Top -->
+    <path d="M 155 730 C 100 550, 140 310, 350 180 C 460 110, 580 120, 655 190" 
+          stroke="url(#c_goldGrad)" stroke-width="6.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Pairs of Wheat Kernels -->
+    <path d="M 150 710 C 125 700, 105 670, 110 645 C 125 645, 145 675, 155 700 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 110 645 Q 85 625, 65 595" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 160 690 C 175 675, 195 655, 195 635 C 180 635, 165 660, 155 680 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 195 635 Q 215 615, 235 590" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 140 645 C 115 630, 90 595, 95 570 C 115 570, 135 605, 145 635 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 95 570 Q 65 545, 45 515" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 150 630 C 170 610, 195 590, 195 565 C 175 565, 155 595, 145 615 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 195 565 Q 220 545, 245 520" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 135 575 C 105 555, 80 520, 85 490 C 105 490, 130 530, 140 560 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 85 490 Q 55 465, 30 430" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 145 560 C 170 540, 195 515, 195 485 C 175 485, 150 515, 140 545 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 195 485 Q 225 465, 255 440" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 135 500 C 105 475, 80 435, 90 405 C 110 405, 135 445, 145 485 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 90 405 Q 60 375, 35 340" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 150 485 C 175 460, 205 435, 205 405 C 185 405, 160 435, 145 470 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 205 405 Q 235 380, 270 355" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 148 425 C 120 395, 95 350, 110 320 C 130 320, 155 365, 162 410 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 110 320 Q 80 285, 55 245" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 168 410 C 195 380, 230 350, 230 320 C 205 320, 180 355, 162 395 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 230 320 Q 265 295, 305 270" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 175 345 C 150 310, 135 265, 155 235 C 175 235, 195 280, 195 325 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 155 235 Q 130 195, 110 150" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 205 330 C 235 300, 275 275, 275 245 C 250 245, 220 275, 195 315 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 275 245 Q 315 220, 360 200" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 225 275 C 205 235, 205 185, 230 160 C 250 165, 260 210, 250 255 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 230 160 Q 215 115, 205 65" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 265 255 C 300 225, 345 205, 350 175 C 325 170, 290 200, 255 240 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 350 175 Q 395 155, 445 140" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 300 215 C 290 175, 305 125, 335 105 C 355 110, 355 160, 330 200 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 335 105 Q 330 60, 335 10" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 345 195 C 385 170, 435 155, 445 125 C 420 120, 380 145, 335 180 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 445 125 Q 495 110, 550 100" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 390 170 C 390 130, 420 85, 455 75 C 470 85, 460 130, 425 160 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 455 75 Q 465 30, 480 -15" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 440 150 C 485 130, 535 120, 555 95 C 530 85, 490 105, 430 135 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 555 95 Q 610 85, 665 85" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <path d="M 495 135 C 540 120, 595 115, 620 95 C 600 85, 555 100, 485 125 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 620 95 Q 675 90, 735 95" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M 565 125 C 605 115, 650 115, 675 100 C 660 90, 620 100, 555 115 Z" fill="url(#c_goldGrad)"/>
+    <path d="M 675 100 Q 730 100, 785 110" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Ground Asphalt Base -->
+    <rect x="165" y="715" width="800" height="24" fill="#88929e" rx="4"/>
+    <rect x="165" y="734" width="800" height="5" fill="#475569" rx="2"/>
+
+    <!-- Multi-layered Lush Grass Field -->
+    <path d="M 165 720 
+             L 175 665 L 185 718 L 195 650 L 205 718 L 215 660 L 225 718 
+             L 238 645 L 250 718 L 262 655 L 275 718 L 288 648 L 300 718 
+             L 312 655 L 325 718 L 338 642 L 350 718 L 365 652 L 378 718
+             L 392 645 L 405 718 L 420 650 L 435 718 L 450 640 L 465 718
+             L 480 652 L 495 718 L 510 642 L 525 718 L 540 650 L 555 718
+             L 570 640 L 585 718 L 600 648 L 615 718 L 630 635 L 645 718
+             L 660 645 L 675 718 L 690 638 L 705 718 L 720 648 L 735 718
+             L 750 638 L 765 718 L 780 645 L 795 718 L 810 640 L 825 718
+             L 840 648 L 855 718 L 870 638 L 885 718 L 900 645 L 915 718
+             L 930 640 L 945 718 L 955 675 L 965 720 Z" 
+          fill="#15803d"/>
+
+    <path d="M 165 720 
+             L 172 678 L 180 718 L 190 665 L 200 718 L 210 672 L 220 718 
+             L 232 658 L 244 718 L 256 668 L 268 718 L 280 660 L 292 718 
+             L 305 668 L 318 718 L 330 655 L 342 718 L 355 665 L 368 718
+             L 382 658 L 396 718 L 410 665 L 424 718 L 438 655 L 452 718
+             L 466 665 L 480 718 L 495 658 L 510 718 L 525 665 L 540 718
+             L 555 655 L 570 718 L 585 665 L 600 718 L 615 650 L 630 718
+             L 645 660 L 660 718 L 675 652 L 690 718 L 705 660 L 720 718
+             L 735 652 L 750 718 L 765 660 L 780 718 L 795 655 L 810 718
+             L 825 662 L 840 718 L 855 655 L 870 718 L 885 660 L 900 718
+             L 915 655 L 930 718 L 945 665 L 955 685 L 965 720 Z" 
+          fill="#22c55e"/>
+
+    <!-- Tractor with Farmer Silhouette -->
+    <g id="tractor" transform="translate(170, 420)">
+      <!-- Farmer Head & Hat -->
+      <path d="M 85 92 C 85 85, 92 78, 100 78 C 108 78, 115 85, 115 92 C 115 98, 108 104, 100 104 C 92 104, 85 98, 85 92 Z" fill="#64748b"/>
+      <path d="M 72 88 Q 100 80 128 88 Q 100 84 72 88 Z" fill="#475569"/>
+      <!-- Farmer Torso & Arms -->
+      <path d="M 90 104 L 110 104 L 118 138 L 132 125 L 140 132 L 122 152 L 102 155 L 82 145 Z" fill="#64748b"/>
+      <line x1="140" y1="130" x2="132" y2="148" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+      <ellipse cx="138" cy="128" rx="14" ry="5" fill="none" stroke="#334155" stroke-width="5" transform="rotate(-30 138 128)"/>
+      <line x1="132" y1="148" x2="145" y2="185" stroke="#334155" stroke-width="6" stroke-linecap="round"/>
+
+      <!-- Tractor Chassis & Engine Hood -->
+      <path d="M 140 165 L 268 165 C 275 165, 280 170, 280 178 L 280 238 L 140 238 Z" fill="url(#c_tractorGrad)"/>
+      <path d="M 276 178 L 280 178 L 280 235 L 276 235 Z" fill="#334155"/>
+      <line x1="272" y1="180" x2="272" y2="230" stroke="#cbd5e1" stroke-width="2"/>
+      <line x1="265" y1="180" x2="265" y2="230" stroke="#cbd5e1" stroke-width="2"/>
+      <line x1="258" y1="180" x2="258" y2="230" stroke="#cbd5e1" stroke-width="2"/>
+      <path d="M 278 185 L 285 183 L 285 195 L 278 193 Z" fill="#fbbf24"/>
+
+      <!-- Silencer with Flap -->
+      <path d="M 230 165 L 230 65 C 230 60, 235 60, 235 65 L 235 165 Z" fill="#475569"/>
+      <rect x="227" y="90" width="11" height="40" rx="3" fill="#64748b"/>
+      <path d="M 226 62 Q 235 55 244 65" stroke="#334155" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+      <!-- Air Cleaner Filter -->
+      <rect x="250" y="130" width="7" height="35" fill="#475569"/>
+      <ellipse cx="253" cy="130" rx="9" ry="6" fill="#334155"/>
+
+      <!-- Seat & Mudguard -->
+      <path d="M 75 165 C 65 140, 85 125, 105 155 Z" fill="#334155"/>
+      <path d="M 12 215 C 8 135, 75 105, 130 120 C 135 122, 135 130, 130 130 C 85 118, 25 145, 28 215 Z" fill="#475569"/>
+
+      <!-- Rear Large Lugged Tire -->
+      <g id="c_rear_wheel" transform="translate(75, 215)">
+        <circle cx="0" cy="0" r="75" fill="url(#c_tireGrad)"/>
+        <circle cx="0" cy="0" r="54" fill="#ffffff"/>
+        <circle cx="0" cy="0" r="50" fill="url(#c_tractorGrad)"/>
+        <circle cx="0" cy="0" r="28" fill="#475569"/>
+        <circle cx="0" cy="0" r="14" fill="#cbd5e1"/>
+        <circle cx="0" cy="0" r="7" fill="#1e293b"/>
+        <!-- Lug Bolts -->
+        <circle cx="0" cy="-20" r="3.5" fill="#f8fafc"/>
+        <circle cx="17" cy="-10" r="3.5" fill="#f8fafc"/>
+        <circle cx="17" cy="10" r="3.5" fill="#f8fafc"/>
+        <circle cx="0" cy="20" r="3.5" fill="#f8fafc"/>
+        <circle cx="-17" cy="10" r="3.5" fill="#f8fafc"/>
+        <circle cx="-17" cy="-10" r="3.5" fill="#f8fafc"/>
+
+        <!-- 16 Chevrons -->
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(22.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(45)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(67.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(90)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(112.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(135)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(157.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(180)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(202.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(225)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(247.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(270)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(292.5)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(315)"/>
+        <path d="M -12 -75 L 0 -62 L 12 -75 L 6 -78 L 0 -72 L -6 -78 Z" fill="#ffffff" transform="rotate(337.5)"/>
+      </g>
+
+      <!-- Front Tire -->
+      <g id="c_front_wheel" transform="translate(260, 240)">
+        <circle cx="0" cy="0" r="46" fill="url(#c_tireGrad)"/>
+        <circle cx="0" cy="0" r="32" fill="#ffffff"/>
+        <circle cx="0" cy="0" r="30" fill="url(#c_tractorGrad)"/>
+        <circle cx="0" cy="0" r="16" fill="#475569"/>
+        <circle cx="0" cy="0" r="8" fill="#cbd5e1"/>
+        <circle cx="0" cy="0" r="4" fill="#1e293b"/>
+        <!-- Tread Ribs -->
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(30)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(60)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(90)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(120)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(150)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(180)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(210)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(240)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(270)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(300)"/>
+        <rect x="-4" y="-46" width="8" height="6" fill="#ffffff" transform="rotate(330)"/>
+      </g>
+
+      <line x1="210" y1="230" x2="260" y2="240" stroke="#334155" stroke-width="8"/>
+      <circle cx="210" cy="230" r="7" fill="#1e293b"/>
+    </g>
+
+    <!-- Top Right Wheat Stalk Arching Over Text -->
+    <g id="c_wheat_over_text" transform="translate(-10, -5)">
+      <path d="M 575 425 Q 710 340 815 480" stroke="#15803d" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+      
+      <path d="M 585 418 C 595 405, 615 400, 620 410 C 615 420, 595 425, 585 418 Z" fill="url(#c_goldGrad)"/>
+      <path d="M 620 410 Q 645 395, 665 375" stroke="#f59e0b" stroke-width="2" fill="none"/>
+
+      <path d="M 610 405 C 625 390, 645 385, 650 395 C 645 405, 625 412, 610 405 Z" fill="url(#c_goldGrad)"/>
+      <path d="M 650 395 Q 680 380, 705 355" stroke="#f59e0b" stroke-width="2" fill="none"/>
+
+      <path d="M 640 390 C 655 375, 675 370, 680 380 C 675 390, 655 398, 640 390 Z" fill="url(#c_goldGrad)"/>
+      <path d="M 680 380 Q 715 365, 745 340" stroke="#f59e0b" stroke-width="2" fill="none"/>
+
+      <path d="M 670 380 C 690 365, 715 360, 718 372 C 710 382, 685 390, 670 380 Z" fill="url(#c_goldGrad)"/>
+      <path d="M 718 372 Q 755 360, 790 345" stroke="#f59e0b" stroke-width="2" fill="none"/>
+
+      <path d="M 705 375 C 728 365, 750 365, 752 378 C 740 388, 718 390, 705 375 Z" fill="url(#c_goldGrad)"/>
+      <path d="M 752 378 Q 795 375, 835 365" stroke="#f59e0b" stroke-width="2" fill="none"/>
+
+      <path d="M 738 385 C 760 380, 780 385, 780 398 C 765 405, 745 400, 738 385 Z" fill="url(#c_goldGrad)"/>
+      <path d="M 780 398 Q 825 405, 865 405" stroke="#f59e0b" stroke-width="2" fill="none"/>
+
+      <path d="M 755 410 Q 790 415 815 480 Q 770 445, 755 410 Z" fill="#15803d"/>
+      <path d="M 765 435 Q 778 400 750 360 Q 765 390 765 435 Z" fill="#16a34a"/>
+    </g>
+
+    <!-- Typography -->
+    <text x="460" y="535" 
+          font-family="'Arial Black', 'Montserrat', Impact, 'Segoe UI', sans-serif" 
+          font-size="70" 
+          font-weight="900" 
+          letter-spacing="2"
+          fill="#15803d">CANEUP.XYZ</text>
+
+    <text x="645" y="590" 
+          font-family="'Georgia', 'Times New Roman', serif" 
+          font-size="32" 
+          font-weight="bold" 
+          font-style="italic"
+          letter-spacing="1"
+          text-anchor="middle"
+          fill="#166534">Hindi Blog</text>
+
+  </g>
+</svg>
