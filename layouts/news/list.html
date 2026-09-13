@@ -1,119 +1,812 @@
 {{ define "main" }}
 
 <style>
+/* Base News Page Resets */
+.news-page-wrapper {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 /* News Page Hero */
-.news-hero{background:linear-gradient(135deg,#450a0a 0%,#dc2626 50%,#450a0a 100%);color:#fff;padding:48px 20px 40px;text-align:center;position:relative;overflow:hidden}
-.news-hero::before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background:url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")}
-.news-hero h1{font-size:32px;font-weight:800;margin-bottom:10px;line-height:1.2;position:relative}
-.news-hero h1 .live-dot{display:inline-block;width:12px;height:12px;background:#fff;border-radius:50%;margin-right:8px;animation:news-blink 1.5s ease-in-out infinite}
-@keyframes news-blink{0%,100%{opacity:1}50%{opacity:.3}}
-.news-hero p{font-size:15px;opacity:.9;max-width:650px;margin:0 auto 20px;line-height:1.6;position:relative}
-.news-hero-stats{display:flex;justify-content:center;gap:36px;margin-top:20px;position:relative}
-.news-hero-stat b{display:block;font-size:26px;font-weight:800;color:#fbbf24}
-.news-hero-stat small{font-size:11px;opacity:.8}
+.news-hero {
+  background: linear-gradient(135deg, #450a0a 0%, #dc2626 50%, #450a0a 100%);
+  color: #ffffff;
+  padding: 38px 20px 30px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.news-hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+.news-hero h1 {
+  font-size: clamp(22px, 4.5vw, 32px);
+  font-weight: 800;
+  margin-bottom: 8px;
+  line-height: 1.25;
+  position: relative;
+}
+.news-hero h1 .live-dot {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  background: #ffffff;
+  border-radius: 50%;
+  margin-right: 8px;
+  vertical-align: middle;
+  animation: news-blink 1.5s ease-in-out infinite;
+}
+@keyframes news-blink {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.35; transform: scale(0.85); }
+}
+.news-hero p {
+  font-size: clamp(13px, 2.8vw, 15px);
+  opacity: 0.92;
+  max-width: 650px;
+  margin: 0 auto 16px;
+  line-height: 1.6;
+  position: relative;
+  padding: 0 8px;
+}
+.news-hero-stats {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+  margin-top: 16px;
+  position: relative;
+}
+.news-hero-stat {
+  text-align: center;
+}
+.news-hero-stat b {
+  display: block;
+  font-size: clamp(18px, 3.8vw, 26px);
+  font-weight: 800;
+  color: #fbbf24;
+  line-height: 1.15;
+}
+.news-hero-stat small {
+  font-size: 11px;
+  opacity: 0.85;
+}
 
 /* Breadcrumb */
-.news-breadcrumb{max-width:1200px;margin:0 auto;padding:14px 20px;font-size:13px;color:#6b7280}
-.news-breadcrumb a{color:#dc2626;text-decoration:none;font-weight:500}
-.news-breadcrumb a:hover{text-decoration:underline}
-
-/* News Container */
-.news-container{max-width:1200px;margin:0 auto;padding:0 20px 40px;display:grid;grid-template-columns:1fr 320px;gap:30px}
-
-/* Featured / Latest News Card */
-.news-featured{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,.08);margin-bottom:24px;display:grid;grid-template-columns:1fr 1fr;border:2px solid #fecaca;transition:all .3s}
-.news-featured:hover{transform:translateY(-3px);box-shadow:0 8px 30px rgba(220,38,38,.15)}
-.news-featured-img{min-height:280px;display:flex;align-items:center;justify-content:center;font-size:60px;position:relative;background:linear-gradient(135deg,#dc2626,#991b1b)}
-.news-featured-img img{width:100%;height:100%;object-fit:cover}
-.news-featured-badge{position:absolute;top:16px;left:16px;background:#dc2626;color:#fff;padding:5px 14px;border-radius:20px;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:1px;display:flex;align-items:center;gap:6px;animation:news-blink 1.5s ease-in-out infinite}
-.news-featured-badge::before{content:"";width:6px;height:6px;background:#fff;border-radius:50%}
-.news-featured-body{padding:28px;display:flex;flex-direction:column;justify-content:center}
-.news-featured-cat{display:inline-block;background:#fef2f2;color:#dc2626;padding:4px 12px;border-radius:4px;font-size:11px;font-weight:700;margin-bottom:10px;width:fit-content;text-transform:uppercase}
-.news-featured-title{font-size:22px;font-weight:800;color:#111;margin-bottom:10px;line-height:1.3}
-.news-featured-title a{text-decoration:none;color:inherit}
-.news-featured-title a:hover{color:#dc2626}
-.news-featured-excerpt{font-size:14px;color:#6b7280;line-height:1.6;margin-bottom:14px}
-.news-featured-meta{font-size:12px;color:#9ca3af;display:flex;align-items:center;gap:12px}
-.news-featured-readmore{display:inline-flex;align-items:center;gap:6px;background:#dc2626;color:#fff;padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;margin-top:14px;width:fit-content;transition:background .2s}
-.news-featured-readmore:hover{background:#b91c1c}
-
-/* News Grid */
-.news-section-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;padding-bottom:12px;border-bottom:3px solid #dc2626}
-.news-section-header h2{font-size:20px;font-weight:700;color:#111;display:flex;align-items:center;gap:8px}
-.news-section-count{background:#fef2f2;color:#dc2626;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:700}
-.news-list-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
-.news-list-card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);transition:all .25s;border:1px solid #f3f4f6}
-.news-list-card:hover{transform:translateY(-4px);box-shadow:0 8px 25px rgba(220,38,38,.1);border-color:#fecaca}
-.news-list-card-img{height:170px;position:relative;overflow:hidden;background:linear-gradient(135deg,#dc2626,#991b1b);display:flex;align-items:center;justify-content:center;font-size:40px}
-.news-list-card-img img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
-.news-list-card:hover .news-list-card-img img{transform:scale(1.05)}
-.news-list-card-time{position:absolute;top:10px;right:10px;background:rgba(0,0,0,.75);color:#fff;font-size:10px;font-weight:600;padding:4px 10px;border-radius:4px;backdrop-filter:blur(4px)}
-.news-list-card-cat{position:absolute;top:10px;left:10px;background:#dc2626;color:#fff;font-size:9px;font-weight:700;padding:3px 10px;border-radius:4px;text-transform:uppercase;letter-spacing:.5px}
-.news-list-card-body{padding:16px}
-.news-list-card-title{font-size:15px;font-weight:700;color:#111;margin-bottom:6px;line-height:1.4}
-.news-list-card-title a{text-decoration:none;color:inherit}
-.news-list-card-title a:hover{color:#dc2626}
-.news-list-card-desc{font-size:12px;color:#6b7280;line-height:1.5;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.news-list-card-footer{display:flex;align-items:center;justify-content:space-between;font-size:11px;color:#9ca3af;padding-top:10px;border-top:1px solid #f3f4f6}
-.news-list-card-read{color:#dc2626;font-weight:700;text-decoration:none;font-size:12px}
-.news-list-card-read:hover{text-decoration:underline}
-
-/* Pagination Styles */
-.news-pagination{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:36px;flex-wrap:wrap}
-.news-page-btn{padding:10px 18px;background:#fff;border:1.5px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#1f2937;font-size:14px;font-weight:700;transition:all .2s ease;box-shadow:0 2px 6px rgba(0,0,0,.04)}
-.news-page-btn:hover{background:#fef2f2;border-color:#fecaca;color:#dc2626;transform:translateY(-1px)}
-.news-page-numbers{display:flex;align-items:center;gap:6px}
-.news-page-num{padding:10px 16px;background:#fff;border:1.5px solid #e5e7eb;border-radius:8px;text-decoration:none;color:#374151;font-size:14px;font-weight:700;transition:all .2s ease;min-width:42px;text-align:center}
-.news-page-num:hover{background:#fef2f2;border-color:#fecaca;color:#dc2626}
-.news-page-num.active{background:#dc2626;border-color:#dc2626;color:#fff;box-shadow:0 4px 12px rgba(220,38,38,.3)}
-.news-page-info{text-align:center;font-size:13px;color:#6b7280;margin-top:12px;font-weight:500}
-
-/* Sidebar */
-.news-sidebar{display:flex;flex-direction:column;gap:20px}
-.news-sidebar-card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.06);border:1px solid #f3f4f6}
-.news-sidebar-header{background:linear-gradient(135deg,#450a0a,#dc2626);color:#fff;padding:14px 18px}
-.news-sidebar-header h3{font-size:14px;font-weight:700;margin:0}
-.news-sidebar-body{padding:16px 18px}
-.news-trending-list{list-style:none;padding:0;margin:0}
-.news-trending-item{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid #f3f4f6;text-decoration:none;color:inherit;transition:background .2s}
-.news-trending-item:last-child{border:none}
-.news-trending-item:hover{background:#fef2f2;margin:0 -18px;padding-left:18px;padding-right:18px;border-radius:0}
-.news-trending-num{background:linear-gradient(135deg,#dc2626,#991b1b);color:#fff;width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;flex-shrink:0}
-.news-trending-info h4{font-size:13px;font-weight:600;color:#111;line-height:1.4;margin:0 0 4px}
-.news-trending-info p{font-size:11px;color:#9ca3af;margin:0}
-.news-subscribe-box{background:#fef2f2;border:2px dashed #fecaca;border-radius:10px;padding:20px;text-align:center}
-.news-subscribe-box h4{font-size:14px;font-weight:700;color:#111;margin-bottom:6px}
-.news-subscribe-box p{font-size:12px;color:#6b7280;margin-bottom:14px;line-height:1.5}
-.news-subscribe-btn{display:inline-flex;align-items:center;gap:6px;background:#dc2626;color:#fff;padding:10px 20px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;transition:background .2s}
-.news-subscribe-btn:hover{background:#b91c1c}
-
-/* Responsive */
-@media(max-width:992px){
-  .news-container{grid-template-columns:1fr}
-  .news-sidebar{order:-1}
+.news-breadcrumb {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 12px 20px 8px;
+  font-size: 12.5px;
+  color: #6b7280;
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
-@media(max-width:768px){
-  .news-featured{grid-template-columns:1fr}
-  .news-featured-img{min-height:200px}
-  .news-hero h1{font-size:24px}
-  .news-hero-stats{gap:16px;flex-wrap:wrap}
-  .news-list-grid{grid-template-columns:1fr}
-  .news-hero-stat b{font-size:20px}
+.news-breadcrumb::-webkit-scrollbar { display: none; }
+.news-breadcrumb a { color: #dc2626; text-decoration: none; font-weight: 600; }
+.news-breadcrumb a:hover { text-decoration: underline; }
+
+/* Trending Chips Bar */
+.news-trending-chips {
+  max-width: 1200px;
+  margin: 0 auto 18px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.news-trending-chips::-webkit-scrollbar { display: none; }
+.news-chips-label {
+  font-size: 12px;
+  font-weight: 800;
+  color: #dc2626;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  padding: 5px 10px;
+  border-radius: 20px;
+  flex-shrink: 0;
+}
+.news-chip {
+  font-size: 12px;
+  font-weight: 600;
+  color: #374151;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  padding: 5px 12px;
+  border-radius: 20px;
+  text-decoration: none;
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+}
+.news-chip:hover {
+  background: #fef2f2;
+  border-color: #fecaca;
+  color: #dc2626;
+  transform: translateY(-1px);
+}
+
+/* News Main Container */
+.news-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 30px;
+  box-sizing: border-box;
+}
+
+.news-main-column {
+  min-width: 0;
+  width: 100%;
+}
+
+/* Featured News Card */
+.news-featured {
+  background: #ffffff;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.07);
+  margin-bottom: 24px;
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  border: 1.5px solid #fecaca;
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+.news-featured:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 28px rgba(220,38,38,0.14);
+}
+.news-featured-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #dc2626, #991b1b);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+}
+.news-featured-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+.news-featured:hover .news-featured-img img {
+  transform: scale(1.03);
+}
+.news-featured-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #dc2626;
+  color: #ffffff;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  animation: news-blink 1.5s ease-in-out infinite;
+}
+.news-featured-badge::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  background: #ffffff;
+  border-radius: 50%;
+}
+.news-featured-body {
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.news-featured-cat {
+  display: inline-block;
+  background: #fef2f2;
+  color: #dc2626;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  width: fit-content;
+  text-transform: uppercase;
+}
+.news-featured-title {
+  font-size: clamp(18px, 2.5vw, 22px);
+  font-weight: 800;
+  color: #111827;
+  margin-bottom: 8px;
+  line-height: 1.35;
+}
+.news-featured-title a { text-decoration: none; color: inherit; }
+.news-featured-title a:hover { color: #dc2626; }
+.news-featured-excerpt {
+  font-size: 13.5px;
+  color: #4b5563;
+  line-height: 1.55;
+  margin-bottom: 12px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.news-featured-meta {
+  font-size: 11.5px;
+  color: #6b7280;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.news-featured-readmore {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #dc2626;
+  color: #ffffff;
+  padding: 9px 18px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-top: 14px;
+  width: fit-content;
+  transition: background 0.2s;
+}
+.news-featured-readmore:hover { background: #b91c1c; }
+
+/* News Section Header */
+.news-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+  padding-bottom: 10px;
+  border-bottom: 2.5px solid #dc2626;
+}
+.news-section-header h2 {
+  font-size: clamp(17px, 3.5vw, 20px);
+  font-weight: 700;
+  color: #111827;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+}
+.news-section-count {
+  background: #fef2f2;
+  color: #dc2626;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 11.5px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+/* News List Grid */
+.news-list-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+}
+.news-list-card {
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  border: 1px solid #f3f4f6;
+  display: flex;
+  flex-direction: column;
+}
+.news-list-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(220,38,38,0.1);
+  border-color: #fecaca;
+}
+.news-list-card-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #dc2626, #991b1b);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+}
+.news-list-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+.news-list-card:hover .news-list-card-img img {
+  transform: scale(1.04);
+}
+.news-list-card-time {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0,0,0,0.75);
+  color: #ffffff;
+  font-size: 9.5px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 4px;
+  backdrop-filter: blur(4px);
+}
+.news-list-card-cat {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: #dc2626;
+  color: #ffffff;
+  font-size: 9px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  max-width: 48%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.news-list-card-body {
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.news-list-card-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 6px;
+  line-height: 1.38;
+}
+.news-list-card-title a { text-decoration: none; color: inherit; }
+.news-list-card-title a:hover { color: #dc2626; }
+.news-list-card-desc {
+  font-size: 12.5px;
+  color: #4b5563;
+  line-height: 1.5;
+  margin-bottom: 12px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.news-list-card-footer {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 11px;
+  color: #6b7280;
+  padding-top: 10px;
+  border-top: 1px solid #f3f4f6;
+}
+.news-list-card-read {
+  color: #dc2626;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 12px;
+}
+.news-list-card-read:hover { text-decoration: underline; }
+
+/* Pagination Controls */
+.news-pagination {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.news-pagination-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.news-page-btn {
+  padding: 9px 18px;
+  background: #ffffff;
+  border: 1.5px solid #e5e7eb;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #1f2937;
+  font-size: 13.5px;
+  font-weight: 700;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+.news-page-btn:hover {
+  background: #fef2f2;
+  border-color: #fecaca;
+  color: #dc2626;
+}
+.news-page-numbers {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.news-page-num {
+  padding: 8px 14px;
+  background: #ffffff;
+  border: 1.5px solid #e5e7eb;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #374151;
+  font-size: 13.5px;
+  font-weight: 700;
+  transition: all 0.2s ease;
+  min-width: 38px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.news-page-num:hover {
+  background: #fef2f2;
+  border-color: #fecaca;
+  color: #dc2626;
+}
+.news-page-num.active {
+  background: #dc2626;
+  border-color: #dc2626;
+  color: #ffffff;
+  box-shadow: 0 3px 10px rgba(220,38,38,0.25);
+}
+.news-page-info {
+  text-align: center;
+  font-size: 12.5px;
+  color: #6b7280;
+  font-weight: 500;
+  margin: 0;
+}
+
+/* Sidebar Styling */
+.news-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 0;
+}
+.news-sidebar-card {
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  border: 1px solid #f3f4f6;
+}
+.news-sidebar-header {
+  background: linear-gradient(135deg, #450a0a, #dc2626);
+  color: #ffffff;
+  padding: 12px 16px;
+}
+.news-sidebar-header h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0;
+}
+.news-sidebar-body {
+  padding: 14px 16px;
+}
+.news-trending-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.news-trending-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid #f3f4f6;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s;
+}
+.news-trending-item:last-child { border-bottom: none; }
+.news-trending-item:hover { color: #dc2626; }
+.news-trending-num {
+  background: linear-gradient(135deg, #dc2626, #991b1b);
+  color: #ffffff;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11.5px;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.news-trending-info {
+  min-width: 0;
+}
+.news-trending-info h4 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #111827;
+  line-height: 1.35;
+  margin: 0 0 3px;
+}
+.news-trending-item:hover .news-trending-info h4 {
+  color: #dc2626;
+}
+.news-trending-info p {
+  font-size: 11px;
+  color: #6b7280;
+  margin: 0;
+}
+
+/* Categories Grid in Sidebar */
+.news-categories-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.news-cat-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  background: #f9fafb;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  color: #374151;
+  transition: background 0.2s, color 0.2s;
+}
+.news-cat-link:hover {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+/* Telegram Subscribe Box */
+.news-subscribe-box {
+  background: #fef2f2;
+  border: 1.5px dashed #fecaca;
+  border-radius: 12px;
+  padding: 18px;
+  text-align: center;
+}
+.news-subscribe-box h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 6px;
+}
+.news-subscribe-box p {
+  font-size: 12px;
+  color: #4b5563;
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+.news-subscribe-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: #dc2626;
+  color: #ffffff;
+  padding: 9px 18px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.2s;
+  width: 100%;
+  box-sizing: border-box;
+}
+.news-subscribe-btn:hover { background: #b91c1c; }
+
+/* Quick Links in Sidebar */
+.news-quick-links-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.news-quick-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  transition: transform 0.15s;
+}
+.news-quick-link:hover { transform: translateX(3px); }
+
+/* =========================================================
+   RESPONSIVE MEDIA QUERIES (Mobile & Tablet First)
+   ========================================================= */
+
+/* Tablet (<= 992px) */
+@media (max-width: 992px) {
+  .news-container {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding: 0 16px 36px;
+  }
+  /* Main news stays first! Sidebar naturally sits below */
+  .news-sidebar {
+    order: 2;
+    margin-top: 10px;
+  }
+  .news-categories-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+  .news-quick-links-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+}
+
+/* Mobile & Small Tablets (<= 768px) */
+@media (max-width: 768px) {
+  .news-hero {
+    padding: 28px 14px 22px;
+  }
+  .news-featured {
+    grid-template-columns: 1fr;
+  }
+  .news-featured-body {
+    padding: 18px 16px;
+  }
+  .news-featured-readmore {
+    width: 100%;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+}
+
+/* Small Mobile (<= 640px) */
+@media (max-width: 640px) {
+  .news-hero-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 6px;
+    margin-top: 14px;
+  }
+  .news-hero-stat {
+    background: rgba(255, 255, 255, 0.12);
+    padding: 7px 4px;
+    border-radius: 8px;
+    backdrop-filter: blur(4px);
+  }
+  .news-hero-stat b {
+    font-size: 16px;
+  }
+  .news-hero-stat small {
+    font-size: 9.5px;
+    display: block;
+    margin-top: 1px;
+  }
+
+  .news-trending-chips {
+    padding: 0 12px;
+    margin-bottom: 14px;
+  }
+  .news-breadcrumb {
+    padding: 10px 12px 6px;
+  }
+
+  .news-container {
+    padding: 0 12px 30px;
+    gap: 22px;
+  }
+
+  /* Single Column News Cards */
+  .news-list-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  .news-list-card-body {
+    padding: 12px 14px;
+  }
+  .news-list-card-title {
+    font-size: 15px;
+    line-height: 1.35;
+  }
+
+  /* Mobile-Optimized Pagination */
+  .news-pagination-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .news-page-btn {
+    width: 100%;
+    text-align: center;
+    padding: 11px 8px;
+    font-size: 13px;
+    box-sizing: border-box;
+  }
+  .news-page-numbers {
+    grid-column: 1 / -1;
+    overflow-x: auto;
+    white-space: nowrap;
+    justify-content: flex-start;
+    padding: 6px 2px;
+    scrollbar-width: none;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+  }
+  .news-page-numbers::-webkit-scrollbar { display: none; }
+  .news-page-num {
+    padding: 8px 12px;
+    min-width: 36px;
+    font-size: 12.5px;
+    flex-shrink: 0;
+  }
+
+  /* Mobile Sidebar Grids */
+  .news-categories-grid,
+  .news-quick-links-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Extra Small Devices (<= 380px) */
+@media (max-width: 380px) {
+  .news-hero-stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 6px;
+  }
+  .news-featured-body {
+    padding: 14px 12px;
+  }
+  .news-featured-title {
+    font-size: 16px;
+  }
 }
 </style>
+
+<div class="news-page-wrapper">
 
 {{ $allNews := where .Site.RegularPages "Section" "news" }}
 {{ $newsCount := len $allNews }}
 {{ $paginator := .Paginate $allNews 20 }}
 
-<!-- Hero -->
+<!-- Hero Header -->
 <div class="news-hero">
   <h1><span class="live-dot"></span> ताज़ा खबरें — गन्ना न्यूज़</h1>
-  <p>गन्ना किसानों के लिए ब्रेकिंग न्यूज़, भुगतान अपडेट, MSP रेट, पेराई सीजन, सरकारी योजनाएं — सबसे पहले यहाँ। Google Discover और CaneUp पर ताज़ा खबरें पढ़ें।</p>
+  <p>गन्ना किसानों के लिए ब्रेकिंग न्यूज़, भुगतान अपडेट, MSP रेट, पेराई सीजन व सरकारी योजनाएं — सबसे पहले यहाँ।</p>
   <div class="news-hero-stats">
     <div class="news-hero-stat"><b>{{ $newsCount }}</b><small>ताज़ा खबरें</small></div>
     <div class="news-hero-stat"><b>24/7</b><small>लाइव अपडेट</small></div>
-    <div class="news-hero-stat"><b>₹400</b><small>SAP/क्विंटल</small></div>
+    <div class="news-hero-stat"><b>₹400</b><small>SAP प्रस्ताव</small></div>
     <div class="news-hero-stat"><b>2026-27</b><small>पेराई सत्र</small></div>
   </div>
 </div>
@@ -124,10 +817,22 @@
   {{ if gt $paginator.PageNumber 1 }} › <span>पेज {{ $paginator.PageNumber }}</span>{{ end }}
 </div>
 
+<!-- Mobile-Friendly Trending Topic Chips Bar -->
+<div class="news-trending-chips">
+  <span class="news-chips-label">🔥 ट्रेंडिंग:</span>
+  <a href="/news/up-120-sugar-mills-crushing-session-calendar-dates-indent-rules-2026/" class="news-chip">🏭 120 मिल पेराई कैलेंडर</a>
+  <a href="/news/up-ganna-sap-price-hike-proposal-cabinet-decision-2026-27/" class="news-chip">💰 गन्ना भाव ₹400 प्रस्ताव</a>
+  <a href="/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026/" class="news-chip">⚡ 15 सितंबर सट्टा डेडलाइन</a>
+  <a href="/news/bku-village-panchayats-tractor-march-20-september-mobilization-2026/" class="news-chip">🚜 20 सितंबर ट्रैक्टर मार्च</a>
+  <a href="/news/imd-heavy-rain-alert-sugarcane-propping-tying-advisory-up-2026/" class="news-chip">🌧️ भारी बारिश व बंधाई अलर्ट</a>
+  <a href="/news/wholesale-sugar-prices-recover-40-rupees-festive-demand-2026/" class="news-chip">📈 चीनी थोक भाव ₹40 सुधार</a>
+</div>
+
 <div class="news-container">
-  <!-- Main Content -->
-  <div>
-    <!-- Featured / Latest (Only on Page 1) -->
+  <!-- Main Content Column -->
+  <div class="news-main-column">
+    
+    <!-- Featured / Latest News Card (Only on Page 1) -->
     {{ if eq $paginator.PageNumber 1 }}
       {{ range first 1 $paginator.Pages }}
       {{ $featured := .Params.featured_image }}
@@ -135,7 +840,7 @@
         <div class="news-featured">
           <div class="news-featured-img">
             {{ if $featured }}
-            <img src="{{ $featured }}" alt="{{ .Title }}" loading="lazy">
+            <img src="{{ $featured }}" alt="{{ .Title }}" loading="eager" fetchpriority="high">
             {{ else }}
             📰
             {{ end }}
@@ -144,7 +849,7 @@
           <div class="news-featured-body">
             <span class="news-featured-cat">{{ with .Params.categories }}{{ index . 0 }}{{ else }}Breaking News{{ end }}</span>
             <div class="news-featured-title">{{ .Title }}</div>
-            <div class="news-featured-excerpt">{{ .Description | truncate 160 }}</div>
+            <div class="news-featured-excerpt">{{ .Description | default .Summary | truncate 150 }}</div>
             <div class="news-featured-meta">
               <span>📅 {{ .Date.Format "02 Jan 2006" }}</span>
               <span>⏱ {{ .ReadingTime }} min read</span>
@@ -173,10 +878,10 @@
       {{ range $i, $p := $displayPages }}
       {{ $featured := $p.Params.featured_image }}
       <div class="news-list-card">
-        <a href="{{ $p.Permalink }}" style="text-decoration:none;color:inherit;display:block;">
+        <a href="{{ $p.Permalink }}" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;height:100%;">
           <div class="news-list-card-img">
             {{ if $featured }}
-            <img src="{{ $featured }}" alt="{{ $p.Title }}" loading="lazy">
+            <img src="{{ $featured }}" alt="{{ $p.Title }}" loading="lazy" width="600" height="338">
             {{ else }}
             📰
             {{ end }}
@@ -185,7 +890,7 @@
           </div>
           <div class="news-list-card-body">
             <div class="news-list-card-title">{{ $p.Title }}</div>
-            <div class="news-list-card-desc">{{ $p.Description | truncate 120 }}</div>
+            <div class="news-list-card-desc">{{ $p.Description | default $p.Summary | truncate 110 }}</div>
             <div class="news-list-card-footer">
               <span>{{ $p.Date.Format "02 Jan 2006" }} · {{ $p.ReadingTime }} min</span>
               <span class="news-list-card-read">पढ़ें →</span>
@@ -196,35 +901,37 @@
       {{ end }}
     </div>
 
-    <!-- Pagination Controls -->
+    <!-- Mobile-Optimized Pagination Controls -->
     {{ if gt $paginator.TotalPages 1 }}
     <div class="news-pagination">
-      {{ if $paginator.HasPrev }}
-      <a href="{{ $paginator.Prev.URL }}" class="news-page-btn">← पिछला पेज</a>
-      {{ end }}
-      
-      <div class="news-page-numbers">
-        {{ range $paginator.Pagers }}
-          {{ if eq . $paginator }}
-          <span class="news-page-num active">{{ .PageNumber }}</span>
-          {{ else }}
-          <a href="{{ .URL }}" class="news-page-num">{{ .PageNumber }}</a>
+      <div class="news-pagination-nav">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="news-page-btn">← पिछला पेज</a>
+        {{ end }}
+        
+        <div class="news-page-numbers">
+          {{ range $paginator.Pagers }}
+            {{ if eq . $paginator }}
+            <span class="news-page-num active">{{ .PageNumber }}</span>
+            {{ else }}
+            <a href="{{ .URL }}" class="news-page-num">{{ .PageNumber }}</a>
+            {{ end }}
           {{ end }}
+        </div>
+
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="news-page-btn">अगला पेज →</a>
         {{ end }}
       </div>
-
-      {{ if $paginator.HasNext }}
-      <a href="{{ $paginator.Next.URL }}" class="news-page-btn">अगला पेज →</a>
-      {{ end }}
+      <p class="news-page-info">पेज {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }} (कुल {{ $newsCount }} खबरें)</p>
     </div>
-    <p class="news-page-info">पेज {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }} (कुल {{ $newsCount }} खबरें)</p>
     {{ end }}
 
   </div>
 
-  <!-- Sidebar -->
-  <div class="news-sidebar">
-    <!-- Trending -->
+  <!-- Sidebar Column (Appears naturally below on mobile, right column on desktop) -->
+  <aside class="news-sidebar">
+    <!-- Trending News -->
     <div class="news-sidebar-card">
       <div class="news-sidebar-header">
         <h3>🔥 ट्रेंडिंग खबरें</h3>
@@ -235,7 +942,7 @@
           <a href="{{ $p.Permalink }}" class="news-trending-item">
             <span class="news-trending-num">{{ add $i 1 }}</span>
             <div class="news-trending-info">
-              <h4>{{ $p.Title | truncate 60 }}</h4>
+              <h4>{{ $p.Title | truncate 55 }}</h4>
               <p>{{ $p.Date.Format "02 Jan 2006" }}</p>
             </div>
           </a>
@@ -244,43 +951,47 @@
       </div>
     </div>
 
-    <!-- Categories -->
+    <!-- Categories Grid -->
     <div class="news-sidebar-card">
       <div class="news-sidebar-header">
         <h3>📂 कैटेगरीज़</h3>
       </div>
       <div class="news-sidebar-body">
-        <ul class="news-trending-list" style="list-style:none;padding:0;margin:0;">
-          <li><a href="/categories/parchi-calendar/" class="news-trending-item"><span style="font-size:18px;">🗓</span><div class="news-trending-info"><h4>पर्ची कैलेंडर</h4></div></a></li>
-          <li><a href="/categories/msp-rate/" class="news-trending-item"><span style="font-size:18px;">💹</span><div class="news-trending-info"><h4>MSP रेट</h4></div></a></li>
-          <li><a href="/categories/ganna-kheti/" class="news-trending-item"><span style="font-size:18px;">🌱</span><div class="news-trending-info"><h4>गन्ना खेती</h4></div></a></li>
-          <li><a href="/categories/sarkari-yojana/" class="news-trending-item"><span style="font-size:18px;">📜</span><div class="news-trending-info"><h4>सरकारी योजनाएं</h4></div></a></li>
-          <li><a href="/categories/business/" class="news-trending-item"><span style="font-size:18px;">📈</span><div class="news-trending-info"><h4>बिज़नेस आइडियाज़</h4></div></a></li>
-        </ul>
+        <div class="news-categories-grid">
+          <a href="/categories/parchi-calendar/" class="news-cat-link"><span>🗓</span><span>पर्ची कैलेंडर</span></a>
+          <a href="/categories/msp-rate/" class="news-cat-link"><span>💹</span><span>MSP रेट</span></a>
+          <a href="/categories/ganna-kheti/" class="news-cat-link"><span>🌱</span><span>गन्ना खेती</span></a>
+          <a href="/categories/sarkari-yojana/" class="news-cat-link"><span>📜</span><span>सरकारी योजनाएं</span></a>
+          <a href="/categories/business/" class="news-cat-link"><span>📈</span><span>बिज़नेस आइडियाज़</span></a>
+        </div>
       </div>
     </div>
 
-    <!-- Subscribe CTA -->
+    <!-- Telegram Channel Subscribe CTA -->
     <div class="news-subscribe-box">
       <h4>📲 ताज़ा खबरें सबसे पहले पाएं</h4>
-      <p>CaneUp टेलीग्राम चैनल जॉइन करें — गन्ना भुगतान, पर्ची, MSP की ताज़ा खबरें सीधे फोन पर</p>
+      <p>CaneUp टेलीग्राम चैनल जॉइन करें — गन्ना भुगतान, पर्ची व MSP की ताज़ा खबरें सीधे फोन पर पाएं।</p>
       <a href="https://t.me/caneup" target="_blank" rel="noopener" class="news-subscribe-btn">📱 टेलीग्राम जॉइन करें</a>
     </div>
 
-    <!-- Quick Links -->
+    <!-- Quick Links Grid -->
     <div class="news-sidebar-card">
       <div class="news-sidebar-header">
         <h3>⚡ क्विक लिंक्स</h3>
       </div>
-      <div class="news-sidebar-body" style="display:flex;flex-direction:column;gap:8px;">
-        <a href="/ganna-parchi-calendar-caneup/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#f0fdf4;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#15803d;">🗓 पर्ची कैलेंडर देखें</a>
-        <a href="/ganna-bhugtan-status/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#fffbeb;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#d97706;">💳 भुगतान स्टेटस चेक</a>
-        <a href="/eganna/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#fdf4ff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#7c3aed;">📲 eGanna App Download</a>
-        <a href="/posts/" style="display:flex;align-items:center;gap:10px;padding:10px;background:#eff6ff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600;color:#2563eb;">📝 सभी आर्टिकल्स</a>
+      <div class="news-sidebar-body">
+        <div class="news-quick-links-grid">
+          <a href="/ganna-parchi-calendar-caneup/" class="news-quick-link" style="background:#f0fdf4;color:#15803d;">🗓 पर्ची कैलेंडर देखें</a>
+          <a href="/ganna-bhugtan-status/" class="news-quick-link" style="background:#fffbeb;color:#d97706;">💳 भुगतान स्टेटस चेक</a>
+          <a href="/eganna/" class="news-quick-link" style="background:#fdf4ff;color:#7c3aed;">📲 eGanna App डाउनलोड</a>
+          <a href="/posts/" class="news-quick-link" style="background:#eff6ff;color:#2563eb;">📝 सभी आर्टिकल्स</a>
+        </div>
       </div>
     </div>
-  </div>
+  </aside>
+
+</div>
+
 </div>
 
 {{ end }}
-
