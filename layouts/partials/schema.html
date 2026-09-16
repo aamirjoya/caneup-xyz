@@ -154,12 +154,21 @@
 }
 </script>
 
-<!-- Organization Schema -->
+<!-- Organization Schema with Brand Synonyms -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "CaneUp",
+  "alternateName": [
+    "Cane Up",
+    "Cane Up.in",
+    "caneup.in",
+    "enquiry.caneup.in Portal",
+    "eGanna CaneUp",
+    "Kisan Net Enquiry CaneUp",
+    "UP Ganna Kisan Portal"
+  ],
   "url": "https://caneup.xyz/",
   "logo": "https://caneup.xyz/images/logo.png",
   "sameAs": [
@@ -169,6 +178,73 @@
   ]
 }
 </script>
+
+{{ if .IsHome }}
+<!-- HowTo Schema: enquiry.caneup.in Ganna Parchi Calendar Check -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "enquiry.caneup.in पर गन्ना पर्ची कैलेंडर कैसे देखें (How to Check CaneUp Ganna Parchi Calendar)",
+  "description": "उत्तर प्रदेश गन्ना एवं चीनी आयुक्त के आधिकारिक पोर्टल enquiry.caneup.in पर 12 पखवाड़े का सट्टा व पर्ची कैलेंडर 4 आसान चरणों में चेक करें।",
+  "image": "https://caneup.xyz/images/blog/caneup-portal.webp",
+  "totalTime": "PT3M",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "पोर्टल खोलें (Open Portal)",
+      "text": "मोबाइल या कंप्यूटर ब्राउज़र में enquiry.caneup.in खोलें या सीधे CaneUp.xyz के पर्ची कैलेंडर लिंक पर जाएं।",
+      "url": "https://caneup.xyz/ganna-parchi-calendar-caneup/"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "कैप्चा कोड दर्ज करें (Enter Captcha)",
+      "text": "स्क्रीन पर दिख रहे 4-6 अंकों के कैप्चा कोड को दर्ज करें और 'View' (देखें) बटन पर क्लिक करें।",
+      "url": "https://caneup.xyz/ganna-parchi-calendar-caneup/"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "जिला, मिल, समिति व गांव चुनें (Select District, Mill & Village)",
+      "text": "ड्रॉपडाउन मेनू से अपना गृह जिला, संबंधित चीनी मिल, गन्ना विकास समिति और अपने गांव का चयन करें।",
+      "url": "https://caneup.xyz/ganna-parchi-calendar-caneup/"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "किसान कोड डालें व कैलेंडर देखें (View 12 Pakhwada Calendar)",
+      "text": "अपना 4 अंकों का किसान कोड (Grower Code) दर्ज करें या सूची से नाम चुनें। स्क्रीन पर 12 पखवाड़े और 15 कॉलम का लाइव गन्ना पर्ची कैलेंडर खुल जाएगा।",
+      "url": "https://caneup.xyz/ganna-parchi-calendar-caneup/"
+    }
+  ]
+}
+</script>
+
+<!-- SoftwareApplication Schema: eGanna CaneUp App -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "eGanna CaneUp App",
+  "operatingSystem": "Android, iOS",
+  "applicationCategory": "AgriculturalApplication",
+  "softwareVersion": "6.0",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "185420"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "INR"
+  },
+  "url": "https://caneup.xyz/eganna/"
+}
+</script>
+{{ end }}
 
 {{ if .IsSection }}
 <!-- Breadcrumb Schema for Section -->

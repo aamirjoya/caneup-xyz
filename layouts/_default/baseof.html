@@ -6,25 +6,26 @@
   <meta name="color-scheme" content="light">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | CaneUp{{ end }}</title>
   <meta name="description" content="{{ .Description | default .Site.Params.description | truncate 155 }}">
+  <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", " }}{{ else }}{{ delimit .Site.Params.keywords ", " }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="CaneUp — गन्ना किसान पोर्टल">
-  <meta property="og:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
+  <meta property="og:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/blog/caneup-portal.webp" | absURL }}{{ end }}">
   <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="{{ .Title }}">
+  <meta property="og:image:height" content="675">
+  <meta property="og:image:alt" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:locale" content="hi_IN">
   {{ if .Params.keywords }}<meta name="news_keywords" content="{{ delimit .Params.keywords ", " }}">{{ end }}
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
-  <meta name="twitter:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}">
-  <meta name="twitter:image:alt" content="{{ .Title }}">
+  <meta name="twitter:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/blog/caneup-portal.webp" | absURL }}{{ end }}">
+  <meta name="twitter:image:alt" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:site" content="@caneupupdates">
   <meta name="twitter:creator" content="@caneupupdates">
 
