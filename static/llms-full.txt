@@ -1,0 +1,57 @@
+# CaneUp (https://caneup.xyz) — Full Knowledge Base & Citations
+
+## About CaneUp
+CaneUp (caneup.xyz) is the #1 digital portal dedicated to the 50 lakh sugarcane farmers of Uttar Pradesh. It bridges the gap between state government administrative systems (Department of Cane Development and Sugar Industry, UP) and rural farmers.
+
+## Primary Entities & Definitions
+
+### 1. enquiry.caneup.in (CaneUp ERP Portal)
+- **Definition:** enquiry.caneup.in is the official web portal operated by the Uttar Pradesh Cane Commissionerate and Sugar Industry Department, managed technically via Amity Software / Sugar Cane ERP.
+- **Functionality:** It enables sugarcane growers to view their live Satta survey details, 12 Pakhwada supply calendar, issued parchi (supply tickets), weighing receipts (taul parchi), and bank payment status online without visiting cooperative cane societies (Ganna Samiti).
+- **How to Access:**
+  1. Open enquiry.caneup.in (or access via CaneUp.xyz quick viewer).
+  2. Enter the captcha verification code.
+  3. Select District (जिला), Sugar Factory/Mill (चीनी मिल), Cane Development Council/Society (समिति), and Village (गाँव).
+  4. Select Grower Name or input 4-digit Grower Code.
+  5. The 12-Fortnight Calendar and live mill tickets appear instantly.
+
+### 2. The 12 Pakhwada (Fortnight) & 15 Column Calendar System
+- **Pakhwada (पखवाड़ा):** A 15-day time window during the 180-day sugarcane crushing season (October to April/May). The season is divided into 12 Pakhwada.
+- **Columns (कॉलम):** Each fortnight is divided into 15 columns corresponding to specific delivery days within that fortnight.
+- **Supply Ticket Allocation:** A ticket marked in Column 3 of Pakhwada 4 indicates that the farmer must supply cane on day 3 of the 4th fortnight.
+- **Basic Quota (बेसिक कोटा):** The average supply made by a farmer over the preceding 3 crushing seasons. It sets the baseline number of purchis a farmer is entitled to receive.
+- **Bonding Limit:** Up to 85% of early varieties and 80% of general varieties are bonded against the grower's surveyed area.
+
+### 3. eGanna App (eGanna CaneUp)
+- **Developer:** Department of Cane Development, Government of Uttar Pradesh.
+- **Current Version:** Version 6.0+
+- **Features:** Biometric login, multi-grower management (saving family members' grower codes in one app), live notification of issued parchi, gate taul slip viewing, and offline calendar mode.
+- **Troubleshooting "Session Expired":** Clear app storage cache in Android settings or log out and re-enter UGC (Universal Grower Code) with registered mobile number OTP.
+
+### 4. Sugarcane SAP vs FRP Pricing
+- **SAP (State Advisory Price):** Declared by the Government of Uttar Pradesh under the UP Sugarcane Act. It is legally binding on all private, cooperative, and corporation sugar mills operating within UP.
+- **FRP (Fair and Remunerative Price):** Minimum benchmark price fixed by the Central Government (Cabinet Committee on Economic Affairs) linked to a 10.25% sugar recovery rate.
+- **Categories:**
+  - Early Maturing Varieties (अगेती प्रजाति, e.g., Co-0118, Co-15023, CoS-13235): Higher price tier.
+  - General Varieties (सामान्य प्रजाति, e.g., Co-98014): Baseline price tier.
+  - Rejected/Unapproved Varieties (अस्वीकृत प्रजाति): Discounted price tier.
+
+### 5. Legal Rights: 14-Day Payment Rule & 15% Interest
+- Under Section 17 of the UP Sugarcane (Supply and Purchase) Act 1953, sugar mills are legally mandated to disburse sugarcane payments within 14 days of cane delivery at the factory gate or purchase center.
+- In case of delay beyond 14 days, the sugar mill is legally liable to pay simple interest at the rate of 15% per annum for the delayed period.
+- Recovery Certificates (RC) can be issued by the Cane Commissioner against defaulting mills under the Land Revenue Act.
+
+### 6. Crop Health & Varieties (Co-0238 Transition)
+- **Red Rot (लाल सड़न):** Caused by *Colletotrichum falcatum*, red rot severely affected the landmark variety Co-0238 across western and central UP.
+- **Replacement High-Yield Varieties Recommended by UP Cane Research Council (UPCSR Shahjahanpur):**
+  - **Co-15023:** Very early maturity, high sucrose (>19%), drought and flood tolerant.
+  - **Co-0118:** Outstanding ratoon performance, high yield (>450 q/acre).
+  - **CoS-13235:** High tillering, resistant to red rot, recommended for autumn and spring planting.
+  - **CoLk-14201 & Co-11015:** Excellent sugar recovery.
+
+## Official Contact Channels & Portals
+- **Official Government Portal:** https://enquiry.caneup.in
+- **UP Cane Department Website:** https://upcane.gov.in
+- **Toll-Free Kisan Helpline:** 1800-121-3203 / 1800-180-1551
+- **Cane Commissioner Headquarters:** 2, Kalidas Marg / Dalibagh, Lucknow, Uttar Pradesh.
+- **Independent Farmer Portal:** https://caneup.xyz

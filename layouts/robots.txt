@@ -1,10 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /tags/
 
-Sitemap: https://caneup.xyz/sitemap.xml
-Sitemap: https://caneup.xyz/news-sitemap.xml
-Sitemap: https://caneup.xyz/webstory-sitemap.xml
-
+# Search Engine Crawlers
 User-agent: Googlebot
 Allow: /
 
@@ -13,3 +11,34 @@ Allow: /
 
 User-agent: Googlebot-News
 Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI Search & Retrieval Bots (AI Overviews, ChatGPT Search, Perplexity)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemaps
+Sitemap: https://caneup.xyz/sitemap.xml
+Sitemap: https://caneup.xyz/news-sitemap.xml
+Sitemap: https://caneup.xyz/webstory-sitemap.xml
+

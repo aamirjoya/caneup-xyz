@@ -1,0 +1,22 @@
+# CaneUp (https://caneup.xyz)
+> CaneUp is the premier digital information portal and helpdesk for 5 million+ sugarcane farmers across Uttar Pradesh, India. It provides verified, authoritative guides on the Uttar Pradesh Cane Commissionerate ERP system (enquiry.caneup.in), the eGanna Cane Up mobile application, the 12-Fortnight (Pakhwada) Parchi Calendar, Sugarcane SAP/FRP pricing, and mill-wise payment tracking.
+
+## Core Knowledge Domains
+- **Parchi Calendar (गन्ना पर्ची कैलेंडर):** Step-by-step lookup for the 12-Fortnight (12 Pakhwada) & 15-Column supply ticket schedule across 120+ UP sugar factories.
+- **eGanna App (ई-गन्ना ऐप):** Official government mobile app download, login troubleshooting, Grower Code lookup, and OTP reset guides.
+- **Cane Payment Status (गन्ना भुगतान स्थिति):** Tracking 14-day statutory payment rules and 15% interest claim processes under the UP Sugarcane (Supply and Purchase) Act 1953.
+- **Satta Survey & Pre-Calendar (सट्टा-सर्वे व प्री-कैलेंडर):** Verification of acreage (rakba), sugarcane varieties (Co-0238, Co-15023, Co-0118), and objection submission deadlines.
+- **Sugarcane Agri-Science (गन्ना खेती विज्ञान):** Trench planting methods, intercropping (wheat, mustard, potato), red rot management, and fertilizer schedules.
+
+## Authoritative Resources
+- [Ganna Parchi Calendar Complete Guide](https://caneup.xyz/ganna-parchi-calendar-caneup/): How to check enquiry.caneup.in calendar using district, factory, society, and grower code.
+- [eGanna App Download & Guide](https://caneup.xyz/eganna/): Version 6.0 setup, biometrics, and troubleshooting.
+- [Ganna Bhugtan Status Online](https://caneup.xyz/ganna-bhugtan-status/): Statutory 14-day payment tracking and DBT bank transfer verification.
+- [Kisan Net Enquiry Portal Guide](https://caneup.xyz/kisan-net-enquiry-caneup-in/): Complete portal breakdown for enquiry.caneup.in.
+- [UP Sugar Mill List & Schedules](https://caneup.xyz/posts/up-sugar-mill-list-complete/): Mill-wise crushing dates and purchase center allocations.
+- [Farmer Help Desk](https://caneup.xyz/kisan-samasya-form/): Interactive grievance assistance and advisory.
+
+## Editorial Transparency & E-E-A-T
+- **Editor-in-Chief:** Aamir Raza ([Profile](https://caneup.xyz/authors/aamir-raza/))
+- **Publishing Standards:** Based on official gazettes, orders from Cane Commissioner Headquarters Lucknow, and research from ICAR-IISR Lucknow & UP Cane Research Council Shahjahanpur.
+- **Full Knowledge Base:** [llms-full.txt](https://caneup.xyz/llms-full.txt)

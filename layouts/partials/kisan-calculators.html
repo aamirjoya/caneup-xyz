@@ -1,0 +1,363 @@
+<div class="kc-suite-wrap">
+  <div class="kc-tabs">
+    <button class="kc-tab-btn active" onclick="switchKcTab('payment')">💰 भुगतान व 15% ब्याज</button>
+    <button class="kc-tab-btn" onclick="switchKcTab('quota')">📋 बेसिक कोटा व पर्ची</button>
+    <button class="kc-tab-btn" onclick="switchKcTab('fertilizer')">🌾 खाद व बीज डोज</button>
+  </div>
+
+  <!-- TAB 1: Payment & Interest Calculator -->
+  <div class="kc-tab-content active" id="kc-tab-payment">
+    <div class="kc-card">
+      <div class="kc-card-header">
+        <h3>💰 गन्ना भुगतान एवं 14 दिन नियम 15% ब्याज कैलकुलेटर</h3>
+        <p>गन्ना (आपूर्ति व खरीद) अधिनियम 1953 की धारा 17 के तहत अपने भुगतान व कानूनी ब्याज की गणना करें</p>
+      </div>
+      <div class="kc-form-grid">
+        <div class="kc-field">
+          <label>गन्ने का कुल वज़न (क्विंटल में)</label>
+          <input type="number" id="kc-pay-weight" placeholder="उदा. 150" value="100" min="1" oninput="calcPayment()">
+        </div>
+        <div class="kc-field">
+          <label>गन्ने की किस्म (प्रजाति)</label>
+          <select id="kc-pay-variety" onchange="updatePayRate()">
+            <option value="370" selected>अगेती प्रजाति (Early) — ₹370/क्विं</option>
+            <option value="360">सामान्य प्रजाति (General) — ₹360/क्विं</option>
+            <option value="custom">अन्य / कस्टम रेट दर्ज करें</option>
+          </select>
+        </div>
+        <div class="kc-field" id="kc-custom-rate-wrap" style="display:none;">
+          <label>कस्टम रेट (₹ प्रति क्विंटल)</label>
+          <input type="number" id="kc-pay-custom-rate" value="370" oninput="calcPayment()">
+        </div>
+        <div class="kc-field">
+          <label>गन्ना तौल / सप्लाई की तारीख</label>
+          <input type="date" id="kc-pay-date" onchange="calcPayment()">
+        </div>
+      </div>
+
+      <div class="kc-results" id="kc-pay-results">
+        <div class="kc-res-grid">
+          <div class="kc-res-box">
+            <span class="kc-res-label">कुल मूल भुगतान (Principal)</span>
+            <span class="kc-res-val" id="kc-res-principal">₹37,000</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">14 दिन भुगतान अंतिम तिथि</span>
+            <span class="kc-res-val" id="kc-res-duedate">—</span>
+          </div>
+          <div class="kc-res-box" id="kc-delay-box">
+            <span class="kc-res-label">विलंब के दिन (Days Delayed)</span>
+            <span class="kc-res-val" id="kc-res-delay">0 दिन</span>
+          </div>
+          <div class="kc-res-box highlight">
+            <span class="kc-res-label">15% वार्षिक ब्याज राशि</span>
+            <span class="kc-res-val highlight-val" id="kc-res-interest">₹0</span>
+          </div>
+        </div>
+        <div class="kc-total-banner">
+          <div>
+            <span style="font-size:13px;opacity:0.9;">चीनी मिल द्वारा कुल देय राशि (मूल + ब्याज):</span>
+            <div style="font-size:26px;font-weight:800;" id="kc-res-total">₹37,000</div>
+          </div>
+          <button class="kc-share-btn" onclick="shareKc('payment')">📲 WhatsApp शेयर</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TAB 2: Basic Quota & Parchi Calculator -->
+  <div class="kc-tab-content" id="kc-tab-quota">
+    <div class="kc-card">
+      <div class="kc-card-header">
+        <h3>📋 गन्ना बेसिक कोटा व पर्ची संख्या कैलकुलेटर</h3>
+        <p>उत्तर प्रदेश गन्ना आपूर्ति नीति के 85% नियम के अनुसार अपनी कुल पर्चियों की गणना करें</p>
+      </div>
+      <div class="kc-form-grid">
+        <div class="kc-field">
+          <label>सत्र 2023-24 में सप्लाई (क्विंटल)</label>
+          <input type="number" id="kc-q-y1" placeholder="जैसे 300" value="300" oninput="calcQuota()">
+        </div>
+        <div class="kc-field">
+          <label>सत्र 2024-25 में सप्लाई (क्विंटल)</label>
+          <input type="number" id="kc-q-y2" placeholder="जैसे 350" value="350" oninput="calcQuota()">
+        </div>
+        <div class="kc-field">
+          <label>सत्र 2025-26 में सप्लाई (क्विंटल)</label>
+          <input type="number" id="kc-q-y3" placeholder="जैसे 400" value="400" oninput="calcQuota()">
+        </div>
+        <div class="kc-field">
+          <label>सप्लाई साधन (पर्ची भार)</label>
+          <select id="kc-q-vehicle" onchange="calcQuota()">
+            <option value="50" selected>ट्रैक्टर-ट्रॉली (50 क्विंटल/पर्ची)</option>
+            <option value="27">बैलगाड़ी / बुग्गी (27 क्विंटल/पर्ची)</option>
+            <option value="90">बड़ा ट्रक (90 क्विंटल/पर्ची)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="kc-results">
+        <div class="kc-res-grid">
+          <div class="kc-res-box">
+            <span class="kc-res-label">3-वर्षीय औसत बेसिक कोटा</span>
+            <span class="kc-res-val" id="kc-res-quota-avg">350 क्विंटल</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">85% बॉन्डिंग कोटा</span>
+            <span class="kc-res-val" id="kc-res-quota-bond">297.5 क्विंटल</span>
+          </div>
+          <div class="kc-res-box highlight">
+            <span class="kc-res-label">कुल मिलने वाली पर्चियां</span>
+            <span class="kc-res-val highlight-val" id="kc-res-parchi-count">6 पर्ची</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">प्रति पखवाड़ा अनुमान (12 पखवाड़े)</span>
+            <span class="kc-res-val" id="kc-res-pakhwada-avg">~0.5 पर्ची/पखवाड़ा</span>
+          </div>
+        </div>
+        <div class="kc-total-banner">
+          <div>
+            <span style="font-size:13px;opacity:0.9;">पर्ची कैलेंडर स्थिति:</span>
+            <div style="font-size:18px;font-weight:700;" id="kc-quota-summary">6 पर्ची (सत्र 2026-27 के लिए अनुमानित)</div>
+          </div>
+          <button class="kc-share-btn" onclick="shareKc('quota')">📲 WhatsApp शेयर</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TAB 3: Sugarcane Fertilizer & Seed Dose -->
+  <div class="kc-tab-content" id="kc-tab-fertilizer">
+    <div class="kc-card">
+      <div class="kc-card-header">
+        <h3>🌾 गन्ना बुवाई: बीज व उर्वरक डोज कैलकुलेटर</h3>
+        <p>भारतीय गन्ना अनुसंधान संस्थान (ICAR-IISR) के मानकों के अनुसार वैज्ञानिक खाद व बीज मात्रा</p>
+      </div>
+      <div class="kc-form-grid">
+        <div class="kc-field">
+          <label>कुल क्षेत्रफल (क्षेत्रफल दर्ज करें)</label>
+          <input type="number" id="kc-f-area" value="1" min="0.1" step="0.1" oninput="calcFertilizer()">
+        </div>
+        <div class="kc-field">
+          <label>इकाई (माप)</label>
+          <select id="kc-f-unit" onchange="calcFertilizer()">
+            <option value="acre" selected>एकड़ (Acre)</option>
+            <option value="bigha_up">पक्का बीघा यूपी (1 एकड़ = 1.6 बीघा)</option>
+            <option value="bigha_west">कच्चा बीघा (1 एकड़ = 5 बीघा)</option>
+            <option value="hectare">हेक्टेयर (Hectare)</option>
+          </select>
+        </div>
+        <div class="kc-field">
+          <label>बुवाई विधि</label>
+          <select id="kc-f-method" onchange="calcFertilizer()">
+            <option value="trench" selected>ट्रेंच विधि (Trench 4-5 फीट) — बीज बचत</option>
+            <option value="normal">सामान्य विधि (2.5-3 फीट)</option>
+            <option value="single_bud">सिंगल बड / एसटीपी नर्सरी (न्यूनतम बीज)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="kc-results">
+        <div class="kc-res-grid">
+          <div class="kc-res-box">
+            <span class="kc-res-label">आवश्यक गन्ना बीज</span>
+            <span class="kc-res-val" id="kc-res-seed">20-25 क्विंटल</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">DAP (बुवाई के समय)</span>
+            <span class="kc-res-val" id="kc-res-dap">1.5 बोरी (75 kg)</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">यूरिया (कुल 3 बार में)</span>
+            <span class="kc-res-val" id="kc-res-urea">3 बोरी (135 kg)</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">MOP / पोटाश</span>
+            <span class="kc-res-val" id="kc-res-potash">1 बोरी (50 kg)</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">जिंक सल्फेट (21%)</span>
+            <span class="kc-res-val" id="kc-res-zinc">10 kg</span>
+          </div>
+          <div class="kc-res-box">
+            <span class="kc-res-label">ट्राइकोडर्मा (बीज शोधन)</span>
+            <span class="kc-res-val" id="kc-res-tricho">2 kg</span>
+          </div>
+        </div>
+        <div class="kc-total-banner">
+          <div>
+            <span style="font-size:13px;opacity:0.9;">विशेष वैज्ञानिक सलाह:</span>
+            <div style="font-size:15px;font-weight:600;">बुवाई के समय यूरिया न डालें। DAP और पोटाश हमेशा कूंड़ में बीज के नीचे डालें।</div>
+          </div>
+          <button class="kc-share-btn" onclick="shareKc('fertilizer')">📲 WhatsApp शेयर</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.kc-suite-wrap{margin:24px 0;font-family:inherit}
+.kc-tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:8px;-webkit-overflow-scrolling:touch}
+.kc-tab-btn{padding:10px 18px;border:1px solid #bbf7d0;background:#f0fdf4;color:#15803d;font-weight:700;font-size:14px;border-radius:30px;cursor:pointer;white-space:nowrap;transition:all .2s}
+.kc-tab-btn:hover{background:#dcfce7}
+.kc-tab-btn.active{background:#15803d;color:#fff;border-color:#15803d;box-shadow:0 4px 12px rgba(21,128,61,.25)}
+.kc-tab-content{display:none}
+.kc-tab-content.active{display:block;animation:fadeIn .25s ease-in-out}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+.kc-card{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,5%)}
+.kc-card-header{margin-bottom:20px;border-bottom:1px solid #f3f4f6;padding-bottom:14px}
+.kc-card-header h3{font-size:20px;color:#111;margin:0 0 6px;font-weight:700}
+.kc-card-header p{font-size:13px;color:#6b7280;margin:0}
+.kc-form-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-bottom:24px}
+.kc-field{display:flex;flex-direction:column;gap:6px}
+.kc-field label{font-size:13px;font-weight:600;color:#374151}
+.kc-field input,.kc-field select{padding:10px 12px;border:1.5px solid #d1d5db;border-radius:8px;font-size:14px;background:#fff;color:#111;outline:none;transition:border-color .2s}
+.kc-field input:focus,.kc-field select:focus{border-color:#15803d;box-shadow:0 0 0 3px rgba(21,128,61,.15)}
+.kc-results{background:#f9fafb;border-radius:12px;padding:18px;border:1px solid #e5e7eb}
+.kc-res-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-bottom:16px}
+.kc-res-box{background:#fff;padding:12px 14px;border-radius:8px;border:1px solid #e5e7eb}
+.kc-res-box.highlight{background:#fef2f2;border-color:#fecaca}
+.kc-res-label{display:block;font-size:11px;color:#6b7280;font-weight:600;margin-bottom:4px;text-transform:uppercase;letter-spacing:.5px}
+.kc-res-val{font-size:18px;font-weight:700;color:#111}
+.kc-res-val.highlight-val{color:#dc2626}
+.kc-total-banner{display:flex;align-items:center;justify-content:space-between;background:linear-gradient(135deg,#052e16,#15803d);color:#fff;padding:14px 18px;border-radius:10px;gap:12px;flex-wrap:wrap}
+.kc-share-btn{background:#25d366;color:#fff;border:none;padding:10px 18px;border-radius:8px;font-weight:700;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;transition:all .2s;text-decoration:none}
+.kc-share-btn:hover{background:#20ba5a;transform:translateY(-1px)}
+@media(max-width:640px){
+  .kc-card{padding:16px}
+  .kc-card-header h3{font-size:17px}
+  .kc-total-banner{flex-direction:column;align-items:stretch;text-align:center}
+  .kc-share-btn{justify-content:center}
+}
+</style>
+
+<script>
+function switchKcTab(tabName){
+  document.querySelectorAll('.kc-tab-btn').forEach(function(btn){btn.classList.remove('active')});
+  document.querySelectorAll('.kc-tab-content').forEach(function(cnt){cnt.classList.remove('active')});
+  if(event && event.target) event.target.classList.add('active');
+  var target = document.getElementById('kc-tab-' + tabName);
+  if(target) target.classList.add('active');
+}
+
+function updatePayRate(){
+  var sel = document.getElementById('kc-pay-variety').value;
+  var customWrap = document.getElementById('kc-custom-rate-wrap');
+  if(sel === 'custom'){
+    customWrap.style.display = 'flex';
+  } else {
+    customWrap.style.display = 'none';
+  }
+  calcPayment();
+}
+
+function calcPayment(){
+  var weight = parseFloat(document.getElementById('kc-pay-weight').value) || 0;
+  var rateSel = document.getElementById('kc-pay-variety').value;
+  var rate = (rateSel === 'custom') ? (parseFloat(document.getElementById('kc-pay-custom-rate').value) || 0) : parseFloat(rateSel);
+  var principal = weight * rate;
+  document.getElementById('kc-res-principal').innerText = '₹' + principal.toLocaleString('en-IN');
+
+  var dateVal = document.getElementById('kc-pay-date').value;
+  var interest = 0;
+  var daysOverdue = 0;
+  var dueStr = '—';
+
+  if(dateVal){
+    var supplyDate = new Date(dateVal);
+    var dueDate = new Date(supplyDate.getTime() + (14 * 24 * 60 * 60 * 1000));
+    dueStr = dueDate.toLocaleDateString('hi-IN', {day:'numeric', month:'short', year:'numeric'});
+    var today = new Date();
+    var diffMs = today.getTime() - dueDate.getTime();
+    if(diffMs > 0){
+      daysOverdue = Math.floor(diffMs / (24 * 60 * 60 * 1000));
+      // 15% simple interest per annum
+      interest = Math.round(principal * 0.15 * (daysOverdue / 365));
+    }
+  } else {
+    // Default supply date set to 20 days ago for demonstration
+    var d = new Date();
+    d.setDate(d.getDate() - 25);
+    document.getElementById('kc-pay-date').value = d.toISOString().split('T')[0];
+    calcPayment();
+    return;
+  }
+
+  document.getElementById('kc-res-duedate').innerText = dueStr;
+  document.getElementById('kc-res-delay').innerText = daysOverdue > 0 ? (daysOverdue + ' दिन') : 'समय सीमा में';
+  document.getElementById('kc-res-interest').innerText = '₹' + interest.toLocaleString('en-IN');
+  var total = principal + interest;
+  document.getElementById('kc-res-total').innerText = '₹' + total.toLocaleString('en-IN');
+}
+
+function calcQuota(){
+  var y1 = parseFloat(document.getElementById('kc-q-y1').value) || 0;
+  var y2 = parseFloat(document.getElementById('kc-q-y2').value) || 0;
+  var y3 = parseFloat(document.getElementById('kc-q-y3').value) || 0;
+  var vehicleCap = parseFloat(document.getElementById('kc-q-vehicle').value) || 50;
+
+  var avgQuota = Math.round((y1 + y2 + y3) / 3);
+  var bonded = Math.round(avgQuota * 0.85);
+  var parchiCount = Math.round(bonded / vehicleCap);
+  var perPakhwada = (parchiCount / 12).toFixed(1);
+
+  document.getElementById('kc-res-quota-avg').innerText = avgQuota.toLocaleString('en-IN') + ' क्विंटल';
+  document.getElementById('kc-res-quota-bond').innerText = bonded.toLocaleString('en-IN') + ' क्विंटल';
+  document.getElementById('kc-res-parchi-count').innerText = parchiCount + ' पर्ची';
+  document.getElementById('kc-res-pakhwada-avg').innerText = '~' + perPakhwada + ' पर्ची/पखवाड़ा';
+  document.getElementById('kc-quota-summary').innerText = parchiCount + ' पर्ची (सत्र 2026-27 के लिए अनुमानित)';
+}
+
+function calcFertilizer(){
+  var area = parseFloat(document.getElementById('kc-f-area').value) || 1;
+  var unit = document.getElementById('kc-f-unit').value;
+  var method = document.getElementById('kc-f-method').value;
+
+  // Convert area to acre
+  var acre = area;
+  if(unit === 'bigha_up') acre = area / 1.6;
+  if(unit === 'bigha_west') acre = area / 5;
+  if(unit === 'hectare') acre = area * 2.47;
+
+  var seedMin = 20, seedMax = 25;
+  if(method === 'trench') { seedMin = 18; seedMax = 22; }
+  if(method === 'normal') { seedMin = 30; seedMax = 35; }
+  if(method === 'single_bud') { seedMin = 4; seedMax = 6; }
+
+  var calcSeed = (seedMin * acre).toFixed(1) + '-' + (seedMax * acre).toFixed(1) + ' क्विंटल';
+  var dapBags = (1.5 * acre).toFixed(1) + ' बोरी (' + Math.round(75 * acre) + ' kg)';
+  var ureaBags = (3.0 * acre).toFixed(1) + ' बोरी (' + Math.round(135 * acre) + ' kg)';
+  var potashBags = (1.0 * acre).toFixed(1) + ' बोरी (' + Math.round(50 * acre) + ' kg)';
+  var zincKg = Math.round(10 * acre) + ' kg';
+  var trichoKg = Math.round(2 * acre) + ' kg';
+
+  document.getElementById('kc-res-seed').innerText = calcSeed;
+  document.getElementById('kc-res-dap').innerText = dapBags;
+  document.getElementById('kc-res-urea').innerText = ureaBags;
+  document.getElementById('kc-res-potash').innerText = potashBags;
+  document.getElementById('kc-res-zinc').innerText = zincKg;
+  document.getElementById('kc-res-tricho').innerText = trichoKg;
+}
+
+function shareKc(type){
+  var text = '';
+  if(type === 'payment'){
+    var tot = document.getElementById('kc-res-total').innerText;
+    var intr = document.getElementById('kc-res-interest').innerText;
+    text = '🌾 CaneUp गन्ना भुगतान व 15% ब्याज कैलकुलेटर:\nमेरा कुल देय: ' + tot + ' (जिसमें धारा 17 ब्याज: ' + intr + ' शामिल है)।\nआप भी अपनी मिल का भुगतान व ब्याज चेक करें:\nhttps://caneup.xyz/tools/';
+  } else if(type === 'quota'){
+    var p = document.getElementById('kc-res-parchi-count').innerText;
+    text = '📋 CaneUp गन्ना बेसिक कोटा व पर्ची कैलकुलेटर:\nमेरी अनुमानित पर्चियां: ' + p + '।\nअपनी मिल व बेसिक कोटा से पर्ची निकालें:\nhttps://caneup.xyz/tools/';
+  } else {
+    text = '🌱 CaneUp गन्ना खाद व बीज डोज कैलकुलेटर:\nवैज्ञानिक पद्धति से गन्ने की खाद व बीज मात्रा जानें:\nhttps://caneup.xyz/tools/';
+  }
+  window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent(text), '_blank');
+}
+
+// Initial calculation on load
+if(document.readyState === 'loading'){
+  document.addEventListener('DOMContentLoaded', function(){ calcPayment(); calcQuota(); calcFertilizer(); });
+} else {
+  calcPayment(); calcQuota(); calcFertilizer();
+}
+</script>

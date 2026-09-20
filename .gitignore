@@ -24,3 +24,4 @@ package-lock.json
 .openclaw/
 
 scripts/indexing-log.json
+.agents/
