@@ -6,10 +6,6 @@
   "@type": "{{ if eq .Section "news" }}NewsArticle{{ else }}Article{{ end }}",
   "headline": {{ .Title | plainify | jsonify }},
   "description": {{ .Description | plainify | jsonify }},
-  "speakable": {
-    "@type": "SpeakableSpecification",
-    "cssSelector": [".art-title", ".upd-box", ".art-body p:first-of-type"]
-  },
   "image": {
     "@type": "ImageObject",
     "url": "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ "/images/og-default.jpg" | absURL }}{{ end }}",
@@ -21,8 +17,6 @@
   "author": {
     "@type": "Person",
     "name": "{{ .Params.author_name | default .Params.author | default "Aamir Raza" }}",
-    "jobTitle": "मुख्य संपादक एवं कृषि नीति विश्लेषक",
-    "description": "उत्तर प्रदेश गन्ना उद्योग, पर्ची कैलेंडर, SAP/MSP मूल्य नीति, ई-गन्ना पोर्टल और किसान अधिकारों पर 10+ वर्षों का जमीनी अनुभव।",
     "image": {
       "@type": "ImageObject",
       "url": "{{ .Params.author_image | default "/images/authors/aamir-raza.webp" | absURL }}"
@@ -160,21 +154,12 @@
 }
 </script>
 
-<!-- Organization Schema with Brand Synonyms -->
+<!-- Organization Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "CaneUp",
-  "alternateName": [
-    "Cane Up",
-    "Cane Up.in",
-    "caneup.in",
-    "enquiry.caneup.in Portal",
-    "eGanna CaneUp",
-    "Kisan Net Enquiry CaneUp",
-    "UP Ganna Kisan Portal"
-  ],
   "url": "https://caneup.xyz/",
   "logo": "https://caneup.xyz/images/logo.png",
   "sameAs": [
@@ -184,41 +169,6 @@
   ]
 }
 </script>
-
-{{ if .IsHome }}
-<!-- WebPage Schema for Homepage with Knowledge Graph entities -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "@id": "https://caneup.xyz/#webpage",
-  "url": "https://caneup.xyz/",
-  "name": "CaneUp — enquiry.caneup.in | गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | Cane Up.in",
-  "isPartOf": {
-    "@type": "WebSite",
-    "@id": "https://caneup.xyz/#website"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "गन्ना पर्ची कैलेंडर 2026-27 (UP Ganna Parchi Calendar)",
-      "sameAs": "https://enquiry.caneup.in/"
-    },
-    {
-      "@type": "Thing",
-      "name": "eGanna CaneUp App",
-      "sameAs": "https://upcane.gov.in/"
-    },
-    {
-      "@type": "Thing",
-      "name": "गन्ना भुगतान एवं सट्टा सर्वे (Cane Payment & Satta)",
-      "sameAs": "https://upcane.gov.in/"
-    }
-  ],
-  "inLanguage": "hi-IN"
-}
-</script>
-{{ end }}
 
 {{ if .IsSection }}
 <!-- Breadcrumb Schema for Section -->
