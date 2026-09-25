@@ -67,6 +67,7 @@
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     img{max-width:100%;height:auto;display:block;aspect-ratio:attr(width)/attr(height)}
+    html,body{overflow-x:hidden}
     body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;color:#333;line-height:1.6;background:#fff}
 
     /* Header - Clean */
@@ -343,5 +344,6 @@
       });
     })();
   </script>
+  {{ partial "whatsapp-float.html" . }}
 </body>
 </html>
