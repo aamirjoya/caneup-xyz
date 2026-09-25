@@ -1,4 +1,16 @@
----
+# -*- coding: utf-8 -*-
+"""
+update_survey_article_with_real_screenshot_content.py
+Enriches the Ganna Survey 2026-27 article with the real-world live portal screenshot,
+farmer profile analysis, 15 portal tabs breakdown, 4-plot survey data table,
+and GPS 4-directional perimeter calculation formula.
+"""
+import os
+
+blog_file = r"c:\Users\caneu\Downloads\caneup-xyz-restore\content\posts\ganna-survey-data-2026-27-portal-online-check-kaise-kare.md"
+news_file = r"c:\Users\caneu\Downloads\caneup-xyz-restore\content\news\ganna-survey-data-2026-27-portal-online-check-kaise-kare.md"
+
+full_article_content = """---
 title: "गन्ना सर्वे डेटा (2026-27) पोर्टल पर ऑनलाइन जारी — ऐसे चेक करें गाटा संख्या, रकबा और पेड़ी-पौधा विवरण"
 date: 2026-09-25T09:00:00+05:30
 lastmod: 2026-09-25T09:10:00+05:30
@@ -177,19 +189,19 @@ image: "/images/blog/ganna-survey-data-2026-27-portal-online-check.webp"
 
 कई किसान सोचते हैं कि सर्वेयर ने खेत का क्षेत्रफल कैसे निकाला। उत्तर प्रदेश गन्ना विभाग में क्षेत्रफल निकालने का स्वीकृत वैज्ञानिक फॉर्मूला निम्नलिखित है:
 
-$$\text{औसत लंबाई} = \frac{\text{पूर्व परिमाप} + \text{पश्चिम परिमाप}}{2}$$
+$$\\text{औसत लंबाई} = \\frac{\\text{पूर्व परिमाप} + \\text{पश्चिम परिमाप}}{2}$$
 
-$$\text{औसत चौड़ाई} = \frac{\text{उत्तर परिमाप} + \text{दक्षिण परिमाप}}{2}$$
+$$\\text{औसत चौड़ाई} = \\frac{\\text{उत्तर परिमाप} + \\text{दक्षिण परिमाप}}{2}$$
 
-$$\text{क्षेत्रफल (हेक्टेयर)} = \frac{\text{औसत लंबाई} \times \text{औसत चौड़ाई}}{10,000}$$
+$$\\text{क्षेत्रफल (हेक्टेयर)} = \\frac{\\text{औसत लंबाई} \\times \\text{औसत चौड़ाई}}{10,000}$$
 
 ### आइए प्लाट संख्या 1 (गाटा 259) का हिसाब लगाकर देखें:
 * पूर्व भुजा = 139.00 मीटर, पश्चिम भुजा = 142.00 मीटर  
-  $$\text{औसत लंबाई} = \frac{139.00 + 142.00}{2} = 140.50 \text{ मीटर}$$
+  $$\\text{औसत लंबाई} = \\frac{139.00 + 142.00}{2} = 140.50 \\text{ मीटर}$$
 * उत्तर भुजा = 33.00 मीटर, दक्षिण भुजा = 28.00 मीटर  
-  $$\text{औसत चौड़ाई} = \frac{33.00 + 28.00}{2} = 30.50 \text{ मीटर}$$
-* कुल वर्ग मीटर = $140.50 \times 30.50 = 4,285.25 \text{ वर्ग मीटर}$
-* हेक्टेयर में रकबा = $\frac{4,285.25}{10,000} = \mathbf{0.4285 \approx 0.429 \text{ हेक्टेयर}}$
+  $$\\text{औसत चौड़ाई} = \\frac{33.00 + 28.00}{2} = 30.50 \\text{ मीटर}$$
+* कुल वर्ग मीटर = $140.50 \\times 30.50 = 4,285.25 \\text{ वर्ग मीटर}$
+* हेक्टेयर में रकबा = $\\frac{4,285.25}{10,000} = \\mathbf{0.4285 \\approx 0.429 \\text{ हेक्टेयर}}$
 
 इस प्रकार प्रत्येक किसान अपने मोबाइल में स्वयं चेक कर सकता है कि उसके खेत की जीपीएस नपाई बिल्कुल सही हुई है या नहीं।
 
@@ -234,3 +246,18 @@ $$\text{क्षेत्रफल (हेक्टेयर)} = \frac{\text{�
 
 ### 4. यदि सर्वे में कोई खेत छूट गया हो तो क्या करें?
 उत्तर: यदि कोई खेत या गाटा संख्या छूट गई है, तो तत्काल खतौनी की प्रति और आधार कार्ड लगाकर अपनी गन्ना समिति में प्रारूप-3 जमा करें अथवा ऑनलाइन Grievance दर्ज करें।
+"""
+
+# Write to blog post file
+with open(blog_file, "w", encoding="utf-8") as f:
+    f.write(full_article_content)
+
+# For news file, change the image src if needed or keep uniform
+news_content = full_article_content.replace("/images/blog/ganna-survey-data-2026-27-portal-online-check.webp", "/images/news/ganna-survey-data-2026-27-portal-online-check.webp")
+news_content = news_content.replace("/images/blog/ganna-survey-portal-live-screenshot-2026-27.webp", "/images/news/ganna-survey-portal-live-screenshot-2026-27.webp")
+
+with open(news_file, "w", encoding="utf-8") as f:
+    f.write(news_content)
+
+words = full_article_content.split()
+print(f"Successfully updated blog post and news file! Total words: {len(words)}")
