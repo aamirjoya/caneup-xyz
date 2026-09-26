@@ -25,3 +25,6 @@ package-lock.json
 
 scripts/indexing-log.json
 .agents/
+__pycache__/
+*.pyc
+
