@@ -1,0 +1,23 @@
+# Legacy URL cleanup — old site structures redirected (2026-09-29)
+# Old /sugar-mill/<name>/ URLs -> current category page
+/sugar-mill /categories/sugar-mill/ 301
+/sugar-mill/* /categories/sugar-mill/ 301
+
+# Old /district/<name> URLs -> matching district post where one exists
+/district/aligarh /posts/aligarh-district-sugar-mills-farmers-2026/ 301
+/district/aligarh/ /posts/aligarh-district-sugar-mills-farmers-2026/ 301
+/district/kushinagar /posts/kushinagar-sugar-mills/ 301
+/district/kushinagar/ /posts/kushinagar-sugar-mills/ 301
+/district/muzaffarnagar /posts/muzaffarnagar-sugar-mills/ 301
+/district/muzaffarnagar/ /posts/muzaffarnagar-sugar-mills/ 301
+/district/pilibhit /posts/pilibhit-sugar-mills/ 301
+/district/pilibhit/ /posts/pilibhit-sugar-mills/ 301
+/district/shahjahanpur /posts/shahjahanpur-sugar-mills/ 301
+/district/shahjahanpur/ /posts/shahjahanpur-sugar-mills/ 301
+# Remaining old district URLs -> homepage
+/district / 301
+/district/ / 301
+/district/* / 301
+
+# Old feed URL -> site RSS
+/rss.xml /index.xml 301
