@@ -517,7 +517,7 @@ Notification आएगा on time
 ```
 👤 Ram Kumar
 👨 पिता: Shyam Lal
-📞 9876543210
+📞 <आपका मोबाइल नंबर>
 🏠 Village: Rampur
    Tehsil: Shamli
    District: Shamli
