@@ -113,12 +113,12 @@ image: /images/news/chini-stock-limit-sept-2026.webp
 CANE <Registration Number>
 ```
 
-**Send to:** 7839400400
+**Send to:** 51969 (सरकारी SMS सेवा)
 
 **Example:**
 ```
 CANE 123456789
-Send to: 7839400400
+Send to: 51969
 ```
 
 **Reply में मिलेगा:**
@@ -305,7 +305,7 @@ Send to: 7839400400
 
 **Helpline**: 1800-180-5129
 
-**SMS Service**: 7839400400
+**SMS Service**: 51969 (सरकारी SMS सेवा)
 
 ---
 
