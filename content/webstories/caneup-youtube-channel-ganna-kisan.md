@@ -28,7 +28,7 @@ slides:
     credit: "CaneUp"
   - image: "/images/webstories/sugar-mill.webp"
     title: "शुगर मिल रिव्यू"
-    subtitle: "UP की 119 शुगर मिलों का रिव्यू — कौन सी मिल अच्छा भुगतान करती है?"
+    subtitle: "UP की 122 शुगर मिलों का रिव्यू — कौन सी मिल अच्छा भुगतान करती है?"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-field.webp"
     title: "कैसे सब्सक्राइब करें?"
