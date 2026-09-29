@@ -159,7 +159,7 @@ SURVEY <Registration Number>
 SURVEY 123456789
 ```
 
-**Send to:** 7839400400
+**Send to:** 51969 (सरकारी SMS सेवा)
 
 **Reply आएगा:**
 ```
