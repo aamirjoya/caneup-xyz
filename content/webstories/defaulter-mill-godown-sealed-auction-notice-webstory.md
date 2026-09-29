@@ -32,7 +32,7 @@ slides:
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
     title: "हर मिल की रिकवरी रिपोर्ट"
-    subtitle: "उत्तर प्रदेश की सभी 119 चीनी मिलों की भुगतान और बकाये की स्थिति CaneUp.xyz पर देखें।"
+    subtitle: "उत्तर प्रदेश की सभी 122 चीनी मिलों की भुगतान और बकाये की स्थिति CaneUp.xyz पर देखें।"
     credit: "CaneUp"
 ---
 
