@@ -47,26 +47,20 @@ image: /images/news/agristack-farmer-id-2026.webp
 - Slip number (अगर slip related है)
 - Problem की brief details
 
-### 2. **SMS Helpline** 📱
+### 2. **Toll-Free Helpline (Call)** 📱
 
-**Number:** 7839400400
+**Number:** 1800-121-3203 (टोल-फ्री)
 
 **कैसे Use करें:**
-```
-HELP <Your Query>
-```
+1. इस नंबर पर कॉल करें
+2. अपना नाम, रजिस्ट्रेशन नंबर और मिल का नाम तैयार रखें
+3. समस्या संक्षेप में बताएं और मिला हुआ शिकायत नंबर नोट कर लें
 
-**Example:**
+**Example — क्या बोलें:**
 ```
-HELP Payment नहीं आया slip 12345
+मेरा नाम Ram Kumar है, रजिस्ट्रेशन नंबर 123456789,
+ABC Sugar Mill — slip 12345 का payment नहीं आया
 ```
-
-या सिर्फ:
-```
-HELP
-```
-
-Reply में helpline number और instructions आएंगे
 
 ### 3. **Email Support** 📧
 
@@ -85,7 +79,7 @@ Subject: [Category] - Brief Issue
 Body:
 Farmer Name: Ram Kumar
 Registration No: 123456789
-Mobile: 9876543210
+Mobile: <आपका मोबाइल नंबर>
 Mill: ABC Sugar Mill
 Issue: Payment delay for slip #12345
 
@@ -299,30 +293,23 @@ App से और भी easy है:
 - Location auto-detect हो जाती है
 - Faster processing
 
-### Method 3: SMS से Complaint
+### Method 3: Toll-Free पर Complaint
 
-Quick complaint के लिए:
+शिकायत के लिए SMS का कोई आधिकारिक नंबर उपलब्ध नहीं है — सबसे भरोसेमंद तरीका टोल-फ्री कॉल है:
 
-**Format:**
-```
-COMPLAINT <Brief Issue> <Slip Number>
-```
+**Call करें:** 1800-121-3203 (टोल-फ्री)
 
-**Example:**
+**Example — क्या बताएं:**
 ```
-COMPLAINT Payment नहीं आया 12345
+नाम, रजिस्ट्रेशन नंबर, मिल का नाम
+समस्या: Payment नहीं आया, slip 12345
 ```
 
-**Send to:** 7839400400
-
-**Reply:**
+**Reply में मिलेगा:**
 ```
-Your complaint registered.
-ID: CMP2026123456
-Call 1800-180-5129 for details
+शिकायत नंबर (जैसे CMP2026123456)
+विवरण के लिए 1800-180-5129 पर संपर्क करें
 ```
-
-**Limitation:** Detailed complaint नहीं हो पाती, basic registration होती है
 
 ### Method 4: Helpline Call के Through
 
@@ -426,28 +413,12 @@ Timeline:
 - 📈 Escalate (अगर delay हो)
 - 💬 Add comments
 
-### SMS Tracking:
+### Status Tracking (Phone/Online):
 
-**Format:**
-```
-STATUS <Complaint ID>
-```
+SMS से स्टेटस चेक करने का कोई आधिकारिक नंबर उपलब्ध नहीं है। शिकायत का स्टेटस ऐसे जानें:
 
-**Example:**
-```
-STATUS CMP2026123456
-```
-
-**Send to:** 7839400400
-
-**Reply:**
-```
-Complaint CMP2026123456
-Status: In Progress
-Last Update: 7-Nov-2026
-Mill reviewing the case
-For details: caneup.in
-```
+**Phone:** 1800-121-3203 पर कॉल करके Complaint ID बताएं
+**Online:** caneup.in पर शिकायत नंबर से स्टेटस देखें
 
 ### Phone Tracking:
 
@@ -707,7 +678,7 @@ Address: Cane Bhawan, 14 Gokhale Marg, Lucknow
 ### CaneUP Support:
 ```
 Helpline: 1800-180-5129
-SMS: 7839400400
+Helpline: 1800-121-3203 (टोल-फ्री)
 Email: caneup@nic.in
 Website: caneup.in / upcane.gov.in
 ```
@@ -735,4 +706,4 @@ Police (Emergency): 100 / 112
 
 **हमसे संपर्क करें:** [Contact Page](/contact)
 
-**Helpline**: 1800-180-5129 | **SMS**: 7839400400 | **Email**: caneup@nic.in
+**Helpline**: 1800-121-3203 / 1800-180-5129 (टोल-फ्री) | **Email**: caneup@nic.in
