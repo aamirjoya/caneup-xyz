@@ -246,7 +246,7 @@ Login करने के बाद dashboard में देखोगे:
 
 ### 2. **SMS Service**
 - Type करो: **CANE <Registration Number>**
-- Send करो: **7839400400** पर
+- Send करो: **51969** (सरकारी SMS सेवा) पर
 - Details मिल जाएंगी
 
 ### 3. **WhatsApp Service** (कुछ districts में)
