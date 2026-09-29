@@ -51,7 +51,7 @@ image: /images/blog/ganna-bhugtan-kab-milega-august-2026.webp
 2. "भुगतान स्थिति" पर क्लिक करें
 
 ### तरीका #3: SMS
-**CANE<space>किसान ID** लिखकर **9212357123** पर भेजें।
+**CANE<space>किसान ID** लिखकर **51969** पर भेजें।
 
 ---
 
