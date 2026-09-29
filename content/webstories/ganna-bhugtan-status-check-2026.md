@@ -24,7 +24,7 @@ slides:
     credit: "CaneUp"
   - image: "/images/webstories/sugarcane-field.webp"
     title: "तरीका #3: SMS"
-    subtitle: "CANE<space>किसान ID लिखकर 9212357123 पर भेजें"
+    subtitle: "CANE<space>किसान ID लिखकर 51969 पर भेजें"
     credit: "CaneUp"
   - image: "/images/webstories/farmer-happy.webp"
     title: "भुगतान नहीं आया?"
