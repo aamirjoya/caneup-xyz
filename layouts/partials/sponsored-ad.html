@@ -1,14 +1,15 @@
-{{/* Sponsored ad banner — renders on every page, above the site header.
-     To remove/pause: delete the {{ partial "sponsored-ad.html" . }} line in layouts/_default/baseof.html */}}
-<div class="sponsored-ad-top">
+{{/* Sponsored ad banner — mid-article placement inside news articles.
+     Rendered from layouts/partials/article-content.html (only on Section == "news").
+     To pause/remove: delete the {{ partial "sponsored-ad.html" . }} call in article-content.html */}}
+<div class="sponsored-ad-mid">
   <span class="sponsored-ad-label">विज्ञापन</span>
   <a href="https://wa.me/918810517956?text=Namaste%2C%20caneup.xyz%20par%20UP27%20Ground%20Team%20wali%20ad%20dekhi%20%E2%80%94%20mujhe%20is%20ad%20ke%20baare%20me%20query%20karni%20hai" target="_blank" rel="sponsored noopener">
-    <img src="/images/sponsored-up27-ground-team.webp" alt="UP27 – Join the Ground Team: UP Vidhansabha Election 2027, apply online" width="1000" height="1000" fetchpriority="high">
+    <img src="/images/sponsored-up27-ground-team.webp" alt="UP27 – Join the Ground Team: UP Vidhansabha Election 2027, apply online" width="1000" height="1000" loading="lazy" decoding="async">
   </a>
 </div>
 <style>
-.sponsored-ad-top{background:#f8fafc;border-bottom:1px solid #e5e7eb;text-align:center;padding:10px 12px 8px;position:relative}
-.sponsored-ad-top a{display:inline-block;max-width:420px;width:100%}
-.sponsored-ad-top img{width:100%;height:auto;display:block;border-radius:8px;margin:0 auto}
-.sponsored-ad-label{position:absolute;top:4px;left:10px;font-size:9px;color:#9ca3af;text-transform:uppercase;letter-spacing:.5px}
+.sponsored-ad-mid{background:#f8fafc;border:1px solid #e5e7eb;border-radius:10px;text-align:center;padding:16px 12px 12px;margin:24px 0;position:relative}
+.sponsored-ad-mid a{display:inline-block;max-width:340px;width:100%}
+.sponsored-ad-mid img{width:100%;height:auto;display:block;border-radius:8px;margin:0 auto}
+.sponsored-ad-label{position:absolute;top:6px;left:10px;font-size:9px;color:#9ca3af;text-transform:uppercase;letter-spacing:.5px}
 </style>
