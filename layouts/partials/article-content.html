@@ -277,6 +277,11 @@
   </div>
   {{ end }}
 
+  {{/* Sponsored ad — mid-article (news articles only) */}}
+  {{ if eq .Section "news" }}
+  {{ partial "sponsored-ad.html" . }}
+  {{ end }}
+
   {{/* Rest of content */}}
   {{ $rest := after 5 $parts }}
   {{ range $rest }}{{ . | safeHTML }}{{ if ne . "" }}</p>{{ end }}{{ end }}
@@ -298,6 +303,10 @@
       </div>
     </a>
   </div>
+  {{ end }}
+  {{/* Sponsored ad — mid/end of short news articles (news only) */}}
+  {{ if eq .Section "news" }}
+  {{ partial "sponsored-ad.html" . }}
   {{ end }}
 {{ end }}
 </div>
