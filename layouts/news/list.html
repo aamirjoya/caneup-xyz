@@ -881,7 +881,7 @@
         <a href="{{ $p.Permalink }}" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;height:100%;">
           <div class="news-list-card-img">
             {{ if $featured }}
-            <img src="{{ $featured }}" alt="{{ $p.Title }}" loading="lazy" width="600" height="338">
+            <img src="{{ replace $featured ".webp" "-thumb.webp" }}" alt="{{ $p.Title }}" loading="lazy" width="600" height="338">
             {{ else }}
             📰
             {{ end }}
