@@ -194,7 +194,7 @@
   {{ $stories := where .Site.RegularPages "Section" "webstories" }}
   {{ range $stories }}
   <a href="{{ .Permalink }}" class="ws-card" title="{{ .Title }}">
-    <img src="{{ .Params.featured_image | absURL }}"
+    <img src="{{ replace .Params.featured_image ".webp" "-thumb.webp" | absURL }}"
          alt="{{ .Title }}" loading="lazy" width="360" height="480">
 
     {{ if eq .Params.story_type "video" }}
