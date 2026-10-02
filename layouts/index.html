@@ -320,7 +320,7 @@ textarea.hfc-ctrl{min-height:50px;resize:none}
       <a href="{{ .Permalink }}" class="news-card" aria-label="ताज़ा खबर: {{ .Title }}">
         <div class="news-card-img">
           {{ if $featured }}
-          <img src="{{ $featured }}" alt="{{ .Title }}" loading="lazy">
+          <img src="{{ replace $featured ".webp" "-thumb.webp" }}" alt="{{ .Title }}" loading="lazy">
           {{ else }}
           <div class="news-card-img-placeholder">📰</div>
           {{ end }}
@@ -374,7 +374,7 @@ textarea.hfc-ctrl{min-height:50px;resize:none}
     <style>.ws-scroll::-webkit-scrollbar{display:none}</style>
     {{ range first 6 (where .Site.RegularPages "Section" "webstories") }}
     <a href="{{ .Permalink }}" style="flex-shrink:0;width:160px;border-radius:12px;overflow:hidden;aspect-ratio:3/4;position:relative;display:block;text-decoration:none;box-shadow:0 2px 12px rgba(0,0,0,.1);">
-      <img src="{{ .Params.featured_image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
+      <img src="{{ replace .Params.featured_image ".webp" "-thumb.webp" | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
       <div style="position:absolute;bottom:0;left:0;right:0;padding:24px 10px 10px;background:linear-gradient(0deg,rgba(0,0,0,.85),rgba(0,0,0,0));color:#fff;">
         <div style="font-size:10px;font-weight:700;color:#15803d;background:rgba(255,255,255,.9);display:inline-block;padding:2px 6px;border-radius:3px;margin-bottom:4px;">{{ with .Params.category }}{{ . }}{{ end }}</div>
         <div style="font-size:12px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</div>
