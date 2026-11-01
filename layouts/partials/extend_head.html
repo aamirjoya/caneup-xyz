@@ -31,8 +31,28 @@
   })();
 </script>
 
-<!-- OneSignal Web Push SDK (Native background layer) -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<!-- OneSignal Web Push SDK (idle-loaded so it never blocks first paint) -->
+<script>
+  (function() {
+    var loaded = false;
+    function loadOneSignal() {
+      if (loaded) return;
+      loaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js';
+      document.head.appendChild(s);
+    }
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(loadOneSignal, { timeout: 5000 });
+    } else {
+      window.addEventListener('load', function() { setTimeout(loadOneSignal, 2000); });
+    }
+    ['scroll', 'touchstart', 'mousemove', 'click', 'keydown'].forEach(function(ev) {
+      window.addEventListener(ev, loadOneSignal, { once: true, passive: true });
+    });
+  })();
+</script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(async function(OneSignal) {
