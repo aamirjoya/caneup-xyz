@@ -111,7 +111,7 @@
 
     </div>
 
-    <div class="cf-turnstile" data-sitekey="0x4AAAAAAFuymPwWbybIj7Ky" data-callback="cueTurnstileDone_{{ $prefix }}" data-expired-callback="cueTurnstileExpired_{{ $prefix }}"></div>
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAAFuymPwWbybIj7Ky"></div>
 
     <div class="cue-note">
       <strong>💡 किसान सूचना:</strong> UGC कोड या जिला चुनते ही आधिकारिक सर्वर <code>enquiry.caneup.in</code> नई विंडो में सुरक्षित रूप से खुलेगा।
@@ -152,7 +152,6 @@
 }
 </style>
 
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 <script>
 if (!window.cueSubmitDistrict) {
   window.cueSubmitDistrict = function(formId, sel) {
@@ -169,15 +168,28 @@ if (!window.cueSubmitDistrict) {
     }
   };
 }
-window.cueTurnstileDone_{{ $prefix }} = function(token) {
-  var f = document.getElementById("{{ $prefix }}Form");
-  if (f) { f.dataset.turnstileOk = "1"; }
-};
-window.cueTurnstileExpired_{{ $prefix }} = function() {
-  var f = document.getElementById("{{ $prefix }}Form");
-  if (f) { f.dataset.turnstileOk = ""; }
-};
 (function() {
+  function cueInitTurnstile() {
+    document.querySelectorAll(".cf-turnstile:not([data-turnstile-rendered])").forEach(function(el) {
+      el.dataset.turnstileRendered = "1";
+      var form = el.closest("form");
+      window.turnstile.render(el, {
+        sitekey: el.dataset.sitekey,
+        callback: function(token) { if (form) { form.dataset.turnstileOk = "1"; } },
+        "expired-callback": function() { if (form) { form.dataset.turnstileOk = ""; } }
+      });
+    });
+  }
+  if (window.turnstile) {
+    cueInitTurnstile();
+  } else {
+    var s = document.createElement("script");
+    s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js";
+    s.async = true;
+    s.defer = true;
+    s.onload = cueInitTurnstile;
+    document.head.appendChild(s);
+  }
   var f = document.getElementById("{{ $prefix }}Form");
   if (f && !f.dataset.cueGateBound) {
     f.dataset.cueGateBound = "1";
