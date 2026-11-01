@@ -111,6 +111,8 @@
 
     </div>
 
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAAFuymPwWbybIj7Ky" data-callback="cueTurnstileDone_{{ $prefix }}" data-expired-callback="cueTurnstileExpired_{{ $prefix }}"></div>
+
     <div class="cue-note">
       <strong>💡 किसान सूचना:</strong> UGC कोड या जिला चुनते ही आधिकारिक सर्वर <code>enquiry.caneup.in</code> नई विंडो में सुरक्षित रूप से खुलेगा।
     </div>
@@ -139,6 +141,7 @@
 .cue-select:focus{border-color:#15803d;box-shadow:0 0 0 3px rgba(21,128,61,0.1)}
 .cue-hint{display:block;font-size:11px;color:#64748b;margin-top:5px;line-height:1.4}
 .cue-note{margin-top:14px;padding:9px 14px;background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px;font-size:11.5px;color:#166534;line-height:1.5}
+.cf-turnstile{margin-top:14px}
 .cue-hero-mode .cue-note{background:#fffbeb;border-color:#fde68a;color:#92400e}
 
 @media(max-width:640px){
@@ -149,15 +152,41 @@
 }
 </style>
 
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 <script>
 if (!window.cueSubmitDistrict) {
   window.cueSubmitDistrict = function(formId, sel) {
     if (sel && sel.value && sel.value !== "-1") {
       var f = document.getElementById(formId);
       if (f) {
+        if (f.dataset.turnstileOk !== "1") {
+          alert("Bot check poora hone ke baad hi district select hoga. Kuch second rukkar dobara try karein.");
+          sel.value = "-1";
+          return;
+        }
         f.submit();
       }
     }
   };
 }
+window.cueTurnstileDone_{{ $prefix }} = function(token) {
+  var f = document.getElementById("{{ $prefix }}Form");
+  if (f) { f.dataset.turnstileOk = "1"; }
+};
+window.cueTurnstileExpired_{{ $prefix }} = function() {
+  var f = document.getElementById("{{ $prefix }}Form");
+  if (f) { f.dataset.turnstileOk = ""; }
+};
+(function() {
+  var f = document.getElementById("{{ $prefix }}Form");
+  if (f && !f.dataset.cueGateBound) {
+    f.dataset.cueGateBound = "1";
+    f.addEventListener("submit", function(e) {
+      if (f.dataset.turnstileOk !== "1") {
+        e.preventDefault();
+        alert("Bot check poora hone ke baad hi form submit hoga. Kuch second rukkar dobara try karein.");
+      }
+    });
+  }
+})();
 </script>
