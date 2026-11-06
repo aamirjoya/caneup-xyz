@@ -109,4 +109,4 @@ ShowToc: true
 | **UP Cane** | यूपी गन्ना विभाग | [upcane.gov.in](https://upcane.gov.in) |
 | **PM Kisan** | सम्मान निधि स्टेटस | [pmkisan.gov.in](https://pmkisan.gov.in) |
 | **KCC** | किसान क्रेडिट कार्ड | [kcc.gov.in](https://kcc.gov.in) |
-| **CaneUp** | गन्ना किसान गाइड | [caneup.xyz](https://caneup.xyz) |
+| **CaneUp** | गन्ना किसान गाइड | [caneup.xyz](https://upcaneup.info) |
