@@ -94,4 +94,4 @@ CaneUp ज़िम्मेदार नहीं है:
 
 अगर आपकी कोई समस्या है, तो हमसे संपर्क करें:
 - **ईमेल:** contact@caneup.xyz
-- **वेबसाइट:** https://caneup.xyz/contact/
+- **वेबसाइट:** https://upcaneup.info/contact/
