@@ -27,7 +27,7 @@ image: "/images/news/agristack-digital-farmer-id-ganna-satta-pm-kisan-mandatory-
 # गन्ना सट्टा और पर्ची के लिए AgriStack डिजिटल किसान आईडी अनिवार्य, ई-केवाईसी न होने पर रुकेंगी सुविधाएं
 
 By  
-[Aamir Raza](https://caneup.xyz/) - 2026-08-30
+[Aamir Raza](https://upcaneup.info/) - 2026-08-30
 
 **लखनऊ/अमरोहा (विशेष संवाददाता)।** ### हेल्पलाइन और समाधान व्यवस्था
 
