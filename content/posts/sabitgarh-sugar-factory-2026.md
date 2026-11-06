@@ -27,7 +27,7 @@ image: "/images/blog/sabitgarh-sugar-factory-2026.webp"
 साबितगढ़ शुगर मिल 2026-27: 1327 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Sabitgarh Sugar Mill Bulandshahr Aligarh
 
 By  
-[Aamir Raza](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://upcaneup.info/) - August 28, 2026
 
 **बुलंदशहर / अलीगढ़ / डिबाई / अनूपशहर :** साबितगढ़ शुगर मिल (Triveni Engineering & Industries Ltd - Sabitgarh Unit) उत्तर प्रदेश के बुलंदशहर, अलीगढ़, डिबाई, जहांगीरपुर और अनूपशहर क्षेत्र की सबसे अत्याधुनिक और बड़ी चीनी मिलों में से एक है। आगामी पेराई सत्र 2026-27 के लिए यह चीनी मिल क्षेत्र के लगभग **1,327 से अधिक गांवों** के गन्ना किसानों से गन्ने की सीधी खरीद करेगी।
 
