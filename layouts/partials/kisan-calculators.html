@@ -344,12 +344,12 @@ function shareKc(type){
   if(type === 'payment'){
     var tot = document.getElementById('kc-res-total').innerText;
     var intr = document.getElementById('kc-res-interest').innerText;
-    text = '🌾 CaneUp गन्ना भुगतान व 15% ब्याज कैलकुलेटर:\nमेरा कुल देय: ' + tot + ' (जिसमें धारा 17 ब्याज: ' + intr + ' शामिल है)।\nआप भी अपनी मिल का भुगतान व ब्याज चेक करें:\nhttps://caneup.xyz/tools/';
+    text = '🌾 CaneUp गन्ना भुगतान व 15% ब्याज कैलकुलेटर:\nमेरा कुल देय: ' + tot + ' (जिसमें धारा 17 ब्याज: ' + intr + ' शामिल है)।\nआप भी अपनी मिल का भुगतान व ब्याज चेक करें:\nhttps://upcaneup.info/tools/';
   } else if(type === 'quota'){
     var p = document.getElementById('kc-res-parchi-count').innerText;
-    text = '📋 CaneUp गन्ना बेसिक कोटा व पर्ची कैलकुलेटर:\nमेरी अनुमानित पर्चियां: ' + p + '।\nअपनी मिल व बेसिक कोटा से पर्ची निकालें:\nhttps://caneup.xyz/tools/';
+    text = '📋 CaneUp गन्ना बेसिक कोटा व पर्ची कैलकुलेटर:\nमेरी अनुमानित पर्चियां: ' + p + '।\nअपनी मिल व बेसिक कोटा से पर्ची निकालें:\nhttps://upcaneup.info/tools/';
   } else {
-    text = '🌱 CaneUp गन्ना खाद व बीज डोज कैलकुलेटर:\nवैज्ञानिक पद्धति से गन्ने की खाद व बीज मात्रा जानें:\nhttps://caneup.xyz/tools/';
+    text = '🌱 CaneUp गन्ना खाद व बीज डोज कैलकुलेटर:\nवैज्ञानिक पद्धति से गन्ने की खाद व बीज मात्रा जानें:\nhttps://upcaneup.info/tools/';
   }
   window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent(text), '_blank');
 }
