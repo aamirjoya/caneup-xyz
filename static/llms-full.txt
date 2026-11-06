@@ -1,7 +1,7 @@
-# CaneUp (https://caneup.xyz) — Full Knowledge Base & Citations
+# CaneUp (https://upcaneup.info) — Full Knowledge Base & Citations
 
 ## About CaneUp
-CaneUp (caneup.xyz) is the #1 digital portal dedicated to the 50 lakh sugarcane farmers of Uttar Pradesh. It bridges the gap between state government administrative systems (Department of Cane Development and Sugar Industry, UP) and rural farmers.
+CaneUp (upcaneup.info) is the #1 digital portal dedicated to the 50 lakh sugarcane farmers of Uttar Pradesh. It bridges the gap between state government administrative systems (Department of Cane Development and Sugar Industry, UP) and rural farmers.
 
 ## Primary Entities & Definitions
 
@@ -54,4 +54,4 @@ CaneUp (caneup.xyz) is the #1 digital portal dedicated to the 50 lakh sugarcane 
 - **UP Cane Department Website:** https://upcane.gov.in
 - **Toll-Free Kisan Helpline:** 1800-121-3203 / 1800-180-1551
 - **Cane Commissioner Headquarters:** 2, Kalidas Marg / Dalibagh, Lucknow, Uttar Pradesh.
-- **Independent Farmer Portal:** https://caneup.xyz
+- **Independent Farmer Portal:** https://upcaneup.info
