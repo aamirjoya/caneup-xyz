@@ -195,7 +195,7 @@
       vibrate: [150, 80, 150],
       tag: 'caneup-welcome',
       data: {
-        url: 'https://caneup.xyz/'
+        url: 'https://upcaneup.info/'
       }
     };
     try {
