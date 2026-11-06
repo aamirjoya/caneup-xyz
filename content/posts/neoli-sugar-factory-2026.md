@@ -27,7 +27,7 @@ image: "/images/blog/neoli-sugar-factory-2026.webp"
 नियोली शुगर मिल 2026-27: 1496 गांवों की लिस्ट, कोड व पर्ची कैलेंडर | Neoli Sugar Mill Kasganj Aligarh
 
 By  
-[Aamir Raza](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://upcaneup.info/) - August 28, 2026
 
 **कासगंज / अलीगढ़ / एटा :** नियोली शुगर मिल (The Neoli Sugar Factory Ltd) उत्तर प्रदेश के कासगंज, एटा, बदायूं और अलीगढ़ जिले की सीमा पर स्थित विशालकाय चीनी मिलों में से एक है। आगामी पेराई सत्र 2026-27 के लिए यह चीनी मिल क्षेत्र के लगभग **1,496 से अधिक गांवों** के गन्ना किसानों से सीधे गन्ने की खरीद करेगी।
 
