@@ -1,10 +1,1540 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <!-- Dedicated Web Stories XML Sitemap for CaneUp.xyz -->
+  <!-- Dedicated Web Stories XML Sitemap for upcaneup.info -->
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-bakaya-3-mill-rc-kurki-nilami-nov-2026-webstory/</loc>
+    <lastmod>2026-11-08T17:03:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-bakaya-3-mill-rc-kurki-nilami-nov-2026-0.webp</image:loc>
+      <image:title>162 करोड़ बकाया: 3 मिलों पर RC, कुर्की-नीलामी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-nayi-kism-co-20016-1300-quintal-upaj-nov-2026-webstory/</loc>
+    <lastmod>2026-11-08T12:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-nayi-kism-co-20016-1300-quintal-upaj-nov-2026-0.webp</image:loc>
+      <image:title>नई गन्ना किस्म: 1300 क्विंटल उपज, बीज कब मिलेगा?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/desh-me-chini-utpadan-4-guna-12-85-lakh-ton-nov-2026-webstory/</loc>
+    <lastmod>2026-11-08T07:42:14+0530</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-desh-me-chini-utpadan-4-guna-12-85-lakh-ton-nov-2026-0.webp</image:loc>
+      <image:title>5 नवंबर तक चीनी उत्पादन 4 गुना, 12.85 लाख टन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bagpat-ramala-sahkari-mill-perai-deri-nov-2026-webstory/</loc>
+    <lastmod>2026-11-07T17:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bagpat-ramala-sahkari-mill-perai-deri-nov-2026-0.webp</image:loc>
+      <image:title>उद्घाटन के 5 दिन बाद भी नहीं घूमा बागपत-रमाला मिलों का चक्का</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bareilly-kesar-mill-11-crore-bhugtan-162-crore-bakaya-nov-2026-webstory/</loc>
+    <lastmod>2026-11-07T13:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bareilly-kesar-mill-11-crore-bhugtan-162-crore-bakaya-nov-2026-0.webp</image:loc>
+      <image:title>बरेली: 10,000 किसानों को ₹11.33 करोड़ मिला</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-aapda-muawaza-ganna-9800-hectare-nov-2026-webstory/</loc>
+    <lastmod>2026-11-07T08:22:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-up-aapda-muawaza-ganna-9800-hectare-nov-2026-0.webp</image:loc>
+      <image:title>गन्ना बर्बाद हुआ तो ₹9,800 प्रति हेक्टेयर मिलेगा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/muzaffarnagar-perai-7-din-late-recovery-8-pratishat-nov-2026-webstory/</loc>
+    <lastmod>2026-11-06T18:21:58+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-muzaffarnagar-perai-7-din-late-recovery-8-pratishat-nov-2026-0.webp</image:loc>
+      <image:title>मुजफ्फरनगर: पेराई 7 दिन लेट, रिकवरी 8% पर अटकी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bku-tikait-ganna-550-pension-dhanaura-nov-2026-webstory/</loc>
+    <lastmod>2026-11-06T13:43:22+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bku-tikait-ganna-550-pension-dhanaura-nov-2026-0.webp</image:loc>
+      <image:title>गन्ना ₹550 और बुजुर्ग किसान को ₹5,000 पेंशन की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/meerut-kinouni-mill-perai-shuru-97-pratishat-bhugtan-nov-2026-webstory/</loc>
+    <lastmod>2026-11-06T09:02:28+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-meerut-kinouni-mill-perai-shuru-97-pratishat-bhugtan-nov-2026-0.webp</image:loc>
+      <image:title>किनौनी मिल में पेराई शुरू, 97% भुगतान का दावा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/deoria-cos8279-lal-sadan-rog-nov-2026-webstory/</loc>
+    <lastmod>2026-11-05T19:02:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-deoria-cos8279-lal-sadan-rog-nov-2026-0.webp</image:loc>
+      <image:title>देवरिया: Cos 8279 पर लाल सड़न — 3 लक्षण पहचानें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/barish-ganna-recovery-giri-triveni-chetawani-nov-2026-webstory/</loc>
+    <lastmod>2026-11-05T14:21:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-barish-ganna-recovery-giri-triveni-chetawani-nov-2026-0.webp</image:loc>
+      <image:title>बारिश से गन्ने की रिकवरी 8.44% से गिरकर 8.01% हुई — नवंबर में चीनी की किल्लत?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/amroha-chandanpur-perai-93-lakh-quintal-nov-2026-webstory/</loc>
+    <lastmod>2026-11-05T09:41:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-amroha-chandanpur-perai-93-lakh-quintal-nov-2026-0.webp</image:loc>
+      <image:title>चंदनपुर मिल में पेराई शुरू: 93 लाख क्विंटल का लक्ष्य</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bilari-lakshmi-ji-mill-6-november-perai-webstory/</loc>
+    <lastmod>2026-11-04T15:01:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bilari-lakshmi-ji-mill-6-november-perai-0.webp</image:loc>
+      <image:title>बिलारी लक्ष्मी जी मिल में 6 नवंबर से पेराई: 7 नवंबर को 60,000 क्विंटल गन्ना खरीदेगी मिल</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/modinagar-modi-mill-perai-4-november-webstory/</loc>
+    <lastmod>2026-11-04T10:21:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-modinagar-modi-mill-perai-4-november-0.webp</image:loc>
+      <image:title>मोदीनगर मोदी मिल में आज से पेराई: 95 लाख क्विंटल लक्ष्य</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/shahjahanpur-ganna-vishwavidyalaya-prastav-webstory/</loc>
+    <lastmod>2026-11-03T15:42:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-shahjahanpur-ganna-vishwavidyalaya-prastav-0.webp</image:loc>
+      <image:title>UP के 45% गन्ने के लिए पहला गन्ना विश्वविद्यालय</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hardoi-hariyawan-baghauli-perai-3-november-nov-2026-webstory/</loc>
+    <lastmod>2026-11-03T11:01:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hardoi-hariyawan-baghauli-perai-3-november-nov-2026-0.webp</image:loc>
+      <image:title>हरदोई में पेराई शुरू: हरियावां मिल रोज 13,000 टन गन्ना पिसेगी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ramesh-chand-samiti-4-november-ganna-dam-webstory/</loc>
+    <lastmod>2026-11-03T06:31:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ramesh-chand-samiti-4-november-ganna-dam-0.webp</image:loc>
+      <image:title>20 नवंबर तक गन्ना दाम का फैसला, 4 को समिति महाराष्ट्र में</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-kahan-bechen-mill-kolhu-gud-bhatti-bhav-nov-2026-webstory/</loc>
+    <lastmod>2026-11-02T16:21:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-kahan-bechen-mill-kolhu-gud-bhatti-bhav-nov-2026-0.webp</image:loc>
+      <image:title>कोल्हू पर भाव ₹380 तक गिरा: गन्ना कहां बेचें?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/meerut-barish-perai-tali-mawana-daurala-nayi-tareekh-nov-2026-webstory/</loc>
+    <lastmod>2026-11-02T11:42:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-meerut-barish-perai-tali-mawana-daurala-nayi-tareekh-nov-2026-0.webp</image:loc>
+      <image:title>मेरठ: बारिश ने टाली पेराई, दौराला 6 नवंबर से चलेगी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/mawana-mill-162-kendra-2-november-perai-nov-2026-webstory/</loc>
+    <lastmod>2026-11-02T07:03:22+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-mawana-mill-162-kendra-2-november-perai-nov-2026-0.webp</image:loc>
+      <image:title>मवाना मिल में 2 नवंबर से पेराई, 162 केंद्र तैयार</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/meerut-3-november-kisan-mahapanchayat-ganna-700-mang-nov-2026-webstory/</loc>
+    <lastmod>2026-11-01T17:01:40+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-meerut-3-november-kisan-mahapanchayat-ganna-700-mang-nov-2026-0.webp</image:loc>
+      <image:title>3 नवंबर मेरठ महापंचायत: गन्ना ₹700 की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ambedkarnagar-akbarpur-harvester-15-november-webstory/</loc>
+    <lastmod>2026-11-01T12:22:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ambedkarnagar-akbarpur-harvester-15-november-0.webp</image:loc>
+      <image:title>15 नवंबर से मशीन से कटेगा गन्ना, 7 दिन में भुगतान</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/belagavi-aaj-cm-baithak-5500-tonne-27-october-bandh-oct-2026-webstory/</loc>
+    <lastmod>2026-10-26T11:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-belagavi-aaj-cm-baithak-5500-tonne-27-october-bandh-oct-2026-0.webp</image:loc>
+      <image:title>बेलगावी: आज CM की 2 बैठकें, ₹5500 नहीं तो 27 को बंद</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/maharashtra-5-lakh-ganna-katne-wale-1-november-hadtal-oct-2026-webstory/</loc>
+    <lastmod>2026-10-26T07:03:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-maharashtra-5-lakh-ganna-katne-wale-1-november-hadtal-oct-2026-0.webp</image:loc>
+      <image:title>1 नवंबर से थम सकती है महाराष्ट्र की पेराई: 5 लाख गन्ना कटाई मजदूरों की हड़ताल की चेतावनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/amroha-muzaffarnagar-mill-perai-25-october-shuru-oct-2026-webstory/</loc>
+    <lastmod>2026-10-25T17:05:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-amroha-muzaffarnagar-mill-perai-25-october-shuru-oct-2026-0.webp</image:loc>
+      <image:title>25 अक्टूबर से 3 मिलें चालू: 1.68 लाख किसानों को राहत</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/lakhimpur-kheri-cane-harvester-mulcher-machine-subsidy-oct-2026-webstory/</loc>
+    <lastmod>2026-10-25T12:21:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-lakhimpur-kheri-cane-harvester-mulcher-machine-subsidy-oct-2026-0.webp</image:loc>
+      <image:title>लखीमपुर में पहली बार ₹1 करोड़ की हार्वेस्टर</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hapur-simbhaoli-brajnathpur-10-gaanv-kendra-badalne-mang-oct-2026-webstory/</loc>
+    <lastmod>2026-10-25T07:41:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hapur-simbhaoli-brajnathpur-10-gaanv-kendra-badalne-mang-oct-2026-0.webp</image:loc>
+      <image:title>हापुड़ के 10 गांवों ने सिंभावली-ब्रजनाथपुर से तोड़ा नाता: 184 केंद्र छिनने के बाद अब दूसरी मिल से जुड़ने की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/kumbhi-260-wheel-reactor-ganna-bioplastic-plant-oct-2026-webstory/</loc>
+    <lastmod>2026-10-24T17:41:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-kumbhi-260-wheel-reactor-ganna-bioplastic-plant-oct-2026-0.webp</image:loc>
+      <image:title>260 पहियों पर 1300 किमी चलकर गन्ने से प्लास्टिक बनाने वाली मशीन कुंभी पहुंची</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/nanglamal-mill-2-november-perai-kisan-checklist-oct-2026-webstory/</loc>
+    <lastmod>2026-10-24T13:00:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-nanglamal-mill-2-november-perai-kisan-checklist-oct-2026-0.webp</image:loc>
+      <image:title>नंगलामल मिल में 2 नवंबर से पेराई, 30,000 किसान अभी तैयार करें ये काम</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/daya-sugar-mill-bandi-sankat-oct-2026-webstory/</loc>
+    <lastmod>2026-10-24T08:26:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-daya-sugar-mill-bandi-sankat-oct-2026-0.webp</image:loc>
+      <image:title>दया शुगर मिल पर बंदी का खतरा: 100 गांवों के किसान चिंतित, 15 किमी पैदल मार्च</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bku-acs-lucknow-500-ganna-mulya-oct-2026-webstory/</loc>
+    <lastmod>2026-10-23T18:22:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bku-acs-lucknow-500-ganna-mulya-oct-2026-0.webp</image:loc>
+      <image:title>₹500 गन्ना मांग: बापू भवन में ACS से मिले किसान नेता</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bareilly-kesar-mill-40-kendra-webstory/</loc>
+    <lastmod>2026-10-23T13:47:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bareilly-kesar-mill-40-kendra-0.webp</image:loc>
+      <image:title>40 केंद्र छिने, ₹162 करोड़ बकाया: बहेड़ी की केसर चीनी मिल पर गन्ना आयुक्त की बड़ी कार्रवाई</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/lucknow-ganna-sansthan-gate-dharna-tikait-oct-2026-webstory/</loc>
+    <lastmod>2026-10-23T09:02:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-lucknow-ganna-sansthan-gate-dharna-tikait-oct-2026-0.webp</image:loc>
+      <image:title>टिकैत गेट नंबर 1 पर ही धरने पर बैठे: 4 मांगें, आज 23 अक्टूबर की बैठक</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-katte-hi-24-ghante-mill-bhejein-oct-2026-webstory/</loc>
+    <lastmod>2026-10-22T14:22:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-katte-hi-24-ghante-mill-bhejein-oct-2026-0.webp</image:loc>
+      <image:title>24 घंटे में मिल पहुंचाएं गन्ना, वरना घटेगा वजन — कटाई की 7 गलतियां</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/moradabad-1-bigha-ganna-lagat-lab-5130-oct-2026-webstory/</loc>
+    <lastmod>2026-10-22T09:55:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-moradabad-1-bigha-ganna-lagat-lab-5130-oct-2026-0.webp</image:loc>
+      <image:title>1 बीघे में 24 हजार का गन्ना, बचा सिर्फ ₹5,130!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-perai-10-kaam-checklist-oct-2026-webstory/</loc>
+    <lastmod>2026-10-21T15:14:43+0530</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-perai-10-kaam-checklist-oct-2026-0.webp</image:loc>
+      <image:title>पेराई से पहले 10 काम, वरना पर्ची और पेमेंट दोनों अटकेगा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/karnataka-cm-pm-modi-ganna-5-maang-oct-2026-webstory/</loc>
+    <lastmod>2026-10-21T10:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-karnataka-cm-pm-modi-ganna-5-maang-oct-2026-0.webp</image:loc>
+      <image:title>चीनी ₹31 वाला भाव बदलने की मांग, PM को 5 मांगें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bareilly-barish-katiai-perai-vilamb-60-rupee-chini-oct-2026-webstory/</loc>
+    <lastmod>2026-10-20T15:47:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bareilly-barish-katiai-perai-vilamb-60-rupee-chini-oct-2026-0.webp</image:loc>
+      <image:title>बरेली: बारिश से पेराई टली, चीनी 60 ₹/किलो</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hapur-bku-500-ganna-bhav-16-october-pradarshan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-20T11:08:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hapur-bku-500-ganna-bhav-16-october-pradarshan-oct-2026-0.webp</image:loc>
+      <image:title>हापुड़: 16 अक्टूबर को कलेक्ट्रेट घेरा, गन्ना भाव ₹500 की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bijnor-mill-1605-crore-ccl-ganna-bhugtan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-20T06:25:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bijnor-mill-1605-crore-ccl-ganna-bhugtan-oct-2026-webstory-0.webp</image:loc>
+      <image:title>बिजनौर की 10 मिलों ने मांगा ₹1,605 करोड़ लोन: भुगतान पक्का?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bijnor-jungli-hathi-14-bigha-ganna-fasal-raundi-oct-2026-webstory/</loc>
+    <lastmod>2026-10-19T16:22:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bijnor-jungli-hathi-14-bigha-ganna-fasal-raundi-oct-2026-0.webp</image:loc>
+      <image:title>बिजनौर में हाथियों ने रौंदी 14 बीघा गन्ने की फसल, किसानों की सालभर की मेहनत बर्बाद</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/baghpat-malakpur-umesh-modi-samman-oct-2026-webstory/</loc>
+    <lastmod>2026-10-19T11:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-baghpat-malakpur-umesh-modi-samman-oct-2026-0.webp</image:loc>
+      <image:title>17 अक्टूबर बैठक: पूरा भुगतान मिला तो किसानों ने मिल मालिक उमेश मोदी का किया सम्मान</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/chhattisgarh-ganna-bhav-425-webstory/</loc>
+    <lastmod>2026-10-19T07:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-chhattisgarh-ganna-bhav-425-0.webp</image:loc>
+      <image:title>छत्तीसगढ़ में गन्ना भाव ₹425: 70 रुपये की बढ़ोतरी, 31 हजार किसानों को बोनस</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-ras-ethanol-ban-1100-crore-tender-oct-2026-webstory/</loc>
+    <lastmod>2026-10-18T16:55:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-ras-ethanol-ban-1100-crore-tender-oct-2026-0.webp</image:loc>
+      <image:title>गन्ने के रस से एथेनॉल बंद — 1100 करोड़ लीटर का टेंडर जारी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/baghpat-29-crore-bakaya-notice-oct-2026-webstory/</loc>
+    <lastmod>2026-10-18T12:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-baghpat-29-crore-bakaya-notice-oct-2026-0.webp</image:loc>
+      <image:title>बागपत: 29 करोड़ बकाये पर मिलों को नोटिस, 6 मिलों पर आरसी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/gola-bajaj-satyagraha-100-crore-oct-2026-webstory/</loc>
+    <lastmod>2026-10-18T07:47:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-gola-bajaj-satyagraha-100-crore-oct-2026-0.webp</image:loc>
+      <image:title>दीपावली से पहले ₹100 करोड़ दो: गोला में बजाज मिल के खिलाफ सत्याग्रह</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/akhil-bhartiya-kisan-sabha-575-ganna-bhav-webstory/</loc>
+    <lastmod>2026-10-17T17:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-akhil-bhartiya-kisan-sabha-575-ganna-bhav-0.webp</image:loc>
+      <image:title>गन्ना भाव ₹575/क्विंटल? किसान सभा की केंद्र से बड़ी मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/baheri-cheque-bounce-24-oct-nilami-webstory/</loc>
+    <lastmod>2026-10-17T13:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-baheri-cheque-bounce-24-oct-nilami-0.webp</image:loc>
+      <image:title>55 करोड़ का चेक बाउंस: बहेड़ी केसर चीनी मिल की कुर्क जमीन की नीलामी 24 अक्टूबर को</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/diwali-chini-65-rupee-kilo-oct-2026-webstory/</loc>
+    <lastmod>2026-10-17T08:26:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-diwali-chini-65-rupee-kilo-oct-2026-0.webp</image:loc>
+      <image:title>दिवाली से पहले चीनी 65 रुपये किलो: उत्पादन अनुमान 34.3 से घटकर 30.6 मिलियन टन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/saharanpur-deoband-28-october-perai-webstory/</loc>
+    <lastmod>2026-10-16T18:22:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-saharanpur-deoband-28-october-perai-0.webp</image:loc>
+      <image:title>28 अक्टूबर से देवबंद मिल में पेराई शुरू, 8 मिलों का शेड्यूल</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/muzaffarnagar-600-bhav-tractor-rally-oct-2026-webstory/</loc>
+    <lastmod>2026-10-16T13:39:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-muzaffarnagar-600-bhav-tractor-rally-oct-2026-0.webp</image:loc>
+      <image:title>मुजफ्फरनगर: ₹600 गन्ना भाव की मांग, ट्रैक्टरों से जाम</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/barkheda-mill-kurki-112-crore-webstory/</loc>
+    <lastmod>2026-10-16T09:06:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-barkheda-mill-kurki-112-crore-0.webp</image:loc>
+      <image:title>112 करोड़ बकाया: बरखेड़ा चीनी मिल की संपत्ति कुर्क होगी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/muzaffarnagar-kisan-mahakumbh-15-oct-webstory/</loc>
+    <lastmod>2026-10-15T14:27:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-muzaffarnagar-kisan-mahakumbh-15-oct-0.webp</image:loc>
+      <image:title>15 अक्टूबर: 50 जिलों के किसान जीआईसी मैदान में</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/chini-stock-limit-1000-quintal-jamakhori-oct-2026-webstory/</loc>
+    <lastmod>2026-10-15T09:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-chini-stock-limit-1000-quintal-jamakhori-oct-2026-0.webp</image:loc>
+      <image:title>जमाखोरों पर शिकंजा: डीलर रख सकेंगे सिर्फ 1000 क्विंटल चीनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/paschimi-up-chaupal-ganna-kisan-daam-khad-nahar-pani-oct-2026-webstory/</loc>
+    <lastmod>2026-10-14T15:03:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-paschimi-up-chaupal-ganna-kisan-daam-khad-nahar-pani-oct-2026-0.webp</image:loc>
+      <image:title>गन्ना ₹500 करो — चौपाल से 5 मांगें, 16 अक्टूबर को प्रदर्शन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/pilibhit-prajanan-ganna-beej-oct-2026-webstory/</loc>
+    <lastmod>2026-10-14T10:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-pilibhit-prajanan-ganna-beej-oct-2026-0.webp</image:loc>
+      <image:title>₹1.40/आंख पर नई गन्ना किस्म का बीज: पीलीभीत में प्रजनक बीज की सरकारी दरें जारी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bku-arajnaitik-16-october-dm-pradarshan-500-ganna-bhav-oct-2026-webstory/</loc>
+    <lastmod>2026-10-13T15:41:10+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bku-arajnaitik-16-october-dm-pradarshan-500-ganna-bhav-oct-2026-0.webp</image:loc>
+      <image:title>16 अक्टूबर को हर जिले में धरना — गन्ने का भाव ₹500 की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/surya-pratap-shahi-69163-crore-105-mill-15-din-bhugtan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-13T11:05:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-surya-pratap-shahi-69163-crore-105-mill-15-din-bhugtan-oct-2026-0.webp</image:loc>
+      <image:title>₹69,163 करोड़ और 15 दिन में भुगतान? मंत्री के दावे की हकीकत</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-kisan-7-kanuni-adhikar-bhugtan-15-percent-byaj-oct-2026-webstory/</loc>
+    <lastmod>2026-10-13T06:25:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-kisan-7-kanuni-adhikar-bhugtan-15-percent-byaj-oct-2026-0.webp</image:loc>
+      <image:title>7 कानूनी अधिकार: 14 दिन में भुगतान, 15% ब्याज</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/raju-shetti-5500-tonne-highway-jam-oct-2026-webstory/</loc>
+    <lastmod>2026-10-12T16:21:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-raju-shetti-5500-tonne-highway-jam-oct-2026-0.webp</image:loc>
+      <image:title>5500 ₹/टन नहीं मिला तो 13 अक्टूबर से हाईवे जाम — राजू शेट्टी का ऐलान, यूपी पर भी असर</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/dgft-eu-5841-tonne-quota-webstory/</loc>
+    <lastmod>2026-10-12T11:46:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-dgft-eu-5841-tonne-quota-0.webp</image:loc>
+      <image:title>यूरोप को 5,841 टन चीनी निर्यात का कोटा: गन्ना किसानों पर क्या असर होगा?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/brazil-barish-cheeni-utpadan-sankat-up-kisan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-12T07:06:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-brazil-barish-cheeni-utpadan-sankat-up-kisan-oct-2026-0.webp</image:loc>
+      <image:title>ब्राज़ील बारिश से चीनी 19 महीने की रिकॉर्ड ऊंचाई पर: UP किसानों पर असर</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/saharanpur-dm-bajaj-gangnauli-88-crore-ultimatum-oct-2026-webstory/</loc>
+    <lastmod>2026-10-11T17:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-saharanpur-dm-bajaj-gangnauli-88-crore-ultimatum-oct-2026-0.webp</image:loc>
+      <image:title>88.51 करोड़ बकाया नहीं चुकाया तो गन्ना दूसरी मिलों को</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bijnor-chini-mill-c-heavy-cheeni-utpadan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-11T12:22:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bijnor-chini-mill-c-heavy-cheeni-utpadan-oct-2026-0.webp</image:loc>
+      <image:title>बिजनौर की 10 चीनी मिलों का बड़ा फैसला: अब सिर्फ चीनी बनेगी, ₹4,500 प्रति क्विंटल का बाजार — किसानों को ये फायदा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/muzaffarnagar-kolhu-perai-shuru-380-bhav-mill-se-pehle-oct-2026-webstory/</loc>
+    <lastmod>2026-10-11T07:42:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-muzaffarnagar-kolhu-perai-shuru-380-bhav-mill-se-pehle-oct-2026-0.webp</image:loc>
+      <image:title>मिलों से पहले 50+ कोल्हू चालू: ₹380/क्विंटल भाव, भोकरहेड़ी में रोज़ 500 क्विंटल गुड़</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/kisan-sangathan-15-november-perai-rok-12-october-oct-2026-webstory/</loc>
+    <lastmod>2026-10-10T18:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-kisan-sangathan-15-november-perai-rok-12-october-oct-2026-0.webp</image:loc>
+      <image:title>15 नवंबर से पहले पेराई नहीं — किसान संगठनों की चेतावनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/supreme-court-15-percent-byaj-up-sarkar-arjee-kharij-oct-2026-webstory/</loc>
+    <lastmod>2026-10-10T13:02:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-supreme-court-15-percent-byaj-up-sarkar-arjee-kharij-oct-2026-0.webp</image:loc>
+      <image:title>सुप्रीम कोर्ट का बड़ा फैसला: अब 15% ब्याज देगी चीनी मिलें, 849.5 करोड़ बकाया</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hardoi-mills-100-percent-bhugtan-perai-28-october-oct-2026-webstory/</loc>
+    <lastmod>2026-10-10T08:25:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hardoi-mills-100-percent-bhugtan-perai-28-october-oct-2026-0.webp</image:loc>
+      <image:title>हरदोई की 4 मिलों ने 100% भुगतान किया, 28 अक्टूबर से पेराई</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/yogi-cabinet-no-sap-hike-330-lakh-crore-bhugtan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-09T18:26:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-yogi-cabinet-no-sap-hike-330-lakh-crore-bhugtan-oct-2026-0.webp</image:loc>
+      <image:title>गन्ने का भाव नहीं बढ़ा, पर 3.30 लाख करोड़ के भुगतान का दावा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/gonda-kundurakhi-bhugtan-dm-chetavni-webstory/</loc>
+    <lastmod>2026-10-09T13:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-gonda-kundurakhi-bhugtan-dm-chetavni-0.webp</image:loc>
+      <image:title>कुन्दुरखी मिल ने दिया सिर्फ़ 51.86% गन्ना भुगतान: गोण्डा डीएम की सख़्त चेतावनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/lucknow-ganna-ayukt-baithak-600-maang-oct-2026-webstory/</loc>
+    <lastmod>2026-10-09T09:06:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-lucknow-ganna-ayukt-baithak-600-maang-oct-2026-0.webp</image:loc>
+      <image:title>₹600 गन्ना भाव की मांग: लखनऊ बैठक में मिलों की सहमति, जानें घोषणा कब होगी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-mini-seed-kit-booking-9-october-webstory/</loc>
+    <lastmod>2026-10-08T14:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-mini-seed-kit-booking-9-october-0.webp</image:loc>
+      <image:title>9 अक्टूबर सुबह 10 बजे से गन्ने के बीज की ऑनलाइन बुकिंग: ₹200 में मिलेगा को.शा. 23232 का मिनी सीड किट</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/fasal-kshati-digital-survey-12-october-webstory/</loc>
+    <lastmod>2026-10-08T09:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-fasal-kshati-digital-survey-12-october-0.webp</image:loc>
+      <image:title>12 अक्टूबर तक फसल क्षति का डिजिटल सर्वे: गन्ना किसान ये करें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/odisha-ganna-15000-subsidy-oct-2026-webstory/</loc>
+    <lastmod>2026-10-07T15:06:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-odisha-ganna-15000-subsidy-oct-2026-0.webp</image:loc>
+      <image:title>₹15,000/एकड़: ओडिशा में गन्ना किसानों को बड़ी राहत</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hapur-bku-collectorate-pradarshan-600-ganna-bhav-oct-2026-webstory/</loc>
+    <lastmod>2026-10-06T15:44:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hapur-bku-collectorate-pradarshan-600-ganna-bhav-oct-2026-0.webp</image:loc>
+      <image:title>हापुड़ कलेक्ट्रेट पर हल्ला बोल: ₹600 गन्ना भाव की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/frp-vs-sap-ganna-bhav-oct-2026-webstory/</loc>
+    <lastmod>2026-10-06T11:18:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-frp-vs-sap-ganna-bhav-oct-2026-0.webp</image:loc>
+      <image:title>₹365 बनाम ₹400: 2026-27 में आपका गन्ना किस भाव बिकेगा — पूरा हिसाब</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-pattiyan-crm-yojana-webstory/</loc>
+    <lastmod>2026-10-06T06:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-pattiyan-crm-yojana-0.webp</image:loc>
+      <image:title>पत्तियां जलाईं तो ₹2500 जुर्माना, संभालीं तो 80% अनुदान — गन्ना किसानों के लिए नया नियम</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/yamunanagar-tikait-highway-jam-oct-2026-webstory/</loc>
+    <lastmod>2026-10-05T16:26:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-yamunanagar-tikait-highway-jam-oct-2026-0.webp</image:loc>
+      <image:title>4 अक्टूबर: टिकैत की महापंचायत के बाद हाईवे जाम, बॉर्डर सील की चेतावनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-1-quintal-hisab-oct-2026-webstory/</loc>
+    <lastmod>2026-10-05T11:41:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-1-quintal-hisab-oct-2026-0.webp</image:loc>
+      <image:title>₹365 में से ₹182 घटाइए — 1 क्विंटल गन्ने पर किसान को कितना बचा?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/baheri-kesar-mill-159-crore-bakaya-webstory/</loc>
+    <lastmod>2026-10-05T07:07:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-baheri-kesar-mill-159-crore-bakaya-0.webp</image:loc>
+      <image:title>159 करोड़ गन्ना बकाया पर किसान उग्र — 12 अक्टूबर को बहेड़ी में महाधरना</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/belrayan-mill-15-november-perai-70-lakh-quintal-oct-2026-webstory/</loc>
+    <lastmod>2026-10-04T17:05:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-belrayan-mill-perai-0.webp</image:loc>
+      <image:title>15 नवंबर से बेलरायां मिल में पेराई: 70 लाख क्विंटल का लक्ष्य</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/baheri-kesar-mill-mahadharna-webstory/</loc>
+    <lastmod>2026-10-04T12:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-baheri-kesar-mill-mahadharna-0.webp</image:loc>
+      <image:title>159 करोड़ बकाया पर किसानों का फूटा गुस्सा — 12 अक्टूबर को बहेड़ी में महाधरना</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/mukhyamantri-krishak-samriddhi-yojana-6-lakh-loan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-04T07:44:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-mukhyamantri-krishak-samriddhi-yojana-6-lakh-loan-oct-2026-0.webp</image:loc>
+      <image:title>6 लाख लोन, सिर्फ 6% ब्याज: योगी सरकार की नई योजना का पूरा हिसाब</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/chunavi-saal-ganna-moolya-vriddhi-23-october-andolan-oct-2026-webstory/</loc>
+    <lastmod>2026-10-03T17:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-chunavi-saal-ganna-moolya-vriddhi-23-october-andolan-oct-2026-0.webp</image:loc>
+      <image:title>2027 चुनाव से पहले गन्ने का दाम कितना बढ़ेगा? 23 अक्टूबर आंदोलन, ₹500-600 की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/rabi-msp-vriddhi-gehu-sarson-oct-2026-webstory/</loc>
+    <lastmod>2026-10-03T13:05:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-rabi-msp-vriddhi-0.webp</image:loc>
+      <image:title>गेहूं ₹2,610, सरसों ₹6,613: 6 रबी फसलों का MSP बढ़ा — गन्ना किसानों को दोहरी खुशखबरी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/prahlad-joshi-dilli-baithak-12-october-oct-2026-webstory/</loc>
+    <lastmod>2026-10-03T08:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-prahlad-joshi-dilli-baithak-0.webp</image:loc>
+      <image:title>12 अक्टूबर को दिल्ली में गन्ना बैठक: ₹365 FRP पर बड़ी बात</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/joshi-sap-karnataka-up-model-webstory/</loc>
+    <lastmod>2026-10-02T18:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-joshi-sap-karnataka-up-model-0.webp</image:loc>
+      <image:title>₹365 FRP के ऊपर SAP लाओ — जोशी ने कर्नाटक को दिखाया यूपी मॉडल</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/congress-kisan-adhikar-yatra-oct-2026-webstory/</loc>
+    <lastmod>2026-10-02T13:46:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-congress-kisan-adhikar-yatra-oct-2026-0.webp</image:loc>
+      <image:title>2 अक्टूबर से गन्ना बेल्ट में किसान अधिकार यात्रा: 6 जिले, 5 बड़े मुद्दे</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bareilly-oswal-mill-seal-22-october-nilami-oct-2026-webstory/</loc>
+    <lastmod>2026-10-02T09:06:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bareilly-oswal-mill-seal-22-october-nilami-oct-2026-0.webp</image:loc>
+      <image:title>70 करोड़ बकाए पर बरेली की ओसवाल मिल सील: 22 अक्टूबर को नीलामी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-4-nayi-kismein-23232-webstory/</loc>
+    <lastmod>2026-10-01T14:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-4-nayi-kismein-23232-0.webp</image:loc>
+      <image:title>गन्ने की 4 नई किस्में मंजूर: 95.56 टन उपज वाली को.शा. 23232, लाल सड़न से भी सुरक्षा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/chini-quota-14-lakh-ton-webstory/</loc>
+    <lastmod>2026-10-01T09:50:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-chini-quota-14-lakh-ton-0.webp</image:loc>
+      <image:title>14 लाख टन चीनी कोटा जारी, 20 अक्टूबर से पेराई शुरू — किसानों के 3 फायदे</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/muzaffarnagar-ganna-indent-objection-deadline-sept-2026-webstory/</loc>
+    <lastmod>2026-09-30T15:15:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-muzaffarnagar-ganna-indent-objection-deadline-sept-2026-0.webp</image:loc>
+      <image:title>मुजफ्फरनगर: गन्ना इंडेंट आपत्ति की आखिरी तारीख 30 सितंबर — आज चूक तो पूरे सीजन गलत रिकॉर्ड</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bijnor-mahapanchayat-webstory/</loc>
+    <lastmod>2026-09-30T10:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bijnor-mahapanchayat-0.webp</image:loc>
+      <image:title>बिजनौर कलेक्ट्रेट में हजारों किसानों की महापंचायत: बकाये पर ब्याज और लागत अनुसार गन्ना भाव की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/gadkari-e20-urjadata-webstory/</loc>
+    <lastmod>2026-09-29T16:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-gadkari-e20-urjadata-0.webp</image:loc>
+      <image:title>गडकरी का बड़ा दावा — E20 से माइलेज बढ़ी, गन्ना किसान अब 'ऊर्जादाता</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/karnataka-gherav-5500-webstory/</loc>
+    <lastmod>2026-09-29T11:10:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-karnataka-gherav-5500-0.webp</image:loc>
+      <image:title>कर्नाटक में गन्ना किसानों का हल्ला बोल: मंत्री के घर घेराव, ₹5,500/टन भाव की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/chini-utpadan-red-rot-karan-20-webstory/</loc>
+    <lastmod>2026-09-29T06:50:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-chini-utpadan-red-rot-karan-20-0.webp</image:loc>
+      <image:title>लाल सड़न ने खा लिए 37 लाख टन चीनी! Co-0238 बर्बाद, Karan-20 से नई उम्मीद</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-barish-aandhi-ganna-nuksan-muaavza-sept-2026-webstory/</loc>
+    <lastmod>2026-09-28T16:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-up-barish-aandhi-ganna-nuksan-muaavza-sept-2026-0.webp</image:loc>
+      <image:title>बारिश-आंधी से गन्ना तबाह: 56 मौतें, किसान सभा की ₹30,000 प्रति एकड़ मुआवजे की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/tikait-night-mahapanchayat-ganna-bhav-500-sept-2026-webstory/</loc>
+    <lastmod>2026-09-28T11:47:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-tikait-night-mahapanchayat-ganna-bhav-500-sept-2026-0.webp</image:loc>
+      <image:title>मुजफ्फरनगर में रातभर चली BKU महापंचायत: गन्ना भाव ₹500 नहीं तो आंदोलन की चेतावनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/lakhimpur-gola-bajaj-mil-bhugtan-sept-2026-webstory/</loc>
+    <lastmod>2026-09-28T07:06:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-lakhimpur-gola-bajaj-mil-bhugtan-0.webp</image:loc>
+      <image:title>बिना भुगतान नहीं घूमेगा चक्का! गोला में बजाज मिल के बकाया पर 15 अक्टूबर का अल्टीमेटम</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-sahkari-mil-puraskar-sept-2026-webstory/</loc>
+    <lastmod>2026-09-27T17:08:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-up-sahkari-mil-puraskar-sept-2026-0.webp</image:loc>
+      <image:title>राष्ट्रीय दक्षता पुरस्कार 2026: यूपी की 8 सहकारी चीनी मिलों को सम्मान, नजीबाबाद बनी देश की सर्वश्रेष्ठ</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/saharanpur-ganganauli-mil-virodh-10-gaon-sept-2026-webstory/</loc>
+    <lastmod>2026-09-27T12:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-saharanpur-ganganauli-mil-virodh-10-gaon-sept-2026-0.webp</image:loc>
+      <image:title>सहारनपुर: ₹90 करोड़ बकाया पर किसानों का हल्ला, गांगनौली मिल को गन्ना देने से 10 गांवों का इनकार</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/tikait-top-borer-night-bijli-demand-sept-2026-webstory/</loc>
+    <lastmod>2026-09-27T07:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-tikait-top-borer-night-bijli-demand-sept-2026-0.webp</image:loc>
+      <image:title>टिकैत का CM योगी को खुला पत्र: टॉप बोरर से बचाव के लिए रात 6 से 12 बजे तक बिजली की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hapur-36-gaon-avantan-webstory/</loc>
+    <lastmod>2026-09-26T17:48:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hapur-36-gaon-avantan-0.webp</image:loc>
+      <image:title>हापुड़ के 36 गांवों का गन्ना कहां जाएगा? अक्टूबर में केन कमिश्नर करेंगे फैसला</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bku-sisauli-tractor-march-20-september-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bku-sisauli-cover.webp</image:loc>
+      <image:title>भाकियू का सिसौली ट्रैक्टर मार्च 20 सितंबर: गन्ना भाव ₹450 की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-bhugtan-14-din-niyam-15-percent-byaj-webstory-2026/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bhugtan-law-cover.webp</image:loc>
+      <image:title>गन्ना भुगतान नियम 2026: 14 दिन की देरी पर 15% ब्याज का दावा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-satta-warasat-namantaran-rules-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-warasat-rules-cover.webp</image:loc>
+      <image:title>गन्ना सट्टा वरासत 2026: पिता के बाद सट्टा अपने नाम कैसे कराएं?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/parchi-calendar-12-pakhwada-column-chart-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-pakhwada-chart-cover.webp</image:loc>
+      <image:title>गन्ना पर्ची कैलेंडर 2026: 12 पखवाड़ा और 15 कॉलम का रहस्य समझें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/satta-objection-deadline-extended-20-september-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-satta-ext-cover.webp</image:loc>
+      <image:title>सट्टा आपत्ति दर्ज कराने की अंतिम तिथि 20 सितंबर तक बढ़ी — नया आदेश</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/shamli-sugar-godown-sealed-112-crore-dues-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-shamli-seal-cover.webp</image:loc>
+      <image:title>शामली चीनी मिल का गोदाम सील: ₹112 करोड़ बकाया पर सख्त एक्शन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/terai-red-rot-spray-advisory-gola-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-terai-redrot-cover.webp</image:loc>
+      <image:title>तराई में लाल सड़न (Red Rot) का अलर्ट: वैज्ञानिकों की 5 जरूरी सलाह</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-ganna-beej-booking-co0118-co15023-subsidy-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-seed-booking-cover.webp</image:loc>
+      <image:title>गन्ना बीज बदलाव 2026: Co-0238 छोड़ें, Co-15023 और 0118 लगाएं</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-krishi-yantra-anudan-trench-opener-rotavator-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-machinery-subsidy-cover.webp</image:loc>
+      <image:title>कृषि यंत्र अनुदान 2026: ट्रेंच ओपनर और रोटावेटर पर 50-80% सब्सिडी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/western-up-sugar-mills-boiler-puja-steam-trial-webstory/</loc>
+    <lastmod>2026-09-15T21:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-boiler-puja-cover.webp</image:loc>
+      <image:title>पश्चिमी यूपी की चीनी मिलों में बॉयलर पूजन शुरू: 15 अक्टूबर से पेराई</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/satta-objection-last-3-days-september-15-deadline-webstory/</loc>
+    <lastmod>2026-09-12T19:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-satta-3days-deadline-cover.webp</image:loc>
+      <image:title>सट्टा आपत्ति के अंतिम 3 दिन शेष: 15 सितंबर को लॉक होगा CaneUp पोर्टल</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/wholesale-sugar-price-recovers-40-rupees-webstory/</loc>
+    <lastmod>2026-09-12T19:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-sugar-price-recover-cover.webp</image:loc>
+      <image:title>चीनी के थोक भाव में ₹40 का सुधार: त्योहारी मांग व एथेनॉल टेंडर असर</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bku-tractor-march-20-september-mobilization-webstory/</loc>
+    <lastmod>2026-09-12T18:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bku-tractor-march-cover.webp</image:loc>
+      <image:title>20 सितंबर ट्रैक्टर मार्च: 500 गांवों में भाकियू की किसान संदेश यात्रा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/eganna-app-v6-3-traffic-surge-webstory/</loc>
+    <lastmod>2026-09-12T18:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-eganna-traffic-surge-cover.webp</image:loc>
+      <image:title>e-Ganna App v6.3: रिकॉर्ड 6 लाख किसानों ने देखा आपत्ति स्टेटस</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/imd-rain-alert-sugarcane-propping-tying-webstory/</loc>
+    <lastmod>2026-09-12T17:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-rain-propping-alert-cover.webp</image:loc>
+      <image:title>पश्चिमी यूपी में भारी बारिश का अलर्ट: गन्ने की कैंची बंधाई तुरंत करें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ethanol-tender-280-crore-litres-up-mills-webstory/</loc>
+    <lastmod>2026-09-12T17:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ethanol-tender-boost-cover.webp</image:loc>
+      <image:title>280 करोड़ लीटर एथेनॉल टेंडर: UP की चीनी मिलों को ₹8,400 करोड़ बूस्ट</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/private-mills-125-crore-payment-release-webstory/</loc>
+    <lastmod>2026-09-12T16:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-private-mills-payment-cover.webp</image:loc>
+      <image:title>निजी मिलों ने जारी किए ₹125 करोड़: शामली, मलकपुर व दौराला भुगतान</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/defaulter-mill-godown-sealed-auction-notice-webstory/</loc>
+    <lastmod>2026-09-12T16:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-mill-godown-sealed-cover.webp</image:loc>
+      <image:title>बकायेदार मिल पर एक्शन: बजाज बरखेड़ा का चीनी गोदाम सील, नीलामी नोटिस</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/sharadkalin-trench-sarson-intercropping-subsidy-webstory/</loc>
+    <lastmod>2026-09-12T15:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-trench-sarson-profit-cover.webp</image:loc>
+      <image:title>शरद बुवाई ट्रेंच विधि संग सरसों: ₹45,000 अतिरिक्त मुनाफा ऐसे लें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/sugar-mill-boiler-trial-steam-testing-webstory/</loc>
+    <lastmod>2026-09-12T15:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-boiler-trial-steam-cover.webp</image:loc>
+      <image:title>15 सितंबर से बॉयलर ट्रायल: 15 अक्टूबर पेराई के लिए स्टीम टेस्टिंग शुरू</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-sugar-mills-31800-crore-payment-defaulter-list-webstory/</loc>
+    <lastmod>2026-09-10T20:10:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-payment-defaulter-mills-cover.webp</image:loc>
+      <image:title>यूपी में ₹31,800 करोड़ गन्ना भुगतान जारी: 4 बकायेदार मिलों को नोटिस</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/special-farmer-id-camp-12-13-september-csc-webstory/</loc>
+    <lastmod>2026-09-10T19:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-special-camp-farmer-id-cover.webp</image:loc>
+      <image:title>12-13 सितंबर को सभी CSC केंद्रों पर विशेष कैंप: 100% फार्मर आईडी अनिवार्य</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/eganna-app-v6-2-fingerprint-login-guide-webstory/</loc>
+    <lastmod>2026-09-10T18:50:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-eganna-fingerprint-guide-cover.webp</image:loc>
+      <image:title>eGanna App v6.2 जारी: फिंगरप्रिंट लॉगिन और फास्ट सट्टा लोड कैसे शुरू करें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/tarai-belt-sharda-waterlogging-cane-protection-webstory/</loc>
+    <lastmod>2026-09-10T18:15:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-tarai-waterlogging-protect-cover.webp</image:loc>
+      <image:title>तराई बेल्ट में गन्ने के खेतों में जलभराव: फसल को सड़ांध व फफूंद से कैसे बचाएं</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/isma-sugar-production-estimate-2026-27-webstory/</loc>
+    <lastmod>2026-09-10T17:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-isma-production-estimate-cover.webp</image:loc>
+      <image:title>ISMA रिपोर्ट: 2026-27 में 333 लाख टन चीनी उत्पादन अनुमान, किसानों को क्या फायदा?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/co-15023-co-0118-certified-seed-subsidy-webstory/</loc>
+    <lastmod>2026-09-10T17:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-seed-subsidy-upcsr-cover.webp</image:loc>
+      <image:title>Co-15023 व Co-0118 प्रमाणित बीज पर भारी सब्सिडी: ऑनलाइन बुकिंग शुरू</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bku-20-september-ultimatum-sap-450-webstory/</loc>
+    <lastmod>2026-09-10T16:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bku-sap-ultimatum-cover.webp</image:loc>
+      <image:title>भाकियू का अल्टीमेटम: गन्ना भाव ₹450 घोषित हो वरना 20 सितंबर से महाआंदोलन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/dap-fertilizer-mrp-1350-black-marketing-rules-webstory/</loc>
+    <lastmod>2026-09-10T15:50:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-dap-mrp-rules-cover.webp</image:loc>
+      <image:title>DAP खाद ₹1350 से ज्यादा पर बेचना गैरकानूनी: जानें रेट और ओवररेटिंग की शिकायत</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/western-up-sugar-mills-boiler-puja-schedule-webstory/</loc>
+    <lastmod>2026-09-10T15:10:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-western-mills-boiler-puja-cover.webp</image:loc>
+      <image:title>वेस्ट यूपी की चीनी मिलों में बॉयलर पूजन शुरू: पेराई सत्र 2026-27 की तैयारी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-satta-pre-calendar-objection-last-5-days-webstory/</loc>
+    <lastmod>2026-09-10T14:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-satta-5days-deadline-cover.webp</image:loc>
+      <image:title>गन्ना सट्टा प्री-कैलेंडर आपत्ति: अब बचे हैं सिर्फ 5 दिन, ऐसे कराएं सुधार</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/sharadkalin-ganna-buwai-trench-sarson-profit-webstory/</loc>
+    <lastmod>2026-09-08T17:35:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-trench-sarson-intercrop-cover.webp</image:loc>
+      <image:title>शरदकालीन ट्रेंच गन्ना संग सरसों: ₹42,000 अतिरिक्त कमाई</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/caneup-invalid-captcha-server-down-solutions-webstory/</loc>
+    <lastmod>2026-09-08T17:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-caneup-captcha-error-cover.webp</image:loc>
+      <image:title>Caneup.in नहीं खुल रहा? Invalid Captcha के 5 त्वरित समाधान</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-sugar-mills-perai-15-october-boiler-puja-webstory/</loc>
+    <lastmod>2026-09-08T17:05:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-boiler-puja-mills-cover.webp</image:loc>
+      <image:title>यूपी चीनी मिलें: 15 अक्टूबर से पेराई, बॉयलर पूजन शुरू</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/smart-ganna-parchi-sms-validity-rules-webstory/</loc>
+    <lastmod>2026-09-08T16:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-smart-parchi-sms-cover.webp</image:loc>
+      <image:title>स्मार्ट गन्ना पर्ची SMS: 72 और 120 घंटे की समयसीमा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/agristack-digital-farmer-id-ganna-satta-webstory/</loc>
+    <lastmod>2026-09-08T16:20:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-agristack-farmer-id-cover.webp</image:loc>
+      <image:title>AgriStack डिजिटल फार्मर ID: बिना इसके बंद होगा सट्टा!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/satta-pre-calendar-sudhar-15-september-webstory/</loc>
+    <lastmod>2026-09-08T15:55:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-satta-precalendar-sudhar-cover.webp</image:loc>
+      <image:title>सट्टा प्री-कैलेंडर में त्रुटि सुधार: 15 सितंबर आखिरी मौका</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-bhugtan-14-din-niyam-dbt-webstory/</loc>
+    <lastmod>2026-09-08T15:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ganna-bhugtan-dbt-cover.webp</image:loc>
+      <image:title>गन्ना भुगतान 14 दिन नियम: बैंक खाते में कब आएगा पैसा?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-basic-quota-badhane-ka-formula-webstory/</loc>
+    <lastmod>2026-09-08T15:05:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-basic-quota-formula-cover.webp</image:loc>
+      <image:title>गन्ने का बेसिक कोटा कैसे बढ़ता है? समझें पूरा फॉर्मूला</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/eganna-app-v6-2-features-download-webstory/</loc>
+    <lastmod>2026-09-08T14:40:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-eganna-v6-update-cover.webp</image:loc>
+      <image:title>eGanna App v6.2 नया वर्जन जारी: 5 बड़े बदलाव</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/caneup-parchi-calendar-kaise-dekhe-2026-webstory/</loc>
+    <lastmod>2026-09-08T14:15:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-caneup-calendar-check-cover.webp</image:loc>
+      <image:title>CaneUp पर गन्ना पर्ची कैलेंडर कैसे देखें? 5 आसान स्टेप्स</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-pressmud-cbg-biogas-jaivik-khad-webstory/</loc>
+    <lastmod>2026-09-04T12:15:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_cbg_cover.webp</image:loc>
+      <image:title>गन्ने की मैली से बायो-सीएनजी — ₹720 करोड़ के 18 प्लांट्स और सस्ती जैविक खाद</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-ghosna-patra-online-kaise-bhare-30-september-webstory/</loc>
+    <lastmod>2026-09-04T12:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_ghosna_cover.webp</image:loc>
+      <image:title>ऑनलाइन घोषणा पत्र कैसे भरें — 30 सितंबर लास्ट डेट, सट्टा न हो बंद!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/haryana-punjab-ganna-sap-bhav-up-impact-webstory/</loc>
+    <lastmod>2026-09-04T11:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_bhav_cover.webp</image:loc>
+      <image:title>हरियाणा ₹405 व पंजाब ₹410 — यूपी में गन्ना भाव कितना बढ़ेगा?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-sarso-sah-fasli-kheti-trench-vidhi-webstory/</loc>
+    <lastmod>2026-09-04T11:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_sarso_cover.webp</image:loc>
+      <image:title>गन्ने के साथ सरसों की सह-फसली खेती — 90 दिन में ₹40,000 अतिरिक्त मुनाफा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-toul-ghattoli-se-bachav-digital-kanta-webstory/</loc>
+    <lastmod>2026-09-04T11:15:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_ghattoli_cover.webp</image:loc>
+      <image:title>घटतौली से कैसे बचें — 2,800 गन्ना कांटों पर डिजिटल सीलिंग व किसान के अधिकार</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/soil-health-card-ganna-kheti-free-test-webstory/</loc>
+    <lastmod>2026-09-04T11:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_soil_cover.webp</image:loc>
+      <image:title>सॉइल हेल्थ कार्ड — गन्ने की मिट्टी की फ्री जांच और कार्ड पाने का तरीका</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/kisan-drone-spray-50-percent-subsidy-booking-webstory/</loc>
+    <lastmod>2026-09-04T10:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_drone_cover.webp</image:loc>
+      <image:title>किसान ड्रोन छिड़काव — ₹250 में 1 एकड़ गन्ने पर स्प्रे कैसे बुक करें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-beej-online-booking-co15023-subsidy-webstory/</loc>
+    <lastmod>2026-09-04T10:30:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_seed_cover.webp</image:loc>
+      <image:title>गन्ना बीज बुकिंग शुरू — Co-15023 व CoLk-15201 सब्सिडी पर कैसे लें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/high-court-order-ganna-bhugtan-recovery-webstory/</loc>
+    <lastmod>2026-09-04T10:15:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_court_cover.webp</image:loc>
+      <image:title>हाईकोर्ट का सख्त आदेश — ₹1,936 करोड़ गन्ना बकाए की वसूली कैसे होगी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ganna-satta-sanshodhan-15-september-antim-tithi-webstory/</loc>
+    <lastmod>2026-09-04T10:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws2_satta_cover.webp</image:loc>
+      <image:title>गन्ना सट्टा संशोधन 2026-27 — 15 सितंबर से पहले कैसे सुधारें गलतियां</image:title>
+    </image:image>
+  </url>
   <url>
     <loc>https://upcaneup.info/webstories/bareilly-mahila-divyang-parchi-priority-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -14,7 +1544,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/best-sugarcane-varieties-2026/</loc>
-    <lastmod>2026-07-18T16:53:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -24,7 +1554,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/caneup-online-grievance-complaint/</loc>
-    <lastmod>2026-08-24T16:15:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -34,7 +1564,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/caneup-survey-sudhar-last-date-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -44,7 +1574,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/caneup-whatsapp-group-ganna-kisan/</loc>
-    <lastmod>2026-07-11T14:29:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -54,7 +1584,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/caneup-youtube-channel-ganna-kisan/</loc>
-    <lastmod>2026-07-17T08:05:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -64,7 +1594,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/cheeni-bhav-4000-ganna-kisan-2026/</loc>
-    <lastmod>2026-08-04T10:39:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -74,7 +1604,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/chini-bhav-36-percent-badha-impact-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -84,7 +1614,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/co-0238-replacement-top-varieties-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -94,7 +1624,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/co0238-ganna-kism-2026/</loc>
-    <lastmod>2026-07-25T09:24:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -104,7 +1634,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/co0238-vs-co0118-ganna-kism-2026/</loc>
-    <lastmod>2026-07-12T15:59:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -114,7 +1644,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/cos-17231-colk-16202-new-varieties/</loc>
-    <lastmod>2026-08-24T15:15:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -124,7 +1654,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/digital-agri-mission-farmer-id-guide-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -134,7 +1664,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/drip-irrigation-subsidy-ganna-2026/</loc>
-    <lastmod>2026-07-10T09:26:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -144,7 +1674,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/drip-irrigation-sugarcane-guide/</loc>
-    <lastmod>2026-07-21T16:08:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -154,7 +1684,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/drone-spraying-ganna-2026/</loc>
-    <lastmod>2026-07-05T16:44:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -164,7 +1694,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/eganna-app-download-guide/</loc>
-    <lastmod>2026-07-08T09:54:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -174,7 +1704,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/eganna-app-naya-update-2026/</loc>
-    <lastmod>2026-07-02T17:15:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -184,7 +1714,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/eganna-app-v6-download-session-expired-fix-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -194,7 +1724,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/eganna-app-v6-features/</loc>
-    <lastmod>2026-08-24T14:15:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -204,7 +1734,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-bakaya-bhugtan-15-percent-byaj/</loc>
-    <lastmod>2026-08-24T15:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -214,7 +1744,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-bhav-600-kisan-maang/</loc>
-    <lastmod>2026-08-24T14:30:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -224,7 +1754,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-bhugtan-14-din-niyam-15-percent-byaj-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -234,7 +1764,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-bhugtan-status-2026/</loc>
-    <lastmod>2026-07-17T17:16:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -244,7 +1774,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-bhugtan-status-check-2026/</loc>
-    <lastmod>2026-07-20T08:53:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -254,7 +1784,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-ghosna-patra-2026-deadline/</loc>
-    <lastmod>2026-08-24T15:30:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -264,7 +1794,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-kheti-machinery-subsidy/</loc>
-    <lastmod>2026-08-06T11:32:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -274,7 +1804,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-kheti-mitti-jaanch/</loc>
-    <lastmod>2026-07-16T09:47:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -284,7 +1814,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-kheti-tips/</loc>
-    <lastmod>2026-07-02T10:17:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -294,7 +1824,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-kisan-kcc-loan-4-percent-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -304,7 +1834,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-kisan-lakhimpur-protest-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -314,7 +1844,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-msp-rate-2026/</loc>
-    <lastmod>2026-08-01T11:23:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -324,7 +1854,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-msp-rate-badla-august-2026/</loc>
-    <lastmod>2026-08-04T16:42:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -334,7 +1864,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-parali-nuksan-vikalp/</loc>
-    <lastmod>2026-07-14T11:23:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -344,7 +1874,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-parchi-calendar-2026-27-kaise-dekhe-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -354,7 +1884,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-parchi-calendar-2026/</loc>
-    <lastmod>2026-07-15T09:56:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -364,7 +1894,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-patti-jalan-august-2026/</loc>
-    <lastmod>2026-07-02T11:12:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -374,7 +1904,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganna-satta-pre-calendar-2026-guide/</loc>
-    <lastmod>2026-08-24T14:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -384,7 +1914,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganne-mein-lal-sadan-red-rot-top-borer-ilaj-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -394,7 +1924,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganne-se-ethanol-business-50000-2026/</loc>
-    <lastmod>2026-07-03T08:05:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -404,7 +1934,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/ganne-se-gur-business-2026/</loc>
-    <lastmod>2026-07-14T17:53:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -414,7 +1944,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/government-schemes-sugarcane-farmers-2026/</loc>
-    <lastmod>2026-07-02T10:27:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -424,7 +1954,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/jaivik-khad-ganna-kheti-2026/</loc>
-    <lastmod>2026-07-08T18:10:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -434,7 +1964,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/karnataka-farmer-900-bonus-demand-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -444,7 +1974,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/kcc-loan-ganna-kisan-2026-update/</loc>
-    <lastmod>2026-08-06T15:29:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -454,7 +1984,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/kcc-loan-ganna-kisan-2026/</loc>
-    <lastmod>2026-07-31T18:59:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -464,7 +1994,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/kcc-loan-ganna-kisan-4-percent-byaj-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -474,7 +2004,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/krishi-yantra-bank-80-subsidy-fpo-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -484,7 +2014,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/maharashtra-sugar-mill-crushing-permit-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -494,7 +2024,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/mulching-ganna-fayde-2026/</loc>
-    <lastmod>2026-07-31T20:12:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -504,7 +2034,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/parchi-calendar-kaise-dekhen-2026/</loc>
-    <lastmod>2026-07-16T20:13:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -514,7 +2044,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/parchi-calendar-online-kaise-dekhen-2026-27/</loc>
-    <lastmod>2026-07-25T11:17:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -524,7 +2054,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/pm-kisan-3-lakh-crore-budget-2030-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -534,7 +2064,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/pm-kisan-yojana-ganna-kisan-2026/</loc>
-    <lastmod>2026-08-01T15:39:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -544,7 +2074,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/pm-kusum-solar-pump-70-subsidy-up-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -554,7 +2084,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/pm-suraksha-bima-yojana-ganna-kisan-2026/</loc>
-    <lastmod>2026-07-18T14:02:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -564,7 +2094,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/red-rot-monsoon-prevention-tips/</loc>
-    <lastmod>2026-08-24T14:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -574,7 +2104,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sbi-loan-ganna-kisan-10-lakh-2026/</loc>
-    <lastmod>2026-07-04T16:57:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -584,7 +2114,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sharad-kalin-trench-buwai-tips/</loc>
-    <lastmod>2026-08-24T16:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -594,7 +2124,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sharadkalin-ganna-trench-buwai-sarso-intercropping-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -604,7 +2134,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/soil-testing-sugarcane-guide-2026/</loc>
-    <lastmod>2026-08-03T14:35:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -614,7 +2144,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugar-mill-ganna-kaise-bechen/</loc>
-    <lastmod>2026-07-31T14:02:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -624,7 +2154,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugarcane-disease-guide-2026/</loc>
-    <lastmod>2026-07-22T18:56:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -634,7 +2164,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugarcane-farming-guide-2026/</loc>
-    <lastmod>2026-07-06T20:47:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -644,7 +2174,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugarcane-harvesting-guide-2026/</loc>
-    <lastmod>2026-08-07T14:14:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -654,7 +2184,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugarcane-jaggery-business-2026/</loc>
-    <lastmod>2026-07-27T11:25:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -664,7 +2194,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugarcane-pest-control-2026/</loc>
-    <lastmod>2026-08-04T16:43:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -674,7 +2204,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/sugarcane-profit-calculator-2026/</loc>
-    <lastmod>2026-07-17T14:32:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -684,7 +2214,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/trench-method-sarson-intercropping-2026/</loc>
-    <lastmod>2026-08-28T13:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -694,7 +2224,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/up-ganna-sap-rate-2026-27-bhav-webstory/</loc>
-    <lastmod>2026-08-31T22:45:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -704,7 +2234,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/up-sugar-mill-list-2026/</loc>
-    <lastmod>2026-07-13T15:56:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -714,7 +2244,7 @@
   </url>
   <url>
     <loc>https://upcaneup.info/webstories/up-sugar-mills-start-date-2026/</loc>
-    <lastmod>2026-08-24T15:00:00+05:30</lastmod>
+    <lastmod>2026-09-04T09:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <image:image>
