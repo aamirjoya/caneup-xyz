@@ -10,22 +10,25 @@
 
 /* News Page Hero */
 .news-hero {
-  background: linear-gradient(135deg, #450a0a 0%, #dc2626 50%, #450a0a 100%);
-  color: #ffffff;
+  background: var(--paper);
+  color: var(--ink);
   padding: 38px 20px 30px;
   text-align: center;
   position: relative;
   overflow: hidden;
+  border-bottom: 1px solid var(--line);
 }
 .news-hero::before {
   content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: var(--gold);
+  margin: 0 auto 12px;
 }
 .news-hero h1 {
   font-size: clamp(22px, 4.5vw, 32px);
-  font-weight: 800;
+  font-weight: 600;
   margin-bottom: 8px;
   line-height: 1.25;
   position: relative;
@@ -34,15 +37,10 @@
   display: inline-block;
   width: 11px;
   height: 11px;
-  background: #ffffff;
+  background: var(--red);
   border-radius: 50%;
   margin-right: 8px;
   vertical-align: middle;
-  animation: news-blink 1.5s ease-in-out infinite;
-}
-@keyframes news-blink {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.35; transform: scale(0.85); }
 }
 .news-hero p {
   font-size: clamp(13px, 2.8vw, 15px);
@@ -67,8 +65,8 @@
 .news-hero-stat b {
   display: block;
   font-size: clamp(18px, 3.8vw, 26px);
-  font-weight: 800;
-  color: #fbbf24;
+  font-weight: 600;
+  color: var(--accent);
   line-height: 1.15;
 }
 .news-hero-stat small {
@@ -82,14 +80,14 @@
   margin: 0 auto;
   padding: 12px 20px 8px;
   font-size: 12.5px;
-  color: #6b7280;
+  color: var(--ink-3);
   white-space: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
 }
 .news-breadcrumb::-webkit-scrollbar { display: none; }
-.news-breadcrumb a { color: #dc2626; text-decoration: none; font-weight: 600; }
+.news-breadcrumb a { color: var(--red); text-decoration: none; font-weight: 600; }
 .news-breadcrumb a:hover { text-decoration: underline; }
 
 /* Trending Chips Bar */
@@ -108,32 +106,30 @@
 .news-trending-chips::-webkit-scrollbar { display: none; }
 .news-chips-label {
   font-size: 12px;
-  font-weight: 800;
-  color: #dc2626;
-  background: #fef2f2;
-  border: 1px solid #fecaca;
+  font-weight: 600;
+  color: var(--red);
+  background: var(--card);
+  border: 1px solid var(--line);
   padding: 5px 10px;
-  border-radius: 20px;
+  border-radius: 8px;
   flex-shrink: 0;
 }
 .news-chip {
   font-size: 12px;
   font-weight: 600;
-  color: #374151;
-  background: #ffffff;
-  border: 1px solid #e5e7eb;
+  color: var(--ink-2);
+  background: var(--card);
+  border: 1px solid var(--line);
   padding: 5px 12px;
-  border-radius: 20px;
+  border-radius: 8px;
   text-decoration: none;
   flex-shrink: 0;
-  transition: all 0.2s ease;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+  transition: border-color 0.2s ease, color 0.2s ease;
 }
 .news-chip:hover {
-  background: #fef2f2;
-  border-color: #fecaca;
-  color: #dc2626;
-  transform: translateY(-1px);
+  background: var(--card);
+  border-color: #fca5a5;
+  color: var(--red);
 }
 
 /* News Main Container */
@@ -154,57 +150,48 @@
 
 /* Featured News Card */
 .news-featured {
-  background: #ffffff;
-  border-radius: 14px;
+  background: var(--card);
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.07);
   margin-bottom: 24px;
   display: grid;
   grid-template-columns: 1.15fr 1fr;
-  border: 1.5px solid #fecaca;
-  transition: transform 0.25s, box-shadow 0.25s;
+  border: 1px solid var(--line);
+  transition: border-color 0.2s;
 }
 .news-featured:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 28px rgba(220,38,38,0.14);
+  border-color: #fca5a5;
 }
 .news-featured-img {
   width: 100%;
   aspect-ratio: 16 / 9;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #dc2626, #991b1b);
+  background: var(--raised);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 50px;
+  color: var(--ink-3);
 }
+.news-featured-img .ic { width: 40px; height: 40px; }
 .news-featured-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.3s;
-}
-.news-featured:hover .news-featured-img img {
-  transform: scale(1.03);
 }
 .news-featured-badge {
   position: absolute;
   top: 12px;
   left: 12px;
-  background: #dc2626;
+  background: var(--red);
   color: #ffffff;
   padding: 4px 12px;
-  border-radius: 20px;
+  border-radius: 4px;
   font-size: 10.5px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  font-weight: 600;
   display: flex;
   align-items: center;
   gap: 5px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-  animation: news-blink 1.5s ease-in-out infinite;
 }
 .news-featured-badge::before {
   content: "";
@@ -222,28 +209,27 @@
 }
 .news-featured-cat {
   display: inline-block;
-  background: #fef2f2;
-  color: #dc2626;
+  background: var(--accent-tint);
+  color: var(--red);
   padding: 3px 10px;
   border-radius: 4px;
   font-size: 11px;
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 8px;
   width: fit-content;
-  text-transform: uppercase;
 }
 .news-featured-title {
   font-size: clamp(18px, 2.5vw, 22px);
-  font-weight: 800;
-  color: #111827;
+  font-weight: 600;
+  color: var(--ink);
   margin-bottom: 8px;
   line-height: 1.35;
 }
 .news-featured-title a { text-decoration: none; color: inherit; }
-.news-featured-title a:hover { color: #dc2626; }
+.news-featured-title a:hover { color: var(--red); }
 .news-featured-excerpt {
   font-size: 13.5px;
-  color: #4b5563;
+  color: var(--ink-2);
   line-height: 1.55;
   margin-bottom: 12px;
   display: -webkit-box;
@@ -253,7 +239,7 @@
 }
 .news-featured-meta {
   font-size: 11.5px;
-  color: #6b7280;
+  color: var(--ink-3);
   display: flex;
   align-items: center;
   gap: 12px;
@@ -263,12 +249,12 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  background: #dc2626;
+  background: var(--red);
   color: #ffffff;
   padding: 9px 18px;
   border-radius: 8px;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: none;
   margin-top: 14px;
   width: fit-content;
@@ -282,25 +268,34 @@
   align-items: center;
   justify-content: space-between;
   margin-bottom: 18px;
-  padding-bottom: 10px;
-  border-bottom: 2.5px solid #dc2626;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+.news-section-header h2::before {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: var(--gold);
+  margin-bottom: 8px;
 }
 .news-section-header h2 {
   font-size: clamp(17px, 3.5vw, 20px);
-  font-weight: 700;
-  color: #111827;
+  font-weight: 600;
+  color: var(--ink);
   display: flex;
   align-items: center;
   gap: 8px;
   margin: 0;
 }
 .news-section-count {
-  background: #fef2f2;
-  color: #dc2626;
+  background: var(--card);
+  color: var(--red);
+  border: 1px solid var(--line);
   padding: 3px 10px;
-  border-radius: 20px;
+  border-radius: 8px;
   font-size: 11.5px;
-  font-weight: 700;
+  font-weight: 600;
   flex-shrink: 0;
 }
 
@@ -311,39 +306,33 @@
   gap: 18px;
 }
 .news-list-card {
-  background: #ffffff;
+  background: var(--card);
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
-  border: 1px solid #f3f4f6;
+  transition: border-color 0.2s;
+  border: 1px solid var(--line);
   display: flex;
   flex-direction: column;
 }
 .news-list-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 22px rgba(220,38,38,0.1);
-  border-color: #fecaca;
+  border-color: #fca5a5;
 }
 .news-list-card-img {
   width: 100%;
   aspect-ratio: 16 / 9;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #dc2626, #991b1b);
+  background: var(--raised);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 36px;
+  color: var(--ink-3);
 }
+.news-list-card-img .ic { width: 32px; height: 32px; }
 .news-list-card-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.3s;
-}
-.news-list-card:hover .news-list-card-img img {
-  transform: scale(1.04);
 }
 .news-list-card-time {
   position: absolute;
@@ -361,14 +350,12 @@
   position: absolute;
   top: 8px;
   left: 8px;
-  background: #dc2626;
+  background: var(--red);
   color: #ffffff;
   font-size: 9px;
-  font-weight: 700;
+  font-weight: 600;
   padding: 3px 8px;
   border-radius: 4px;
-  text-transform: uppercase;
-  letter-spacing: 0.4px;
   max-width: 48%;
   white-space: nowrap;
   overflow: hidden;
@@ -382,16 +369,16 @@
 }
 .news-list-card-title {
   font-size: 15px;
-  font-weight: 700;
-  color: #111827;
+  font-weight: 600;
+  color: var(--ink);
   margin-bottom: 6px;
   line-height: 1.38;
 }
 .news-list-card-title a { text-decoration: none; color: inherit; }
-.news-list-card-title a:hover { color: #dc2626; }
+.news-list-card-title a:hover { color: var(--red); }
 .news-list-card-desc {
   font-size: 12.5px;
-  color: #4b5563;
+  color: var(--ink-2);
   line-height: 1.5;
   margin-bottom: 12px;
   display: -webkit-box;
@@ -405,13 +392,13 @@
   align-items: center;
   justify-content: space-between;
   font-size: 11px;
-  color: #6b7280;
+  color: var(--ink-3);
   padding-top: 10px;
-  border-top: 1px solid #f3f4f6;
+  border-top: 1px solid var(--line);
 }
 .news-list-card-read {
-  color: #dc2626;
-  font-weight: 700;
+  color: var(--red);
+  font-weight: 600;
   text-decoration: none;
   font-size: 12px;
 }
@@ -435,20 +422,19 @@
 }
 .news-page-btn {
   padding: 9px 18px;
-  background: #ffffff;
-  border: 1.5px solid #e5e7eb;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   text-decoration: none;
-  color: #1f2937;
+  color: var(--ink);
   font-size: 13.5px;
-  font-weight: 700;
-  transition: all 0.2s ease;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  font-weight: 600;
+  transition: border-color 0.2s ease, color 0.2s ease;
 }
 .news-page-btn:hover {
-  background: #fef2f2;
-  border-color: #fecaca;
-  color: #dc2626;
+  background: var(--card);
+  border-color: #fca5a5;
+  color: var(--red);
 }
 .news-page-numbers {
   display: flex;
@@ -457,33 +443,32 @@
 }
 .news-page-num {
   padding: 8px 14px;
-  background: #ffffff;
-  border: 1.5px solid #e5e7eb;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   text-decoration: none;
-  color: #374151;
+  color: var(--ink-2);
   font-size: 13.5px;
-  font-weight: 700;
-  transition: all 0.2s ease;
+  font-weight: 600;
+  transition: border-color 0.2s ease, color 0.2s ease;
   min-width: 38px;
   text-align: center;
   box-sizing: border-box;
 }
 .news-page-num:hover {
-  background: #fef2f2;
-  border-color: #fecaca;
-  color: #dc2626;
+  background: var(--card);
+  border-color: #fca5a5;
+  color: var(--red);
 }
 .news-page-num.active {
-  background: #dc2626;
-  border-color: #dc2626;
+  background: var(--red);
+  border-color: var(--red);
   color: #ffffff;
-  box-shadow: 0 3px 10px rgba(220,38,38,0.25);
 }
 .news-page-info {
   text-align: center;
   font-size: 12.5px;
-  color: #6b7280;
+  color: var(--ink-3);
   font-weight: 500;
   margin: 0;
 }
@@ -496,20 +481,19 @@
   min-width: 0;
 }
 .news-sidebar-card {
-  background: #ffffff;
+  background: var(--card);
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-  border: 1px solid #f3f4f6;
+  border: 1px solid var(--line);
 }
 .news-sidebar-header {
-  background: linear-gradient(135deg, #450a0a, #dc2626);
+  background: var(--accent);
   color: #ffffff;
   padding: 12px 16px;
 }
 .news-sidebar-header h3 {
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   margin: 0;
 }
 .news-sidebar-body {
@@ -525,15 +509,15 @@
   align-items: center;
   gap: 12px;
   padding: 10px 0;
-  border-bottom: 1px solid #f3f4f6;
+  border-bottom: 1px solid var(--line);
   text-decoration: none;
   color: inherit;
   transition: color 0.2s;
 }
 .news-trending-item:last-child { border-bottom: none; }
-.news-trending-item:hover { color: #dc2626; }
+.news-trending-item:hover { color: var(--red); }
 .news-trending-num {
-  background: linear-gradient(135deg, #dc2626, #991b1b);
+  background: var(--accent);
   color: #ffffff;
   width: 26px;
   height: 26px;
@@ -542,7 +526,7 @@
   align-items: center;
   justify-content: center;
   font-size: 11.5px;
-  font-weight: 700;
+  font-weight: 600;
   flex-shrink: 0;
 }
 .news-trending-info {
@@ -551,16 +535,16 @@
 .news-trending-info h4 {
   font-size: 13px;
   font-weight: 600;
-  color: #111827;
+  color: var(--ink);
   line-height: 1.35;
   margin: 0 0 3px;
 }
 .news-trending-item:hover .news-trending-info h4 {
-  color: #dc2626;
+  color: var(--red);
 }
 .news-trending-info p {
   font-size: 11px;
-  color: #6b7280;
+  color: var(--ink-3);
   margin: 0;
 }
 
@@ -575,36 +559,38 @@
   align-items: center;
   gap: 10px;
   padding: 9px 12px;
-  background: #f9fafb;
+  background: transparent;
+  border: 1px solid var(--line);
   border-radius: 8px;
   text-decoration: none;
   font-size: 13px;
   font-weight: 600;
-  color: #374151;
-  transition: background 0.2s, color 0.2s;
+  color: var(--ink-2);
+  transition: border-color 0.2s, color 0.2s;
 }
 .news-cat-link:hover {
-  background: #fef2f2;
-  color: #dc2626;
+  background: var(--raised);
+  color: var(--red);
 }
+.news-cat-link .ic { color: var(--accent); }
 
 /* Telegram Subscribe Box */
 .news-subscribe-box {
-  background: #fef2f2;
-  border: 1.5px dashed #fecaca;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 12px;
   padding: 18px;
   text-align: center;
 }
 .news-subscribe-box h4 {
   font-size: 14px;
-  font-weight: 700;
-  color: #111827;
+  font-weight: 600;
+  color: var(--ink);
   margin-bottom: 6px;
 }
 .news-subscribe-box p {
   font-size: 12px;
-  color: #4b5563;
+  color: var(--ink-2);
   margin-bottom: 12px;
   line-height: 1.5;
 }
@@ -613,12 +599,12 @@
   align-items: center;
   justify-content: center;
   gap: 6px;
-  background: #dc2626;
+  background: var(--red);
   color: #ffffff;
   padding: 9px 18px;
   border-radius: 8px;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: none;
   transition: background 0.2s;
   width: 100%;
@@ -638,12 +624,16 @@
   gap: 10px;
   padding: 10px 12px;
   border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--raised);
+  color: var(--ink);
   text-decoration: none;
   font-size: 13px;
   font-weight: 600;
-  transition: transform 0.15s;
+  transition: border-color 0.2s;
 }
-.news-quick-link:hover { transform: translateX(3px); }
+.news-quick-link:hover { border-color: var(--accent); }
+.news-quick-link .ic { color: var(--accent); }
 
 /* =========================================================
    RESPONSIVE MEDIA QUERIES (Mobile & Tablet First)
@@ -700,10 +690,10 @@
     margin-top: 14px;
   }
   .news-hero-stat {
-    background: rgba(255, 255, 255, 0.12);
+    background: var(--card);
+    border: 1px solid var(--line);
     padding: 7px 4px;
     border-radius: 8px;
-    backdrop-filter: blur(4px);
   }
   .news-hero-stat b {
     font-size: 16px;
@@ -805,8 +795,8 @@
   <p>गन्ना किसानों के लिए ब्रेकिंग न्यूज़, भुगतान अपडेट, MSP रेट, पेराई सीजन व सरकारी योजनाएं — सबसे पहले यहाँ।</p>
   <div class="news-hero-stats">
     <div class="news-hero-stat"><b>{{ $newsCount }}</b><small>ताज़ा खबरें</small></div>
-    <div class="news-hero-stat"><b>24/7</b><small>लाइव अपडेट</small></div>
-    <div class="news-hero-stat"><b>₹400</b><small>SAP प्रस्ताव</small></div>
+    <div class="news-hero-stat"><b>हर दिन</b><small>नई खबरें</small></div>
+    <div class="news-hero-stat"><b>₹400</b><small>SAP 2025-26</small></div>
     <div class="news-hero-stat"><b>2026-27</b><small>पेराई सत्र</small></div>
   </div>
 </div>
@@ -819,13 +809,13 @@
 
 <!-- Mobile-Friendly Trending Topic Chips Bar -->
 <div class="news-trending-chips">
-  <span class="news-chips-label">🔥 ट्रेंडिंग:</span>
-  <a href="/news/up-120-sugar-mills-crushing-session-calendar-dates-indent-rules-2026/" class="news-chip">🏭 120 मिल पेराई कैलेंडर</a>
-  <a href="/news/up-ganna-sap-price-hike-proposal-cabinet-decision-2026-27/" class="news-chip">💰 गन्ना भाव ₹400 प्रस्ताव</a>
-  <a href="/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026/" class="news-chip">⚡ 15 सितंबर सट्टा डेडलाइन</a>
-  <a href="/news/bku-village-panchayats-tractor-march-20-september-mobilization-2026/" class="news-chip">🚜 20 सितंबर ट्रैक्टर मार्च</a>
-  <a href="/news/imd-heavy-rain-alert-sugarcane-propping-tying-advisory-up-2026/" class="news-chip">🌧️ भारी बारिश व बंधाई अलर्ट</a>
-  <a href="/news/wholesale-sugar-prices-recover-40-rupees-festive-demand-2026/" class="news-chip">📈 चीनी थोक भाव ₹40 सुधार</a>
+  <span class="news-chips-label">ट्रेंडिंग:</span>
+  <a href="/news/up-120-sugar-mills-crushing-session-calendar-dates-indent-rules-2026/" class="news-chip">120 मिल पेराई कैलेंडर</a>
+  <a href="/news/up-ganna-sap-price-hike-proposal-cabinet-decision-2026-27/" class="news-chip">गन्ना भाव ₹400</a>
+  <a href="/news/up-ganna-satta-objection-last-3-days-september-15-deadline-2026/" class="news-chip">15 सितंबर सट्टा डेडलाइन</a>
+  <a href="/news/bku-village-panchayats-tractor-march-20-september-mobilization-2026/" class="news-chip">20 सितंबर ट्रैक्टर मार्च</a>
+  <a href="/news/imd-heavy-rain-alert-sugarcane-propping-tying-advisory-up-2026/" class="news-chip">भारी बारिश व बंधाई अलर्ट</a>
+  <a href="/news/wholesale-sugar-prices-recover-40-rupees-festive-demand-2026/" class="news-chip">चीनी थोक भाव ₹40 सुधार</a>
 </div>
 
 <div class="news-container">
@@ -842,18 +832,18 @@
             {{ if $featured }}
             <img src="{{ $featured }}" alt="{{ .Title }}" loading="eager" fetchpriority="high">
             {{ else }}
-            📰
+            <svg class="ic" aria-hidden="true"><use href="#i-newspaper"/></svg>
             {{ end }}
-            <span class="news-featured-badge">🔴 LATEST</span>
+            <span class="news-featured-badge">ताज़ा</span>
           </div>
           <div class="news-featured-body">
             <span class="news-featured-cat">{{ with .Params.categories }}{{ index . 0 }}{{ else }}Breaking News{{ end }}</span>
             <div class="news-featured-title">{{ .Title }}</div>
             <div class="news-featured-excerpt">{{ .Description | default .Summary | truncate 150 }}</div>
             <div class="news-featured-meta">
-              <span>📅 {{ .Date.Format "02 Jan 2006" }}</span>
-              <span>⏱ {{ .ReadingTime }} min read</span>
-              {{ with .Params.author_name }}<span>✍️ {{ . }}</span>{{ end }}
+              <span>{{ .Date.Format "02 Jan 2006" }}</span>
+              <span>{{ .ReadingTime }} min read</span>
+              {{ with .Params.author_name }}<span>{{ . }}</span>{{ end }}
             </div>
             <span class="news-featured-readmore">पूरी खबर पढ़ें →</span>
           </div>
@@ -864,7 +854,7 @@
 
     <!-- News Grid Section Header -->
     <div class="news-section-header">
-      <h2>📰 {{ if eq $paginator.PageNumber 1 }}सभी ताज़ा खबरें{{ else }}ताज़ा खबरें — पेज {{ $paginator.PageNumber }}{{ end }}</h2>
+      <h2>{{ if eq $paginator.PageNumber 1 }}सभी ताज़ा खबरें{{ else }}ताज़ा खबरें — पेज {{ $paginator.PageNumber }}{{ end }}</h2>
       <span class="news-section-count">{{ $newsCount }} कुल खबरें</span>
     </div>
 
@@ -883,7 +873,7 @@
             {{ if $featured }}
             <img src="{{ replace $featured ".webp" "-thumb.webp" }}" alt="{{ $p.Title }}" loading="lazy" width="600" height="338">
             {{ else }}
-            📰
+            <svg class="ic" aria-hidden="true"><use href="#i-newspaper"/></svg>
             {{ end }}
             <span class="news-list-card-time">{{ $p.Date.Format "02 Jan, 3:04 PM" }}</span>
             <span class="news-list-card-cat">{{ with $p.Params.categories }}{{ index . 0 }}{{ else }}News{{ end }}</span>
@@ -934,7 +924,7 @@
     <!-- Trending News -->
     <div class="news-sidebar-card">
       <div class="news-sidebar-header">
-        <h3>🔥 ट्रेंडिंग खबरें</h3>
+        <h3>ट्रेंडिंग खबरें</h3>
       </div>
       <div class="news-sidebar-body">
         <div class="news-trending-list">
@@ -954,37 +944,37 @@
     <!-- Categories Grid -->
     <div class="news-sidebar-card">
       <div class="news-sidebar-header">
-        <h3>📂 कैटेगरीज़</h3>
+        <h3>कैटेगरीज़</h3>
       </div>
       <div class="news-sidebar-body">
         <div class="news-categories-grid">
-          <a href="/categories/parchi-calendar/" class="news-cat-link"><span>🗓</span><span>पर्ची कैलेंडर</span></a>
-          <a href="/categories/msp-rate/" class="news-cat-link"><span>💹</span><span>MSP रेट</span></a>
-          <a href="/categories/ganna-kheti/" class="news-cat-link"><span>🌱</span><span>गन्ना खेती</span></a>
-          <a href="/categories/sarkari-yojana/" class="news-cat-link"><span>📜</span><span>सरकारी योजनाएं</span></a>
-          <a href="/categories/business/" class="news-cat-link"><span>📈</span><span>बिज़नेस आइडियाज़</span></a>
+          <a href="/categories/parchi-calendar/" class="news-cat-link"><svg class="ic" aria-hidden="true"><use href="#i-calendar"/></svg><span>पर्ची कैलेंडर</span></a>
+          <a href="/categories/msp-rate/" class="news-cat-link"><svg class="ic" aria-hidden="true"><use href="#i-banknote"/></svg><span>MSP रेट</span></a>
+          <a href="/categories/ganna-kheti/" class="news-cat-link"><svg class="ic" aria-hidden="true"><use href="#i-sprout"/></svg><span>गन्ना खेती</span></a>
+          <a href="/categories/sarkari-yojana/" class="news-cat-link"><svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg><span>सरकारी योजनाएं</span></a>
+          <a href="/categories/business/" class="news-cat-link"><svg class="ic" aria-hidden="true"><use href="#i-trending-up"/></svg><span>बिज़नेस आइडियाज़</span></a>
         </div>
       </div>
     </div>
 
     <!-- Telegram Channel Subscribe CTA -->
     <div class="news-subscribe-box">
-      <h4>📲 ताज़ा खबरें सबसे पहले पाएं</h4>
+      <h4>ताज़ा खबरें सबसे पहले पाएं</h4>
       <p>CaneUp टेलीग्राम चैनल जॉइन करें — गन्ना भुगतान, पर्ची व MSP की ताज़ा खबरें सीधे फोन पर पाएं।</p>
-      <a href="https://t.me/caneup" target="_blank" rel="noopener" class="news-subscribe-btn">📱 टेलीग्राम जॉइन करें</a>
+      <a href="https://t.me/caneup" target="_blank" rel="noopener" class="news-subscribe-btn"><svg class="ic" aria-hidden="true"><use href="#i-send"/></svg> टेलीग्राम जॉइन करें</a>
     </div>
 
     <!-- Quick Links Grid -->
     <div class="news-sidebar-card">
       <div class="news-sidebar-header">
-        <h3>⚡ क्विक लिंक्स</h3>
+        <h3>क्विक लिंक्स</h3>
       </div>
       <div class="news-sidebar-body">
         <div class="news-quick-links-grid">
-          <a href="/ganna-parchi-calendar-caneup/" class="news-quick-link" style="background:#f0fdf4;color:#15803d;">🗓 पर्ची कैलेंडर देखें</a>
-          <a href="/ganna-bhugtan-status/" class="news-quick-link" style="background:#fffbeb;color:#d97706;">💳 भुगतान स्टेटस चेक</a>
-          <a href="/eganna/" class="news-quick-link" style="background:#fdf4ff;color:#7c3aed;">📲 eGanna App डाउनलोड</a>
-          <a href="/posts/" class="news-quick-link" style="background:#eff6ff;color:#2563eb;">📝 सभी आर्टिकल्स</a>
+          <a href="/ganna-parchi-calendar-caneup/" class="news-quick-link"><svg class="ic" aria-hidden="true"><use href="#i-calendar"/></svg> पर्ची कैलेंडर देखें</a>
+          <a href="/ganna-bhugtan-status/" class="news-quick-link"><svg class="ic" aria-hidden="true"><use href="#i-credit-card"/></svg> भुगतान स्टेटस चेक</a>
+          <a href="/eganna/" class="news-quick-link"><svg class="ic" aria-hidden="true"><use href="#i-smartphone"/></svg> eGanna App डाउनलोड</a>
+          <a href="/posts/" class="news-quick-link"><svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg> सभी आर्टिकल्स</a>
         </div>
       </div>
     </div>
