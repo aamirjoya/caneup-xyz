@@ -139,13 +139,13 @@ buildExpired = false
 
   [[menu.main]]
     identifier = "news"
-    name = "ताज़ा खबरें 🔴"
+    name = "ताज़ा खबरें"
     url = "/news/"
     weight = 2
 
   [[menu.main]]
     identifier = "kisan-help"
-    name = "किसान सहायता 💬"
+    name = "किसान सहायता"
     url = "/kisan-samasya-form/"
     weight = 2
 
