@@ -2,6 +2,7 @@
 title: "सेवा की शर्तें - CaneUp"
 date: 2026-07-06
 description: "CaneUp की सेवा की शर्तें। जानें कि आप हमारी वेबसाइट का इस्तेमाल कैसे कर सकते हैं।"
+aliases: ["/terms/"]
 ShowToc: true
 ---
 
