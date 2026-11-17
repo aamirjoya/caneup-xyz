@@ -5,9 +5,9 @@
   align-items: center;
   gap: 24px;
   padding: 32px;
-  background: linear-gradient(135deg, #1a7a2e 0%, #2d5016 100%);
+  background: var(--accent-deep);
   color: white;
-  border-radius: 16px;
+  border-radius: 12px;
   margin-bottom: 32px;
 }
 .author-hero img {
@@ -48,15 +48,14 @@
   margin-top: 24px;
 }
 .author-post-card {
-  border: 1px solid #e0e0e0;
+  border: 1px solid var(--line);
   border-radius: 12px;
   overflow: hidden;
-  transition: transform 0.2s, box-shadow 0.2s;
-  background: var(--entry);
+  transition: border-color 0.2s;
+  background: var(--card);
 }
 .author-post-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  border-color: var(--accent);
 }
 .author-post-card img {
   width: 100%;
@@ -89,8 +88,16 @@
   font-size: 1.5em;
   margin: 32px 0 16px;
   padding-bottom: 8px;
-  border-bottom: 3px solid #1a7a2e;
+  border-bottom: 1px solid var(--line);
   display: inline-block;
+}
+.section-title::before {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: var(--gold);
+  margin-bottom: 8px;
 }
 @media (max-width: 600px) {
   .author-hero { flex-direction: column; text-align: center; padding: 24px 16px; }
@@ -130,7 +137,7 @@
 <!-- Latest News -->
 {{ $newsPages := where $pages "Section" "news" }}
 {{ if $newsPages }}
-<h2 class="section-title">📰 ताज़ा खबरें</h2>
+<h2 class="section-title">ताज़ा खबरें</h2>
 <div class="author-posts-grid">
   {{ range first 6 (sort $newsPages "Date" "desc") }}
   <div class="author-post-card">
@@ -139,7 +146,7 @@
     {{ end }}
     <div class="card-body">
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <div class="card-meta">📅 {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} मिनट</div>
+      <div class="card-meta">{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} मिनट</div>
       {{ with .Description }}<div class="card-desc">{{ . | truncate 120 }}</div>{{ end }}
     </div>
   </div>
@@ -150,7 +157,7 @@
 <!-- Blog Posts / Guides -->
 {{ $postPages := where $pages "Section" "posts" }}
 {{ if $postPages }}
-<h2 class="section-title">📝 गाइड्स और आर्टिकल्स</h2>
+<h2 class="section-title">गाइड्स और आर्टिकल्स</h2>
 <div class="author-posts-grid">
   {{ range sort $postPages "Date" "desc" }}
   <div class="author-post-card">
@@ -159,7 +166,7 @@
     {{ end }}
     <div class="card-body">
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <div class="card-meta">📅 {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} मिनट</div>
+      <div class="card-meta">{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} मिनट</div>
       {{ with .Description }}<div class="card-desc">{{ . | truncate 120 }}</div>{{ end }}
     </div>
   </div>
