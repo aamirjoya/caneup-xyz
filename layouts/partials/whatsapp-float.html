@@ -5,7 +5,7 @@
 {{ if $latest }}
   {{ $postTitle := $latest.Title }}
   {{ $postUrl := $latest.Permalink }}
-  {{ $shareMsg := printf "🌾 *गन्ना किसान ताज़ा अपडेट (2026-27) | CaneUp*\n\n📢 *%s*\n\n👉 पूरी जानकारी व पोर्टल पर्ची यहाँ देखें:\n%s\n\n📲 *सभी किसान भाइयों और WhatsApp ग्रुप में शेयर करें!*" $postTitle $postUrl }}
+  {{ $shareMsg := printf "*गन्ना किसान ताज़ा अपडेट (2026-27) | CaneUp*\n\n*%s*\n\nपूरी जानकारी यहाँ देखें:\n%s\n\n*सभी किसान भाइयों और WhatsApp ग्रुप में शेयर करें!*" $postTitle $postUrl }}
   {{ $waShareUrl := printf "https://api.whatsapp.com/send?text=%s" ($shareMsg | urlquery) }}
 
 <div class="wa-float-container" id="waFloatContainer" aria-label="WhatsApp Floating Widget">
@@ -42,14 +42,12 @@
 
   <!-- Floating Animated WhatsApp Button -->
   <a href="{{ $waShareUrl }}" target="_blank" rel="noopener noreferrer" class="wa-float-btn" id="waFloatBtn" aria-label="WhatsApp पर ताज़ा गन्ना अपडेट शेयर करें">
-    <span class="wa-pulse-ring wa-ring-1" aria-hidden="true"></span>
-    <span class="wa-pulse-ring wa-ring-2" aria-hidden="true"></span>
     <div class="wa-icon-box">
       <svg class="wa-svg-main" viewBox="0 0 32 32" width="34" height="34" fill="#ffffff" aria-hidden="true">
         <path d="M16.002 2C8.28 2 2 8.277 2 15.998c0 2.658.746 5.14 2.04 7.253L2.2 30.2l7.15-1.84c2.02 1.134 4.35 1.766 6.828 1.766 7.72 0 14-6.277 14-15.998C30.178 8.277 23.9 2 16.002 2zm8.212 19.82c-.347.974-1.724 1.785-2.795 2.016-.732.158-1.688.285-4.908-1.048-4.116-1.705-6.764-5.875-6.97-6.147-.206-.272-1.666-2.217-1.666-4.228s1.053-2.996 1.426-3.407c.373-.41.815-.513 1.087-.513.272 0 .543.003.782.014.252.012.59-.096.924.704.347.834 1.182 2.887 1.286 3.098.104.212.174.46.033.738-.141.278-.212.45-.42.696-.208.246-.437.55-.625.738-.208.208-.426.434-.183.85.243.416 1.08 1.78 2.32 2.884 1.594 1.42 2.94 1.86 3.356 2.068.416.208.66.174.904-.104.244-.278 1.042-1.216 1.32-1.633.278-.417.555-.347.937-.208.382.14 2.42 1.142 2.836 1.35.416.208.694.312.798.486.104.174.104 1.008-.243 1.982z"/>
       </svg>
     </div>
-    <span class="wa-badge-pill" aria-label="नया अपडेट">NEW</span>
+    <span class="wa-badge-pill" aria-label="नया अपडेट">नया</span>
   </a>
 
 </div>
@@ -80,88 +78,25 @@
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+  background: #25D366;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.48), 0 2px 6px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
   text-decoration: none;
   cursor: pointer;
-  transform-origin: center center;
-  animation: waPulseFloat 3.5s ease-in-out infinite;
-  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.25s ease;
+  transition: background-color 0.2s ease;
   user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
 
 .wa-float-btn:hover {
-  transform: scale(1.1) rotate(-4deg);
-  box-shadow: 0 8px 26px rgba(37, 211, 102, 0.65), 0 3px 8px rgba(0, 0, 0, 0.2);
+  background: #20ba5a;
 }
 
 .wa-float-btn:active {
   transform: scale(0.96);
-}
-
-/* Sonar/Radar Continuous Pulse Rings */
-.wa-pulse-ring {
-  position: absolute;
-  inset: -3px;
-  border-radius: 50%;
-  border: 2.5px solid #25D366;
-  pointer-events: none;
-  animation: waRadarWave 2.4s cubic-bezier(0.2, 0.8, 0.4, 1) infinite;
-}
-
-.wa-ring-2 {
-  animation-delay: 1.2s;
-}
-
-@keyframes waRadarWave {
-  0% {
-    transform: scale(0.95);
-    opacity: 0.85;
-  }
-  65% {
-    transform: scale(1.48);
-    opacity: 0.15;
-  }
-  100% {
-    transform: scale(1.68);
-    opacity: 0;
-  }
-}
-
-/* Continuous Heartbeat / Attention Wobble */
-@keyframes waPulseFloat {
-  0% {
-    transform: scale(1) translateY(0);
-  }
-  12% {
-    transform: scale(1.08) translateY(-3px);
-  }
-  24% {
-    transform: scale(1) translateY(0);
-  }
-  36% {
-    transform: scale(1.07) translateY(-2px);
-  }
-  48% {
-    transform: scale(1) translateY(0);
-  }
-  75% {
-    transform: scale(1) translateY(0);
-  }
-  82% {
-    transform: scale(1.04) rotate(-6deg);
-  }
-  90% {
-    transform: scale(1.04) rotate(6deg);
-  }
-  100% {
-    transform: scale(1) rotate(0) translateY(0);
-  }
 }
 
 .wa-icon-box {
@@ -173,11 +108,6 @@
 
 .wa-svg-main {
   filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
-  transition: transform 0.2s ease;
-}
-
-.wa-float-btn:hover .wa-svg-main {
-  transform: scale(1.06);
 }
 
 /* "NEW" Notification Pill */
@@ -185,47 +115,27 @@
   position: absolute;
   top: -4px;
   right: -3px;
-  background: linear-gradient(135deg, #ef4444, #dc2626);
+  background: var(--red);
   color: #ffffff;
   font-size: 10px;
-  font-weight: 800;
-  letter-spacing: 0.5px;
+  font-weight: 600;
   padding: 2px 7px;
-  border-radius: 12px;
+  border-radius: 4px;
   border: 1.5px solid #ffffff;
-  box-shadow: 0 2px 6px rgba(220, 38, 38, 0.45);
-  animation: waBadgeGlow 2s ease-in-out infinite alternate;
   z-index: 3;
-}
-
-@keyframes waBadgeGlow {
-  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.6); }
-  100% { transform: scale(1.08); box-shadow: 0 0 0 4px rgba(239, 68, 68, 0); }
 }
 
 /* Teaser / Tooltip Card */
 .wa-teaser-card {
   width: 285px;
   max-width: calc(100vw - 100px);
-  background: #ffffff;
-  border-radius: 14px;
-  border: 1.5px solid #86efac;
+  background: var(--card);
+  border-radius: 12px;
+  border: 1px solid var(--line);
   box-shadow: 0 10px 25px -4px rgba(0, 0, 0, 0.16), 0 4px 10px -2px rgba(0, 0, 0, 0.08);
   padding: 12px 14px;
   position: relative;
-  transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-  animation: waTeaserSlideIn 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
-}
-
-@keyframes waTeaserSlideIn {
-  from {
-    opacity: 0;
-    transform: translateX(18px) scale(0.94);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0) scale(1);
-  }
+  transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
 /* Close button on teaser */
@@ -245,12 +155,12 @@
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: all 0.15s ease;
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
 .wa-teaser-close:hover {
-  background: #fee2e2;
-  color: #ef4444;
+  background: var(--raised);
+  color: var(--red);
 }
 
 /* Teaser Header */
@@ -266,13 +176,12 @@
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  background: #ecfdf5;
-  color: #065f46;
+  background: var(--accent-tint);
+  color: var(--accent-ink);
   font-size: 11px;
-  font-weight: 700;
+  font-weight: 600;
   padding: 2px 7px;
   border-radius: 6px;
-  border: 1px solid #a7f3d0;
 }
 
 .wa-live-dot {
@@ -280,23 +189,16 @@
   height: 7px;
   background: #10b981;
   border-radius: 50%;
-  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.3);
-  animation: waDotBlink 1.4s ease-in-out infinite;
-}
-
-@keyframes waDotBlink {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.35; transform: scale(0.85); }
 }
 
 .wa-year-badge {
-  background: #fef3c7;
-  color: #92400e;
+  background: var(--raised);
+  color: var(--ink-2);
   font-size: 10px;
-  font-weight: 700;
+  font-weight: 600;
   padding: 1px 5px;
   border-radius: 4px;
-  border: 1px solid #fde68a;
+  border: 1px solid var(--line);
 }
 
 /* Teaser Title Link */
@@ -308,9 +210,9 @@
 
 .wa-teaser-title {
   font-size: 12.5px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1.42;
-  color: #0f172a;
+  color: var(--ink);
   margin-bottom: 9px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -320,7 +222,7 @@
 }
 
 .wa-teaser-title-link:hover .wa-teaser-title {
-  color: #15803d;
+  color: var(--accent);
 }
 
 /* Teaser Action Buttons */
@@ -339,21 +241,20 @@
   padding: 6px 10px;
   border-radius: 6px;
   font-size: 11.5px;
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: none;
-  transition: all 0.15s ease;
+  transition: background-color 0.15s ease;
   white-space: nowrap;
 }
 
 .wa-btn-read {
-  background: #15803d;
+  background: var(--accent);
   color: #ffffff;
-  border: 1px solid #166534;
+  border: 1px solid var(--accent-deep);
 }
 
 .wa-btn-read:hover {
-  background: #166534;
-  transform: translateY(-1px);
+  background: var(--accent-deep);
 }
 
 .wa-btn-share {
@@ -364,7 +265,6 @@
 
 .wa-btn-share:hover {
   background: #20ba5a;
-  transform: translateY(-1px);
 }
 
 /* Responsive adjustments for Mobile */
