@@ -2,18 +2,19 @@
   --primary: #15803d;
   --primary-dark: #052e16;
   --primary-light: #166534;
-  --accent: #f59e0b;
-  --text: #333;
-  --text-light: #6b7280;
-  --bg: #fff;
-  --bg-light: #f0fdf4;
+  --accent: #b45309;
+  --card: #fdfbf7;
+  --text: #1f1b16;
+  --text-light: #5e554a;
+  --bg: #f7f4ee;
+  --bg-light: #efe9df;
   --success: #15803d;
-  --border: #e5e7eb;
+  --border: #e5e0d3;
   --shadow: 0 2px 8px rgba(0,0,0,.08);
   --radius: 8px;
 }
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Inter', 'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, sans-serif;
   color: var(--text);
   line-height: 1.6;
   background: var(--bg);
@@ -32,16 +33,15 @@ img{height:auto;max-width:100%;display:block}
 
 /* Generic Cards */
 .card {
-  background: #fff;
+  background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: var(--shadow);
-  transition: transform .2s, box-shadow .2s;
+  transition: border-color .2s;
   contain: layout style paint;
 }
 .card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+  border-color: var(--primary);
 }
 
 /* Content */
@@ -52,7 +52,7 @@ img{height:auto;max-width:100%;display:block}
 }
 .content h2 {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
   color: var(--primary);
   margin: 32px 0 16px;
 }
