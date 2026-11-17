@@ -3,6 +3,256 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <!-- Dedicated Web Stories XML Sitemap for upcaneup.info -->
   <url>
+    <loc>https://upcaneup.info/webstories/purvanchal-16-jile-cane-harvester-machine-nov-2026-webstory/</loc>
+    <lastmod>2026-11-17T15:41:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-purvanchal-16-jile-cane-harvester-machine-nov-2026-0.webp</image:loc>
+      <image:title>1 घंटे में 1 एकड़ गन्ना काटेगी मशीन, पूर्वांचल के 16 जिलों को मिली</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/balrampur-mill-perai-1-80-crore-nov-2026-webstory/</loc>
+    <lastmod>2026-11-17T11:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-balrampur-mill-perai-1-80-crore-nov-2026-0.webp</image:loc>
+      <image:title>बलरामपुर मिल में पेराई शुरू: 1.80 करोड़ क्विंटल लक्ष्य, साप्ताहिक भुगतान का भरोसा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/morna-mill-8-75-crore-ganna-bhugtan-11-november-nov-2026-webstory/</loc>
+    <lastmod>2026-11-17T06:27:10+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-morna-mill-8-75-crore-ganna-bhugtan-11-november-nov-2026-0.webp</image:loc>
+      <image:title>₹8.75 करोड़: 2 दिन में गन्ना भुगतान!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/desh-chini-utpadan-23-59-lakh-ton-up-ghata-nov-2026-webstory/</loc>
+    <lastmod>2026-11-16T16:21:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-desh-chini-utpadan-23-59-lakh-ton-up-ghata-nov-2026-0.webp</image:loc>
+      <image:title>चीनी उत्पादन दोगुना — 23.59 लाख टन, पर UP में आधा!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-bagasse-se-ethanol-plant-300-ton-nov-2026-webstory/</loc>
+    <lastmod>2026-11-16T11:47:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-up-bagasse-se-ethanol-plant-300-ton-nov-2026-0.webp</image:loc>
+      <image:title>गन्ने की खोई से बनेगा हवाई ईंधन, रोज 300 टन बगास से प्लांट</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/deoband-baraut-mahapanchayat-17-november-ganna-700-mang-nov-2026-webstory/</loc>
+    <lastmod>2026-11-16T07:02:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-deoband-baraut-mahapanchayat-17-november-ganna-700-mang-nov-2026-0.webp</image:loc>
+      <image:title>17 नवंबर: गन्ना ₹700 की मांग, बड़ौत महापंचायत</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/bihar-44-hi-tech-ganna-nursery-11-lakh-anudan-25-november-nov-2026-webstory/</loc>
+    <lastmod>2026-11-15T17:05:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-bihar-44-hi-tech-ganna-nursery-11-lakh-anudan-25-november-nov-2026-0.webp</image:loc>
+      <image:title>बिहार में 44 हाईटेक गन्ना नर्सरी, ₹11.25 लाख अनुदान — 25 नवंबर तक आवेदन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/lakhimpur-kheri-virendra-shukla-2473-quintal-sugarcane-icon-nov-2026-webstory/</loc>
+    <lastmod>2026-11-15T12:21:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-lakhimpur-kheri-virendra-shukla-2473-quintal-sugarcane-icon-nov-2026-0.webp</image:loc>
+      <image:title>1 हेक्टेयर में 2473 क्विंटल गन्ना, अब मिलेगा शुगरकेन आइकन</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/shahjahanpur-maksoodapur-dharna-powayan-taul-band-nov-2026-webstory/</loc>
+    <lastmod>2026-11-15T07:43:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-shahjahanpur-maksoodapur-dharna-powayan-taul-band-nov-2026-0.webp</image:loc>
+      <image:title>शाहजहांपुर: 96 करोड़ बकाया पर धरना, पुवायां में तौल बंद — हाईवे पर 2 किमी जाम</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/hapur-simbhaoli-6000-kisan-cm-shikayat-gehun-bowai-sankat-nov-2026-webstory/</loc>
+    <lastmod>2026-11-14T17:45:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-hapur-simbhaoli-6000-kisan-cm-shikayat-gehun-bowai-sankat-nov-2026-0.webp</image:loc>
+      <image:title>6,000 किसान फंसे: सिंभावली मिल नहीं चली, गेहूं बोआई अटकी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/shamli-thanabhawan-mill-14-november-perai-59-crore-bakaya-nov-2026-webstory/</loc>
+    <lastmod>2026-11-14T13:01:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-shamli-thanabhawan-mill-14-november-perai-59-crore-bakaya-nov-2026-0.webp</image:loc>
+      <image:title>आज 14 नवंबर से चली थानाभवन मिल, 59 करोड़ बकाया</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-ganna-bhugtan-513-crore-29-mill-104-perai-nov-2026-webstory/</loc>
+    <lastmod>2026-11-14T08:31:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-up-ganna-bhugtan-513-crore-29-mill-104-perai-nov-2026-0.webp</image:loc>
+      <image:title>29 मिलों ने भेजे ₹513 करोड़, नई दर ₹400</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/dwarikesh-faridpur-bareilly-perai-shuru-90-lakh-quintal-nov-2026-webstory/</loc>
+    <lastmod>2026-11-13T18:23:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-dwarikesh-faridpur-bareilly-perai-shuru-90-lakh-quintal-nov-2026-0.webp</image:loc>
+      <image:title>बरेली में पेराई शुरू: 90 लाख क्विंटल का लक्ष्य</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/upsssc-ganna-parvekshak-mains-fee-29-november-pariksha-nov-2026-webstory/</loc>
+    <lastmod>2026-11-13T13:41:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-upsssc-ganna-parvekshak-mains-fee-29-november-pariksha-nov-2026-0.webp</image:loc>
+      <image:title>29 नवंबर को परीक्षा, 1182 पद — ₹200 फीस जमा करें</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/up-sap-ghoshna-deri-chini-35-percent-mehngi-kolhu-350-nov-2026-webstory/</loc>
+    <lastmod>2026-11-13T09:02:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-up-sap-ghoshna-deri-chini-35-percent-mehngi-kolhu-350-nov-2026-0.webp</image:loc>
+      <image:title>चीनी 35% महंगी, गन्ना ₹350 — SAP का इंतजार कब तक?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/panipat-chini-mill-90-klpd-ethanol-plant-nov-2026-webstory/</loc>
+    <lastmod>2026-11-12T14:21:39+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-panipat-chini-mill-90-klpd-ethanol-plant-nov-2026-0.webp</image:loc>
+      <image:title>पानीपत चीनी मिल में रोज़ 90,000 लीटर एथेनॉल बनेगा, ₹200 करोड़ का प्लांट</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/shahjahanpur-roza-mill-perai-nigohi-gate-hangama-nov-2026-webstory/</loc>
+    <lastmod>2026-11-12T09:41:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-shahjahanpur-roza-mill-perai-nigohi-gate-hangama-nov-2026-0.webp</image:loc>
+      <image:title>रोजा मिल में पेराई शुरू, 2 किसानों को ₹501 सम्मान</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/solapur-ganna-march-16-november-4200-mang-nov-2026-webstory/</loc>
+    <lastmod>2026-11-11T15:03:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-solapur-ganna-march-16-november-4200-mang-nov-2026-0.webp</image:loc>
+      <image:title>16 नवंबर: सोलापुर में ₹4,200 की मांग पर बड़ा मोर्चा</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/karnataka-belagavi-ganna-3600-samjhauta-20-november-chetavani-nov-2026-webstory/</loc>
+    <lastmod>2026-11-11T10:25:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-karnataka-belagavi-ganna-3600-samjhauta-20-november-chetavani-nov-2026-0.webp</image:loc>
+      <image:title>₹3,600 पर समझौता, पर 20 नवंबर तक ₹4,500 की चेतावनी</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/punjab-ganna-kisan-20-november-rail-roko-sap-550-mang-nov-2026-webstory/</loc>
+    <lastmod>2026-11-10T15:42:35+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-punjab-ganna-kisan-20-november-rail-roko-sap-550-mang-nov-2026-0.webp</image:loc>
+      <image:title>20 नवंबर से रेल रोको: ₹550 भाव की मांग</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/saharanpur-mandal-4-mill-11-november-perai-webstory/</loc>
+    <lastmod>2026-11-10T11:02:02+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-saharanpur-mandal-4-mill-11-november-perai-0.webp</image:loc>
+      <image:title>17 में से 4 मिलें चलीं, 11 नवंबर को 4 और शुरू</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/lakhimpur-kumbhi-mill-10-november-perai-nov-2026-webstory/</loc>
+    <lastmod>2026-11-10T06:24:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-lakhimpur-kumbhi-mill-10-november-perai-nov-2026-0.webp</image:loc>
+      <image:title>10 नवंबर से चलेगी कुम्भी मिल, 204 केंद्र तैयार</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/shahjahanpur-parali-423-se-12-aag-baler-kamai-nov-2026-webstory/</loc>
+    <lastmod>2026-11-09T16:25:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-shahjahanpur-parali-423-se-12-aag-baler-kamai-nov-2026-0.webp</image:loc>
+      <image:title>शाहजहांपुर: पराली की आग 423 से घटकर 12, बेलर से किसान कमा रहे हैं</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/pedi-ganna-upaj-25-percent-badhane-10-tarike-nov-2026-webstory/</loc>
+    <lastmod>2026-11-09T11:42:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-pedi-ganna-upaj-25-percent-badhane-10-tarike-nov-2026-0.webp</image:loc>
+      <image:title>पेड़ी गन्ने से 25% ज्यादा उपज के 10 तरीके</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://upcaneup.info/webstories/ghosi-chini-mill-december-perai-nov-2026-webstory/</loc>
+    <lastmod>2026-11-09T07:08:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://upcaneup.info/images/webstories/ws-ghosi-chini-mill-december-perai-nov-2026-0.webp</image:loc>
+      <image:title>घोसी मिल दिसंबर में चलेगी, 36,000 किसानों को राहत</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://upcaneup.info/webstories/ganna-bakaya-3-mill-rc-kurki-nilami-nov-2026-webstory/</loc>
     <lastmod>2026-11-08T17:03:00+05:30</lastmod>
     <changefreq>daily</changefreq>
