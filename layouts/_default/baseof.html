@@ -61,57 +61,63 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" as="style" crossorigin onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet"></noscript>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" as="style" crossorigin onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
 
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     img{max-width:100%;height:auto;display:block;aspect-ratio:attr(width)/attr(height)}
     html,body{overflow-x:hidden}
-    body{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;color:#333;line-height:1.6;background:#fff}
+    :root{--paper:#f7f4ee;--card:#fdfbf7;--raised:#efe9df;--ink:#1f1b16;--ink-2:#5e554a;--ink-3:#7b7266;--line:#e5e0d3;--accent:#15803d;--accent-deep:#14532d;--accent-ink:#166534;--accent-tint:#e7f0e3;--gold:#b45309;--gold-bright:#f59e0b;--red:#b91c1c}
+    body{font-family:'Inter','Noto Sans Devanagari',-apple-system,BlinkMacSystemFont,sans-serif;color:var(--ink);line-height:1.6;background:var(--paper)}
+    /* line icons: one set, 16px, 1.5 stroke */
+    .ic{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;vertical-align:-3px}
+    .icf{width:16px;height:16px;flex:none;fill:currentColor;stroke:none;vertical-align:-3px}
+    .ic-lg{width:20px;height:20px}
+    .ic-tile{width:40px;height:40px;border-radius:8px;background:var(--accent-tint);color:var(--accent);display:flex;align-items:center;justify-content:center;flex:none}
 
     /* Header - Clean */
-    .hdr{background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.1);position:sticky;top:0;z-index:1000;height:56px}
+    .hdr{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1000;height:56px}
     .hdr-inner{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;align-items:center;justify-content:space-between;height:100%}
     .logo{display:flex;align-items:center;text-decoration:none;gap:8px}
-    .logo-icon{width:36px;height:36px;background:#15803d;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-size:18px}
-    .logo-text{font-size:16px;font-weight:700;color:#15803d;line-height:1.2}
-    .logo-text small{display:block;font-size:10px;font-weight:400;color:#666}
+    .logo-icon{width:36px;height:36px;background:var(--accent);border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff}
+    .logo-text{font-size:16px;font-weight:600;color:var(--accent);line-height:1.2}
+    .logo-text small{display:block;font-size:10px;font-weight:400;color:var(--ink-3)}
 
     /* Nav */
     .nav{display:flex;align-items:center;gap:20px}
-    .nav a{text-decoration:none;color:#333;font-size:13px;font-weight:500;transition:color .2s}
+    .nav a{text-decoration:none;color:var(--ink);font-size:13px;font-weight:500;transition:color .2s}
     .nav a:hover{color:#15803d}
-    .nav .btn-cta{background:#15803d;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;font-size:13px}
+    .nav .btn-cta{background:var(--accent);color:#fff;padding:8px 16px;border-radius:8px;font-weight:600;font-size:13px}
     .nav .btn-cta:hover{background:#166534}
 
     /* Mobile Menu */
     .menu-btn{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none}
-    .menu-btn span{width:22px;height:2px;background:#333;transition:all .3s}
+    .menu-btn span{width:22px;height:2px;background:var(--ink);transition:transform .3s,opacity .3s}
     .menu-btn.open span:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
     .menu-btn.open span:nth-child(2){opacity:0}
     .menu-btn.open span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
 
     /* Newsletter */
-    .newsletter{background:linear-gradient(135deg,#052e16,#15803d);color:#fff;text-align:center;padding:50px 20px}
-    .newsletter h2{font-size:24px;font-weight:700;margin-bottom:10px}
+    .newsletter{background:var(--accent-deep);color:#fff;text-align:center;padding:48px 20px;border-top:3px solid var(--gold-bright)}
+    .newsletter h2{font-size:24px;font-weight:600;margin-bottom:8px}
     .newsletter p{font-size:15px;opacity:.9;margin-bottom:20px}
     .newsletter form{display:flex;max-width:420px;margin:0 auto;gap:8px}
     .newsletter input{flex:1;padding:12px;border:none;border-radius:8px;font-size:14px}
-    .newsletter button{background:#f59e0b;color:#111;border:none;padding:12px 20px;border-radius:8px;font-weight:700;cursor:pointer;white-space:nowrap}
+    .newsletter button{background:#fff;color:var(--accent-deep);border:none;padding:12px 20px;border-radius:8px;font-weight:600;cursor:pointer;white-space:nowrap}
 
     /* Footer */
     .ftr{background:#052e16;color:#fff;padding:50px 20px 24px}
     .ftr-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr 1fr;gap:32px}
     .ftr-brand p{font-size:13px;opacity:.7;line-height:1.7;margin-bottom:12px}
-    .ftr h4,.ftr .ftr-h{font-size:14px;font-weight:600;color:#f59e0b;margin-bottom:14px}
+    .ftr h4,.ftr .ftr-h{font-size:14px;font-weight:600;color:var(--gold-bright);margin-bottom:14px}
     .ftr ul{list-style:none}
     .ftr li{margin-bottom:8px}
-    .ftr a{color:#fff;opacity:.7;text-decoration:none;font-size:13px;transition:opacity .2s}
+    .ftr a{color:#fff;opacity:.7;text-decoration:none;font-size:13px;transition:opacity .2s;display:inline-flex;align-items:center;gap:6px}
     .ftr a:hover{opacity:1}
     .ftr-bottom{max-width:1200px;margin:30px auto 0;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
     .ftr-social{display:flex;gap:12px}
-    .ftr-social a{width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;transition:background .2s}
+    .ftr-social a{width:36px;height:36px;background:rgba(255,255,255,.1);border-radius:8px;display:flex;align-items:center;justify-content:center;text-decoration:none;transition:background .2s}
     .ftr-social a:hover{background:rgba(255,255,255,.2)}
 
     @media(max-width:768px){
@@ -154,11 +160,12 @@
   <noscript><link rel="stylesheet" href="/css/style.css"></noscript>
 </head>
 <body>
+  {{ partial "icon-defs.html" . }}
 
   <header class="hdr">
     <div class="hdr-inner">
       <a href="/" class="logo">
-        <div class="logo-icon">🌾</div>
+        <div class="logo-icon"><svg class="ic ic-lg" aria-hidden="true"><use href="#i-sprout"/></svg></div>
         <div class="logo-text">CaneUp<small>गन्ना किसान पोर्टल</small></div>
       </a>
       <nav class="nav" id="mainNav">
@@ -178,7 +185,7 @@
 
   <!-- Newsletter -->
   <section class="newsletter">
-    <h2>📬 गन्ना अपडेट पाएं</h2>
+    <h2>गन्ना अपडेट पाएं</h2>
     <p>MSP रेट, पर्ची कैलेंडर, सरकारी योजनाएं — सीधे आपके इनबॉक्स में</p>
     <form onsubmit="return false;">
       <input type="email" placeholder="ईमेल दर्ज करें" required>
@@ -193,10 +200,10 @@
       <!-- Brand -->
       <div class="ftr-brand">
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
-          <span style="font-size:24px;">🌾</span>
+          <span style="display:flex;color:#fff;"><svg class="ic" style="width:24px;height:24px" aria-hidden="true"><use href="#i-sprout"/></svg></span>
           <span style="font-size:18px;font-weight:700;">CaneUp</span>
         </div>
-        <p>CaneUp — गन्ना किसानों का #1 पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
+        <p>CaneUp — गन्ना किसानों का पोर्टल। पर्ची कैलेंडर, MSP रेट, eGanna App, सरकारी योजनाएं, गन्ना खेती गाइड — सब एक जगह।</p>
         <p style="font-size:13px;"><strong>Powered by:</strong> <a href="/" style="color:#fef08a;text-decoration:underline;">CaneUp.xyz</a></p>
       </div>
 
@@ -204,11 +211,11 @@
       <div>
         <div class="ftr-h">फीड</div>
         <ul>
-          <li><a href="/index.xml">📰 RSS Feed</a></li>
-          <li><a href="/sitemap.xml">🗺️ XML Sitemap</a></li>
-          <li><a href="/sitemap-page/">📄 साइटमैप</a></li>
-          <li><a href="/webstories/">📰 वेब स्टोरीज</a></li>
-          <li><a href="/llms.txt">🤖 AI Agents</a></li>
+          <li><a href="/index.xml"><svg class="ic" aria-hidden="true"><use href="#i-newspaper"/></svg> RSS Feed</a></li>
+          <li><a href="/sitemap.xml"><svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg> XML Sitemap</a></li>
+          <li><a href="/sitemap-page/"><svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg> साइटमैप</a></li>
+          <li><a href="/webstories/"><svg class="ic" aria-hidden="true"><use href="#i-newspaper"/></svg> वेब स्टोरीज</a></li>
+          <li><a href="/llms.txt"><svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg> AI Agents</a></li>
         </ul>
       </div>
 
@@ -216,11 +223,11 @@
       <div>
         <div class="ftr-h">लोकप्रिय</div>
         <ul>
-          <li><a href="/categories/parchi-calendar/">📋 पर्ची कैलेंडर</a></li>
-          <li><a href="/categories/msp-rate/">💰 MSP रेट</a></li>
-          <li><a href="/categories/ganna-kheti/">🌾 गन्ना खेती</a></li>
-          <li><a href="/categories/sarkari-yojana/">🏛️ सरकारी योजनाएं</a></li>
-          <li><a href="/categories/business/">💼 बिज़नेस</a></li>
+          <li><a href="/categories/parchi-calendar/"><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg> पर्ची कैलेंडर</a></li>
+          <li><a href="/categories/msp-rate/"><svg class="ic" aria-hidden="true"><use href="#i-banknote"/></svg> MSP रेट</a></li>
+          <li><a href="/categories/ganna-kheti/"><svg class="ic" aria-hidden="true"><use href="#i-sprout"/></svg> गन्ना खेती</a></li>
+          <li><a href="/categories/sarkari-yojana/"><svg class="ic" aria-hidden="true"><use href="#i-landmark"/></svg> सरकारी योजनाएं</a></li>
+          <li><a href="/categories/business/"><svg class="ic" aria-hidden="true"><use href="#i-briefcase"/></svg> बिज़नेस</a></li>
         </ul>
       </div>
 
@@ -228,10 +235,10 @@
       <div>
         <div class="ftr-h">टूल्स</div>
         <ul>
-          <li><a href="/tools/">🔧 CaneUp टूल्स</a></li>
-          <li><a href="/categories/eganna-app/">📱 eGanna App</a></li>
-          <li><a href="/categories/sugar-mill/">🏭 शुगर मिल</a></li>
-          <li><a href="/categories/kcc-loan/">🏦 KCC लोन</a></li>
+          <li><a href="/tools/"><svg class="ic" aria-hidden="true"><use href="#i-wrench"/></svg> CaneUp टूल्स</a></li>
+          <li><a href="/categories/eganna-app/"><svg class="ic" aria-hidden="true"><use href="#i-smartphone"/></svg> eGanna App</a></li>
+          <li><a href="/categories/sugar-mill/"><svg class="ic" aria-hidden="true"><use href="#i-factory"/></svg> शुगर मिल</a></li>
+          <li><a href="/categories/kcc-loan/"><svg class="ic" aria-hidden="true"><use href="#i-credit-card"/></svg> KCC लोन</a></li>
         </ul>
       </div>
 
@@ -239,11 +246,11 @@
       <div>
         <div class="ftr-h">क्विक लिंक</div>
         <ul>
-          <li><a href="/about/">ℹ️ हमारे बारे में</a></li>
-          <li><a href="/contact/">📞 संपर्क</a></li>
-          <li><a href="/privacy-policy/">🔒 प्राइवेसी</a></li>
-          <li><a href="/disclaimer/">⚠️ डिस्क्लेमर</a></li>
-          <li><a href="/llms.txt">🤖 AI Agents</a></li>
+          <li><a href="/about/"><svg class="ic" aria-hidden="true"><use href="#i-info"/></svg> हमारे बारे में</a></li>
+          <li><a href="/contact/"><svg class="ic" aria-hidden="true"><use href="#i-phone"/></svg> संपर्क</a></li>
+          <li><a href="/privacy-policy/"><svg class="ic" aria-hidden="true"><use href="#i-lock"/></svg> प्राइवेसी</a></li>
+          <li><a href="/disclaimer/"><svg class="ic" aria-hidden="true"><use href="#i-alert"/></svg> डिस्क्लेमर</a></li>
+          <li><a href="/llms.txt"><svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg> AI Agents</a></li>
         </ul>
       </div>
 
@@ -251,10 +258,10 @@
       <div>
         <div class="ftr-h">संपर्क</div>
         <ul>
-          <li><a href="mailto:info@caneup.xyz">📧 info@caneup.xyz</a></li>
-          <li><a href="https://youtube.com/@caneup" target="_blank">▶️ YouTube</a></li>
-          <li><a href="https://twitter.com/caneupxyz" target="_blank">🐦 Twitter</a></li>
-          <li><a href="https://t.me/caneup" target="_blank">✈️ Telegram</a></li>
+          <li><a href="mailto:info@caneup.xyz"><svg class="ic" aria-hidden="true"><use href="#i-mail"/></svg> info@caneup.xyz</a></li>
+          <li><a href="https://youtube.com/@caneup" target="_blank"><svg class="ic" aria-hidden="true"><use href="#i-youtube"/></svg> YouTube</a></li>
+          <li><a href="https://twitter.com/caneupxyz" target="_blank"><svg class="icf" aria-hidden="true"><use href="#i-x-logo"/></svg> Twitter</a></li>
+          <li><a href="https://t.me/caneup" target="_blank"><svg class="ic" aria-hidden="true"><use href="#i-send"/></svg> Telegram</a></li>
         </ul>
       </div>
     </div>
@@ -262,7 +269,7 @@
     <!-- Footer Bottom -->
     <div class="ftr-bottom">
       <div style="display:flex;align-items:center;gap:8px;">
-        <span style="font-size:18px;">🌾</span>
+        <span style="display:flex;color:#fff;"><svg class="ic" style="width:18px;height:18px" aria-hidden="true"><use href="#i-sprout"/></svg></span>
         <span style="font-size:14px;font-weight:700;">CaneUp</span>
       </div>
       <div style="font-size:12px;opacity:.85;text-align:center;">
@@ -276,9 +283,9 @@
         </small>
       </div>
       <div class="ftr-social">
-        <a href="https://youtube.com/@caneup" aria-label="YouTube" target="_blank">▶️</a>
-        <a href="https://twitter.com/caneupxyz" aria-label="Twitter" target="_blank">🐦</a>
-        <a href="https://t.me/caneup" aria-label="Telegram" target="_blank">✈️</a>
+        <a href="https://youtube.com/@caneup" aria-label="YouTube" target="_blank"><svg class="ic" aria-hidden="true"><use href="#i-youtube"/></svg></a>
+        <a href="https://twitter.com/caneupxyz" aria-label="Twitter" target="_blank"><svg class="icf" aria-hidden="true"><use href="#i-x-logo"/></svg></a>
+        <a href="https://t.me/caneup" aria-label="Telegram" target="_blank"><svg class="ic" aria-hidden="true"><use href="#i-send"/></svg></a>
       </div>
     </div>
   </footer>
