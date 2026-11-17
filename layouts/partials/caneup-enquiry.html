@@ -7,7 +7,7 @@
 
 <div class="cue-gateway {{ if eq $theme "hero" }}cue-hero-mode{{ end }}" id="{{ $prefix }}-cue-wrap">
   <div class="cue-hdr">
-    <div class="cue-badge">⚡ सीधी गन्ना पर्ची इन्क्वायरी</div>
+    <div class="cue-badge">सीधी गन्ना पर्ची इन्क्वायरी</div>
     <div class="cue-server-info">आधिकारिक सर्वर: <strong>enquiry.caneup.in</strong> (सत्र 2026-27)</div>
   </div>
 
@@ -112,37 +112,37 @@
     </div>
 
     <div class="cue-note">
-      <strong>💡 किसान सूचना:</strong> UGC कोड या जिला चुनते ही आधिकारिक सर्वर <code>enquiry.caneup.in</code> नई विंडो में सुरक्षित रूप से खुलेगा।
+      <strong>किसान सूचना:</strong> UGC कोड या जिला चुनते ही आधिकारिक सर्वर <code>enquiry.caneup.in</code> नई विंडो में सुरक्षित रूप से खुलेगा।
     </div>
   </form>
 </div>
 
 <style>
-.cue-gateway{background:#ffffff;border:2px solid #15803d;border-radius:14px;padding:20px;margin:22px 0 28px;box-shadow:0 6px 20px rgba(21,128,61,0.08);color:#111827;font-family:inherit}
-.cue-hero-mode{background:#ffffff;border:2px solid #f59e0b;box-shadow:0 12px 32px rgba(0,0,0,0.22);margin:16px 0}
-.cue-hdr{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;border-bottom:1.5px solid #dcfce7;padding-bottom:12px;margin-bottom:16px}
-.cue-hero-mode .cue-hdr{border-bottom-color:#fef3c7}
-.cue-badge{background:#15803d;color:#ffffff;font-size:12px;font-weight:700;padding:4px 12px;border-radius:20px;letter-spacing:0.3px}
+.cue-gateway{background:var(--card);border:1px solid var(--accent);border-radius:12px;padding:20px;margin:22px 0 28px;box-shadow:0 6px 20px rgba(0,0,0,0.08);color:var(--ink);font-family:inherit}
+.cue-hero-mode{background:var(--card);border:2px solid #f59e0b;box-shadow:0 8px 24px rgba(0,0,0,0.15);margin:16px 0}
+.cue-hdr{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:16px}
+.cue-hero-mode .cue-hdr{border-bottom-color:var(--line)}
+.cue-badge{background:var(--accent);color:#ffffff;font-size:12px;font-weight:600;padding:4px 12px;border-radius:6px}
 .cue-hero-mode .cue-badge{background:#b45309}
-.cue-server-info{font-size:12px;color:#4b5563}
+.cue-server-info{font-size:12px;color:var(--ink-2)}
 .cue-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
 .cue-col{display:flex;flex-direction:column}
-.cue-col-border{border-right:1px solid #e5e7eb;padding-right:18px}
-.cue-label{display:block;font-size:13.5px;font-weight:700;color:#1e293b;margin-bottom:7px}
-.cue-num{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;background:#15803d;color:#ffffff;border-radius:50%;font-size:11px;font-weight:800;margin-right:4px}
+.cue-col-border{border-right:1px solid var(--line);padding-right:18px}
+.cue-label{display:block;font-size:13.5px;font-weight:600;color:var(--ink);margin-bottom:7px}
+.cue-num{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;background:var(--accent);color:#ffffff;border-radius:50%;font-size:11px;font-weight:600;margin-right:4px}
 .cue-input-group{display:flex;gap:8px}
-.cue-input{flex:1;padding:9px 12px;border:1.5px solid #cbd5e1;border-radius:7px;font-size:14px;outline:none;font-family:inherit;color:#0f172a;background:#fff;transition:border-color .2s}
-.cue-input:focus{border-color:#15803d;box-shadow:0 0 0 3px rgba(21,128,61,0.1)}
-.cue-btn-submit{background:#15803d;color:#ffffff;border:none;padding:9px 18px;border-radius:7px;font-weight:700;font-size:13.5px;cursor:pointer;transition:background .2s;white-space:nowrap;font-family:inherit}
-.cue-btn-submit:hover{background:#166534}
-.cue-select{width:100%;padding:9px 12px;border:1.5px solid #cbd5e1;border-radius:7px;font-size:13.5px;outline:none;color:#0f172a;background:#fff;font-family:inherit;transition:border-color .2s}
-.cue-select:focus{border-color:#15803d;box-shadow:0 0 0 3px rgba(21,128,61,0.1)}
-.cue-hint{display:block;font-size:11px;color:#64748b;margin-top:5px;line-height:1.4}
-.cue-note{margin-top:14px;padding:9px 14px;background:#f0fdf4;border:1px solid #bbf7d0;border-radius:8px;font-size:11.5px;color:#166534;line-height:1.5}
-.cue-hero-mode .cue-note{background:#fffbeb;border-color:#fde68a;color:#92400e}
+.cue-input{flex:1;padding:9px 12px;border:1.5px solid #cbd5e1;border-radius:7px;font-size:14px;outline:none;font-family:inherit;color:var(--ink);background:var(--card);transition:border-color .2s}
+.cue-input:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(21,128,61,0.1)}
+.cue-btn-submit{background:var(--accent);color:#ffffff;border:none;padding:9px 18px;border-radius:7px;font-weight:600;font-size:13.5px;cursor:pointer;transition:background .2s;white-space:nowrap;font-family:inherit}
+.cue-btn-submit:hover{background:var(--accent-deep)}
+.cue-select{width:100%;padding:9px 12px;border:1.5px solid #cbd5e1;border-radius:7px;font-size:13.5px;outline:none;color:var(--ink);background:var(--card);font-family:inherit;transition:border-color .2s}
+.cue-select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(21,128,61,0.1)}
+.cue-hint{display:block;font-size:11px;color:var(--ink-3);margin-top:5px;line-height:1.4}
+.cue-note{margin-top:14px;padding:9px 14px;background:var(--raised);border:1px solid var(--line);border-radius:8px;font-size:11.5px;color:var(--accent-ink);line-height:1.5}
+.cue-hero-mode .cue-note{background:var(--raised);border-color:var(--line);color:var(--ink-2)}
 
 @media(max-width:640px){
-  .cue-col-border{border-right:none;border-bottom:1px solid #e5e7eb;padding-right:0;padding-bottom:14px}
+  .cue-col-border{border-right:none;border-bottom:1px solid var(--line);padding-right:0;padding-bottom:14px}
   .cue-gateway{padding:14px}
   .cue-label{font-size:12.5px}
   .cue-btn-submit{padding:9px 14px;font-size:12.5px}
