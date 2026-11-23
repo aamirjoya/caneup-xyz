@@ -1,4 +1,4 @@
-baseURL = "https://caneup.xyz/"
+baseURL = "https://upcaneup.info/"
 theme = "PaperMod"
 languageCode = "hi-in"
 defaultContentLanguage = "hi"
@@ -12,7 +12,7 @@ buildExpired = false
 [params]
   env = "production"
   title = "CaneUp — गन्ना पर्ची कैलेंडर 2026-27 | eGanna App | गन्ना भुगतान स्थिति"
-  description = "CaneUp — गन्ना किसानों का #1 पोर्टल। गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट, गन्ना खेती गाइड, सरकारी योजनाएं, KCC लोन — सब एक जगह।"
+  description = "CaneUp — गन्ना किसानों का पोर्टल। गन्ना पर्ची कैलेंडर 2026-27, eGanna App Download, गन्ना भुगतान स्थिति, MSP/FRP रेट, CaneUp Enquiry, सप्लाई टिकट, शुगर मिल लिस्ट, गन्ना खेती गाइड, सरकारी योजनाएं, KCC लोन — सब एक जगह।"
   keywords = [
     "caneup",
     "cane up",
@@ -139,13 +139,13 @@ buildExpired = false
 
   [[menu.main]]
     identifier = "news"
-    name = "ताज़ा खबरें 🔴"
+    name = "ताज़ा खबरें"
     url = "/news/"
     weight = 2
 
   [[menu.main]]
     identifier = "kisan-help"
-    name = "किसान सहायता 💬"
+    name = "किसान सहायता"
     url = "/kisan-samasya-form/"
     weight = 2
 
