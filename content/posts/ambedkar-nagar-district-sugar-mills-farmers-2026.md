@@ -29,7 +29,7 @@ image: "/images/blog/ambedkar-nagar-district-sugar-mills-2026.webp"
 # अम्बेडकर नगर जिला चीनी मिल 2026-27: अकबरपुर व मुंडेरवा चीनी मिल, CaneUp पर्ची कैलेंडर व गांव कोड
 
 By  
-[Aamir Raza](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://upcaneup.info/) - August 28, 2026
 
 **अम्बेडकर नगर / अकबरपुर / जलालपुर / मुंडेरवा / आलापुर :** उत्तर प्रदेश के अयोध्या मंडल में स्थित **अम्बेडकर नगर जिला (Ambedkar Nagar District)** पूर्वी यूपी का एक प्रमुख गन्ना उत्पादक केंद्र है। जिले के हजारों किसान अपनी गन्ने की फसल पेराई के लिए मुख्य रूप से दो विशाल चीनी मिलों— **[अकबरपुर चीनी मिल (Akbarpur Sugar Mill)](/posts/akbarpur-sugar-factory-2026/)** (बलरामपुर चिनी मिल्स समूह) और **[मुंडेरवा सहकारी चीनी मिल (Munderwa Cooperative Sugar Mill)](/posts/munderwa-sugar-factory-2026/)** पर निर्भर रहते हैं।
 
