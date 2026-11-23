@@ -38,7 +38,7 @@ User-agent: Applebot-Extended
 Allow: /
 
 # Sitemaps
-Sitemap: https://caneup.xyz/sitemap.xml
-Sitemap: https://caneup.xyz/news-sitemap.xml
-Sitemap: https://caneup.xyz/webstory-sitemap.xml
+Sitemap: https://upcaneup.info/sitemap.xml
+Sitemap: https://upcaneup.info/news-sitemap.xml
+Sitemap: https://upcaneup.info/webstory-sitemap.xml
 
