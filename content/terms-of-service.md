@@ -2,6 +2,7 @@
 title: "सेवा की शर्तें - CaneUp"
 date: 2026-07-06
 description: "CaneUp की सेवा की शर्तें। जानें कि आप हमारी वेबसाइट का इस्तेमाल कैसे कर सकते हैं।"
+aliases: ["/terms/"]
 ShowToc: true
 ---
 
@@ -63,4 +64,4 @@ CaneUp वेबसाइट का इस्तेमाल करके, आ�
 
 अगर आपकी कोई समस्या है, तो हमसे संपर्क करें:
 - **ईमेल:** contact@caneup.xyz
-- **वेबसाइट:** https://caneup.xyz/contact/
+- **वेबसाइट:** https://upcaneup.info/contact/
