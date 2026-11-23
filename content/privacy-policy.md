@@ -60,4 +60,4 @@ CaneUp ("हम", "हमारी") आपकी प्राइवेसी �
 
 अगर आपकी कोई समस्या है, तो हमसे संपर्क करें:
 - **ईमेल:** privacy@caneup.xyz
-- **वेबसाइट:** https://caneup.xyz/contact/
+- **वेबसाइट:** https://upcaneup.info/contact/
