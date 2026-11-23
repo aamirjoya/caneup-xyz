@@ -49,7 +49,7 @@ CaneUp.xyz पर प्रकाशित होने वाला प्र�
 - **आधिकारिक X (Twitter) हैंडल:** [@caneupupdates](https://x.com/caneupupdates)
 - **संपादकीय ईमेल:** [editor@caneup.xyz](mailto:editor@caneup.xyz)
 - **सामान्य पूछताछ व सहायता:** [contact@caneup.xyz](mailto:contact@caneup.xyz)
-- **वेबसाइट:** [https://caneup.xyz](https://caneup.xyz)
+- **वेबसाइट:** [https://upcaneup.info](https://upcaneup.info)
 - **मुख्यालय:** लखनऊ / मुजफ्फरनगर, उत्तर प्रदेश, भारत
 
 ---
