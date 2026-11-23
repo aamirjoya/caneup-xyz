@@ -25,7 +25,7 @@ image: /images/news/digital-agri-farmer-id-2026.webp
 Digital Agriculture Mission: 40% बोए गए रकबे की Farmer ID पेंडिंग, केंद्र ने राज्यों को जारी किया सख्त अल्टीमेटम
 
 By  
-[Aamir Raza](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://upcaneup.info/) - August 28, 2026
 
 **नई दिल्ली :** कृषि एवं किसान कल्याण मंत्रालय द्वारा जारी नवीनतम समीक्षा रिपोर्ट के अनुसार, देश के 14 करोड़ किसानों को डिजिटल प्लेटफॉर्म पर लाने के लिए शुरू किए गए 'Digital Agriculture Mission' में लगभग 40 प्रतिशत बोए गए रकबे (Net Sown Area) की डिजिटल फार्मर आईडी (AgriStack Farmer ID) अभी भी पेंडिंग है। केंद्र सरकार ने सभी राज्यों के कृषि सचिवों को निर्देश जारी कर 31 अगस्त तक शत-प्रतिशत रजिस्ट्री पूरी करने का अल्टीमेटम दिया है।
 
