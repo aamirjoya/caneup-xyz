@@ -35,7 +35,7 @@ Aamir Raza के नेतृत्व में CaneUp न्यूज़ र�
 
 - **आधिकारिक X (Twitter) हैंडल:** [@caneupupdates](https://x.com/caneupupdates)
 - **ईमेल:** [editor@caneup.xyz](mailto:editor@caneup.xyz) / [contact@caneup.xyz](mailto:contact@caneup.xyz)
-- **पोर्टल:** [https://caneup.xyz](https://caneup.xyz)
+- **पोर्टल:** [https://upcaneup.info](https://upcaneup.info)
 - **मुख्यालय / संपर्क:** लखनऊ एवं मुजफ्फरनगर, उत्तर प्रदेश
 
 ---
