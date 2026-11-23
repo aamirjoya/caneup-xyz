@@ -25,7 +25,7 @@ ShowToc: true
 - **Telegram:** [@caneup](https://t.me/caneup)
 
 ### वेबसाइट
-- **मुख्य वेबसाइट:** [https://caneup.xyz](https://caneup.xyz)
+- **मुख्य वेबसाइट:** [https://upcaneup.info](https://upcaneup.info)
 - **CaneUp Enquiry:** [https://enquiry.caneup.in](https://enquiry.caneup.in)
 - **UP गन्ना विभाग:** [https://upcane.gov.in](https://upcane.gov.in)
 
