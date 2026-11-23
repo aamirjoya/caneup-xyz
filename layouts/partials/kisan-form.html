@@ -2,29 +2,29 @@
 .kisan-form-container {
   max-width: 820px;
   margin: 20px auto 40px;
-  background: #ffffff;
-  border-radius: 16px;
-  border: 1px solid #d1fae5;
-  box-shadow: 0 10px 30px rgba(21, 128, 61, 0.08);
+  background: var(--card);
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
   overflow: hidden;
   font-family: 'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 .kisan-form-header {
-  background: linear-gradient(135deg, #052e16 0%, #15803d 100%);
+  background: var(--accent);
   color: #ffffff;
   padding: 30px 24px;
   text-align: center;
 }
 .kisan-form-header h2 {
   font-size: 26px;
-  font-weight: 800;
+  font-weight: 600;
   color: #ffffff;
   margin: 0 0 8px;
   line-height: 1.3;
 }
 .kisan-form-header p {
   font-size: 14px;
-  color: #dcfce7;
+  color: rgba(255, 255, 255, 0.85);
   margin: 0;
   line-height: 1.6;
 }
@@ -33,11 +33,9 @@
   background: #f59e0b;
   color: #111827;
   font-size: 11px;
-  font-weight: 700;
+  font-weight: 600;
   padding: 4px 12px;
-  border-radius: 50px;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  border-radius: 6px;
   margin-bottom: 12px;
 }
 .kisan-form-body {
@@ -47,8 +45,8 @@
   display: flex;
   justify-content: space-around;
   margin-bottom: 28px;
-  background: #f0fdf4;
-  border: 1px dashed #86efac;
+  background: var(--raised);
+  border: 1px solid var(--line);
   border-radius: 12px;
   padding: 14px 10px;
   text-align: center;
@@ -59,20 +57,20 @@
 .form-step-item .num {
   width: 28px;
   height: 28px;
-  background: #15803d;
+  background: var(--accent);
   color: #ffffff;
   border-radius: 50%;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 4px;
 }
 .form-step-item .lbl {
   font-size: 12px;
   font-weight: 600;
-  color: #166534;
+  color: var(--accent-ink);
   display: block;
 }
 .form-row {
@@ -93,15 +91,15 @@
 }
 .form-label {
   font-size: 14px;
-  font-weight: 700;
-  color: #1f2937;
+  font-weight: 600;
+  color: var(--ink);
   margin-bottom: 6px;
   display: flex;
   align-items: center;
   gap: 6px;
 }
 .form-label .req {
-  color: #dc2626;
+  color: var(--red);
 }
 .form-control {
   width: 100%;
@@ -110,15 +108,15 @@
   border: 1.5px solid #d1d5db;
   border-radius: 10px;
   outline: none;
-  transition: all 0.2s;
-  background: #fafafa;
-  color: #111827;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  background: var(--card);
+  color: var(--ink);
   font-family: inherit;
   box-sizing: border-box;
 }
 .form-control:focus {
-  border-color: #15803d;
-  background: #ffffff;
+  border-color: var(--accent);
+  background: var(--card);
   box-shadow: 0 0 0 3px rgba(21, 128, 61, 0.15);
 }
 select.form-control {
@@ -130,12 +128,12 @@ textarea.form-control {
 }
 .form-hint {
   font-size: 12px;
-  color: #6b7280;
+  color: var(--ink-3);
   margin-top: 4px;
 }
 .consent-box {
-  background: #f0fdf4;
-  border: 2px solid #86efac;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 12px;
   padding: 16px 18px;
   margin: 24px 0;
@@ -146,12 +144,12 @@ textarea.form-control {
   transition: background 0.2s;
 }
 .consent-box:hover {
-  background: #dcfce7;
+  background: var(--raised);
 }
 .consent-box input[type="checkbox"] {
   width: 20px;
   height: 20px;
-  accent-color: #15803d;
+  accent-color: var(--accent);
   cursor: pointer;
   margin-top: 2px;
   flex-shrink: 0;
@@ -159,42 +157,39 @@ textarea.form-control {
 .consent-text {
   font-size: 14px;
   line-height: 1.5;
-  color: #14532d;
-  font-weight: 600;
+  color: var(--ink);
+  font-weight: 500;
   user-select: none;
 }
 .btn-submit-kisan {
   width: 100%;
   padding: 16px 20px;
-  background: linear-gradient(135deg, #15803d 0%, #166534 100%);
+  background: var(--accent);
   color: #ffffff;
   border: none;
   border-radius: 12px;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 600;
   cursor: pointer;
-  box-shadow: 0 4px 14px rgba(21, 128, 61, 0.3);
-  transition: all 0.2s;
+  transition: background-color 0.2s;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 10px;
 }
 .btn-submit-kisan:hover {
-  background: linear-gradient(135deg, #166534 0%, #14532d 100%);
-  box-shadow: 0 6px 20px rgba(21, 128, 61, 0.4);
-  transform: translateY(-1px);
+  background: var(--accent-deep);
 }
 .privacy-assurance {
   text-align: center;
   font-size: 12px;
-  color: #6b7280;
+  color: var(--ink-3);
   margin-top: 14px;
 }
 .success-card {
   display: none;
-  background: #f0fdf4;
-  border: 2px solid #22c55e;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 14px;
   padding: 24px;
   text-align: center;
@@ -205,12 +200,12 @@ textarea.form-control {
 }
 .success-card h3 {
   font-size: 22px;
-  color: #15803d;
+  color: var(--accent);
   margin: 0 0 10px;
 }
 .success-card p {
   font-size: 14px;
-  color: #1f2937;
+  color: var(--ink-2);
   margin-bottom: 16px;
   line-height: 1.6;
 }
@@ -220,22 +215,21 @@ textarea.form-control {
   gap: 8px;
   background: #25d366;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 600;
   padding: 12px 24px;
-  border-radius: 50px;
+  border-radius: 8px;
   text-decoration: none;
-  box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
-  transition: transform 0.2s;
+  transition: background-color 0.2s;
 }
 .btn-wa-direct:hover {
-  transform: scale(1.03);
+  background: #20ba5a;
   color: #ffffff;
 }
 </style>
 
 <div class="kisan-form-container">
   <div class="kisan-form-header">
-    <span class="kisan-form-badge">🌾 CaneUp किसान सहायता पोर्टल</span>
+    <span class="kisan-form-badge">CaneUp किसान सहायता पोर्टल</span>
     <h2>अपनी समस्या या सवाल दर्ज करें</h2>
     <p>गन्ना पर्ची, सट्टा संशोधन, सर्वे, ई-गन्ना ऐप या भुगतान में कोई भी दिक्कत हो, नीचे अपनी जानकारी भरें। हमारी टीम समाधान में आपकी पूरी मदद करेगी।</p>
   </div>
@@ -261,7 +255,7 @@ textarea.form-control {
       <div class="form-row">
         <div class="form-group">
           <label class="form-label" for="farmerDistrict">
-            📍 1. अपना जिला चुनें <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-map-pin"/></svg> 1. अपना जिला चुनें <span class="req">*</span>
           </label>
           <select id="farmerDistrict" class="form-control" required onchange="onDistrictChange()">
             <option value="">-- कृपया जिला चुनें --</option>
@@ -271,7 +265,7 @@ textarea.form-control {
 
         <div class="form-group">
           <label class="form-label" for="farmerMill">
-            🏭 2. अपनी चीनी मिल / फैक्ट्री चुनें <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-factory"/></svg> 2. अपनी चीनी मिल / फैक्ट्री चुनें <span class="req">*</span>
           </label>
           <select id="farmerMill" class="form-control" required onchange="onMillChange()">
             <option value="">-- पहले जिला चुनें --</option>
@@ -284,7 +278,7 @@ textarea.form-control {
       <div class="form-row" id="otherMillRow" style="display:none;">
         <div class="form-group">
           <label class="form-label" for="otherMillName">
-            🏭 अपनी चीनी मिल का नाम लिखें <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-factory"/></svg> अपनी चीनी मिल का नाम लिखें <span class="req">*</span>
           </label>
           <input type="text" id="otherMillName" class="form-control" placeholder="उदा० चीनी मिल का नाम या क्रय केंद्र">
         </div>
@@ -294,14 +288,14 @@ textarea.form-control {
       <div class="form-row">
         <div class="form-group">
           <label class="form-label" for="farmerVillage">
-            🏡 3. अपने गांव का नाम डालें <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-home"/></svg> 3. अपने गांव का नाम डालें <span class="req">*</span>
           </label>
           <input type="text" id="farmerVillage" class="form-control" placeholder="उदा० गांव का नाम (ग्राम पंचायत)" required>
         </div>
 
         <div class="form-group">
           <label class="form-label" for="farmerName">
-            👤 4. किसान का नाम <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-user"/></svg> 4. किसान का नाम <span class="req">*</span>
           </label>
           <input type="text" id="farmerName" class="form-control" placeholder="उदा० रमेश कुमार / राकेश वर्मा" required>
         </div>
@@ -311,7 +305,7 @@ textarea.form-control {
       <div class="form-row">
         <div class="form-group">
           <label class="form-label" for="farmerPhone">
-            📱 5. मोबाइल नंबर (व्हाट्सएप नंबर) <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-smartphone"/></svg> 5. मोबाइल नंबर (व्हाट्सएप नंबर) <span class="req">*</span>
           </label>
           <input type="tel" id="farmerPhone" class="form-control" placeholder="10-अंकीय मोबाइल नंबर (उदा० 9876543210)" pattern="[6-9][0-9]{9}" maxlength="10" required>
           <span class="form-hint">इस नंबर पर आपको पर्ची और भुगतान के व्हाट्सएप अपडेट्स मिलेंगे</span>
@@ -322,7 +316,7 @@ textarea.form-control {
       <div class="form-row">
         <div class="form-group">
           <label class="form-label" for="farmerMessage">
-            📝 6. अपनी समस्या या सवाल विस्तार से लिखें <span class="req">*</span>
+            <svg class="ic" aria-hidden="true"><use href="#i-file-text"/></svg> 6. अपनी समस्या या सवाल विस्तार से लिखें <span class="req">*</span>
           </label>
           <textarea id="farmerMessage" class="form-control" placeholder="अपनी समस्या लिखें — जैसे: पर्ची कब आएगी? सर्वे में रकबा कम चढ़ा है, ई-गन्ना ऐप में पासवर्ड नहीं बन रहा, या भुगतान कितने दिन में मिलेगा..." required></textarea>
           <span class="form-hint">जितना स्पष्ट लिखेंगे, उतनी जल्दी सटीक समाधान मिलेगा</span>
@@ -333,17 +327,17 @@ textarea.form-control {
       <label class="consent-box" for="farmerConsent">
         <input type="checkbox" id="farmerConsent" required>
         <span class="consent-text">
-          मैं अपनी चीनी मिल से जुड़े गन्ना पर्ची, सर्वे और भुगतान के दैनिक अपडेट्स व्हाट्सएप पर पाने के लिए caneup.xyz को अपनी सहमति देता हूँ। <span class="req">*</span>
+          मैं अपनी चीनी मिल से जुड़े गन्ना पर्ची, सर्वे और भुगतान के दैनिक अपडेट्स व्हाट्सएप पर पाने के लिए upcaneup.info को अपनी सहमति देता हूँ। <span class="req">*</span>
         </span>
       </label>
 
       <!-- Submit Button -->
       <button type="submit" class="btn-submit-kisan" id="submitBtn">
-        <span>📩 समस्या दर्ज करें एवं सहायता पाएं</span>
+        <span><svg class="ic" aria-hidden="true"><use href="#i-send"/></svg> समस्या दर्ज करें एवं सहायता पाएं</span>
       </button>
 
       <p class="privacy-assurance">
-        🔒 आपकी निजी जानकारी 100% सुरक्षित है। हम कोई स्पैम नहीं भेजते। केवल आपकी मिल से जुड़े आधिकारिक अपडेट्स शेयर किए जाते हैं।
+        आपकी निजी जानकारी 100% सुरक्षित है। हम कोई स्पैम नहीं भेजते। केवल आपकी मिल से जुड़े आधिकारिक अपडेट्स शेयर किए जाते हैं।
       </p>
     </form>
 
@@ -352,8 +346,8 @@ textarea.form-control {
       <div style="width: 58px; height: 58px; background: #22c55e; color: #ffffff; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 30px; margin: 0 auto 12px; box-shadow: 0 4px 14px rgba(34,197,94,0.35);">✓</div>
       <div id="successSummary"></div>
       <div style="margin-top: 20px; text-align: center;">
-        <button type="button" onclick="resetKisanForm()" style="background: #15803d; color: #ffffff; border: none; padding: 11px 26px; border-radius: 8px; font-weight: 700; font-size: 15px; cursor: pointer; transition: background 0.2s; box-shadow: 0 2px 8px rgba(21,128,61,0.25);">
-          ➕ दूसरी समस्या दर्ज करें
+        <button type="button" onclick="resetKisanForm()" style="background: var(--accent); color: #ffffff; border: none; padding: 11px 26px; border-radius: 8px; font-weight: 600; font-size: 15px; cursor: pointer; transition: background 0.2s;">
+          दूसरी समस्या दर्ज करें
         </button>
       </div>
     </div>
@@ -540,15 +534,15 @@ function handleKisanSubmit(e) {
   }
 
   // 3. Show On-Page Success Confirmation (100% on-page, no WhatsApp link/redirect)
-  var summaryHtml = "<h3 style='color:#15803d; font-size:22px; margin:0 0 10px; font-weight:800;'>🎉 आपकी समस्या सफलतापूर्वक दर्ज हो गई है!</h3>" +
-                    "<p style='font-size:16px; color:#14532d; font-weight:600; margin-bottom:14px;'>प्रिय <strong>" + name + "</strong> जी, आपकी शिकायत CaneUp सहायता पोर्टल पर दर्ज कर ली गई है।</p>" +
-                    "<div style='background:#ffffff; border:1px solid #bbf7d0; border-radius:10px; padding:14px; margin-bottom:16px; text-align:left; font-size:14px; line-height:1.8; color:#374151; box-shadow:inset 0 1px 3px rgba(0,0,0,0.02);'>" +
-                    "<div>📍 <strong>जिला:</strong> " + dist + "</div>" +
-                    "<div>🏭 <strong>चीनी मिल:</strong> " + mill + "</div>" +
-                    "<div>🏡 <strong>गांव:</strong> " + village + "</div>" +
-                    "<div>📱 <strong>मोबाइल नंबर:</strong> " + phone + "</div>" +
+  var summaryHtml = "<h3 style='color:#15803d; font-size:22px; margin:0 0 10px; font-weight:600;'>आपकी समस्या सफलतापूर्वक दर्ज हो गई है!</h3>" +
+                    "<p style='font-size:16px; color:var(--ink); font-weight:600; margin-bottom:14px;'>प्रिय <strong>" + name + "</strong> जी, आपकी शिकायत CaneUp सहायता पोर्टल पर दर्ज कर ली गई है।</p>" +
+                    "<div style='background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; margin-bottom:16px; text-align:left; font-size:14px; line-height:1.8; color:var(--ink-2);'>" +
+                    "<div><strong>जिला:</strong> " + dist + "</div>" +
+                    "<div><strong>चीनी मिल:</strong> " + mill + "</div>" +
+                    "<div><strong>गांव:</strong> " + village + "</div>" +
+                    "<div><strong>मोबाइल नंबर:</strong> " + phone + "</div>" +
                     "</div>" +
-                    "<p style='font-size:14px; color:#166534; font-weight:500; margin:0;'>✅ आपका डेटा सुरक्षित सेव हो चुका है। हमारी सहायता टीम आपके नंबर पर जल्द संपर्क करेगी।</p>";
+                    "<p style='font-size:14px; color:var(--accent-ink); font-weight:500; margin:0;'>आपका डेटा सुरक्षित सेव हो चुका है। हमारी सहायता टीम आपके नंबर पर जल्द संपर्क करेगी।</p>";
 
   var formEl = document.getElementById('kisanGrievanceForm');
   if (formEl) formEl.style.display = 'none';
