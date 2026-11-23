@@ -29,7 +29,7 @@ image: "/images/blog/agwanpur-sugar-factory-2026.webp"
 # अगवानपुर चीनी मिल 2026-27: 204 गांवों की लिस्ट, कोड व CaneUp पर्ची कैलेंडर | Agwanpur Sugar Mill Amroha Moradabad
 
 By  
-[Aamir Raza](https://caneup.xyz/) - August 28, 2026
+[Aamir Raza](https://upcaneup.info/) - August 28, 2026
 
 **अमरोहा / मुरादाबाद / कांठ / जोया / नोगांवा सादात :** दीवान शुगर लिमिटेड द्वारा संचालित **अगवानपुर चीनी मिल (Dewan Sugars Agwanpur - CaneUp Mill Code 14)** पश्चिमी उत्तर प्रदेश के **[अमरोहा जिले (Amroha District)](/posts/amroha-district-sugar-mills-farmers-2026/)** और मुरादाबाद जिले की सीमा पर स्थित एक प्रमुख और ऐतिहासिक चीनी मिल है। पेराई सत्र **2026-27** के लिए उत्तर प्रदेश गन्ना विकास विभाग ने अमरोहा (जोया, नोगांवा सादात, सदर) तथा मुरादाबाद (कांठ, छजलैट) क्षेत्र के **204 से अधिक पंजीकृत गांवों** का गन्ना आवंटन अगवानपुर चीनी मिल को किया है।
 
