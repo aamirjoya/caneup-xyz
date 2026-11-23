@@ -1,15 +1,15 @@
 <div class="kc-suite-wrap">
   <div class="kc-tabs">
-    <button class="kc-tab-btn active" onclick="switchKcTab('payment')">💰 भुगतान व 15% ब्याज</button>
-    <button class="kc-tab-btn" onclick="switchKcTab('quota')">📋 बेसिक कोटा व पर्ची</button>
-    <button class="kc-tab-btn" onclick="switchKcTab('fertilizer')">🌾 खाद व बीज डोज</button>
+    <button class="kc-tab-btn active" onclick="switchKcTab('payment')"><svg class="ic" aria-hidden="true"><use href="#i-banknote"/></svg> भुगतान व 15% ब्याज</button>
+    <button class="kc-tab-btn" onclick="switchKcTab('quota')"><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg> बेसिक कोटा व पर्ची</button>
+    <button class="kc-tab-btn" onclick="switchKcTab('fertilizer')"><svg class="ic" aria-hidden="true"><use href="#i-sprout"/></svg> खाद व बीज डोज</button>
   </div>
 
   <!-- TAB 1: Payment & Interest Calculator -->
   <div class="kc-tab-content active" id="kc-tab-payment">
     <div class="kc-card">
       <div class="kc-card-header">
-        <h3>💰 गन्ना भुगतान एवं 14 दिन नियम 15% ब्याज कैलकुलेटर</h3>
+        <h3><svg class="ic" aria-hidden="true"><use href="#i-banknote"/></svg> गन्ना भुगतान एवं 14 दिन नियम 15% ब्याज कैलकुलेटर</h3>
         <p>गन्ना (आपूर्ति व खरीद) अधिनियम 1953 की धारा 17 के तहत अपने भुगतान व कानूनी ब्याज की गणना करें</p>
       </div>
       <div class="kc-form-grid">
@@ -57,9 +57,9 @@
         <div class="kc-total-banner">
           <div>
             <span style="font-size:13px;opacity:0.9;">चीनी मिल द्वारा कुल देय राशि (मूल + ब्याज):</span>
-            <div style="font-size:26px;font-weight:800;" id="kc-res-total">₹37,000</div>
+            <div style="font-size:26px;font-weight:600;" id="kc-res-total">₹37,000</div>
           </div>
-          <button class="kc-share-btn" onclick="shareKc('payment')">📲 WhatsApp शेयर</button>
+          <button class="kc-share-btn" onclick="shareKc('payment')"><svg class="ic" aria-hidden="true"><use href="#i-smartphone"/></svg> WhatsApp शेयर</button>
         </div>
       </div>
     </div>
@@ -69,7 +69,7 @@
   <div class="kc-tab-content" id="kc-tab-quota">
     <div class="kc-card">
       <div class="kc-card-header">
-        <h3>📋 गन्ना बेसिक कोटा व पर्ची संख्या कैलकुलेटर</h3>
+        <h3><svg class="ic" aria-hidden="true"><use href="#i-clipboard"/></svg> गन्ना बेसिक कोटा व पर्ची संख्या कैलकुलेटर</h3>
         <p>उत्तर प्रदेश गन्ना आपूर्ति नीति के 85% नियम के अनुसार अपनी कुल पर्चियों की गणना करें</p>
       </div>
       <div class="kc-form-grid">
@@ -119,7 +119,7 @@
             <span style="font-size:13px;opacity:0.9;">पर्ची कैलेंडर स्थिति:</span>
             <div style="font-size:18px;font-weight:700;" id="kc-quota-summary">6 पर्ची (सत्र 2026-27 के लिए अनुमानित)</div>
           </div>
-          <button class="kc-share-btn" onclick="shareKc('quota')">📲 WhatsApp शेयर</button>
+          <button class="kc-share-btn" onclick="shareKc('quota')"><svg class="ic" aria-hidden="true"><use href="#i-smartphone"/></svg> WhatsApp शेयर</button>
         </div>
       </div>
     </div>
@@ -129,7 +129,7 @@
   <div class="kc-tab-content" id="kc-tab-fertilizer">
     <div class="kc-card">
       <div class="kc-card-header">
-        <h3>🌾 गन्ना बुवाई: बीज व उर्वरक डोज कैलकुलेटर</h3>
+        <h3><svg class="ic" aria-hidden="true"><use href="#i-sprout"/></svg> गन्ना बुवाई: बीज व उर्वरक डोज कैलकुलेटर</h3>
         <p>भारतीय गन्ना अनुसंधान संस्थान (ICAR-IISR) के मानकों के अनुसार वैज्ञानिक खाद व बीज मात्रा</p>
       </div>
       <div class="kc-form-grid">
@@ -188,7 +188,7 @@
             <span style="font-size:13px;opacity:0.9;">विशेष वैज्ञानिक सलाह:</span>
             <div style="font-size:15px;font-weight:600;">बुवाई के समय यूरिया न डालें। DAP और पोटाश हमेशा कूंड़ में बीज के नीचे डालें।</div>
           </div>
-          <button class="kc-share-btn" onclick="shareKc('fertilizer')">📲 WhatsApp शेयर</button>
+          <button class="kc-share-btn" onclick="shareKc('fertilizer')"><svg class="ic" aria-hidden="true"><use href="#i-smartphone"/></svg> WhatsApp शेयर</button>
         </div>
       </div>
     </div>
@@ -220,7 +220,7 @@
 .kc-res-label{display:block;font-size:11px;color:#6b7280;font-weight:600;margin-bottom:4px;text-transform:uppercase;letter-spacing:.5px}
 .kc-res-val{font-size:18px;font-weight:700;color:#111}
 .kc-res-val.highlight-val{color:#dc2626}
-.kc-total-banner{display:flex;align-items:center;justify-content:space-between;background:linear-gradient(135deg,#052e16,#15803d);color:#fff;padding:14px 18px;border-radius:10px;gap:12px;flex-wrap:wrap}
+.kc-total-banner{display:flex;align-items:center;justify-content:space-between;background:var(--accent-deep);color:#fff;padding:14px 18px;border-radius:10px;gap:12px;flex-wrap:wrap}
 .kc-share-btn{background:#25d366;color:#fff;border:none;padding:10px 18px;border-radius:8px;font-weight:700;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;transition:all .2s;text-decoration:none}
 .kc-share-btn:hover{background:#20ba5a;transform:translateY(-1px)}
 @media(max-width:640px){
@@ -344,12 +344,12 @@ function shareKc(type){
   if(type === 'payment'){
     var tot = document.getElementById('kc-res-total').innerText;
     var intr = document.getElementById('kc-res-interest').innerText;
-    text = '🌾 CaneUp गन्ना भुगतान व 15% ब्याज कैलकुलेटर:\nमेरा कुल देय: ' + tot + ' (जिसमें धारा 17 ब्याज: ' + intr + ' शामिल है)।\nआप भी अपनी मिल का भुगतान व ब्याज चेक करें:\nhttps://caneup.xyz/tools/';
+    text = 'CaneUp गन्ना भुगतान व 15% ब्याज कैलकुलेटर:\nमेरा कुल देय: ' + tot + ' (जिसमें धारा 17 ब्याज: ' + intr + ' शामिल है)।\nआप भी अपनी मिल का भुगतान व ब्याज चेक करें:\nhttps://upcaneup.info/tools/';
   } else if(type === 'quota'){
     var p = document.getElementById('kc-res-parchi-count').innerText;
-    text = '📋 CaneUp गन्ना बेसिक कोटा व पर्ची कैलकुलेटर:\nमेरी अनुमानित पर्चियां: ' + p + '।\nअपनी मिल व बेसिक कोटा से पर्ची निकालें:\nhttps://caneup.xyz/tools/';
+    text = 'CaneUp गन्ना बेसिक कोटा व पर्ची कैलकुलेटर:\nमेरी अनुमानित पर्चियां: ' + p + '।\nअपनी मिल व बेसिक कोटा से पर्ची निकालें:\nhttps://upcaneup.info/tools/';
   } else {
-    text = '🌱 CaneUp गन्ना खाद व बीज डोज कैलकुलेटर:\nवैज्ञानिक पद्धति से गन्ने की खाद व बीज मात्रा जानें:\nhttps://caneup.xyz/tools/';
+    text = 'CaneUp गन्ना खाद व बीज डोज कैलकुलेटर:\nवैज्ञानिक पद्धति से गन्ने की खाद व बीज मात्रा जानें:\nhttps://upcaneup.info/tools/';
   }
   window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent(text), '_blank');
 }
